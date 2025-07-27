@@ -6,91 +6,82 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ14 Japan TV
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ14 ABC 22WJCL 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ30 TNA IMPACT! | Wrestling
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ31 KIDS Baby
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ31 KIDS | CLOUD BABBIES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ33 KIDS
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ33 KIDS | TALES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ34 KIDS TG
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ34 KIDS | TG TOONGOGGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ35 KIDS Talking Angela
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ35 KIDS | TOONS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ36 KIDS 
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ36 KIDS | CLOUD BABBIES 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ37 KIDS
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ37 KIDS | TALES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ38 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ38 KIDS | Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=38
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ39 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ39 KIDS | Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=39
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ40 ZooMoo PEDIA Ask Why
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ40 ZOO MOO | PEDIA Ask Why
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ41 KIDS TG
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ41 KIDS | TG TOONGOGGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ42 Kung Fu Collection
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=42
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ45 THE ARCHIVE | Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=45
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ46 COOKING PANDA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=46
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ47 COOKING PANDA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ48 Party Time Karaoke
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ48 Party Time Karaoke |
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=48
 
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ50 KIDSFLIX (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=50
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ50 KIDSFLIX (opt2)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=50
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id50
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ53 Electric NOW Movies (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ53 ELECTRIC NOW | Movies (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ53 Electric NOW Movies (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ53 ELECTRIC NOW | Movies (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=53
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ55 Canela.TV | KIDS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=55
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ58 KIDS Anime
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ58 KIDS | Anime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=58
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ59 KIDS Anime
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ59 KIDS | Anime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=59
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ60 KIDS TG
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ60 KIDS | TG TOONGOGGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=60
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ61 KIDS TG
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ61 KIDS | TG TOONGOGGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=61
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ64 Party Time Karaoke
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ64 Party Time Karaoke |
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=64
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ70 Electric NOW | Movies (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ70 ELECTRIC NOW | Movies (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=70
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ70 Electric NOW | Movies (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ70 ELECTRIC NOW | Movies (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=70
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ71 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ71 KIDS |Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=71
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ72 WPST | World Pro Sky Tour
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ73 Kung Fu | Collection (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=73
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ73 Kung Fu | Collection (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ74 The Archive | Movies (opt1)
+
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ74 THE ARCHIVE | Movies (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=74
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ74 The Archive | Movies (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ74 THE ARCHIVE | Movies (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ76 Cheddar
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=76
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ77 Sprint Business
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=77
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ79 Audio Dungeon
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ79 Audio Dungeon | THE CELESTIAL WAR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=79
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ81 Movies TV (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ81 TV | Movies (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=81
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ81 Movies TV (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ81 TV | Movies (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=81
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ82 Movies TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=82
@@ -99,75 +90,67 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=82
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ83 Nature | Stingray
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ84 KIDS Manga
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ84 KIDS | Manga
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=84
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ85 Peter Five Eight | Suspense Thriller Film (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=85
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ85 Peter Five Eight | Suspense Thriller Film (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=85
-
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ86 KIDS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=86
-
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ93 Movies TV (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ93 THE ARCHIVE |Movies (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=93
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ93 Movies TV (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ93 THE ARCHIVE | Movies (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=93
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ100 KIDS My Talking | Outfit7
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ100 KIDS | OUTFIT7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=100
 
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ102 Cheddar TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ115 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ115 KIDS | Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=115
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ125 KIDS TG
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ125 KIDS | TG TOONGOGGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ134 KIDSFLIX (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=134
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ134 KIDSFLIX (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=134
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ142 KIDS TV
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ142 KIDS | TG TOONGOGGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=142
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ143 KIDS TV
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ143 KIDS | BABY ES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=143
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ144 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ144 KIDS | Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=144
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ145 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ145 KIDS | Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=145
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ146 Party Tyme Karaoke
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ146 Party Tyme Karaoke |
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=146
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ147 Party Tyme Karaoke
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ147 Party Tyme Karaoke |
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ151 Electric NOW | MOVIES
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ151 ELECTRIC NOW | Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ158 KIDS
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ158 KIDS | OUTFIT7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=158
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ159 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ159 KIDS | Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=159
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ160 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ160 KIDS | Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=160
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ161 Party Tyme Karaoke
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ161 Party Tyme Karaoke |
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=161
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ162 Party Tyme Karaoke
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ162 Party Tyme Karaoke |
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=162
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ165 COOKING PANDA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=165
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ166 Electric NOW | MOVIES (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ166 ELECTRIC NOW | Movies (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ166 Electric NOW | MOVIES (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ166 ELECTRIC NOW | Movies (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=166
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ173 KIDS
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ173 KIDS | TOONS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=173
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ174 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ174 KIDS |Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=174
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ175 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ175 KIDS |Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=175
 
 #EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ176 Party Tyme Karaoke
@@ -176,19 +159,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=176
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=177
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ180 COOKING PANDA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=180
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ181 Electric NOW | Movies (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ181 ELECTRIC NOW | Movies (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ181 Electric NOW | Movies (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ181 ELECTRIC NOW | Movies (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=181
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ200 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ200 KIDS |Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=200
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ201 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ201 KIDS |Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=201
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ202 Electric NOW | Movies (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ202 ELECTRIC NOW | Movies (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=202
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ202 Electric NOW | Movies (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ202 ELECTRIC NOW | Movies (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=202
 #EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ203 Party Tyme Karaoke
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=203
@@ -199,70 +182,64 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=207
 #EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ214 Party Tyme Karaoke
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=214
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ219 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ219 KIDS |Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=219
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ220 Games Arcade
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ220 KIDS |Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=220
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ221 KIDSFLIX TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=221
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ221 KIDSFLIX TV (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=221
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ223 KIDS TG
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ223 KIDS | TG TOONGOGGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=223
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ224 Comics Kids TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=224
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ226 Games Manga
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=226
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ227 Games Manga
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=227
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ228 Electric NOW | Movies TV (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ228 ELECTRIC NOW | Movies (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=228
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ228 Electric NOW | Movies TV (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ228 ELECTRIC NOW | Movies (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=228
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ229 Party Tyme Karaoke
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ229 Party Tyme Karaoke | CLASSIC ROCK
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=229
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ230 Party Tyme Karaoke
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ230 Party Tyme Karaoke |
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=230
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ233 COOKING PANDA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=233
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ239 Canela.tv | Kids
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ239 KIDS | TG TOONGOGGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=239
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ264 Canela.tv | Kids
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ264 KIDS | TG MOVIES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=264
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ269 Canela.tv | Kids
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ269 KIDS | TG MOVIES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ271 Canela.tv | Kids
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ271 KIDS | TG MOVIES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=271
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ279 Canela.tv | Series (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ279 TV | Series (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=279
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ279 Canela.tv | Series (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ279 TV | Series (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=279
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ284 Canela.tv | Movies (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ284 TV | Movies (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=284
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ284 Canela.tv | Movies (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ284 TV | Movies (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=284
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ285 Canela.tv | KIDS TG
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ285 KIDS | TG MOVIES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=285
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ286 Canela.tv | Kids TG
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ286 KIDS | TG
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=286
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ291 Canela.tv | Movies TG (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ291 KIDS | TG MOVIES (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=291
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ291 Canela.tv | Movies TG (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ291 KIDS | TG MOVIES (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=291
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ292 Canela.tv | Kids TOON GOGGLES (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ292 KIDS | TG MOVIES (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=292
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ292 Canela.tv | Kids TOON GOGGLES (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ292 KIDS | TG MOVIES (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=292
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ293 Canela.tv | Kids
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ293 KIDS | TG MOVIES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=293
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ294 Canela.tv | Kids
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ294 KIDS | TG MOVIES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=294
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ297 Canela.tv | Billar
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ297 LMB | Billar
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=297
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ379 OUTSIDE TV |DOC (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=379
@@ -274,8 +251,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=380
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=381
 #EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ424 Treasure MAP JAPAN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ425 TV SERIES JAPAN
+
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ425 TV | SERIES JAPAN EN (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ425 TV | SERIES JAPAN EN (opt2)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=425
+
 #EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ426 KFOOD | FOOD KINGDOM JAPAN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=426
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ443 MOTORVISION TV |DOC
@@ -293,23 +274,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=460
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ467 KIDS TV |COMIC 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=467
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ468 GAME TV |ANIME
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ468 KIDS | Game Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=468
 
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ476 COOKING PANDA |DOC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=476
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ509 IMPACT! WRESTLING |SPORT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=509
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ514 KIDS TV |COMIC
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ514 KIDS | TG BABY
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ515 KIDS TV |COMIC
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ515 KIDS | TG BABY
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=515
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ532 ELECTRIC NOW |MOVIES
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ532 ELECTRIC NOW | Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=532
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ533 KIDS TV |COMIC
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ533 KIDS | TG BABY
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=533
 
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ535 MOTORVISION TV |DOC
@@ -318,65 +297,35 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ547 KIDS TV |COMIC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ552 ELECTRIC NOW |MOVIES
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ552 ELECTRIC NOW | Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=552
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ562 KIDS TV |COMIC
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ562 KIDS | TG BABY
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=562
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ563 KIDS TV |COMIC
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ563 KIDS | TG
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=563
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ564 KIDS TV |COMIC
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ564 KIDS | Game Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=564
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ566 FIGHT NETWORK FN |SPORT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=566
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ567 KIDS TV |COMIC
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ567 KIDS | GUINNES WORLD RECORDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ568 QELLO CONCERTS |MUSIC
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ568 QELLO CONCERTS | BY STINGRAY
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ570 NATURESCAPE | STINGRAY
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ580 COMEDY DYNAMICS |DOC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=580
 
-
-
-
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ630 SHOW CHAMPION EN |MUSIC
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ630 SHOW CHAMPION MUSIC | JAPAN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 #EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ643 ClubbingTV |MUSIC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=643
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ644 TvJAPAN |MUSIC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ645 CBeebies UK |Cloud Babies
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=645
-
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ646 CBS JAPAN
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=646
-
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ677 TV |FOOD (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=677
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ677 TV |FOOD (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=677
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ679 TNA Wrestling (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ679 TNA Wrestling (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=679
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ681 OAN |One America News (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=681
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ681 OAN |One America News (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=681
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ682 AXS TV | HDNet Movies (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=682
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ682 AXS TV | HDNet Movies (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=682
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ683 FN FIGHT NIGHT (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ683 FN FIGHT NIGHT (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=683
+
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ692 MOTOR VISION TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=692
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ692 MOTOR VISION TV (opt2)
@@ -387,11 +336,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=696
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ696 KARTOON Channel! (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=696
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ710 PARTY TIME KARAOKE (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ710 Party Time Karaoke | (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=710
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ711 MUBEAT |MBC |Series Japan EN (opt1)
+
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ711 MBC MUBEAT | Series Japan EN (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ711 MUBEAT |MBC |Series Japan EN (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ711 MBC MUBEAT | Series Japan EN (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=711
 
 
@@ -406,14 +356,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1007
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1007 NEWSMAX2 (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1007
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1008 REAL AMERICA | News (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1008
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1008 REAL AMERICA | News (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1008
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1009 TV | FOOD (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1009
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1009 TV | FOOD (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1009
 
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1011 LAW & CRIME (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1011
@@ -425,15 +367,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1016
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1016 LAW & CRIME (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1016
 
-
-
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1021 TBN (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1021 TBN (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1021
-
-
-
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1023 BUZZR (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1023
 
@@ -442,56 +375,45 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1027
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1027 TH TRUE HISTORY (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1027
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1028 RN TV (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1028 RNtv Right Now TV | Undiscovered America (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1028
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1035 TV |Games (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1035 KIDS | Game Arcade (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1035
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1044 YAHOO! FINANCE (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1044
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1058 CANELA MUSIC |HITS | 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
 
-
-
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1119 HI-YAH! TV |Movies Sub Japan (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1119 HI-YAH! TV | Movies Japan EN (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1119
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1119 HI-YAH! TV | Movies Japan EN (opt2)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1119
+
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1120 BIZ TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1120
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1120 BIZ TV (opt2)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1120
+
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1132 LACROSSE TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1132
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1132 LACROSSE TV (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1132
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1142 MoviesTV 24/7 (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1142
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1142 MoviesTV 24/7 (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1142
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1149 SO YUMMY! (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1149
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1149 SO YUMMY! (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1149
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1152 Canela.TV |TELENOVELAS (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1152 Canela.TV |TELENOVELAS (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1152
-
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1153 Canela.TV 2 |TELENOVELAS (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1153 Canela.TV 2 |TELENOVELAS (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1153
-
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1161 SeriesTV 24/7 (opt1)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1161 TV | Series 24/7 (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1161
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1161 SeriesTV 24/7 (opt2)
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1161 TV | Series 24/7 (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1161
 
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1165 PURSUIT UP |DOC (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1165
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1165 PURSUIT UP |DOC (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1165
+
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1179 TOP TRAVEL |DOC (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1179
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1179 TOP TRAVEL |DOC (opt2)
@@ -507,6 +429,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1663
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1676 MOTOR VISION TV (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1676
+
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1677 MOTOR VISION TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1677
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1677 MOTOR VISION TV (opt2)
@@ -520,86 +443,30 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1707
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1707 GAMETV PT | Music (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1707
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1731 Canela.TV MOVIES (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1731
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1731 Canela.TV MOVIES (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1731
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1733 Canela.TV 2 CINEMA (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1733 Canela.TV 2 CINEMA (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1733
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1734 Canela.TV CLASICOS (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1734
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1734 Canela.TV CLASICOS (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1734
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1735 Canela.TV 2 |CINE Romántico (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1735
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1735 Canela.TV 2 |CINE Romántico (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1735
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1736 Canela.TV 2 |Peliculas Latinas (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1736
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1736 Canela.TV 2 |Peliculas Latinas (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1736
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1738 Canela.TV 2 |Telenovelas (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1738
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1738 Canela.TV 2 |Telenovelas (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1738
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1739 Canela.TV 2 |Novelas |Tierra de Amor y Venganza (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1739
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1739 Canela.TV 2 |Novelas |Tierra de Amor y Venganza (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1739
-
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1741 Real Madrid TV (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1741
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1741 Real Madrid TV (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1741
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1742 BeIN SPORTS XTRA N (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1742
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1742 BeIN SPORTS XTRA N (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1742
+
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1743 BeIN SPORTS XTRA EN (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1743
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1743 BeIN SPORTS XTRA EN (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1743
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1744 CG | COMBATE GLOBAL ES (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1744
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1744 CG | COMBATE GLOBAL ES (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1744
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1745 CANELA KIDS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1745
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1746 KIDS Toons
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1746
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ1747 CANELA MUSIC Urban ES 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1747
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ1748 CANELA MUSIC Hip-hop/rap ES 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1748
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ1749 CANELA MUSIC MiMusica ES 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1749
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ1750 CANELA MUSIC 2 ES 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1750
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ1751 CANELA MUSIC | ReMEX ES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1751
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ1752 CANELA MUSIC ES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1752
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ1753 CANELA MUSIC ES 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1753
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1746 KIDS | Toons Baby (opt1)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1746
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1746 KIDS | Toons Baby (opt2)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1746
 
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1755 MOTOR VISION TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1755
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1755 MOTOR VISION TV (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1755
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1756 After of Ark | SERIES TV
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1756 TV | Series After of Ark (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1756
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1757 Chinese Classics (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1757
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1757 Chinese Classics (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1757
-1762 
-
-
-
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1756 TV | Series After of Ark (opt2)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1756
 
 
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1854 NHRA DRAG Auto Racing (opt1)
@@ -612,21 +479,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1855
 #EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1855 EURO NEWS. (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1855
 
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1863 Canela.TV | Películas (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1863
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇪🇸ⓕ1863 Canela.TV | Películas (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1863
-
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ1864 CANELA MUSIC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1864
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ1865 CANELA MUSIC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1865
-#EXTINF:-1,group-title="📺IPTVworld🌐",🌐ⓕ1866 CANELA MUSIC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1866
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1870 NOSEY TV
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1870 NOSEY TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1870
-
-
+#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸ⓕ1870 NOSEY TV (opt2)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1870
 
 #EXTINF:-1,🇺🇸ⓕ2302 VERY LOCAL | NBC 6 WDSU
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2302
