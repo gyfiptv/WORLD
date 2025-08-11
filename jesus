@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVworld🌐", ##########  ♥ 01📺IPTVworld🌐 ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 01 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189.225.150:85 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -232,7 +232,7 @@ http://fortv.cc:8080/Boobear/Boobear/119451
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 02📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 02 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 0️⃣2️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
 http://fortv.cc:8080/Boobear/Boobear/21895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ realsport  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -590,176 +590,6 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/470623
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 03📺IPTVworld🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 03 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189.225.150:85 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVworld🌐",🇺🇸☑ MyTime Movie Network | Movies
-https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVworld🌐",🇪🇸☑ MyTime Movie Network Spain | Movies
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AandE.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ A&E ES (ᵀᵛ¹)
-http://185.189.225.150:85/AE/index.m3u8
-
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AXN  ES (ᵀᵛ¹)
-http://185.189.225.150:85/AXN/index.m3u8
-
-#EXTINF:-1 tvg-id="AMC.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AMC ES (ᵀᵛ¹)
-http://185.189.225.150:85/AMC/index.m3u8
-
-#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Antena 3 HD ES (ᵀᵛ¹)
-http://185.189.225.150:85/Antena3HD/index.m3u8
-
-#EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ BABY TV (ᵀᵛ¹)
-http://185.189.225.150:85/BabyTV/index.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² BABY TV (ᵀᵛ²)
-http://185.189.225.149/BabyTV/index.m3u8
-
-#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ BOING TV ES (ᵀᵛ¹)
-http://185.189.225.150:85/boing/index.m3u8
-
-#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Bom Cine | Movies (ᵀᵛ¹)
-http://185.189.225.150:85/BOM/index.m3u8
-#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Bom Cine | Movies (ᵀᵛ²)
-http://185.189.225.149/BOM/index.m3u8
-
-#EXTINF:-1 tvg-id=“Cocina.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Canal Cocina ES (ᵀᵛ¹)
-http://185.189.225.150:85/cocina/index.m3u8
-#EXTINF:-1 tvg-id=“cocina.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Canal Cocina ES (ᵀᵛ²)
-http://185.189.225.149/cocina/index.m3u8
-
-#EXTINF:-1 tvg-id=“comedycentral.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Comedy Central ES (ᵀᵛ¹)
-http://185.189.225.150:85/comedycentral/index.m3u8
-
-#EXTINF:-1 tvg-id=“calle13.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Calle 13 ES (ᵀᵛ¹)
-http://185.189.225.150:85/calle13/index.m3u8
-
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ La 2 | Documentary (ᵀᵛ¹)
-http://185.189.225.150:85/TV2/index.m3u8
-
-
-#EXTINF:-1 tvg-id="TV3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ TV3 (ᵀᵛ¹)
-http://185.189.225.150:85/tv3/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Cuatro HD ES (ᵀᵛ¹)
-http://185.189.225.150:85/CuatroHD/index.m3u8
-
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ TeleCinco HD ES (ᵀᵛ¹)
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
-
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ La Sexta Rtve.es (ᵀᵛ¹)
-http://185.189.225.150:85/LaSexta/index.m3u8
-
-#EXTINF:-1 tvg-id=“24horas.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ 24horas  Rtve.es (ᵀᵛ¹)
-http://185.189.225.150:85/24horas/index.m3u8
-
-#EXTINF:-1 tvg-id=“Decasa.es" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ DE CASA ES (ᵀᵛ¹)
-http://185.189.225.150:85/Decasa/index.m3u8
-
-#EXTINF:-1 tvg-id=“foodnetwork.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Food Network ES (ᵀᵛ¹)
-http://185.189.225.150:85/foodnetwork/index.m3u8
-
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ F. Fdf ES (ᵀᵛ¹)
-http://185.189.225.150:85/fdf/index.m3u8
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² F. Fdf ES (ᵀᵛ²)
-http://185.189.225.149/fdf/index.m3u8
-
-#EXTINF:-1 tvg-id=“GolPlay.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ GOLPLAY ES (ᵀᵛ¹)
-http://185.189.225.150:85/GOLPLAY/index.m3u8
-#EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
-http://185.189.225.149/GOLPLAY/index.m3u8
-
-#EXTINF:-1 tvg-id="HitTV.es" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Hit Tv |Music (ᵀᵛ¹)
-http://185.189.225.150:85/HitTV/index.m3u8
-#EXTINF:-1 tvg-id="HITTV.es" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Hit Tv |Music (ᵀᵛ²)
-http://185.189.225.149/HitTV/index.m3u8
-
-#EXTINF:-1 tvg-id=“Hollywood.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Hollywood ES (ᵀᵛ¹)
-http://185.189.225.150:85/Hollywood/index.m3u8
-
-#EXTINF:-1 tvg-id=“historia.es"  group-title="📺IPTVworld🌐",🇪🇸Ⓜ² HISTORIA ES (ᵀᵛ¹)
-http://185.189.225.149/historia/index.m3u8 
-
-#EXTINF:-1 tvg-id=“Iberalia.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ IBERALIA ES (ᵀᵛ¹)
-http://185.189.225.150:85/Iberalia/index.m3u8
-#EXTINF:-1 tvg-id=“iberalia.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² IBERALIA ES (ᵀᵛ²)
-http://185.189.225.149/iberalia/index.m3u8
-
-#EXTINF:-1 tvg-id=“intereconomia.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ INTERECONOMIA ES (ᵀᵛ¹)
-http://185.189.225.150:85/intereconomia/index.m3u8
-
-#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ 8madrid TV | Movies (ᵀᵛ¹)
-http://185.189.225.150:85/8madrid/index.m3u8
-#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² 8madrid TV | Movies (ᵀᵛ²)
-http://185.189.225.149/8madrid/index.m3u8
-
-#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ MEGA ES (ᵀᵛ¹)
-http://185.189.225.150:85/mega/index.m3u8
-#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² MEGA ES (ᵀᵛ²)
-http://185.189.225.149/mega/index.m3u8 
-
-#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ NOVA ES (ᵀᵛ¹)
-http://185.189.225.150:85/nova/index.m3u8
-
-#EXTINF:-1 tvg-id="neox.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ NEOX ES | E! (ᵀᵛ¹)
-http://185.189.225.150:85/neox/index.m3u8
-#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Neox ES | E! (ᵀᵛ¹)
-http://185.189.225.150:85/neox/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ National Geographic ES (ᵀᵛ¹)
-http://185.189.225.150:85/NationalGeographic/index.m3u8
-
-#EXTINF:-1 tvg-id=“natgeowild.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Nat Geo Wild ES (ᵀᵛ¹)
-http://185.189.225.150:85/natgeowild/index.m3u8
-
-
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Nickelodeon ES (ᵀᵛ¹)
-http://185.189.225.150:85/nickelodeon/index.m3u8
-
-#EXTINF:-1 tvg-id=“odisea.es"  group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ ODISEA ES (ᵀᵛ¹)
-http://185.189.225.150:85/odisea/index.m3u8
-
-#EXTINF:-1 tvg-id=“panda.es"  group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ PANDA ES (ᵀᵛ¹)
-http://185.189.225.150:85/panda/index.m3u8
-
-
-#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Paramount Network ES (ᵀᵛ¹)
-http://185.189.225.150:85/Paramount/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Paramount Network ES (ᵀᵛ²)
-http://185.189.225.149/paramount/index.m3u8 
-
-#EXTINF:-1 tvg-id=“24horas.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Rtve.es 24horas (ᵀᵛ¹)
-http://185.189.225.150:85/24horas/index.m3u8
-
-#EXTINF:-1 tvg-id="RTL.de@SD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="📺IPTVworld🌐",🌐Ⓜ¹ RTL DE (ᵀᵛ¹)
-http://185.189.225.150:85/RTL/index.m3u8
-
-#EXTINF:-1 tvg-id=“star.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Star Channel ES (ᵀᵛ¹)
-http://185.189.225.150:85/star/index.m3u8
-#EXTINF:-1 tvg-id=“STAR.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Star Channel ES (ᵀᵛ²)
-http://185.189.225.149/STAR/index.m3u8
-
-#EXTINF:-1 tvg-id="Syfy.es@SD" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Syfy ES (ᵀᵛ¹)
-http://185.189.225.150:85/syfy/index.m3u8
-
-#EXTINF:-1 tvg-id=“TCM.es"  group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ TCM ES (ᵀᵛ¹)
-http://185.189.225.150:85/TCM/index.m3u8
-#EXTINF:-1 tvg-id=“tcm.es"  group-title="📺IPTVworld🌐",🇪🇸Ⓜ² TCM ES (ᵀᵛ²)
-http://185.189.225.149/tcm/index.m3u8
-
-
-
-
 
 
 
@@ -770,7 +600,7 @@ http://185.189.225.149/tcm/index.m3u8
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 04📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 04 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣3️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189.225.149 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -826,7 +656,7 @@ http://185.189.225.149/tcm/index.m3u8
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 05📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 05 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣4️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  streamer1 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -971,7 +801,7 @@ https://streamer1.nexgen.bz/WPIX/index.m3u8
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 06📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 06 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣5️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  cors-proxy.cooks 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -1114,111 +944,11 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WPIX/index.m3u8
 
 
 
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 07📺IPTVworld🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 07 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  vegafibratv 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AE.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ A&E
-http://vegafibratv.com:8085/AE/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AXN ES
-http://vegafibratv.com:8085/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AMC.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AMC ES|EN 
-http://vegafibratv.com:8085/AMC/index.m3u8
-
-#EXTINF:-1 tvg-id=“BET.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ BET*
-http://vegafibratv.com:8085/BET/index.m3u8
-#EXTINF:-1 tvg-id=“Bravo.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ BRAVO
-http://vegafibratv.com:8085/BRAVO/index.m3u8
-
-#EXTINF:-1 tvg-id=“CinemaxEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ CINEMAX EN|ES
-http://vegafibratv.com:8085/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id=“ComedyCentral.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ COMEDY_CENTRAL
-http://vegafibratv.com:8085/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id=“CookingChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ COOKING CHANNEL
-http://vegafibratv.com:8085/COOKING/index.m3u8
-
-#EXTINF:-1 tvg-id=“DiscoveryChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ DISCOVERY CHANNEL
-http://vegafibratv.com:8085/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id=“DiscoveryWorld.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ DISCOVERY_WORLD EN|ES
-http://vegafibratv.com:8085/DISCOVERY_WORLD/index.m3u8
-
-#EXTINF:-1 tvg-id=“DiscoveryTurbo.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ DISCOVERY_TURBO
-http://vegafibratv.com:8085/DISCOVERY_TURBO/index.m3u8
-
-#EXTINF:-1 tvg-id=“FoodNetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FOOD NETWORK
-http://vegafibratv.com:8085/FOOD/index.m3u8
-
-#EXTINF:-1 tvg-id=“FX.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FX
-http://vegafibratv.com:8085/FX/index.m3u8
-#EXTINF:-1 tvg-id=“Fuse.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FUSE
-http://vegafibratv.com:8085/FUSE/index.m3u8
-
-#EXTINF:-1 tvg-id=“History.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ HISTORY
-http://vegafibratv.com:8085/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id=“History2.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ HISTORY 2
-http://vegafibratv.com:8085/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-id=“HGTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HGTV
-http://vegafibratv.com:8085/HGTV/index.m3u8
-#EXTINF:-1 tvg-id=“HBO2.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HBO2
-http://vegafibratv.com:8085/HBO2/index.m3u8
-#EXTINF:-1 tvg-id=“HBOPop.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HBO_POP
-http://vegafibratv.com:8085/HBO_POP/index.m3u
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HBO_FAMILY
-http://vegafibratv.com:8085/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ LIFETIME
-http://vegafibratv.com:8085/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ LMN | Lifetime Movies Network
-http://vegafibratv.com:8085/LMN/index.m3u8
-
-#EXTINF:-1 tvg-id=“MTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ MTV
-http://vegafibratv.com:8085/MTV/index.m3u8
-
-#EXTINF:-1 tvg-id=“NationalGeographic.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ NAT_GEO
-http://vegafibratv.com:8085/NAT_GEO/index.m3u8
-
-#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ OUTDOOR
-http://vegafibratv.com:8085/OUTDOOR/index.m3u8
-
-#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ SYFY
-http://vegafibratv.com:8085/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TNT
-http://vegafibratv.com:8085/TNT/index.m3u8
-#EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TRUTV
-http://vegafibratv.com:8085/TRUTV/index.m3u8
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TBS
-http://vegafibratv.com:8085/TBS/index.m3u8
-#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TCM
-http://vegafibratv.com:8085/TCM/index.m3u8
-#EXTINF:-1 tvg-id="TLCEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ TLC EN|ES
-http://vegafibratv.com:8085/TLC/index.m3u8
-
-#EXTINF:-1 tvg-id=“USANetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ USA NETWORK
-http://vegafibratv.com:8085/USA/index.m3u8
-
-#EXTINF:-1 tvg-id=“VH1.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ VH1 
-http://vegafibratv.com:8085/VH1/index.m3u8
-
-
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 08📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 08 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 0️⃣6️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
 http://fortv.cc:8080/Boobear/Boobear/21895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ 41.205.93.154  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -1288,7 +1018,7 @@ http://41.205.93.154/TBS/index.m3u8
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 09📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 09 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 0️⃣7️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
 http://fortv.cc:8080/Boobear/Boobear/21895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ 143.244.60.30  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -1704,7 +1434,7 @@ http://143.244.60.30/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVworld🌐", ##########  ♥ 10📺IPTVworld🌐 ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 10 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 0️⃣8️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
 http://fortv.cc:8080/Boobear/Boobear/21895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -3157,7 +2887,7 @@ http://fortv.cc:8080/Boobear/Boobear/139084
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 11📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 11 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 0️⃣9️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
 http://fortv.cc:8080/Boobear/Boobear/21895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ realsport  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -4190,7 +3920,7 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/470623
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 12📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 12 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 1️⃣0️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
 http://fortv.cc:8080/Boobear/Boobear/21895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ fl1.moveonjoy  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -5714,6 +5444,277 @@ http://fl6.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 03📺IPTVworld🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣1️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189.225.150:85 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVworld🌐",🇺🇸☑ MyTime Movie Network | Movies
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVworld🌐",🇪🇸☑ MyTime Movie Network Spain | Movies
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AandE.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ A&E ES (ᵀᵛ¹)
+http://185.189.225.150:85/AE/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AXN  ES (ᵀᵛ¹)
+http://185.189.225.150:85/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AMC ES (ᵀᵛ¹)
+http://185.189.225.150:85/AMC/index.m3u8
+
+#EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Antena 3 HD ES (ᵀᵛ¹)
+http://185.189.225.150:85/Antena3HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ BABY TV (ᵀᵛ¹)
+http://185.189.225.150:85/BabyTV/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² BABY TV (ᵀᵛ²)
+http://185.189.225.149/BabyTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ BOING TV ES (ᵀᵛ¹)
+http://185.189.225.150:85/boing/index.m3u8
+
+#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Bom Cine | Movies (ᵀᵛ¹)
+http://185.189.225.150:85/BOM/index.m3u8
+#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Bom Cine | Movies (ᵀᵛ²)
+http://185.189.225.149/BOM/index.m3u8
+
+#EXTINF:-1 tvg-id=“Cocina.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Canal Cocina ES (ᵀᵛ¹)
+http://185.189.225.150:85/cocina/index.m3u8
+#EXTINF:-1 tvg-id=“cocina.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Canal Cocina ES (ᵀᵛ²)
+http://185.189.225.149/cocina/index.m3u8
+
+#EXTINF:-1 tvg-id=“comedycentral.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Comedy Central ES (ᵀᵛ¹)
+http://185.189.225.150:85/comedycentral/index.m3u8
+
+#EXTINF:-1 tvg-id=“calle13.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Calle 13 ES (ᵀᵛ¹)
+http://185.189.225.150:85/calle13/index.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ La 2 | Documentary (ᵀᵛ¹)
+http://185.189.225.150:85/TV2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TV3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ TV3 (ᵀᵛ¹)
+http://185.189.225.150:85/tv3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Cuatro HD ES (ᵀᵛ¹)
+http://185.189.225.150:85/CuatroHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ TeleCinco HD ES (ᵀᵛ¹)
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ La Sexta Rtve.es (ᵀᵛ¹)
+http://185.189.225.150:85/LaSexta/index.m3u8
+
+#EXTINF:-1 tvg-id=“24horas.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ 24horas  Rtve.es (ᵀᵛ¹)
+http://185.189.225.150:85/24horas/index.m3u8
+
+#EXTINF:-1 tvg-id=“Decasa.es" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ DE CASA ES (ᵀᵛ¹)
+http://185.189.225.150:85/Decasa/index.m3u8
+
+#EXTINF:-1 tvg-id=“foodnetwork.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Food Network ES (ᵀᵛ¹)
+http://185.189.225.150:85/foodnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ F. Fdf ES (ᵀᵛ¹)
+http://185.189.225.150:85/fdf/index.m3u8
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² F. Fdf ES (ᵀᵛ²)
+http://185.189.225.149/fdf/index.m3u8
+
+#EXTINF:-1 tvg-id=“GolPlay.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ GOLPLAY ES (ᵀᵛ¹)
+http://185.189.225.150:85/GOLPLAY/index.m3u8
+#EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
+http://185.189.225.149/GOLPLAY/index.m3u8
+
+#EXTINF:-1 tvg-id="HitTV.es" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Hit Tv |Music (ᵀᵛ¹)
+http://185.189.225.150:85/HitTV/index.m3u8
+#EXTINF:-1 tvg-id="HITTV.es" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Hit Tv |Music (ᵀᵛ²)
+http://185.189.225.149/HitTV/index.m3u8
+
+#EXTINF:-1 tvg-id=“Hollywood.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Hollywood ES (ᵀᵛ¹)
+http://185.189.225.150:85/Hollywood/index.m3u8
+
+#EXTINF:-1 tvg-id=“historia.es"  group-title="📺IPTVworld🌐",🇪🇸Ⓜ² HISTORIA ES (ᵀᵛ¹)
+http://185.189.225.149/historia/index.m3u8 
+
+#EXTINF:-1 tvg-id=“Iberalia.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ IBERALIA ES (ᵀᵛ¹)
+http://185.189.225.150:85/Iberalia/index.m3u8
+#EXTINF:-1 tvg-id=“iberalia.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² IBERALIA ES (ᵀᵛ²)
+http://185.189.225.149/iberalia/index.m3u8
+
+#EXTINF:-1 tvg-id=“intereconomia.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ INTERECONOMIA ES (ᵀᵛ¹)
+http://185.189.225.150:85/intereconomia/index.m3u8
+
+#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ 8madrid TV | Movies (ᵀᵛ¹)
+http://185.189.225.150:85/8madrid/index.m3u8
+#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² 8madrid TV | Movies (ᵀᵛ²)
+http://185.189.225.149/8madrid/index.m3u8
+
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ MEGA ES (ᵀᵛ¹)
+http://185.189.225.150:85/mega/index.m3u8
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² MEGA ES (ᵀᵛ²)
+http://185.189.225.149/mega/index.m3u8 
+
+#EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ NOVA ES (ᵀᵛ¹)
+http://185.189.225.150:85/nova/index.m3u8
+
+#EXTINF:-1 tvg-id="neox.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ NEOX ES | E! (ᵀᵛ¹)
+http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Neox ES | E! (ᵀᵛ¹)
+http://185.189.225.150:85/neox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ National Geographic ES (ᵀᵛ¹)
+http://185.189.225.150:85/NationalGeographic/index.m3u8
+
+#EXTINF:-1 tvg-id=“natgeowild.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Nat Geo Wild ES (ᵀᵛ¹)
+http://185.189.225.150:85/natgeowild/index.m3u8
+
+
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Nickelodeon ES (ᵀᵛ¹)
+http://185.189.225.150:85/nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-id=“odisea.es"  group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ ODISEA ES (ᵀᵛ¹)
+http://185.189.225.150:85/odisea/index.m3u8
+
+#EXTINF:-1 tvg-id=“panda.es"  group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ PANDA ES (ᵀᵛ¹)
+http://185.189.225.150:85/panda/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Paramount Network ES (ᵀᵛ¹)
+http://185.189.225.150:85/Paramount/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Paramount Network ES (ᵀᵛ²)
+http://185.189.225.149/paramount/index.m3u8 
+
+#EXTINF:-1 tvg-id=“24horas.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Rtve.es 24horas (ᵀᵛ¹)
+http://185.189.225.150:85/24horas/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL.de@SD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="📺IPTVworld🌐",🌐Ⓜ¹ RTL DE (ᵀᵛ¹)
+http://185.189.225.150:85/RTL/index.m3u8
+
+#EXTINF:-1 tvg-id=“star.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Star Channel ES (ᵀᵛ¹)
+http://185.189.225.150:85/star/index.m3u8
+#EXTINF:-1 tvg-id=“STAR.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Star Channel ES (ᵀᵛ²)
+http://185.189.225.149/STAR/index.m3u8
+
+#EXTINF:-1 tvg-id="Syfy.es@SD" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ Syfy ES (ᵀᵛ¹)
+http://185.189.225.150:85/syfy/index.m3u8
+
+#EXTINF:-1 tvg-id=“TCM.es"  group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ TCM ES (ᵀᵛ¹)
+http://185.189.225.150:85/TCM/index.m3u8
+#EXTINF:-1 tvg-id=“tcm.es"  group-title="📺IPTVworld🌐",🇪🇸Ⓜ² TCM ES (ᵀᵛ²)
+http://185.189.225.149/tcm/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 07📺IPTVworld🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣2️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  vegafibratv 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AE.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ A&E
+http://vegafibratv.com:8085/AE/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AXN ES
+http://vegafibratv.com:8085/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AMC ES|EN 
+http://vegafibratv.com:8085/AMC/index.m3u8
+
+#EXTINF:-1 tvg-id=“BET.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ BET*
+http://vegafibratv.com:8085/BET/index.m3u8
+#EXTINF:-1 tvg-id=“Bravo.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ BRAVO
+http://vegafibratv.com:8085/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id=“CinemaxEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ CINEMAX EN|ES
+http://vegafibratv.com:8085/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id=“ComedyCentral.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ COMEDY_CENTRAL
+http://vegafibratv.com:8085/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id=“CookingChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ COOKING CHANNEL
+http://vegafibratv.com:8085/COOKING/index.m3u8
+
+#EXTINF:-1 tvg-id=“DiscoveryChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ DISCOVERY CHANNEL
+http://vegafibratv.com:8085/DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id=“DiscoveryWorld.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ DISCOVERY_WORLD EN|ES
+http://vegafibratv.com:8085/DISCOVERY_WORLD/index.m3u8
+
+#EXTINF:-1 tvg-id=“DiscoveryTurbo.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ DISCOVERY_TURBO
+http://vegafibratv.com:8085/DISCOVERY_TURBO/index.m3u8
+
+#EXTINF:-1 tvg-id=“FoodNetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FOOD NETWORK
+http://vegafibratv.com:8085/FOOD/index.m3u8
+
+#EXTINF:-1 tvg-id=“FX.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FX
+http://vegafibratv.com:8085/FX/index.m3u8
+#EXTINF:-1 tvg-id=“Fuse.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FUSE
+http://vegafibratv.com:8085/FUSE/index.m3u8
+
+#EXTINF:-1 tvg-id=“History.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ HISTORY
+http://vegafibratv.com:8085/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id=“History2.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ HISTORY 2
+http://vegafibratv.com:8085/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-id=“HGTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HGTV
+http://vegafibratv.com:8085/HGTV/index.m3u8
+#EXTINF:-1 tvg-id=“HBO2.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HBO2
+http://vegafibratv.com:8085/HBO2/index.m3u8
+#EXTINF:-1 tvg-id=“HBOPop.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HBO_POP
+http://vegafibratv.com:8085/HBO_POP/index.m3u
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HBO_FAMILY
+http://vegafibratv.com:8085/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ LIFETIME
+http://vegafibratv.com:8085/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ LMN | Lifetime Movies Network
+http://vegafibratv.com:8085/LMN/index.m3u8
+
+#EXTINF:-1 tvg-id=“MTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ MTV
+http://vegafibratv.com:8085/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id=“NationalGeographic.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ NAT_GEO
+http://vegafibratv.com:8085/NAT_GEO/index.m3u8
+
+#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ OUTDOOR
+http://vegafibratv.com:8085/OUTDOOR/index.m3u8
+
+#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ SYFY
+http://vegafibratv.com:8085/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TNT
+http://vegafibratv.com:8085/TNT/index.m3u8
+#EXTINF:-1 tvg-id="truTVEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TRUTV
+http://vegafibratv.com:8085/TRUTV/index.m3u8
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TBS
+http://vegafibratv.com:8085/TBS/index.m3u8
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TCM
+http://vegafibratv.com:8085/TCM/index.m3u8
+#EXTINF:-1 tvg-id="TLCEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ TLC EN|ES
+http://vegafibratv.com:8085/TLC/index.m3u8
+
+#EXTINF:-1 tvg-id=“USANetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ USA NETWORK
+http://vegafibratv.com:8085/USA/index.m3u8
+
+#EXTINF:-1 tvg-id=“VH1.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ VH1 
+http://vegafibratv.com:8085/VH1/index.m3u8
 
 
 
