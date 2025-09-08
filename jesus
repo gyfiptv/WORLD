@@ -6522,6 +6522,106 @@ http://vegafibratv.com:8085/USA/index.m3u8
 http://vegafibratv.com:8085/VH1/index.m3u8
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 14📺IPTVworld🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣3️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  190.123.76.22 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemicro.do@SD" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="📺IPTVworld🌐",🇩🇴a023 Telemicro DO (480p)
+https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="📺IPTVworld🌐",🇩🇴a043 Tele Antillas | MLB DO (480p)
+https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇩🇴a044 Antena 7 DO
+http://190.123.76.22:8000/play/a044/index.m3u8
+
+#EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="📺IPTVworld🌐",🇩🇴a045 Telesistema 11 DO
+http://190.123.76.22:8000/play/a045/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇳🇮a046  Canal 12 NI
+http://190.123.76.22:8000/play/a046/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳a049  HCH HN
+http://190.123.76.22:8000/play/a049/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇩🇴a050  TELEVIDA DO
+http://190.123.76.22:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇩🇴a051  RNN DO
+http://190.123.76.22:8000/play/a051/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇷a052  CANAL 8 Multimedios CR
+http://190.123.76.22:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇩🇴a053  CANAL 13
+http://190.123.76.22:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇩🇴a054  EXTRA TV 
+http://190.123.76.22:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇩🇴a055  FILM & ARTS
+http://190.123.76.22:8000/play/a055/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Digital15.do@SD" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="📺IPTVworld🌐",🇩🇴a02u Digital 15 DO (480p)
+http://190.123.76.22:8000/play/a02u/index.m3u8
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 15📺IPTVworld🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣3️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  190.123.76.22 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06a A&E
+http://45.5.116.178:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06b AMC
+http://45.5.116.178:8000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06c TV
+http://45.5.116.178:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06d TV
+http://45.5.116.178:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06e eE europaEUROPA
+http://45.5.116.178:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06f SONY MOVIES
+http://45.5.116.178:8000/play/a06f/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="📺IPTVworld🌐",🇸🇻©a00g Canal 4 SV (opt1)
+http://45.5.116.178:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06h TV AZTECA 7
+http://45.5.116.178:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸☑ STAR tve.es
+http://45.5.116.178:8000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06j NBC GOLF
+http://45.5.116.178:8000/play/a06j/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06o CLARO SPORTS
+http://45.5.116.178:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06t PARAMOUNT NETWORK
+http://45.5.116.178:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06u CLARO SPORTS 2
+http://45.5.116.178:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06v HBO
+http://45.5.116.178:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06w TV
+http://45.5.116.178:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06x TV
+http://45.5.116.178:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06y TV
+http://45.5.116.178:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a06z HBO XTREME
+http://45.5.116.178:8000/play/a06z/index.m3u8
 
 
 
@@ -6532,6 +6632,19 @@ http://vegafibratv.com:8085/VH1/index.m3u8
 
 
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 16📺IPTVworld🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣3️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  190.123.76.22 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="📺IPTVworld🌐",🇩🇴☑ Locomotion TV DO | Animation (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 
