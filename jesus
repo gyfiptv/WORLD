@@ -1155,8 +1155,6 @@ http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.ts
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸730 UNIVISION 41 NY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/730.ts
 
-754
-
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸878 VALPARAISO SPORTINO HIPODROMO CL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/878.ts
 
@@ -1958,22 +1956,24 @@ http://143.244.60.30/Comedy_Central/index.m3u
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/CuriosityStream/CuriosityStream-Logo.wine.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ Curiosity_Stream (opt1)
 http://143.244.60.30/Curiosity_Stream/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ¹ DISNEY (opt1)
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ DISNEY (opt1)
 http://143.244.60.30/DISNEY/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ¹ DISNEY_XD (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ DISNEY_XD (opt1)
 http://143.244.60.30/DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ¹ DISNEY_JR (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ DISNEY_JR (opt1)
 http://143.244.60.30/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ Destination_America |Lifestyle (opt1)
-http://143.244.60.30/Destination_America/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ DISCOVERY_FAMILY_CHANNEL |E! (opt1)
+http://143.244.60.30/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/discovery-life-channel-logo-sbpofvl25b3nih6x-2.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ DISCOVERY_LIFE (opt1)
 http://143.244.60.30/DISCOVERY_LIFE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ¹ DISCOVERY_FAMILY_CHANNEL |E! (opt1)
-http://143.244.60.30/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ Discovery_Channel (opt1)
 http://143.244.60.30/Discovery_Channel/index.m3u8
@@ -1982,7 +1982,8 @@ http://143.244.60.30/Discovery_Science/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ DIY | MAGNOLIA NETWORK |Lifestyle (opt1)
 http://143.244.60.30/DIY/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ Destination_America |Lifestyle (opt1)
+http://143.244.60.30/Destination_America/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ ESPN_NEWS (opt1)
 http://143.244.60.30/ESPN_NEWS/index.m3u8
@@ -4016,13 +4017,6 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/966
 
 
 
-
-
-
-
-
-1584
-
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1607 EL TRECE INTERNACIONAL
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1607
 
@@ -5131,37 +5125,37 @@ http://fl5.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/outer-max.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ OUTER_MAX |Movies (opt5)
 http://fl6.moveonjoy.com/OUTER_MAX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY (opt1)
 https://fl1.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY (opt2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY (opt2)
 https://fl3.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY (opt3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY (opt3)
 https://fl4.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY (opt4)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY (opt4)
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY (opt5)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY (opt5)
 https://fl6.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY XD (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY XD (opt1)
 https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY XD (opt2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY XD (opt2)
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY XD (opt3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY XD (opt3)
 https://fl4.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY XD (opt4)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY XD (opt4)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY XD (opt5)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY XD (opt5)
 https://fl6.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY_JR (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY_JR (opt1)
 https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY_JR (opt2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY_JR (opt2)
 https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY_JR (opt3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY_JR (opt3)
 https://fl4.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY_JR (opt4)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY_JR (opt4)
 https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISNEY_JR (opt5)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISNEY_JR (opt5)
 https://fl6.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ Destination America | Lifestyle (opt1)
@@ -5170,20 +5164,22 @@ http://fl1.moveonjoy.com/Destination_America/index.m3u8
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ Destination America | Lifestyle (opt3)
 http://fl4.moveonjoy.com/Destination_America/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/discovery-life-channel-logo-sbpofvl25b3nih6x-2.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISCOVERY_LIFE (opt1)
 https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/discovery-life-channel-logo-sbpofvl25b3nih6x-2.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISCOVERY_LIFE (opt2)
 https://fl3.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISCOVERY_FAMILY_CHANNEL |E! (opt1)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISCOVERY_FAMILY_CHANNEL |E! (opt1)
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="📺IPTVworld🌐”,🇺🇸Ⓜ DISCOVERY_FAMILY_CHANNEL |E! (opt2)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ DISCOVERY_FAMILY_CHANNEL |E! (opt2)
 http://fl3.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ Discovery_Channel (opt1)
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ Discovery_Channel (opt2)
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ Discovery_Science (opt1)
 http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ Discovery_Science (opt2)
@@ -7514,7 +7510,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="📺IPTVworld🌐",🇺🇸☑ AccuWeather Now (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1,group-title="📺IPTVworld🌐",🇺🇸☑ WCT |Sports
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸☑ WCT |Sports
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/270.m3u8
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2023/02/we-love-cars-tv-1024x576.jpg" group-title="📺IPTVworld🌐",🇺🇸☑ We Love Cars TV |Sports
 https://30a-tv.com/feeds/vidaa/cars.m3u8
