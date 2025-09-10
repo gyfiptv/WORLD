@@ -18,14 +18,34 @@ http://fortv.cc:8080/live/Boobear/Boobear/46692.m3u8
 
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸3697 UNIVISION | VIX
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸3697 UNIVISION | VIX
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3697.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸725 UNIVISION LOS ANGELES
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/725.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸726 UNIVISION CHICAGO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/726.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸727 TUDN | UNIMAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/727.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸729 UNIVISION 23 MI
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸730 UNIVISION 41 NY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/730.ts
 
 #EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt1)
 http://fortv.cc:8080/Boobear/Boobear/57969
 #EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/57969.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO (opt1)
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3847
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO (opt2)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3847.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1167 MEGA TV
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1167.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1170 TELEMUNDO PR
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1170.ts
 
 #EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt1)
 http://fortv.cc:8080/Boobear/Boobear/120691
@@ -63,6 +83,18 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3890
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3892 TELEMUNDO 44 WASHINGTON DC
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3892
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸682 TELEMUNDO 47 NY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/682.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸685 TELEMUNDO 51 MI
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/685.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸686 TELEMUNDO 39 KANSAS CITY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/686.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸687 TELEMUNDO 60
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/687.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸692 TELEMUNDO 52 LA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/692.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸694 TELEMUNDO LAS VEGAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/694.ts
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2214 SONY MOVIES EN|ES
 http://fortv.cc:8080/Boobear/Boobear/2214
@@ -1484,6 +1516,37 @@ http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1234.ts
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1239 STAR CHANNEL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1239.ts
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1249 FX 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1249.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1250 GOLDEN 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1250.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1251 GOLDEN EDGE
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1251.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1252 HBO 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1252.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1255 HBO FAMILY 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1255.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1256 HBO+ PLUS 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1256.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1257 HBO MUNDI 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1257.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1258 PARAMOUNT NETWORK 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1258.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1260 SPACE 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1260.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1261 TNT NOVELAS 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1261.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1263 TNT SPORTS PREMIUM AR 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1263.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1265 CINEMA DINAMITA 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1265.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳1271 AZTECA 7 HONDURAS 
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1271.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳1277 TELECEIBA 7 HN
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1277.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾1290 CANAL 10 URUGUAYO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1290.ts�
 
 
 
