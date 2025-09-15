@@ -7,6 +7,12 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/96359
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96359.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96359.ts
 
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt1)
 http://fortv.cc:8080/Boobear/Boobear/46692
