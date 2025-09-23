@@ -7,19 +7,24 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt1)
-http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/96359
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt2)
-http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96359.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt3)
-http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96359.ts
-
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt1)
 http://fortv.cc:8080/Boobear/Boobear/46692
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/46692.m3u8
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt3)
 http://fortv.cc:8080/live/Boobear/Boobear/46692.ts
+
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt1)
+http://fortv.cc:8080/Boobear/Boobear/57969
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/57969.m3u8
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt3)
+http://fortv.cc:8080/live/Boobear/Boobear/57969.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1309 UNIMAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1309.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1310 VIX | TUDN
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1310.ts
 
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸3697 UNIVISION | VIX (opt1)
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
@@ -47,12 +52,6 @@ http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.ts
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸730 UNIVISION 41 NY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/730.ts
 
-#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt1)
-http://fortv.cc:8080/Boobear/Boobear/57969
-#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt2)
-http://fortv.cc:8080/live/Boobear/Boobear/57969.m3u8
-#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt3)
-http://fortv.cc:8080/live/Boobear/Boobear/57969.ts
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO (opt1)
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3847
@@ -60,6 +59,13 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3847
 http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3847.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO (opt3)
 http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3847.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/96359
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96359.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96359.ts
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1167 MEGA TV (opt1)
 http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/1167
@@ -134,7 +140,6 @@ http://fortv.cc:8080/live/Boobear/Boobear/120768.m3u8
 http://fortv.cc:8080/Boobear/Boobear/120833
 #EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸120833 TELEMUNDO 44 WASHINGTON DC WZDC-CD (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/120833.m3u8
-
 
 
 #EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVworld🌐",🇪🇸120780 D1R3CTV
@@ -315,21 +320,97 @@ http://fortv.cc:8080/Boobear/Boobear/21895
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸3697 UNIVISION | VIX
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
-
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt1)
 http://fortv.cc:8080/Boobear/Boobear/46692
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/46692.m3u8
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt3)
+http://fortv.cc:8080/live/Boobear/Boobear/46692.ts
 
 #EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt1)
 http://fortv.cc:8080/Boobear/Boobear/57969
 #EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/57969.m3u8
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt3)
+http://fortv.cc:8080/live/Boobear/Boobear/57969.ts
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1309 UNIMAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1309.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1310 VIX | TUDN
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1310.ts
+
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸3697 UNIVISION | VIX (opt1)
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸3697 UNIVISION | VIX (opt2)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3697.m3u8
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸3697 UNIVISION | VIX (opt3)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3697.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸725 UNIVISION LOS ANGELES
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/725.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸726 UNIVISION CHICAGO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/726.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸727 TUDN | UNIMAS (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/727
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸727 TUDN | UNIMAS (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/727.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸727 TUDN | UNIMAS (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/727.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸729 UNIVISION 23 MIAMI (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/729
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸729 UNIVISION 23 MIAMI (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸729 UNIVISION 23 MIAMI (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸730 UNIVISION 41 NY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/730.ts
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO (opt1)
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3847
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO (opt2)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3847.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO (opt3)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3847.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/96359
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96359.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96359.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1167 MEGA TV (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/1167
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1167 MEGA TV (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1167.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1167 MEGA TV (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1167.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1170 TELEMUNDO PR (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/1170
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1170 TELEMUNDO PR (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1170.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1170 TELEMUNDO PR (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1170.ts
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸682 TELEMUNDO 47 NY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/682.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸685 TELEMUNDO 51 MIAMI (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/685
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸685 TELEMUNDO 51 MIAMI (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/685.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸685 TELEMUNDO 51 MIAMI (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/685.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸686 TELEMUNDO 39 KANSAS CITY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/686.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸687 TELEMUNDO 60
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/687.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸692 TELEMUNDO 52 LA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/692.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸694 TELEMUNDO LAS VEGAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/694.ts
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3875 TELEMUNDO 47 NY
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3875
@@ -345,12 +426,17 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3880
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3883
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3886 TELEMUNDO 40 TX
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3886
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3889 TELEMUNDO 51 MIAMI
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3889 TELEMUNDO 51 MIAMI (opt1)
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3889
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3889 TELEMUNDO 51 MIAMI (opt2)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3889.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3889 TELEMUNDO 51 MIAMI (opt3)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3889.ts
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3890 TELEMUNDO ARIZONA KTAZ
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3890
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3892 TELEMUNDO 44 WASHINGTON DC
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3892
+
 
 
 #EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt1)
@@ -367,7 +453,6 @@ http://fortv.cc:8080/live/Boobear/Boobear/120768.m3u8
 http://fortv.cc:8080/Boobear/Boobear/120833
 #EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸120833 TELEMUNDO 44 WASHINGTON DC WZDC-CD (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/120833.m3u8
-
 
 
 
@@ -673,6 +758,144 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  megafull. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt1)
+http://fortv.cc:8080/Boobear/Boobear/46692
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/46692.m3u8
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸46692 UNIVISION 23 MIAMI (opt3)
+http://fortv.cc:8080/live/Boobear/Boobear/46692.ts
+
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt1)
+http://fortv.cc:8080/Boobear/Boobear/57969
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/57969.m3u8
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸57969 UNIMAS (opt3)
+http://fortv.cc:8080/live/Boobear/Boobear/57969.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1309 UNIMAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1309.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1310 VIX | TUDN
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1310.ts
+
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸3697 UNIVISION | VIX (opt1)
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸3697 UNIVISION | VIX (opt2)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3697.m3u8
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸3697 UNIVISION | VIX (opt3)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3697.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸725 UNIVISION LOS ANGELES
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/725.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸726 UNIVISION CHICAGO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/726.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸727 TUDN | UNIMAS (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/727
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸727 TUDN | UNIMAS (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/727.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸727 TUDN | UNIMAS (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/727.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸729 UNIVISION 23 MIAMI (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/729
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸729 UNIVISION 23 MIAMI (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸729 UNIVISION 23 MIAMI (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸730 UNIVISION 41 NY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/730.ts
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO (opt1)
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3847
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO (opt2)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3847.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3847 UNIVERSO (opt3)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3847.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/96359
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96359.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96359 AMERICA TEVE US WJAN (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96359.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1167 MEGA TV (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/1167
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1167 MEGA TV (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1167.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1167 MEGA TV (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1167.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1170 TELEMUNDO PR (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/1170
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1170 TELEMUNDO PR (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1170.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷1170 TELEMUNDO PR (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1170.ts
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸682 TELEMUNDO 47 NY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/682.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸685 TELEMUNDO 51 MIAMI (opt1)
+http://megafull.site:8080/JoseLuisVillar369/67Qgq5HgKu/685
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸685 TELEMUNDO 51 MIAMI (opt2)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/685.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸685 TELEMUNDO 51 MIAMI (opt3)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/685.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸686 TELEMUNDO 39 KANSAS CITY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/686.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸687 TELEMUNDO 60
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/687.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸692 TELEMUNDO 52 LA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/692.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸694 TELEMUNDO LAS VEGAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/694.ts
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3875 TELEMUNDO 47 NY
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3875
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3876 TELEMUNDO CHICAGO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3876
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3878 TELEMUNDO 62 FILADELFIA
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3878
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3879 TELEMUNDO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3879
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3880 TELEMUNDO 39 DALLAS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3880
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3883 TELEMUNDO NVA INGLATERRA
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3883
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3886 TELEMUNDO 40 TX
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3886
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3889 TELEMUNDO 51 MIAMI (opt1)
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3889
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3889 TELEMUNDO 51 MIAMI (opt2)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3889.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3889 TELEMUNDO 51 MIAMI (opt3)
+http://realsport.scalecdn.co:8080/live/hankstreamer/sYWcksogwN/3889.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3890 TELEMUNDO ARIZONA KTAZ
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3890
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3892 TELEMUNDO 44 WASHINGTON DC
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3892
+
+
+
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt1)
+http://fortv.cc:8080/Boobear/Boobear/120691
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/120691.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸120768 TELEMUNDO 30 OKLAHOMA KTUZ-TV (opt1)
+http://fortv.cc:8080/Boobear/Boobear/120768
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸120768 TELEMUNDO 30 OKLAHOMA KTUZ-TV (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/120768.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸120833 TELEMUNDO 44 WASHINGTON DC WZDC-CD (opt1)
+http://fortv.cc:8080/Boobear/Boobear/120833
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸120833 TELEMUNDO 44 WASHINGTON DC WZDC-CD (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/120833.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇦61 DISCOVERY WORLD CA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/61.ts
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇦62 CTV COMEDY CHANNEL CA
@@ -803,8 +1026,10 @@ http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/126.ts
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇦127 NFL NETWORK CA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/127.ts
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇦128 BEIN SPORTS CANADA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/128.ts
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇦130 MLB CA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/130.ts
 
@@ -1204,6 +1429,7 @@ http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/673.ts
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/678.ts
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸679 EL TORO TV HD | REDIFUSION
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/679.ts
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸682 TELEMUNDO 47 NY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/682.ts
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸685 TELEMUNDO 51 MI
@@ -1655,13 +1881,13 @@ http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1339.ts
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪1341 CANAL N
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1341.ts
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1343 TELEFE AR
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷1343 TELEFE AR
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1343.ts
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1344 TNT SPORTS PREMIUM AR
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷1344 TNT SPORTS PREMIUM AR
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1344.ts
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1345 CARACOL TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴1345 CARACOL TV
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1345.ts
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1347 WIN SPORTS+ PLUS
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴1347 WIN SPORTS+ PLUS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1347.ts
 
 
@@ -1922,7 +2148,7 @@ http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/69711.ts
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96259 D SPORTS | DIRECTV
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96259.ts
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96260 TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96260 NBC
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96260.ts
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96261 ESPN
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96261.ts
@@ -3613,7 +3839,7 @@ http://fortv.cc:8080/Boobear/Boobear/120899
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸120900 CW
 http://fortv.cc:8080/Boobear/Boobear/120900
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸120901 FOX | TBT
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸120901 FOX 17 | TBT
 http://fortv.cc:8080/Boobear/Boobear/120901
 
 
@@ -3626,7 +3852,7 @@ http://fortv.cc:8080/Boobear/Boobear/120949
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸120950 NBC
 http://fortv.cc:8080/Boobear/Boobear/120950
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸120951 FOX
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸120951 FOX 13
 http://fortv.cc:8080/Boobear/Boobear/120951
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸120952 ABC
 http://fortv.cc:8080/Boobear/Boobear/120952
@@ -4763,49 +4989,50 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3948
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3949 MGM+
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3949
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3950 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3950 STARZ ENCORE
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3950
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3951 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3951 STARZ ENCORE WEST
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3951
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3952 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3952 STARZ ENCORE ACTION
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3952
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3953 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3953 STARZ ?
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3953
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3954 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3954 STARZ ENCORE BLACK
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3954
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3955 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3955 STARZ ENCORE WESTERNS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3955
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3956 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3956 STARZ ?
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3956
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3957 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3957 STARZ ENCORE FAMILY
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3957
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3958 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3958 STARZ ENCORE SUSPENSE
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3958
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3959 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3959 STARZ
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3959
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3960 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3960 STARZ CINEMA
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3960
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3961 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3961 STARZ EDGE
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3961
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3962 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3962 STARZ IN BLACK ?
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3962
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3963 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3963 STARZ ORIGINALS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3963
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3964 TV MOVIE
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3964 SHOWTIME ?
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3964
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3965 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3965 SHOWTIME 2 | Paramount+
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3965
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3966 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3966 SHOWTIME ?
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3966
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3967 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3967 SHOWTIME ?
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3967
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3968 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3968 SHOWTIME ?
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3968
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3969 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3969 SHOWTIME FAMILY ZONE | Paramount+
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3969
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3970 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3970 SHOWTIME NEXT | Paramount+
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3970
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3971 TV MOVIE
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸3971 SHOWTIME WOMEN | Paramount+
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3971
 
 
@@ -4815,7 +5042,7 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3972
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3973
 
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3977 TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3977 LAS ESTRELLAS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3977
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3980 PX TV  SPORTS
 http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3980
