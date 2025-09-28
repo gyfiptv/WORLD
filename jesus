@@ -2423,133 +2423,233 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AXN  ES
 https://streamer1.nexgen.bz/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AXN  ES
-https://streamer1.nexgen.bz/AXN/mono.m3u8
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AXN  ES
-https://streamer1.nexgen.bz/AXN/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² AXN  ES
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ AMC
 https://streamer1.nexgen.bz/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² AMC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AMC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ BET
 https://streamer1.nexgen.bz/BET/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BET
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BET/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ BRAVO
 https://streamer1.nexgen.bz/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ BRAVO
-https://streamer1.nexgen.bz/BRAVO/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ BRAVO
-https://streamer1.nexgen.bz/BRAVO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BRAVO
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id=“Cinemax.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ CINEMAX
 https://streamer1.nexgen.bz/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id=“Cinemax.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² CINEMAX
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/index.m3u8
+
 #EXTINF:-1 tvg-id=“CineCanal.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ CINECANAL
 https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id=“CineCanal.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² CINECANAL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-id="TheCookingChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ COOKING CHANNEL
 https://streamer1.nexgen.bz/COOKING/index.m3u8
+#EXTINF:-1 tvg-id="TheCookingChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² COOKING CHANNEL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/COOKING/index.m3u8
+
 #EXTINF:-1 tvg-id=“ComedyCentral.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ COMEDY_CENTRAL
 https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id=“ComedyCentral.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² COMEDY_CENTRAL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-id=“DiscoveryNetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ DISCOVERY CHANNEL
 https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id=“DiscoveryNetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² DISCOVERY CHANNEL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id=“DiscoveryWorld.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ DISCOVERY_WORLD EN|ES
 https://streamer1.nexgen.bz/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1 tvg-id=“DiscoveryWorld.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² DISCOVERY_WORLD EN|ES
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY_WORLD/index.m3u8
+
 #EXTINF:-1 tvg-id=“DiscoveryTurbo.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ DISCOVERY_TURBO
 https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1 tvg-id=“DiscoveryTurbo.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² DISCOVERY_TURBO
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FOOD Network
 https://streamer1.nexgen.bz/FOOD/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² FOOD Network
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FOOD/index.m3u8
 
 #EXTINF:-1 tvg-id=“Fuse.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FUSE
 https://streamer1.nexgen.bz/FUSE/index.m3u8
+#EXTINF:-1 tvg-id=“Fuse.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² FUSE
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FUSE/index.m3u8
+
 #EXTINF:-1 tvg-id=“FX.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ FX 
 https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 tvg-id=“FX.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² FX 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FX/index.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FOOD NETWORK HD
 https://streamer1.nexgen.bz/FOOD/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² FOOD NETWORK HD
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FOOD/index.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ GET TV 
 https://streamer1.nexgen.bz/GET/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² GET TV 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/GET/index.m3u8
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ GSN | Game Show Network
 https://streamer1.nexgen.bz/GSN/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² GSN | Game Show Network
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/GSN/index.m3u8
 
 #EXTINF:-1 tvg-id=“HBO2.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ HBO 2
 https://streamer1.nexgen.bz/HBO2/index.m3u8
+#EXTINF:-1 tvg-id=“HBO2.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² HBO 2
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO2/index.m3u8
+
 #EXTINF:-1 tvg-id=“HBOPop.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HBO_POP
 https://streamer1.nexgen.bz/HBO_POP/index.m3u
+#EXTINF:-1 tvg-id=“HBOPop.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² HBO_POP
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_POP/index.m3u
+
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HBO_FAMILY
 https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² HBO_FAMILY
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id=“History.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ HISTORY
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id=“History.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² HISTORY
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
+
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ HISTORY 2
 https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² HISTORY 2
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
 #EXTINF:-1 tvg-id=“HGTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HGTV
 https://streamer1.nexgen.bz/HGTV/index.m3u8
+#EXTINF:-1 tvg-id=“HGTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² HGTV
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HGTV/index.m3u8
+
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ HTV MUSIC SD
 https://streamer1.nexgen.bz/HTV/index.m3u8
+#EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² HTV MUSIC SD
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ HALLMARK
 https://streamer1.nexgen.bz/HALLMARK/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² HALLMARK
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HALLMARK/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ LIFETIME
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² LIFETIME
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+
 #EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ LMN | LIFETIME MOVIES Network
 https://streamer1.nexgen.bz/LMN/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² LMN | LIFETIME MOVIES Network
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LMN/index.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ MAGNOLIA Network 
 https://streamer1.nexgen.bz/MAGNOLIA/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² MAGNOLIA Network 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/MAGNOLIA/index.m3u8
 
 #EXTINF:-1 tvg-id=“MTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ MTV 
 https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 tvg-id=“MTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² MTV 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/MTV/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ NAT_GEO
 https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² NAT_GEO
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ OUTDOOR CHANNEL
 https://streamer1.nexgen.bz/OUTDOOR/index.m3u8
+#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² OUTDOOR CHANNEL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/OUTDOOR/index.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ PARAMOUNT NETWORK HD
 https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² PARAMOUNT NETWORK HD
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ SYFY
 https://streamer1.nexgen.bz/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² SYFY
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ STAR Channel x
-https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ STAR CHANNEL 
+https://streamer1.nexgen.bz/STARCHANNEL/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² STAR CHANNEL 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STARCHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ ✝TBN uk
 https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ✝TBN uk
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TBN/index.m3u8
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ TELEHIT MUSIC SD
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸Ⓜ² TELEHIT MUSIC SD
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TELEHIT/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TBS |E!
 https://streamer1.nexgen.bz/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TBS |E!
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TBS/index.m3u8
+
 #EXTINF:-1 tvg-id="TCM.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TCM 
 https://streamer1.nexgen.bz/TCM/index.m3u8
+#EXTINF:-1 tvg-id="TCM.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TCM 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TCM/index.m3u8
+
 #EXTINF:-1 tvg-id="TLC.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ TLC
 https://streamer1.nexgen.bz/TLC/index.m3u8
+#EXTINF:-1 tvg-id="TLC.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² TLC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TLC/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TNT | NBA SPORTS
 https://streamer1.nexgen.bz/TNT/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TNT | NBA SPORTS
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TNT/index.m3u8
+
 #EXTINF:-1 tvg-id="truTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ TRUTV | NBA SPORTS
 https://streamer1.nexgen.bz/TRUTV/index.m3u8
+#EXTINF:-1 tvg-id="truTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TRUTV | NBA SPORTS
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TRUTV/index.m3u8
+
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ USA Network
 https://streamer1.nexgen.bz/USA/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² USA Network
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/USA/index.m3u8
 
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ USA | SYFY
 https://streamer1.nexgen.bz/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² USA | SYFY
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id=“VH1.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ VH1 
 https://streamer1.nexgen.bz/VH1/index.m3u8
+#EXTINF:-1 tvg-id=“VH1.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² VH1 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/VH1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/800px-Wetv-july-2024-logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ WE_TV |Lifestyle (opt1)
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/800px-Wetv-july-2024-logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² WE_TV |Lifestyle (opt1)
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id=“WPIX.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ PIX11 NEWS NYC
 https://streamer1.nexgen.bz/WPIX/index.m3u8
-
-
+#EXTINF:-1 tvg-id=“WPIX.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² PIX11 NEWS NYC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WPIX/index.m3u8
 
 
 
@@ -2565,135 +2665,11 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  cors-streamer1 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² AXN  ES
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² AXN  ES
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/mono.m3u8
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² AXN  ES
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVworld🌐",🇺🇸☑ MyTime Movie Network | Movies
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² AMC
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AMC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BET
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BET/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BRAVO
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BRAVO
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BRAVO/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BRAVO
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BRAVO/playlist.m3u8
-
-#EXTINF:-1 tvg-id=“Cinemax.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² CINEMAX
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id=“CineCanal.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² CINECANAL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-
-#EXTINF:-1 tvg-id="TheCookingChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² COOKING CHANNEL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/COOKING/index.m3u8
-#EXTINF:-1 tvg-id=“ComedyCentral.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² COMEDY_CENTRAL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
-
-#EXTINF:-1 tvg-id=“DiscoveryNetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² DISCOVERY CHANNEL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id=“DiscoveryWorld.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² DISCOVERY_WORLD EN|ES
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY_WORLD/index.m3u8
-#EXTINF:-1 tvg-id=“DiscoveryTurbo.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² DISCOVERY_TURBO
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² FOOD Network
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FOOD/index.m3u8
-
-#EXTINF:-1 tvg-id=“Fuse.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² FUSE
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FUSE/index.m3u8
-#EXTINF:-1 tvg-id=“FX.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² FX 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FX/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² FOOD NETWORK HD
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FOOD/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² GET TV 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/GET/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² GSN | Game Show Network
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/GSN/index.m3u8
-
-#EXTINF:-1 tvg-id=“HBO2.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² HBO 2
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO2/index.m3u8
-#EXTINF:-1 tvg-id=“HBOPop.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² HBO_POP
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_POP/index.m3u
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² HBO_FAMILY
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id=“History.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² HISTORY
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² HISTORY 2
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-id=“HGTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² HGTV
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HGTV/index.m3u8
-#EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² HTV MUSIC SD
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² HALLMARK
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HALLMARK/index.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² LIFETIME
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² LMN | LIFETIME MOVIES Network
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LMN/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² MAGNOLIA Network 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/MAGNOLIA/index.m3u8
-
-#EXTINF:-1 tvg-id=“MTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² MTV 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/MTV/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² NAT_GEO
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
-
-#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² OUTDOOR CHANNEL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/OUTDOOR/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² PARAMOUNT NETWORK HD
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
-
-#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² SYFY
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² STAR Channel x
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STAR/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ✝TBN uk
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TBN/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸Ⓜ² TELEHIT MUSIC SD
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TELEHIT/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TBS |E!
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TBS/index.m3u8
-#EXTINF:-1 tvg-id="TCM.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TCM 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TCM/index.m3u8
-#EXTINF:-1 tvg-id="TLC.us" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² TLC
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TLC/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TNT | NBA SPORTS
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TNT/index.m3u8
-#EXTINF:-1 tvg-id="truTV.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TRUTV | NBA SPORTS
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TRUTV/index.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² USA Network
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/USA/index.m3u8
-
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² USA | SYFY
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-id=“VH1.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² VH1 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/VH1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/800px-Wetv-july-2024-logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² WE_TV |Lifestyle (opt1)
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WE_TV/index.m3u8
-
-#EXTINF:-1 tvg-id=“WPIX.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² PIX11 NEWS NYC
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WPIX/index.m3u8
-
-
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVworld🌐",🇪🇸☑ MyTime Movie Network Spain | Movies
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 
 
@@ -2784,14 +2760,9 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVworld🌐",🇺🇸☑ MyTime Movie Network | Movies
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVworld🌐",🇪🇸☑ MyTime Movie Network Spain | Movies
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVworld🌐",🇪🇸 DIR3CTV Sports (480p) [Geo-blocked]
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-
-#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVworld🌐",🇪🇸120780 DIR3CTV
-http://fortv.cc:8080/Boobear/Boobear/120780
 
 
 
