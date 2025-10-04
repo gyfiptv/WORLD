@@ -30,6 +30,14 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/azteca.7.mx
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ AZTECA 7 MX (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/azteca.7.mx.m3u8
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELEFE AR (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/telefe.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELEFE AR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/telefe.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELEFE AR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/telefe.ar.m3u8
+
+
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ WAPA+ PR (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/afizzionados.mx.m3u8
@@ -40,12 +48,16 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/afizzionad
 
 
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ AMC EASTERN US (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/amc.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ AMC EASTERN US (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/amc.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ AMC EASTERN US (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/amc.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇧🇷⚽ E! | HBO BR (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/hbo.br.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇧🇷⚽ E! | HBO BR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.br.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇧🇷⚽ E! | HBO BR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.br.m3u8
+
+
+
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ AMC MX (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/amc.mx.m3u8
@@ -68,12 +80,186 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.mx.
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CINEMAX MX (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinemax.mx.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CINEMAX EASTERN US (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/cinemax.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CINEMAX EASTERN US (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CINEMAX EASTERN US (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SYFY ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/syfy.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SYFY ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/syfy.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SYFY ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/syfy.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SPACE AR (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SPACE AR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SPACE AR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/space.ar.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TCM ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/tcm.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TCM ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tcm.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TCM ES(opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tcm.es.m3u8
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ BABYTV ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/babytv.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ BABYTV ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/babytv.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ BABYTV ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/babytv.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ COMEDY CENTRAL MX (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/comedy.central.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ COMEDY CENTRAL MX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/comedy.central.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ COMEDY CENTRAL MX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/comedy.central.mx.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY WORLD CO (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/discovery.world.co.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY WORLD CO (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/discovery.world.co.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY WORLD CO (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/discovery.world.co.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY FAMILIA US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/discovery.familia.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY FAMILIA US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/discovery.familia.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY FAMILIA US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/discovery.familia.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY TURBO CO (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/discovery.turbo.co.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY TURBO CO (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/discovery.turbo.co.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY TURBO CO (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/discovery.turbo.co.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nat.geo.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nat.geo.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nat.geo.es.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ HISTORIA ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/historia.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ HISTORIA ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/historia.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ HISTORIA ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/historia.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/antena.3.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/antena.3.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/antena.3.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CALLE 13 ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/calle.13.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CALLE 13 ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/calle.13.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CALLE 13 ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/calle.13.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DKISS ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/dkiss.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DKISS ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/dkiss.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DKISS ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/dkiss.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DMAX ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/dmax.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DMAX ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/dmax.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DMAX ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/dmax.es.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/24.horas.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/24.horas.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/24.horas.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 1 RTVE.ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/la.1.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 1 RTVE.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/la.1.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 1 RTVE.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/la.1.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 2 RTVE.ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/la.2.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 2 RTVE.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/la.2.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 2 RTVE.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/la.2.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CUATRO MEDIASET.ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/cuatro.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CUATRO MEDIASET.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cuatro.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CUATRO MEDIASET.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cuatro.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELECINCO MEDIASET.ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/telecinco.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELECINCO MEDIASET.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/telecinco.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELECINCO MEDIASET.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/telecinco.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/lasexta.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/lasexta.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/lasexta.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA A3MEDIA.ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/mega.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA A3MEDIA.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mega.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA A3MEDIA.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mega.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ NEOX A3MEDIA.ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/neox.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ NEOX A3MEDIA.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/neox.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ NEOX A3MEDIA.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/neox.es.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA TV (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/mega.cl.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA TV (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mega.cl.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA TV (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mega.cl.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ OD!SEA ES (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/odisea.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ OD!SEA ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/odisea.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ OD!SEA ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/odisea.es.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ ACTIONMAX EASTERN US (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/actionmax.eastern.us.m3u8
@@ -88,6 +274,13 @@ https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/moremax.east
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/moremax.eastern.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MOREMAX EASTERN US (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/moremax.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CINEMAX EASTERN US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CINEMAX EASTERN US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CINEMAX EASTERN US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinemax.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ HBO CA (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/hbo.ca.m3u8
@@ -168,9 +361,9 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/starz.come
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ STARZ EDGE EASTERN US (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/starz.edge.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ STARZ EASTERN US (opt2)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ STARZ EDGE EASTERN US (opt2)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/starz.edge.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ STARZ EASTERN US (opt3)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ STARZ EDGE EASTERN US (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/starz.EDGE.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ STARZ IN BLACK EASTERN US (opt1)
@@ -296,7 +489,6 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/telemundo.w
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NEWS PPV USA (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8
 
-
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CBS 03 EASTERN Phila US (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/cbs.eastern.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CBS 03 EASTERN Phila US (opt2)
@@ -311,12 +503,38 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/fox.news.us
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ FOX NEWS CHANNEL US (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.news.us.m3u8
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ FOX BUSINESS US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/fox.business.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ FOX BUSINESS US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/fox.business.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ FOX BUSINESS US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.business.us.m3u8
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ ✝CORNERSTONE TELEVISION US (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/cornerstone.television.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ ✝CORNERSTONE TELEVISION US (opt2)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cornerstone.television.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ ✝CORNERSTONE TELEVISION US (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cornerstone.television.us.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ AMC EASTERN US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/amc.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ AMC EASTERN US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/amc.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ AMC EASTERN US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/amc.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ AHC AMERICAN HEROES CHANNEL US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/american.heroes.channel.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ AHC AMERICAN HEROES CHANNEL US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/american.heroes.channel.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ AHC AMERICAN HEROES CHANNEL US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/american.heroes.channel.us.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ ANIMAL PLANET UK (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/animal.planet.uk.m3u8
@@ -325,12 +543,26 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/animal.plan
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ ANIMAL PLANET UK (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/animal.planet.uk.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ BABYTV ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/babytv.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ BABYTV ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/babytv.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ BABYTV ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/babytv.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ BLAZE UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/blaze.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ BLAZE UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/blaze.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ BLAZE UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/blaze.uk.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CHALLENGE UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/challenge.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CHALLENGE UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/challenge.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CHALLENGE UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/challenge.uk.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CRIME + INVESTIGATION UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/crime.investigation.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CRIME + INVESTIGATION UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/crime.investigation.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ CRIME + INVESTIGATION UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/crime.investigation.uk.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ THE COOKING CHANNEL US (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/the.cooking.channel.us.m3u8
@@ -339,6 +571,12 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/the.cooking
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ THE COOKING CHANNEL US (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/the.cooking.channel.us.m3u8
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ COOKING CHANNEL CA  (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/cooking.channel.canada.ca.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ COOKING CHANNEL CA  (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cooking.channel.canada.ca.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ COOKING CHANNEL CA  (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cooking.channel.canada.ca.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ COMEDY CENTRAL UK (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/comedy.central.uk.m3u8
@@ -347,33 +585,48 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/comedy.cent
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ COMEDY CENTRAL UK (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/comedy.central.uk.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ COMEDY CENTRAL MX (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/comedy.central.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ COMEDY CENTRAL MX (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/comedy.central.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ COMEDY CENTRAL MX (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/comedy.central.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ COMEDY CENTRAL US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/comedy.central.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ COMEDY CENTRAL US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/comedy.central.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ COMEDY CENTRAL US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/comedy.central.eastern.us.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY TURBO CO (opt1)
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY CHANNEL UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/discovery.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY CHANNEL UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/discovery.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY CHANNEL UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/discovery.uk.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY HISTORY UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/discovery.history.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY HISTORY UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/discovery.history.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY HISTORY UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/discovery.history.uk.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY SCIENCE UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/discovery.science.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY SCIENCE UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/discovery.science.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY SCIENCE UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/discovery.science.uk.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY TURBO CO (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/discovery.turbo.co.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY TURBO CO (opt2)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY TURBO CO (opt2)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/discovery.turbo.co.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY TURBO CO (opt3)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ DISCOVERY TURBO CO (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/discovery.turbo.co.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY WORLD CO (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/discovery.world.co.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY WORLD CO (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/discovery.world.co.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DISCOVERY WORLD CO (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/discovery.world.co.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ HISTORIA ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/historia.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ HISTORIA ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/historia.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ HISTORIA ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/historia.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ HISTORIA CA FR (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/historia.ca.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ HISTORIA CA FR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/historia.ca.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ HISTORIA CA FR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/historia.ca.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ LOVE NATURE US (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/love.nature.ca.m3u8
@@ -382,99 +635,71 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/love.nature
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ LOVE NATURE US (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/love.nature.ca.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/antena.3.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/antena.3.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/antena.3.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MAGNOLIA NETWORK US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MAGNOLIA NETWORK US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MAGNOLIA NETWORK US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CALLE 13 ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/calle.13.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CALLE 13 ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/calle.13.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CALLE 13 ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/calle.13.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MILITARY HISTORY US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/military.history.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MILITARY HISTORY US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/military.history.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MILITARY HISTORY US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/military.history.us.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DKISS ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/dkiss.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DKISS ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/dkiss.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ DKISS ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/dkiss.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MOTOR TREND US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/motor.trend.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MOTOR TREND US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/motor.trend.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MOTOR TREND US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/motor.trend.us.m3u8
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MTV MUSIC UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/mtv.music.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MTV MUSIC UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mtv.music.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MTV MUSIC UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mtv.music.uk.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/24.horas.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/24.horas.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/24.horas.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MTV HITS UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/mtv.hits.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MTV HITS UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mtv.hits.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MTV HITS UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mtv.hits.uk.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 1 RTVE.ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/la.1.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 1 RTVE.ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/la.1.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 1 RTVE.ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/la.1.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MTV UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/mtv.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MTV UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mtv.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MTV UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mtv.uk.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 2 RTVE.ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/la.2.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 2 RTVE.ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/la.2.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA 2 RTVE.ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/la.2.es.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CUATRO MEDIASET.ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/cuatro.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CUATRO MEDIASET.ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cuatro.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CUATRO MEDIASET.ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cuatro.es.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELECINCO MEDIASET.ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/telecinco.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELECINCO MEDIASET.ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/telecinco.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELECINCO MEDIASET.ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/telecinco.es.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/lasexta.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/lasexta.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/lasexta.es.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA A3MEDIA.ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/mega.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA A3MEDIA.ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mega.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA A3MEDIA.ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mega.es.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ NEOX A3MEDIA.ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/neox.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ NEOX A3MEDIA.ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/neox.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ NEOX A3MEDIA.ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/neox.es.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NAT GEO UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nat.geo.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NAT GEO UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nat.geo.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NAT GEO UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nat.geo.uk.m3u8
 
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA TV (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/mega.cl.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA TV (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mega.cl.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ MEGA TV (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mega.cl.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ OD!SEA ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/odisea.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ OD!SEA ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/odisea.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ OD!SEA ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/odisea.es.m3u8
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NAT GEO WILD UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nat.geo.wild.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NAT GEO WILD UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nat.geo.wild.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NAT GEO WILD UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nat.geo.wild.uk.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NATIONAL GEOGRAPHIC WILD US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/national.geographic.wild.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NATIONAL GEOGRAPHIC WILD US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/national.geographic.wild.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NATIONAL GEOGRAPHIC WILD US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/national.geographic.wild.us.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ OXYGEN TRUE CRIME US (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/oxygen.eastern.us.m3u8
@@ -482,7 +707,6 @@ https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/oxygen.easte
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/oxygen.eastern.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ OXYGEN TRUE CRIME US (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/oxygen.eastern.us.m3u8
-
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ PIXL TV US (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/pixl.tv.us.m3u8
@@ -505,35 +729,6 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/syfy.uk.m3u
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ SYFY UK (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/syfy.uk.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SYFY ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/syfy.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SYFY ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/syfy.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SYFY ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/syfy.es.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SPACE AR (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/space.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SPACE AR (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/space.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ SPACE AR (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/space.ar.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TCM ES (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/tcm.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TCM ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tcm.es.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TCM ES(opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tcm.es.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELEFE AR (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/telefe.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELEFE AR (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/telefe.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ TELEFE AR (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/telefe.ar.m3u8
-
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TNT US (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/tnt.east.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TNT US (opt2)
@@ -541,13 +736,27 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tnt.east.us
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TNT US (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tnt.east.us.m3u8
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TBS US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/tbs.east.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TBS US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tbs.east.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TBS US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tbs.east.us.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇧🇷⚽ E! | HBO BR (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇧🇷⚽ E! | HBO BR (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇧🇷⚽ E! | HBO BR (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.br.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TLC UK (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/tlc.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TLC UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tlc.uk.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TLC UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tlc.uk.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TLC EASTERN US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/tlc.usa.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TLC EASTERN US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tlc.usa.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ TLC EASTERN US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tlc.usa.eastern.us.m3u8
+
 
 
 
