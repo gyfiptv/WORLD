@@ -1188,9 +1188,301 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣7️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  streamer1 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  38.183. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸 MIRAMAX | Movie Channel
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVworld🌐",🇺🇸☑ MyTime Movie Network | Movies
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVworld🌐",🇪🇸☑ MyTime Movie Network Spain | Movies
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sb USA Latino
+http://38.183.182.166:8000/play/a0sb/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tc GOLDEN EDGE Latino
+http://38.183.182.166:8000/play/a0tc/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0td GOLDEN Latino
+http://38.183.182.166:8000/play/a0td/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0te TCM Latino
+http://38.183.182.166:8000/play/a0te/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tf eE | europaEUROPA Latino
+http://38.183.182.166:8000/play/a0tf/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0th HBO+ Latino
+http://38.183.182.166:8000/play/a0th/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ti HBO2 Latino
+http://38.183.182.166:8000/play/a0ti/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tk dc | DISTRITO COMEDIA Latino
+http://38.183.182.166:8000/play/a0tk/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tm WUAN+ Latino
+http://38.183.182.166:8000/play/a0tm/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tu TV? PE Latino
+http://38.183.182.166:8000/play/a0tu/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a0tv BBC NEWS Latino
+http://38.183.182.166:8000/play/a0tv/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tx ANTENA 3 ESP Latino
+http://38.183.182.166:8000/play/a0tx/index.m3u8�
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ty EURO CHANNEL Latino
+http://38.183.182.166:8000/play/a0ty/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tz ENLACE Latino
+http://38.183.182.166:8000/play/a0tz/index.m3u8
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0te DW Latino
+http://38.183.182.166:8000/play/a0te/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tl CNN CHILE Latino
+http://38.183.182.166:8000/play/a0tl/index.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ub BABY TV Latino
+http://38.183.182.166:8000/play/a0ub/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ui CNN ESPANOL Latino
+http://38.183.182.166:8000/play/a0ui/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uq CINEMAX Latino
+http://38.183.182.166:8000/play/a0uq/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uu CNT' Latino
+http://38.183.182.166:8000/play/a0uu/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uw DISNEY JR Latino
+http://38.183.182.166:8000/play/a0uw/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uy TURBO DISCOVERY Latino
+http://38.183.182.166:8000/play/a0uy/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uz CINEMAX Latino
+http://38.183.182.166:8000/play/a0uz/index.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0va A&E Latino
+http://38.183.182.166:8000/play/a0va/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vb COMEDY CENTRAL Latino
+http://38.183.182.166:8000/play/a0vb/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vc GOURMET Latino
+http://38.183.182.166:8000/play/a0vc/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vd NATIONAL GEOGRAPHIC Latino
+http://38.183.182.166:8000/play/a0vd/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ve TNT Latino
+http://38.183.182.166:8000/play/a0ve/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vf CINE CANAL Latino
+http://38.183.182.166:8000/play/a0vf/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vg SONY CHANNEL Latino
+http://38.183.182.166:8000/play/a0vg/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vh WB TV Latino
+http://38.183.182.166:8000/play/a0vh/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vi AXN Latino
+http://38.183.182.166:8000/play/a0vi/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vj ID | INVESTIGATION DISCOVERY Latino
+http://38.183.182.166:8000/play/a0vj/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vk SPACE Latino
+http://38.183.182.166:8000/play/a0vk/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vl ESPN 4 Latino
+http://38.183.182.166:8000/play/a0vl/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vm AMC NETWORK Latino
+http://38.183.182.166:8000/play/a0vm/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vn HBO Latino
+http://38.183.182.166:8000/play/a0vn/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vo MTV Latino
+http://38.183.182.166:8000/play/a0vo/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vp DK | DISCOVERY KIDS Latino
+http://38.183.182.166:8000/play/a0vp/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vq h&h DISCOVERY Latino
+http://38.183.182.166:8000/play/a0vq/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vr THEATER DISCOVERY Latino
+http://38.183.182.166:8000/play/a0vr/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vs TVN Latino
+http://38.183.182.166:8000/play/a0vs/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vt CHILE VISION Latino
+http://38.183.182.166:8000/play/a0vt/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vv TNT SPORTS PREMIUM Latino
+http://38.183.182.166:8000/play/a0vv/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vw ESPN 2 Latino
+http://38.183.182.166:8000/play/a0vw/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vx HBO POP Latino
+http://38.183.182.166:8000/play/a0vx/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xa CREO SPORT Latino
+http://38.183.182.166:8000/play/a0xa/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xb TE QUIERO TV Latino
+http://38.183.182.166:8000/play/a0xb/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xd GOL PERU Latino
+http://38.183.182.166:8000/play/a0xd/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xi 36TV HUACHO Latino
+http://38.183.182.166:8000/play/a0xi/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xj TV? Latino
+http://38.183.182.166:8000/play/a0xj/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xo D PELICULA Latino
+http://38.183.182.166:8000/play/a0xo/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xv TV? Latino
+http://38.183.182.166:8000/play/a0xv/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xy TV PODER DE DIOS Latino
+http://38.183.182.166:8000/play/a0xy/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0za PASIONES Latino
+http://38.183.182.166:8000/play/a0za/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zb DHE Latino
+http://38.183.182.166:8000/play/a0zb/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a0zc HBO XTREME Latino
+http://38.183.182.166:8000/play/a0zc/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zd SUN Latino
+http://38.183.182.166:8000/play/a0zd/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zg ATV PE Latino
+http://38.183.182.166:8000/play/a0zg/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zs DISNEY CHANNEL Latino
+http://38.183.182.166:8000/play/a0zs/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zz MTV 00s Latino
+http://38.183.182.166:8000/play/a0zz/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 08📺IPTVworld🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣8️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² BABY TV (ᵀᵛ²)
+http://185.189.225.149/BabyTV/index.m3u8
+
+#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Bom Cine | Movies (ᵀᵛ²)
+http://185.189.225.149/BOM/index.m3u8
+
+#EXTINF:-1 tvg-id=“cocina.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Canal Cocina ES (ᵀᵛ²)
+http://185.189.225.149/cocina/index.m3u8
+
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² F. Fdf ES (ᵀᵛ²)
+http://185.189.225.149/fdf/index.m3u8
+
+#EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
+http://185.189.225.149/GOLPLAY/index.m3u8
+
+#EXTINF:-1 tvg-id="HITTV.es" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Hit Tv |Music (ᵀᵛ²)
+http://185.189.225.149/HitTV/index.m3u8
+
+#EXTINF:-1 tvg-id=“iberalia.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² IBERALIA ES (ᵀᵛ²)
+http://185.189.225.149/iberalia/index.m3u8
+
+#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² 8madrid TV | Movies (ᵀᵛ²)
+http://185.189.225.149/8madrid/index.m3u8
+
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² MEGA ES (ᵀᵛ²)
+http://185.189.225.149/mega/index.m3u8 
+
+#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Paramount Network ES (ᵀᵛ²)
+http://185.189.225.149/paramount/index.m3u8 
+
+#EXTINF:-1 tvg-id=“STAR.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Star Channel ES (ᵀᵛ²)
+http://185.189.225.149/STAR/index.m3u8
+
+#EXTINF:-1 tvg-id=“tcm.es" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² TCM ES (ᵀᵛ²)
+http://185.189.225.149/tcm/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 09📺IPTVworld🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣9️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² AMC
+http://41.205.93.154/AMC/index.m3u8
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² A&E | AandE
+http://41.205.93.154/AandE/index.m3u8
+
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ABC 7 KABC LA
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ANIMALPLANET
+http://41.205.93.154/ANIMALPLANET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BET FR
+http://41.205.93.154/BET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BRAVO
+http://41.205.93.154/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BOOMERANG
+http://41.205.93.154/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² CBS 26 WIYE-LD | BIG3 | FOX Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² CNBC WORLD
+http://41.205.93.154/CNBC/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² DISCOVERY CHANNEL FR
+http://41.205.93.154/DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ESPN
+http://41.205.93.154/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ESPNU
+http://41.205.93.154/ESPNU/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ESPNNEWS 
+http://41.205.93.154/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² LIFETIME
+http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² LMN | LIFETIME MOVIE NETWORK
+http://41.205.93.154/LMN/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² SYFY | USA
+http://41.205.93.154/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TBS |E!
+http://41.205.93.154/TBS/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TLC
+http://41.205.93.154/TLC/index.m3u8
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVworld🌐", ##########  ♥ 10📺IPTVworld🌐 ♥  ##########
+http://fortv.cc:8080/Boobear/Boobear/120780
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 1️⃣0️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
+http://fortv.cc:8080/Boobear/Boobear/21895
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ  streamer1 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ¹ AXN  ES
@@ -1422,171 +1714,6 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WE_TV/index.m3u8
 https://streamer1.nexgen.bz/WPIX/index.m3u8
 #EXTINF:-1 tvg-id=“WPIX.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² PIX11 NEWS NYC
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WPIX/index.m3u8
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 08📺IPTVworld🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣8️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² BABY TV (ᵀᵛ²)
-http://185.189.225.149/BabyTV/index.m3u8
-
-#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Bom Cine | Movies (ᵀᵛ²)
-http://185.189.225.149/BOM/index.m3u8
-
-#EXTINF:-1 tvg-id=“cocina.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Canal Cocina ES (ᵀᵛ²)
-http://185.189.225.149/cocina/index.m3u8
-
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² F. Fdf ES (ᵀᵛ²)
-http://185.189.225.149/fdf/index.m3u8
-
-#EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
-http://185.189.225.149/GOLPLAY/index.m3u8
-
-#EXTINF:-1 tvg-id="HITTV.es" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Hit Tv |Music (ᵀᵛ²)
-http://185.189.225.149/HitTV/index.m3u8
-
-#EXTINF:-1 tvg-id=“iberalia.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² IBERALIA ES (ᵀᵛ²)
-http://185.189.225.149/iberalia/index.m3u8
-
-#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² 8madrid TV | Movies (ᵀᵛ²)
-http://185.189.225.149/8madrid/index.m3u8
-
-#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² MEGA ES (ᵀᵛ²)
-http://185.189.225.149/mega/index.m3u8 
-
-#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Paramount Network ES (ᵀᵛ²)
-http://185.189.225.149/paramount/index.m3u8 
-
-#EXTINF:-1 tvg-id=“STAR.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Star Channel ES (ᵀᵛ²)
-http://185.189.225.149/STAR/index.m3u8
-
-#EXTINF:-1 tvg-id=“tcm.es" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² TCM ES (ᵀᵛ²)
-http://185.189.225.149/tcm/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 09📺IPTVworld🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣9️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² AMC
-http://41.205.93.154/AMC/index.m3u8
-
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² A&E | AandE
-http://41.205.93.154/AandE/index.m3u8
-
-#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ABC 7 KABC LA
-http://41.205.93.154/ABC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ANIMALPLANET
-http://41.205.93.154/ANIMALPLANET/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BET FR
-http://41.205.93.154/BET/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BRAVO
-http://41.205.93.154/BRAVO/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BOOMERANG
-http://41.205.93.154/BOOMERANG/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² CBS 26 WIYE-LD | BIG3 | FOX Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² CNBC WORLD
-http://41.205.93.154/CNBC/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² DISCOVERY CHANNEL FR
-http://41.205.93.154/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ESPN
-http://41.205.93.154/ESPN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ESPNU
-http://41.205.93.154/ESPNU/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ESPNNEWS 
-http://41.205.93.154/ESPNNEWS/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² LIFETIME
-http://41.205.93.154/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² LMN | LIFETIME MOVIE NETWORK
-http://41.205.93.154/LMN/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² SYFY | USA
-http://41.205.93.154/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TBS |E!
-http://41.205.93.154/TBS/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TLC
-http://41.205.93.154/TLC/index.m3u8
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVworld🌐", ##########  ♥ 10📺IPTVworld🌐 ♥  ##########
-http://fortv.cc:8080/Boobear/Boobear/120780
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 1️⃣0️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
-http://fortv.cc:8080/Boobear/Boobear/21895
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ  linear 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVworld🌐",🇺🇸☑ MyTime Movie Network | Movies
-https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVworld🌐",🇪🇸☑ MyTime Movie Network Spain | Movies
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸 MIRAMAX | Movie Channel
-https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
