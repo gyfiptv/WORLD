@@ -1203,38 +1203,98 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fa ATV+ PE Latino
+http://38.183.182.166:8000/play/a0fa/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fb EXITOSA TV PE Latino
+http://38.183.182.166:8000/play/a0fb/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fe TV 12 SV Latino
+http://38.183.182.166:8000/play/a0fe/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fs VENEVISION VE Latino
+http://38.183.182.166:8000/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fu TELESUR VE Latino
+http://38.183.182.166:8000/play/a0fu/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fv TELE TUYA VE Latino
+http://38.183.182.166:8000/play/a0fv/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fw GLOBOVISION VE Latino
+http://38.183.182.166:8000/play/a0fw/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ra FOOD NETWORK Latino
+http://38.183.182.166:8000/play/a0ra/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rb AMERICA TELEVISION PE Latino
+http://38.183.182.166:8000/play/a0rb/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rc LAS ESTRELLAS MX Latino
+http://38.183.182.166:8000/play/a0rc/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0re ESPN Latino
+http://38.183.182.166:8000/play/a0re/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rf LATINA PE Latino
+http://38.183.182.166:8000/play/a0rf/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rg HBO FAMILY Latino
+http://38.183.182.166:8000/play/a0rg/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rm GOLDEN Latino
+http://38.183.182.166:8000/play/a0rm/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rn CARTOONITO Latino
+http://38.183.182.166:8000/play/a0rn/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ro NICK JR Latino
+http://38.183.182.166:8000/play/a0ro/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rp HISTORY 2 Latino
+http://38.183.182.166:8000/play/a0rp/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rq TLC Latino
+http://38.183.182.166:8000/play/a0rq/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rr DISCOVERY SCIENCE Latino
+http://38.183.182.166:8000/play/a0rr/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rs E! | ENTERTAINMENT! Latino
+http://38.183.182.166:8000/play/a0rs/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rt TELEMUNDO INTERNACIONAL Latino
+http://38.183.182.166:8000/play/a0rt/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ru RCN INTERNACIONAL Latino
+http://38.183.182.166:8000/play/a0ru/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rv NICK MUSIC Latino
+http://38.183.182.166:8000/play/a0rv/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rw TEEN NICK Latino
+http://38.183.182.166:8000/play/a0rw/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rx TOONCAST Latino
+http://38.183.182.166:8000/play/a0rx/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ry FILM & ARTS Latino
+http://38.183.182.166:8000/play/a0ry/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rz HGTV Discovery Latino
+http://38.183.182.166:8000/play/a0rz/index.m3u8
+
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sb USA Latino
 http://38.183.182.166:8000/play/a0sb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tc GOLDEN EDGE Latino
-http://38.183.182.166:8000/play/a0tc/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0td GOLDEN Latino
-http://38.183.182.166:8000/play/a0td/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0te TCM Latino
-http://38.183.182.166:8000/play/a0te/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tf eE | europaEUROPA Latino
-http://38.183.182.166:8000/play/a0tf/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0th HBO+ Latino
-http://38.183.182.166:8000/play/a0th/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ti HBO2 Latino
-http://38.183.182.166:8000/play/a0ti/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tk dc | DISTRITO COMEDIA Latino
-http://38.183.182.166:8000/play/a0tk/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tm WUAN+ Latino
-http://38.183.182.166:8000/play/a0tm/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tu TV? PE Latino
-http://38.183.182.166:8000/play/a0tu/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a0tv BBC NEWS Latino
-http://38.183.182.166:8000/play/a0tv/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tx ANTENA 3 ESP Latino
-http://38.183.182.166:8000/play/a0tx/index.m3u8�
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ty EURO CHANNEL Latino
-http://38.183.182.166:8000/play/a0ty/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tz ENLACE Latino
-http://38.183.182.166:8000/play/a0tz/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sc GOLDEN EDGE Latino
+http://38.183.182.166:8000/play/a0sc/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sd GOLDEN Latino
+http://38.183.182.166:8000/play/a0sd/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0se TCM Latino
+http://38.183.182.166:8000/play/a0se/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sf eE | europaEUROPA Latino
+http://38.183.182.166:8000/play/a0sf/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sh HBO+ Latino
+http://38.183.182.166:8000/play/a0sh/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0si HBO2 Latino
+http://38.183.182.166:8000/play/a0si/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sk dc | DISTRITO COMEDIA Latino
+http://38.183.182.166:8000/play/a0sk/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sm WUAN+ Latino
+http://38.183.182.166:8000/play/a0sm/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0su GLOBAL TELEVISION PE Latino
+http://38.183.182.166:8000/play/a0su/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a0sv BBC NEWS Latino
+http://38.183.182.166:8000/play/a0sv/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sx ANTENA 3 ESP Latino
+http://38.183.182.166:8000/play/a0sx/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sy EURO CHANNEL Latino
+http://38.183.182.166:8000/play/a0sy/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sz ENLACE Latino
+http://38.183.182.166:8000/play/a0sz/index.m3u8
 
 
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0te DW Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0te DW TV | Deutsche Welle Latino
 http://38.183.182.166:8000/play/a0te/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tl CNN CHILE Latino
 http://38.183.182.166:8000/play/a0tl/index.m3u8
@@ -1246,7 +1306,7 @@ http://38.183.182.166:8000/play/a0ub/index.m3u8
 http://38.183.182.166:8000/play/a0ui/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uq CINEMAX Latino
 http://38.183.182.166:8000/play/a0uq/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uu CNT' Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uu CNT' EC Latino
 http://38.183.182.166:8000/play/a0uu/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uw DISNEY JR Latino
 http://38.183.182.166:8000/play/a0uw/index.m3u8
@@ -1260,7 +1320,7 @@ http://38.183.182.166:8000/play/a0uz/index.m3u8
 http://38.183.182.166:8000/play/a0va/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vb COMEDY CENTRAL Latino
 http://38.183.182.166:8000/play/a0vb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vc GOURMET Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vc EL GOURMET Latino
 http://38.183.182.166:8000/play/a0vc/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vd NATIONAL GEOGRAPHIC Latino
 http://38.183.182.166:8000/play/a0vd/index.m3u8
@@ -1270,7 +1330,7 @@ http://38.183.182.166:8000/play/a0ve/index.m3u8
 http://38.183.182.166:8000/play/a0vf/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vg SONY CHANNEL Latino
 http://38.183.182.166:8000/play/a0vg/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vh WB TV Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vh WB TV | Warner Bros Latino
 http://38.183.182.166:8000/play/a0vh/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vi AXN Latino
 http://38.183.182.166:8000/play/a0vi/index.m3u8
@@ -1292,39 +1352,39 @@ http://38.183.182.166:8000/play/a0vp/index.m3u8
 http://38.183.182.166:8000/play/a0vq/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vr THEATER DISCOVERY Latino
 http://38.183.182.166:8000/play/a0vr/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vs TVN Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vs TVN CL Latino
 http://38.183.182.166:8000/play/a0vs/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vt CHILE VISION Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vt CHILE VISION CL Latino
 http://38.183.182.166:8000/play/a0vt/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vv TNT SPORTS PREMIUM Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vv TNT SPORTS PREMIUM CL Latino
 http://38.183.182.166:8000/play/a0vv/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vw ESPN 2 Latino
 http://38.183.182.166:8000/play/a0vw/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vx HBO POP Latino
 http://38.183.182.166:8000/play/a0vx/index.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xa CREO SPORT Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xa CREO SPORT PE Latino
 http://38.183.182.166:8000/play/a0xa/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xb TE QUIERO TV Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xb TE QUIERO TV | CREO TV PE Latino
 http://38.183.182.166:8000/play/a0xb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xd GOL PERU Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xd GOL PERU PE Latino
 http://38.183.182.166:8000/play/a0xd/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xi 36TV HUACHO Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xi 36TV HUACHO PE Latino
 http://38.183.182.166:8000/play/a0xi/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xj TV? Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xj KANAL D DRAMA | Series Turcas Latino
 http://38.183.182.166:8000/play/a0xj/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xo D PELICULA Latino
 http://38.183.182.166:8000/play/a0xo/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xv TV? Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xv TELEVEN VE Latino
 http://38.183.182.166:8000/play/a0xv/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xy TV PODER DE DIOS Latino
 http://38.183.182.166:8000/play/a0xy/index.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0za PASIONES Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0za PASIONES TV | DRAMA Telenovelas y Series Latino
 http://38.183.182.166:8000/play/a0za/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zb DHE Latino
 http://38.183.182.166:8000/play/a0zb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a0zc HBO XTREME Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a0zc HBO XTREME EN|ES Latino
 http://38.183.182.166:8000/play/a0zc/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zd SUN Latino
 http://38.183.182.166:8000/play/a0zd/index.m3u8
