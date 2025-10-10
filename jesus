@@ -5344,17 +5344,6 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² AMC
 https://streamer1.nexgen.bz/AMC/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² AXN ES
-http://vegafibratv.com:8085/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AMC.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² AMC ES|EN 
-http://vegafibratv.com:8085/AMC/index.m3u8
-
-
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² AXN ES
-http://185.189.225.150:85/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AMC.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² AMC ES|EN
-http://185.189.225.150:85/AMC/index.m3u8
-
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² AMC 
 http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² ABC News
@@ -5495,9 +5484,6 @@ http://41.205.93.154/BET/index.m3u8
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BOOMERANG (opt1)
 http://41.205.93.154/BOOMERANG/index.m3u8
-
-#EXTINF:-1 tvg-id="BETEast.us" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² BET
-http://170.254.18.106/BET/index.m3u8
 
 #EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/T4HwPUn.png" group-title="📺IPTVworld🌐",🇺🇸☑ Bloomberg Quicktake
 https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
