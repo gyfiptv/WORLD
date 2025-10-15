@@ -1831,6 +1831,610 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tvj.car.m3
 
 
 
+#E#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 07📺IPTVworld🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣7️⃣ 🇺🇸  🌐🌎⭐ LATINO📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  38.183. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="🇦🇷ARGENTINA",🇦🇷CRONICA TV (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/355
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="🇦🇷ARGENTINA",🇦🇷CRONICA TV (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/355
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ D1R3CTV SP0RTS FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1059
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ D1R3CTV SP0RTS 2 HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ D1R3CTV SP0RTS+ PLUS HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ D1R3CTV SP0RTS FHD (EC)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1383
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ D1R3CTV SP0RTS FHD (PE)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1194
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ D1R3CTV SP0RTS FHD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1382
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ ESPN 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1084
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ ESPN 2 HD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/5056
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ TNT SPORTS PREMIUM FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2795
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ TYC Sports HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2797
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ CINE AR (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/350
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ CRONICA TV (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/355
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ DEPORTV (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/356
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ EL NUEVE (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/358
+
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ EL TRECE (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/359
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ EL TRECE (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/359
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ LN+ (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/365
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ MUSIC TOP (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/368
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ PAKA PAKA (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/369
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇧🇴 BOLIVIA TV Canal 7 (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2684
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇧🇴 BOLIVIA TV Canal 7 (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2684.m3u8
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | 24 HORAS
+http://disfruta.net:80/fpavas/raZFGMA7GT/276
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | CANAL 13 *HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/277
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | 13C HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/280
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | CANAL 13 FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/278
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | CHV 
+http://disfruta.net:80/fpavas/raZFGMA7GT/283
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | CHV *HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/8113
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | CHV *FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/282
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | ETC TV
+http://disfruta.net:80/fpavas/raZFGMA7GT/285
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | LA RED HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/286
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | MEGA 
+http://disfruta.net:80/fpavas/raZFGMA7GT/289
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | MEGA *HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/288
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | MEGA *FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/8112
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | Estadio TNT Sports SD
+http://disfruta.net:80/fpavas/raZFGMA7GT/8114
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | Estadio TNT Sports HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/8115
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | TNT Sports SD
+http://disfruta.net:80/fpavas/raZFGMA7GT/8116
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | TNT Sports HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/8117
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | TNT Sports 2 SD
+http://disfruta.net:80/fpavas/raZFGMA7GT/8118
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | TNT Sports 2 HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/8119
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | TNT Sports 3
+http://disfruta.net:80/fpavas/raZFGMA7GT/8120
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | TNT Sports 3 HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/8121
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | Tele 13 HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/281
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | TV CHILE *FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/292
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | TVN
+http://disfruta.net:80/fpavas/raZFGMA7GT/293
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇱CL | TVN *HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/295
+
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ CANAL 24 HORAS
+http://disfruta.net:80/fpavas/raZFGMA7GT/276
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ CARACOLᴴᴰ
+http://disfruta.net:80/fpavas/raZFGMA7GT/260
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ CARACOL
+http://disfruta.net:80/fpavas/raZFGMA7GT/262
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL
+http://disfruta.net:80/fpavas/raZFGMA7GT/263
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ CITY TV
+http://disfruta.net:80/fpavas/raZFGMA7GT/264
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ COSMOVISION
+http://disfruta.net:80/fpavas/raZFGMA7GT/265
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS FHD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1382
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS FHD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1382
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS 2 HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS 2 HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS+ PLUS HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS+ PLUS HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS FHD (EC)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1383
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS FHD (EC)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1383
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1059
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1059
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS FHD (PE)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1194
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS FHD (PE)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1194
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ ESPN 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1084
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² ESPN 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1084
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ ESPN 2 HD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/5056
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² ESPN 2 HD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/5056
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ NTN 24
+http://disfruta.net:80/fpavas/raZFGMA7GT/266
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ RCN
+http://disfruta.net:80/fpavas/raZFGMA7GT/267
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ RCN
+http://disfruta.net:80/fpavas/raZFGMA7GT/268
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ DETRAS DEL RING
+http://disfruta.net:80/fpavas/raZFGMA7GT/271
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ TELEANTIOQUIA
+http://disfruta.net:80/fpavas/raZFGMA7GT/269
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ TELEPACIFICO
+http://disfruta.net:80/fpavas/raZFGMA7GT/273
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ TELECAFE TV
+http://disfruta.net:80/fpavas/raZFGMA7GT/270
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ TRECE.
+http://disfruta.net:80/fpavas/raZFGMA7GT/275
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png"  group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ WIN SPORTS
+http://disfruta.net:80/fpavas/raZFGMA7GT/1415
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² WIN SPORTS
+http://disfruta.net:80/fpavas/raZFGMA7GT/1415
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ WIN SPORTS HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1416
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² WIN SPORTS HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1416
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ WIN SPORTS+ PLUS FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1417
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² WIN SPORTS+ PLUS FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1417
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ WIN SPORTS+ PLUS HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1418
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² WIN SPORTS+ PLUS HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1418
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ EL CANAL DEL FUTBOL EC (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/7617
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ² EL CANAL DEL FUTBOL EC (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/7617.ts
+
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://i.imgur.com/vDDEKx6.jpg" group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ ECUADOR TV 7 (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/502
+
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ ECUAVISA (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/505
+
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ ECUAVISA (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/506
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ GAMAVISION  
+http://disfruta.net:80/fpavas/raZFGMA7GT/509
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ OROMAR TV 
+http://disfruta.net:80/fpavas/raZFGMA7GT/510
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ RTS FHD 
+http://disfruta.net:80/fpavas/raZFGMA7GT/512
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ TC TELEVISION FHD 
+http://disfruta.net:80/fpavas/raZFGMA7GT/514
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ TC TELEVISION
+http://disfruta.net:80/fpavas/raZFGMA7GT/515
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ TELEAMAZONAS FHD x
+http://disfruta.net:80/fpavas/raZFGMA7GT/516
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ TELEAMAZONAS x
+http://disfruta.net:80/fpavas/raZFGMA7GT/517
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ TELEVICENTRO HD 
+http://disfruta.net:80/fpavas/raZFGMA7GT/518
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᵀᵛ¹ GOLTV EC
+http://disfruta.net:80/fpavas/raZFGMA7GT/1214
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᵀᵛ¹ D1R3CTV SP0RTS FHD (EC)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1383
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᵀᵛ¹ D1R3CTV SP0RTS 2 HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᵀᵛ¹ D1R3CTV SP0RTS FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1059
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᵀᵛ¹ D1R3CTV SP0RTS FHD (PE)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1194
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᵀᵛ¹ D1R3CTV SP0RTS FHD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1382
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ CANAL UNO x
+http://disfruta.net:80/fpavas/raZFGMA7GT/499
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ CANAL UNO *FHD x
+http://disfruta.net:80/fpavas/raZFGMA7GT/500
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ CANELA TV x
+http://disfruta.net:80/fpavas/raZFGMA7GT/501
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ GAMAVISION x
+http://disfruta.net:80/fpavas/raZFGMA7GT/08
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ RTS x
+http://disfruta.net:80/fpavas/raZFGMA7GT/511
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇨ᴱᶜ¹ RTU *HD X
+http://disfruta.net:80/fpavas/raZFGMA7GT/513
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS FHD (PE)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1194
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS FHD (PE)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1194
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS 2 HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS 2 HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS+ PLUS HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS+ PLUS HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS FHD (EC)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1383
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS FHD (EC)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1383
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1059
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1059
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS FHD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1382
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS FHD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1382
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ ESPN 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1084
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² ESPN 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1084
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ ESPN 2 HD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/5056
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² ESPN 2 HD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/5056
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪 ETC TV (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/285
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪 ETC TV (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/285
+
+
+
+
+#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ GOLPERU
+http://disfruta.net:80/fpavas/raZFGMA7GT/1215
+#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² GOLPERU
+http://disfruta.net:80/fpavas/raZFGMA7GT/1215
+
+#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ GOLPERU FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/4802
+#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² GOLPERU FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/4802
+
+#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ GOLTV EC
+http://disfruta.net:80/fpavas/raZFGMA7GT/1214
+#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² GOLTV EC
+http://disfruta.net:80/fpavas/raZFGMA7GT/1214
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frecuencia_Latina.svg/1024px-Frecuencia_Latina.svg.png" group-title="📺IPTVworld🌐",🇵🇪ᴾᴱ¹ LATINA TV (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/529
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᴾᴱ² LATINA TV (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/529
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frecuencia_Latina.svg/1024px-Frecuencia_Latina.svg.png" group-title="📺IPTVworld🌐",🇵🇪ᴾᴱ¹ LATINA TV (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/528
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᴾᴱ² LATINA TV (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/528
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᴾᴱ¹ TV PERU NOTICIAS (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/534
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᴾᴱ² TV PERU NOTICIAS (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/534
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵀᵛ¹ VTV + HD (UY)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1216
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵀᵛ² VTV + HD (UY)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1216
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵀᵛ¹ VTV HD (UY)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1217
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵀᵛ² VTV HD (UY)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1217
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ¹ CANAL 10
+http://disfruta.net:80/fpavas/raZFGMA7GT/2737
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ² CANAL 10
+http://disfruta.net:80/fpavas/raZFGMA7GT/2737
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ¹ MONTECARLO TV 4
+http://disfruta.net:80/fpavas/raZFGMA7GT/2739
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ² MONTECARLO TV 4
+http://disfruta.net:80/fpavas/raZFGMA7GT/2739
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ¹ TV CIUDAD
+http://disfruta.net:80/fpavas/raZFGMA7GT/2736
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ² TV CIUDAD
+http://disfruta.net:80/fpavas/raZFGMA7GT/2736
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ¹ VTV
+http://disfruta.net:80/fpavas/raZFGMA7GT/2744
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ² VTV
+http://disfruta.net:80/fpavas/raZFGMA7GT/2744
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ¹ VTV+
+http://disfruta.net:80/fpavas/raZFGMA7GT/2745
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ² VTV+
+http://disfruta.net:80/fpavas/raZFGMA7GT/2745
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ¹ AV+ x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2741
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ¹ CHARRUA TV x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2742
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ¹ TELE 12 x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2738
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ¹ TNU x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2740
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇾ᵘʸ¹ URUGUAY NATURAL TV x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2743
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ¹ CANAL 12 (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2697
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ² CANAL 12 (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2697
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ¹ CANAL 2 (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2694
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ² CANAL 2 (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2694
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ¹ CANAL 6 (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2696
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ² CANAL 6 (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2696
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ¹ CANAL 19 MEGAVISION (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2698
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ² CANAL 19 MEGAVISION (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2698
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ¹ CANAL 21 MEGAVISION (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2699
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ² CANAL 21 MEGAVISION (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2699
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ¹ CANAL 11 TUTV (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2702
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ² CANAL 11 TUTV (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2702
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ¹ WOW TV (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2704
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ² WOW TV (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2704
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ¹ CANAL 33 (opt1) x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2710
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ¹ CANAL 4 (opt1) x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2695
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ¹ ORBITA TV (opt1) x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2709
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇸🇻ᵀᵛ¹ TVX (opt1) x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2705
+
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇬🇹ᵀᵛ¹ CANAL 3 (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2616
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇬🇹ᵀᵛ² CANAL 3 (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2616
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇬🇹ᵀᵛ¹ Televisiete (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2617
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇬🇹ᵀᵛ² Televisiete (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2617
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇬🇹ᵀᵛ¹ CANAL 3 (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2618
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇬🇹ᵀᵛ² CANAL 3 (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2618
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/5_el_lider_honduras.png" group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ CANAL 5 El Lider (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2620.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ TSi | Deportes TVC (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2669
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ze1unA5.png" group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ TELECADENA 7/4 | TSi Deportes TVC (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2665
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ HCH | TeleHonduras (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2670
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ TEN 10 (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2671
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vAUFiwm.png" group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ Q HUBO TV (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2673
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ TV 24/7 Comic
+http://disfruta.net:80/fpavas/raZFGMA7GT/2621
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ TV 24/7 Comic
+http://disfruta.net:80/fpavas/raZFGMA7GT/2672
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ TV 24/7 Comic
+http://disfruta.net:80/fpavas/raZFGMA7GT/2674
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ TV 24/7 Comic
+http://disfruta.net:80/fpavas/raZFGMA7GT/2675
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ TV 24/7 Comic
+http://disfruta.net:80/fpavas/raZFGMA7GT/2676
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ TV 24/7 Comic
+http://disfruta.net:80/fpavas/raZFGMA7GT/2689
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇭🇳ᵀᵛ¹ TV 24/7 Comic
+http://disfruta.net:80/fpavas/raZFGMA7GT/2690
+
+
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ UNICOS | Canal TVO +23 (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2713
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ² UNICOS | Canal TVO +23 (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2713
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ Nex Canal 21 (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2714
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ² Nex Canal 21 (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2714
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ SERTV RPC (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2717
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ² SERTV RPC (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2717
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ Telemetro (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2718
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ² Telemetro (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2718
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ TV (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2719
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ TVN HD x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2720
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ TVN x
+http://disfruta.net:80/fpavas/raZFGMA7GT/4266
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ TV Max HD x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2719
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ TV Max x
+http://disfruta.net:80/fpavas/raZFGMA7GT/4267
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ Oye TV x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2711
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ RPC TV HD x
+http://disfruta.net:80/fpavas/raZFGMA7GT/2716
+
+
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ ¹ TELEMUNDO (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2727
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ² TELEMUNDO (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2727
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WAPA (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2731
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ² WAPA (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2731
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ TIVA TV (opt1) 
+http://disfruta.net:80/fpavas/raZFGMA7GT/2733
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ² TIVA TV (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2733
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ MEGA TV (opt1) X
+http://disfruta.net:80/fpavas/raZFGMA7GT/2726
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ TELEORO CANAL 13 (opt1) X
+http://disfruta.net:80/fpavas/raZFGMA7GT/2732
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ UNIVISION (opt1) X
+http://disfruta.net:80/fpavas/raZFGMA7GT/2728
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WAPA 2 (opt1) X
+http://disfruta.net:80/fpavas/raZFGMA7GT/2730
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WIPR CANAL 6 (opt1) X
+http://disfruta.net:80/fpavas/raZFGMA7GT/2725
 
 
 
