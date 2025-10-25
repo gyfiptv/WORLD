@@ -2456,7 +2456,7 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2725
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 07📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣7️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣7️⃣ 🇺🇸  🌐🌎⭐ SPANISH📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  38.183. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -2555,7 +2555,7 @@ http://38.183.182.166:8000/play/a0sm/index.m3u8
 http://38.183.182.166:8000/play/a0su/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a0sv BBC NEWS Latino
 http://38.183.182.166:8000/play/a0sv/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sx ANTENA 3 ESP Latino
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sx ANTENA 3 ESPANA Latino
 http://38.183.182.166:8000/play/a0sx/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sy EURO CHANNEL Latino
 http://38.183.182.166:8000/play/a0sy/index.m3u8
@@ -3083,7 +3083,7 @@ http://185.189.225.149/BOM/index.m3u8
 #EXTINF:-1 tvg-id=“cocina.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Canal Cocina ES (ᵀᵛ²)
 http://185.189.225.149/cocina/index.m3u8
 
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² F. Fdf ES (ᵀᵛ²)
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² F. Fdf | Factoria de Ficcion ES (ᵀᵛ²)
 http://185.189.225.149/fdf/index.m3u8
 
 #EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
@@ -3589,8 +3589,6 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23064/encore/logo_20231219_201123_50.png" group-title="📺IPTVworld🌐",🇺🇸☑ Encore+ |Movies
 https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
 
-
-
 #EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="📺IPTVworld🌐",🇪🇨☑ América Estéreo Guayaquil EC (360p)
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoIbarra.ec" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="📺IPTVworld🌐",🇪🇨☑ América Estéreo Ibarra EC (720p)
@@ -3612,15 +3610,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3486
 
 
 
-#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ Canal 24 Horas | News (720p)
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-id="La2Canarias.es" tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 2 Canarias | Documentary (720p)
-https://ztnr.rtve.es/ztnr/5468585.m3u8
-
-#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 2 Catalunya | Documentary (720p)
-https://ztnr.rtve.es/ztnr/3987218.m3u8
-
 #EXTINF:-1 tvg-id="12tv.es" tvg-logo="https://i.imgur.com/VSTgXsh.png" group-title="📺IPTVworld🌐",🇪🇸☑ 12tv | doce tv ES
 https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 
@@ -3630,12 +3619,6 @@ https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 #EXTINF:-1 tvg-id="GuadaTV.es" tvg-logo="https://i.imgur.com/YaDNsYN.png" group-title="📺IPTVworld🌐",🇪🇸☑ Guada TV (720p)
 https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (720p)
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La1Canarias.es" tvg-logo="https://i.imgur.com/RqUJ4oj.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 Canarias (720p)
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 Catalunya (720p)
-https://ztnr.rtve.es/ztnr/3293681.m3u8
 
 
 
@@ -3666,6 +3649,131 @@ https://directo.tuwebtv.es/canal1.m3u8
 
 #EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="📺IPTVworld🌐",🇪🇸☑ Ciudades Del Ocio TV ES (720p)
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ Canal 24 Horas | RTVE.ES (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688861.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688862.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688865.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688866.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688868.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688871.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688872.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688873.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688874.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688875.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688876.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt2)
+https://ztnr.rtve.es/ztnr/1688878.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt3)
+https://ztnr.rtve.es/ztnr/1688879.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt4)
+https://ztnr.rtve.es/ztnr/1688880.m3u8
+
+#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 Catalunya (720p)
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ Canal 24 Horas | RTVE.ES (720p)
+https://ztnr.rtve.es/ztnr/3293684.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt1)
+https://ztnr.rtve.es/ztnr/3293686.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 (opt2)
+https://ztnr.rtve.es/ztnr/3293688.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 TVE (opt3)
+https://ztnr.rtve.es/ztnr/3293695.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 TVE (opt3)
+https://ztnr.rtve.es/ztnr/3293696.m3u8
+
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 2 Catalunya | Documentary (opt1)
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 2 Catalunya | Documentary (opt2)
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸☑ RNE Radio Nacional Espana
+https://ztnr.rtve.es/ztnr/5190058.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸☑ TV.ES
+https://ztnr.rtve.es/ztnr/5190061.m3u8
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 2 
+(opt1)
+https://ztnr.rtve.es/ztnr/5190063.m3u8
+#EXTINF:-1 tvg-id="La1Canarias.es" tvg-logo="https://i.imgur.com/RqUJ4oj.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 Canarias (720p) x
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸☑ UNI INFO
+https://ztnr.rtve.es/ztnr/5190071.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ Canal 24 Horas | RTVE.ES (720p)
+https://ztnr.rtve.es/ztnr/5190074.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ TDP | TODO DEPORTES TVE.ES (720p)
+https://ztnr.rtve.es/ztnr/5190075.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ RTVE Radio 3 | RTVE.ES (720p)
+https://ztnr.rtve.es/ztnr/5190077.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ RTVE Radio 3 | RTVE.ES (720p)
+https://ztnr.rtve.es/ztnr/5190078.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ RTVE Radio 3 | RTVE.ES (720p)
+https://ztnr.rtve.es/ztnr/5190080.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ RTVE Radio 3 | RTVE.ES (720p)
+https://ztnr.rtve.es/ztnr/5190081.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ TV.ES (720p)
+https://ztnr.rtve.es/ztnr/5190082.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ RTVE Radio 3 | RTVE.ES (720p)
+https://ztnr.rtve.es/ztnr/5190083.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ RTVE Radio 3 | RTVE.ES (720p)
+https://ztnr.rtve.es/ztnr/5190084.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ TV.ES (720p)
+https://ztnr.rtve.es/ztnr/5190087.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺IPTVworld🌐",🇪🇸☑ RNE Radio Nacional ESPANA (720p)
+https://ztnr.rtve.es/ztnr/5190088.m3u8
+
+
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 TVE (opt1)
+https://ztnr.rtve.es/ztnr/5468558.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 TVE (opt1)
+https://ztnr.rtve.es/ztnr/5468560.m3u8
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 2 
+(opt1)
+https://ztnr.rtve.es/ztnr/5468562.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 TVE (opt1)
+https://ztnr.rtve.es/ztnr/5468563.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 TVE (opt1)
+https://ztnr.rtve.es/ztnr/5468566.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 TVE (opt1)
+https://ztnr.rtve.es/ztnr/5468567.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 TVE (opt1)
+https://ztnr.rtve.es/ztnr/5468574.m3u8
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 TVE 
+(opt1)
+https://ztnr.rtve.es/ztnr/5468577.m3u8
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 2 
+(opt1)
+https://ztnr.rtve.es/ztnr/5468580.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 1 TVE (opt1)
+https://ztnr.rtve.es/ztnr/5468581.m3u8
+
+
+
+#EXTINF:-1 tvg-id="La2Canarias.es" tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 2 Canarias | Documentary (720p) x
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+
+
+
 
 
 
