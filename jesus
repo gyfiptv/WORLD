@@ -1838,6 +1838,457 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣7️⃣ 🇺🇸  🌐🌎⭐ LATINO📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  s1.iptv 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2 LAS ESTRELLAS (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2 LAS ESTRELLAS (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/2.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2 LAS ESTRELLAS (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/2.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3 CANAL 5*
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/3.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸4 N+FORO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/4.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸5 AZTECA 7
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/5.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸6 CANAL NU9VE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/6.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸7 CANAL ONCE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/7.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸8 AZTECA UNO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/8.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸9 ADN40
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/9.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸11 TELEFORMULA
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/11.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸12 CANAL 6
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/12.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸14 STAR CHANNEL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/14.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸15 SONY CHANNEL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/15.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸16 WB TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/16.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸17 UNIVERSAL TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/17.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸18 FX
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/18.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸19 A&E
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/19.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸20 AXN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/20.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸21 TRU TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/21.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸22 COMEDY CENTRAL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/22.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸23 UNICABLE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/23.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸24 HOLA! TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/24.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸26 MAS CHIC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/26.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸27 TV AZTECA CORAZON
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/27.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸29 ENTERTAINMENT! LATINO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/29.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸31 SYFY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/31.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸32 INVESTIGATION DISCOVERY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/32.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸33 TNT SERIES
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/33.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸34 GOURMET
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/34.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸35 GARAGE TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/35.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸36 NICK 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/36.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸37 FOX LIFE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/37.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸38 DISTRITO COMEDIA
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/38.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸39 TBS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/39.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸40 TV AZTECA INTERNACIONAL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/40.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸42 DISCOVERY KIDS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/42.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸44 DISCOVERY JUNIOR
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/44.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸45 NICK JUNIOR
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/45.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸46 DISNEY CHANNEL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/46.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸47 NICK TOONS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/47.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸48 TEENNICK
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/48.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸49 NICKELODEON
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/49.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸50 CARTOON NETWORK
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/50.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸51 DISNEY XD
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/51.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸52 BOOMERANG
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/52.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸54 TOONCAST
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/54.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸55 THEATER DISCOVERY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/55.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸56 HISTORY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/56.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸57 NAT GEO WILD
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/57.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸58 WORLD DISCOVERY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/58.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸59 DISCOVERY NETWORK
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/59.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸60 ANIMAL PLANET
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/60.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸61 H&H DISCOVERY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/61.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸62 NATIONAL GEOGRAPHIC LATINO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/62.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸63 LIFETIME
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/63.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸64 SCIENCE DISCOVERY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/64.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸65 CIVILIZATION DISCOVERY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/65.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸66 TURBO DISCOVERY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/66.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸67 TLC DISCOVERY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/67.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸68 WOBI
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/68.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸69 FOX SERIES PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/69.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸70 FOX ACTION PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/70.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸71 FOX MOVIES PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/71.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸72 FOX CINEMA PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/72.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸73 FOX CLASSICS PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/73.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸74 TV AZTECA CINEMA
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/74.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸75 CINECANAL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/75.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸76 TNT
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/76.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸77 GOLDEN PLUS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/77.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸79 D PELICULA PLUS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/79.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸82 CINEMAX
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/82.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸84 GOLDEN EDGE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/84.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸85 AMC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/85.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸86 SPACE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/86.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸87 STUDIO UNIVERSAL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/87.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸89 TCM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/89.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸91 ESPN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/91.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸92 ESPN 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/92.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸93 ESPN 3
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/93.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸94 FOX SPORTS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/94.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸95 FOX SPORTS 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/95.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸96 PX SPORTS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/96.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸97 AYM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/97.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸98 MILENIO TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/98.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸99 BLOOMBERG EL FINANCIERO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/99.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸100 TVE.ES
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/100.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸101 TV AZTECA CLIC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/101.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸102 MTV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/102.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸103 TELEHIT MUSICA
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/103.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸104 MTV 00s
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/104.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸105 MTV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/105.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸106 MTV HITS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/106.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸107 CLASSIC 1 MUSIC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/107.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸108 TELEHIT URBANO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/108.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸109 BANDAMAX
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/109.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸110 ESPN 4
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/110.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸111 TELEMUNDO INTERNACIONAL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/111.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸113 CINECANAL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/113.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸115 FOX MOVIES PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/115.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸116 FOX ACTION PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/116.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸118 FOX SPORTS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/118.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸119 ESPN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/119.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸120 FOX SERIES PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/120.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸121 CANAL 13C
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/121.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸122 GOLDEN PLUS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/122.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸123 STAR CHANNEL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/123.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸124 A&E
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/124.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸125 AXN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/125.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸128 TNT SERIES
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/128.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸129 TNT
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/129.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸130 WB TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/130.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸131 UNIVERSAL TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/131.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸132 FX
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/132.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸133 CLARO CINEMA
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/133.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸135 GALAVISION
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/135.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸148 FORO TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/148.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸150 LAS ESTRELLAS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/150.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸151 FOX SPORTS 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/151.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸152 ESPN 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/152.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸156 SPACE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/156.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸157 AMC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/157.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸164 TUDN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/130.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸165 XFL ADRENALINA SPORTS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/165.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸166 BT SPORTS 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/166.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸174 BT SPORTS 1
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/174.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸180 MOVISTAR GOLF M+
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/180.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸181 HBO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/181.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸182 HBO FAMILY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/182.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸224 HBO SIGNATURE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/224.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸183 HISTORY 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/183.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸186 FOX FAMILY PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/186.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸197 CNN EN ESPANOL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/197.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸204 BOX NATION
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/204.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸215 NFL NETWORK
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/215.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸217 NATIONAL GEOGRAPHIC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/217.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸222 HBO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/222.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸224 HBO SIGNATURE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/224.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸230 FXX
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/230.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸233 FOX NEWS CHANNEL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/233.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸234 ESPN U
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/234.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸269 LIFETIME
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/269.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸337 RT
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/337.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸339 HALLMARK CHANNEL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/339.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸440 MOVISTAR GOLF
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/440.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸488 GOL PERU PE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/488.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸494 VTV PLUS UY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/494.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸18758 VTV PLUS UY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/18758.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1790 TyC Sports AR
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/1790.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸1873 WILLAX TELEVISIÓN PE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/1873.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2305 ENLACE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2305.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2403 EL MENTALISTA 24/7
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2403.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2843 LIGA NOS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2843.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2844 FOX DEPORTES
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2844.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2848 GOL TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2848.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2858 ESPN AR
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2858.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2860 ESPN 3
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2860.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸2863 DIRECTV SPORTS 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2863.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸3713 MTV ROCKS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/3713.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸4561 SKY SPORTS GOLF
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/4561.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸4566 CLARO SPORTS MX
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/4566.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸5326 TLT TELE TUYA VE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/5326.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸5388 AMERICA TEVE MIAMI
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/5388.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸8925 GOLDEN PREMIER
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/8925.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸9562 YES NETWORK
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/9562.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸9775 TELESUR
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/9775.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸10076 TOM AND JERRY 24/7
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/10076.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸11986 TELEAMAZONAS EC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/11986.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸12480 TELEVICENTRO HN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/12480.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸12481 TSi HN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/12481.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸12587 MEGA TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/12587.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸12753 ENERGY ES
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/12753.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸14642 TUDN MX
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/14642.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸16661 CUBAVISION
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/16661.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸18758 VTV PLUS UY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/18758.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸18865 GOL TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/18865.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸19190 GOL ES
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/19190.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸19288 EL CANAL DEL FUTBOL EC (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/19288.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸19288 EL CANAL DEL FUTBOL EC (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/19288.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸19288 EL CANAL DEL FUTBOL EC (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/19288.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸19289 TNT SPORTS PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/19289.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸19909 ATV PLUS PE (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/19909.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸19909 ATV PLUS PE (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/19909.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸19909 ATV PLUS PE (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/19909.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸28089 THE COWBOY CHANNEL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/28089.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸28527 FUBO SPORTS NETWORK
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/28527.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸31542 CANAL N PE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/31542.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸37295 LIGA 1 MAX PE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/37295.m3u8
+
+
+
+
+
+
+#E#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 08📺IPTVworld🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣8️⃣ 🇺🇸  🌐🌎⭐ LATINO📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  disfruta. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
@@ -2453,10 +2904,10 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2725
 
 
 #E#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 07📺IPTVworld🌐 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 09📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣7️⃣ 🇺🇸  🌐🌎⭐ SPANISH📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣9️⃣ 🇺🇸  🌐🌎⭐ SPANISH📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  38.183. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -2678,10 +3129,10 @@ http://38.183.182.166:8000/play/a0zz/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 08📺IPTVworld🌐 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 10📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣8️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣0️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -2735,10 +3186,10 @@ http://185.189.225.149/tcm/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 09📺IPTVworld🌐 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 11📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣9️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣1️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -2811,10 +3262,10 @@ http://41.205.93.154/TLC/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVworld🌐", ##########  ♥ 10📺IPTVworld🌐 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVworld🌐", ##########  ♥ 12📺IPTVworld🌐 ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 1️⃣0️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 1️⃣2️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
 http://fortv.cc:8080/Boobear/Boobear/21895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ  streamer1. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -3064,10 +3515,10 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WPIX/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 14📺IPTVworld🌐 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 13📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣4️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣3️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -3127,10 +3578,10 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 15📺IPTVworld🌐 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 14📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣5️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣4️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  190.123. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -3178,10 +3629,10 @@ http://190.123.76.22:8000/play/a02u/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 16📺IPTVworld🌐 ♥  ##########
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ 15📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣6️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 1️⃣5️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  51.222. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
