@@ -2780,7 +2780,6 @@ http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/494.m3u8
 http://latinchannel.tv:8080/live/SNM25112/UJO847/494.m3u8
 
 
-
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸18758 VTV PLUS UY (ᵀᵛ1)
 http://s1.iptvprivado.net:8080/live/okta/lsrlo/18758.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸18758 VTV PLUS UY (ᵀᵛ2)
@@ -3112,6 +3111,9 @@ http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/8925.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸8925 GOLDEN PREMIER (ᵀᵛ3)
 http://latinchannel.tv:8080/live/SNM25112/UJO847/8925.m3u8
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸9400 TV (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/9400.m3u8
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸9562 YES NETWORK (ᵀᵛ1)
 http://s1.iptvprivado.net:8080/live/okta/lsrlo/9562.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸9562 YES NETWORK (ᵀᵛ2)
@@ -3132,6 +3134,13 @@ http://s1.iptvprivado.net:8080/live/okta/lsrlo/10076.m3u8
 http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/10076.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸10076 TOM AND JERRY 24/7 (ᵀᵛ3)
 http://latinchannel.tv:8080/live/SNM25112/UJO847/10076.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸11982 N+ FORO NMAS MX (ᵀᵛ1)
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/11982.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸11982 N+ FORO NMAS MX (ᵀᵛ2)
+http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/11982.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸11982 N+ FORO NMAS MX (ᵀᵛ3)
+http://latinchannel.tv:8080/live/SNM25112/UJO847/11982.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸11986 TELEAMAZONAS EC (ᵀᵛ1)
 http://s1.iptvprivado.net:8080/live/okta/lsrlo/11986.m3u8
