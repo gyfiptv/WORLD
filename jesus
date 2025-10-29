@@ -2504,11 +2504,11 @@ http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/120.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸120 FOX SERIES PREMIUM (ᵀᵛ3)
 http://latinchannel.tv:8080/live/SNM25112/UJO847/120.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸121 CANAL 13C (ᵀᵛ1)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸121 MTV E! (ᵀᵛ1)
 http://s1.iptvprivado.net:8080/live/okta/lsrlo/121.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸121 CANAL 13C (ᵀᵛ2)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸121 MTV E! (ᵀᵛ2)
 http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/121.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸121 CANAL 13C (ᵀᵛ3)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸121 MTV E! (ᵀᵛ3)
 http://latinchannel.tv:8080/live/SNM25112/UJO847/121.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸122 GOLDEN PLUS (ᵀᵛ1)
@@ -2626,11 +2626,11 @@ http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/157.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸157 AMC (ᵀᵛ3)
 http://latinchannel.tv:8080/live/SNM25112/UJO847/157.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸164 TUDN (ᵀᵛ1)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸164 WB TV (ᵀᵛ1)
 http://s1.iptvprivado.net:8080/live/okta/lsrlo/130.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸164 TUDN (ᵀᵛ2)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸164 WB TV (ᵀᵛ2)
 http://s1.iptvprivado.net:8080/live/aenriquez/Enca0419/130.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸164 TUDN (ᵀᵛ3)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸164 WB TV (ᵀᵛ3)
 http://latinchannel.tv:8080/live/SNM25112/UJO847/130.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸165 XFL ADRENALINA SPORTS (ᵀᵛ1)
@@ -4691,8 +4691,12 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ AMC_NETWORK (opt1)
 http://143.244.60.30/AMC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ ABC_EAST (WOLO) |E! (opt1)
 http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ WOLO-DT1 ABC 25 | Columbia SC (opt1)
+http://143.244.60.30/ABC_EAST/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ ACC_NETWORK (opt1)
 http://143.244.60.30/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ Animal_Planet (opt1)
@@ -4968,7 +4972,10 @@ http://143.244.60.30/NICK_MUSIC/index.m3u8
 http://143.244.60.30/Newsy/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.radio-online.com/images/logos/NewsNationXL.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ NEWS_NATION (opt1)
 http://143.244.60.30/NEWS_NATION/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ NBC_EAST 4 WMAQ |E! (opt1)
+http://143.244.60.30/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WMAQDT1.us" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ WMAQ-DT1 NBC 5 | Chicago IL (opt1)
 http://143.244.60.30/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ OUDOOR_CHANNEL (opt1)
