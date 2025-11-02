@@ -1665,18 +1665,96 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/fox.ktxl.sa
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ FOX (KTXL) Sacramento CA | NFL Rams (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.ktxl.sacramento.ca.us.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MSNBC USA (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/msnbc.usa.us.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MSNBC USA (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/msnbc.usa.us.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ MSNBC USA (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/msnbc.usa.us.m3u8
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Network US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.sports.network.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Network US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.sports.network.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Network US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.sports.network.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Bay Area US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.sports.bay.area.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Bay Area US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.sports.bay.area.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Bay Area US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.sports.bay.area.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Bay Area Plus US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.sports.bay.area.plus.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Bay Area Plus US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.sports.bay.area.plus.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Bay Area Plus US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.sports.bay.area.plus.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Boston US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.sports.boston.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Boston US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.sports.boston.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Boston US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.sports.boston.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports California US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.sports.california.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports California US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.sports.california.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports California US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.sports.california.us.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Chicago (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.sports.chicago.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Chicago (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.sports.chicago.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Chicago (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.sports.chicago.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Chicago Plus (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.sports.chicago.plus.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Chicago Plus (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.sports.chicago.plus.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Chicago Plus (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.sports.chicago.plus.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Philadelphia US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.sports.philadelphia.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Philadelphia US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.sports.philadelphia.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Philadelphia US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.sports.philadelphia.us.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Philadelphia Plus US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.sports.philadelphia.plus.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Philadelphia Plus US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.sports.philadelphia.plus.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Philadelphia Plus US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.sports.philadelphia.plus.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Washington US (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.sports.washington.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Washington US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.sports.washington.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC Sports Washington US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.sports.washington.us.m3u8
+
+
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 6 (WTVJ) Miami FL (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wtvj.miami.fl.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 6 (WTVJ) Miami FL (opt2)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wtvj.miami.fl.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 6 (WTVJ) Miami FL (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wtvj.miami.fl.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 6 (WTVJ) Miami FL (opt4)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/nbc.wtvj.miami.fl.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 6 (WTVJ) Miami FL (opt5)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wtvj.miami.fl.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 6 (WTVJ) Miami FL (opt6)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wtvj.miami.fl.us.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 8 (WFLA) Tampa Bay FL (opt1)
@@ -1714,12 +1792,175 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wesh.wi
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 2 (WESH) Winter Park FL (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wesh.winter.park.fl.us.m3u8
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (KKVOA) Tucson AZ (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.kvoa.tucson.az.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (KKVOA) Tucson AZ (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.kvoa.tucson.az.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (KKVOA) Tucson AZ (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.kvoa.tucson.az.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (KNBC) Los Angeles CA (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.knbc.los.angeles.ca.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (KNBC) Los Angeles CA (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.knbc.los.angeles.ca.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (KNBC) Los Angeles CA (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.knbc.los.angeles.ca.us.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WXIA) Atlanta GA (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wxia.atlanta.ga.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WXIA) Atlanta GA (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wxia.atlanta.ga.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WXIA) Atlanta GA (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wxia.atlanta.ga.us.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WAGT) Augusta GA (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wagt.augusta.ga.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WAGT) Augusta GA (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wagt.augusta.ga.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WAGT) Augusta GA (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wagt.augusta.ga.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 3 (WSAV) Savannah GA (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wsav.savannah.ga.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 3 (WSAV) Savannah GA (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wsav.savannah.ga.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 3 (WSAV) Savannah GA (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wsav.savannah.ga.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WREX) Rockford IL (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wrex.rockford.il.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WREX) Rockford IL (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wrex.rockford.il.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WREX) Rockford IL (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wrex.rockford.il.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 5 (WMAQ) Chicago IL (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wmaq.chicago.il.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 5 (WMAQ) Chicago IL (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wmaq.chicago.il.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 5 (WMAQ) Chicago IL (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wmaq.chicago.il.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KSNW) Wichita KS (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.ksnw.wichita.ks.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KSNW) Wichita KS (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.ksnw.wichita.ks.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KSNW) Wichita KS (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.ksnw.wichita.ks.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WNKY) Bowling Green KY (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wnky.bowling.green.ky.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WNKY) Bowling Green KY (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wnky.bowling.green.ky.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WNKY) Bowling Green KY (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wnky.bowling.green.ky.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 3 (WAVE) Louisville KY (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wave.louisville.ky.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 3 (WAVE) Louisville KY (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wave.louisville.ky.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 3 (WAVE) Louisville KY (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wave.louisville.ky.us.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KPLC) Lake Charles LA (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.kplc.lake.charles.la.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KPLC) Lake Charles LA (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.kplc.lake.charles.la.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KPLC) Lake Charles LA (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.kplc.lake.charles.la.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WDSU) New Orleans LA (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wdsu.new.orleans.la.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WDSU) New Orleans LA (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wdsu.new.orleans.la.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WDSU) New Orleans LA (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wdsu.new.orleans.la.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KTAL) Shreveport LA (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.ktal.shreveport.la.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KTAL) Shreveport LA (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.ktal.shreveport.la.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KTAL) Shreveport LA (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.ktal.shreveport.la.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 11 (WBAL) Baltimore MD (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wbal.baltimore.md.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 11 (WBAL) Baltimore MD (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wbal.baltimore.md.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 11 (WBAL) Baltimore MD (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wbal.baltimore.md.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WRDE) Salisbury MD (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wrde.salisbury.md.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WRDE) Salisbury MD (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wrde.salisbury.md.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WRDE) Salisbury MD (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wrde.salisbury.md.us.m3u8
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WLBZ) Bangor ME (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wlbz.bangor.me.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WLBZ) Bangor ME (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wlbz.bangor.me.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WLBZ) Bangor ME (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wlbz.bangor.me.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (WDIV) Detroit MI (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wdiv.detroit.mi.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (WDIV) Detroit MI (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wdiv.detroit.mi.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (WDIV) Detroit MI (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wdiv.detroit.mi.us.m3u8
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KTTC) Rochester MN (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.kttc.rochester.mn.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KTTC) Rochester MN (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.kttc.rochester.mn.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KTTC) Rochester MN (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.kttc.rochester.mn.us.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WITN) Greenville NC (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.witn.greenville.nc.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WITN) Greenville NC (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.witn.greenville.nc.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WITN) Greenville NC (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.witn.greenville.nc.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KFYR) Bismarck ND (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.kfyr.bismarck.nd.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KFYR) Bismarck ND (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.kfyr.bismarck.nd.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KFYR) Bismarck ND (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.kfyr.bismarck.nd.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KSNB) Hastings NE (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.ksnb.hastings.ne.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KSNB) Hastings NE (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.ksnb.hastings.ne.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KSNB) Hastings NE (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.ksnb.hastings.ne.us.m3u8
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 13 (WNYT) Albany NY (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wnyt.albany.ny.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 13 (WNYT) Albany NY (opt2)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wnyt.albany.ny.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 13 (WNYT) Albany NY (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wnyt.albany.ny.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 2 (WGRZ) Buffalo NY (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wgrz.buffalo.ny.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 2 (WGRZ) Buffalo NY (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wgrz.buffalo.ny.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 2 (WGRZ) Buffalo NY (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wgrz.buffalo.ny.us.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (WNBC) New York NY (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8
@@ -1728,12 +1969,62 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wnbc.ne
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (WNBC) New York NY (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (KKVOA) Tucson AZ (opt1)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.kvoa.tucson.az.us.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (KKVOA) Tucson AZ (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.kvoa.tucson.az.us.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (KKVOA) Tucson AZ (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.kvoa.tucson.az.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WDTN) Dayton OH (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wdtn.dayton.oh.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WDTN) Dayton OH (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wdtn.dayton.oh.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WDTN) Dayton OH (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wdtn.dayton.oh.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WTOV) Steubenville OH (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wtov.steubenville.oh.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WTOV) Steubenville OH (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wtov.steubenville.oh.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WTOV) Steubenville OH (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wtov.steubenville.oh.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WPXI) Pittsburgh PA (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wpxi.pittsburgh.pa.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WPXI) Pittsburgh PA (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wpxi.pittsburgh.pa.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WPXI) Pittsburgh PA (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wpxi.pittsburgh.pa.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 2 (WCBD) Charleston SC (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wcbd.charleston.sc.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 2 (WCBD) Charleston SC (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wcbd.charleston.sc.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 2 (WCBD) Charleston SC (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wcbd.charleston.sc.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 10 (WIS) Columbia SC (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wis.columbia.sc.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 10 (WIS) Columbia SC (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wis.columbia.sc.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 10 (WIS) Columbia SC (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wis.columbia.sc.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WRCB) Chattanooga TN (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wrcb.chattanooga.tn.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WRCB) Chattanooga TN (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wrcb.chattanooga.tn.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WRCB) Chattanooga TN (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wrcb.chattanooga.tn.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (WSMV) Nashville TN (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wsmv.nashville.tn.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (WSMV) Nashville TN (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wsmv.nashville.tn.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 4 (WSMV) Nashville TN (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wsmv.nashville.tn.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WOAI) San Antonio TX (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.woai.san.antonio.tx.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WOAI) San Antonio TX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.woai.san.antonio.tx.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WOAI) San Antonio TX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.woai.san.antonio.tx.us.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 2 (KPRC) Houston TX (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.kprc.houston.tx.us.m3u8
@@ -1741,6 +2032,35 @@ https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.kprc.hou
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.kprc.houston.tx.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC 2 (KPRC) Houston TX (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.kprc.houston.tx.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KCBD) Lubbock TX (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.kprc.houston.tx.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KCBD) Lubbock TX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.kprc.houston.tx.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KCBD) Lubbock TX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.kprc.houston.tx.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KCEN) Temple TX (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.kcen.temple.tx.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KCEN) Temple TX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.kcen.temple.tx.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KCEN) Temple TX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.kcen.temple.tx.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WCYB) Bristol VA (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wcyb.bristol.va.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WCYB) Bristol VA (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wcyb.bristol.va.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WCYB) Bristol VA (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wcyb.bristol.va.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WSLS) Roanoke VA (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.wsls.roanoke.va.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WSLS) Roanoke VA (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.wsls.roanoke.va.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (WSLS) Roanoke VA (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.wsls.roanoke.va.us.m3u8
+
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KING5) Seattle WA (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.king.seattle.wa.us.m3u8
@@ -1756,6 +2076,18 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.khq.spo
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KHQ6) Spokane WA (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.khq.spokane.wa.us.m3u8
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KCWY) Casper WY (opt1)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/nbc.kcwy.casper.wy.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KCWY) Casper WY (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nbc.kcwy.casper.wy.us.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ NBC (KCWY) Casper WY (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nbc.kcwy.casper.wy.us.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ RTE NEWS UK (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/rte.news.uk.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ RTE NEWS UK (opt2)
@@ -1763,16 +2095,13 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/rte.news.uk
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ RTE NEWS UK (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/rte.news.uk.m3u8
 
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ ACCUWEATHER NW US (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/accuweather.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ ACCUWEATHER NW US (opt2)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/accuweather.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ ACCUWEATHER NW US (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/accuweather.us.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸⚽ ✝BET* Gospel US (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/bet.gospel.us.m3u8
