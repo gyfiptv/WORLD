@@ -4701,7 +4701,7 @@ http://fortv.cc:8080/Boobear/Boobear/120780
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 GROUP 1️⃣2️⃣ 🇺🇸  🌐🌎⭐ 🇪🇸USALATINOᵀᵛ🌐world🇺🇸 ⭐🌎🌐
 http://fortv.cc:8080/Boobear/Boobear/21895
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ  streamer1. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ  streamer1.nexgen 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
@@ -4954,92 +4954,22 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 1️⃣3️⃣ 🇺🇸  🌐🌎⭐ SPAINᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  streamer1.connectto 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="ARTNTV.us" tvg-country="AM" tvg-language="Armenian;Russian" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png" group-title="📺IPTVworld🌐",ARTN TV (1080p) [Not 24/7]
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 
-#EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² BABY TV (ᵀᵛ²)
-http://185.189.225.149/BabyTV/index.m3u8
 
-#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Bom Cine | Movies (ᵀᵛ²)
-http://185.189.225.149/BOM/index.m3u8
 
-#EXTINF:-1 tvg-id=“cocina.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Canal Cocina ES (ᵀᵛ²)
-http://185.189.225.149/cocina/index.m3u8
 
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² F. Fdf | Factoria de Ficcion ES (ᵀᵛ²)
-http://185.189.225.149/fdf/index.m3u8
-
-#EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
-http://185.189.225.149/GOLPLAY/index.m3u8
-
-#EXTINF:-1 tvg-id="HITTV.es" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Hit Tv |Music (ᵀᵛ²)
-http://185.189.225.149/HitTV/index.m3u8
-
-#EXTINF:-1 tvg-id=“iberalia.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² IBERALIA ES (ᵀᵛ²)
-http://185.189.225.149/iberalia/index.m3u8
-
-#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² 8madrid TV | Movies (ᵀᵛ²)
-http://185.189.225.149/8madrid/index.m3u8
-
-#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² MEGA ES (ᵀᵛ²)
-http://185.189.225.149/mega/index.m3u8 
-
-#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Paramount Network ES (ᵀᵛ²)
-http://185.189.225.149/paramount/index.m3u8 
-
-#EXTINF:-1 tvg-id=“STAR.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Star Channel ES (ᵀᵛ²)
-http://185.189.225.149/STAR/index.m3u8
-
-#EXTINF:-1 tvg-id=“tcm.es"  group-title="📺IPTVworld🌐",🇪🇸Ⓜ² TCM ES (ᵀᵛ²)
-http://185.189.225.149/tcm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVworld🌐",🇺🇸☑ MyTime Movie Network | Movies
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVworld🌐",🇪🇸☑ MyTime Movie Network Spain | Movies
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² BABY TV (ᵀᵛ²)
-http://185.189.225.149/BabyTV/index.m3u8
-
-#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Bom Cine | Movies (ᵀᵛ²)
-http://185.189.225.149/BOM/index.m3u8
-
-#EXTINF:-1 tvg-id=“cocina.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Canal Cocina ES (ᵀᵛ²)
-http://185.189.225.149/cocina/index.m3u8
-
-#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² F. Fdf ES (ᵀᵛ²)
-http://185.189.225.149/fdf/index.m3u8
-
-#EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
-http://185.189.225.149/GOLPLAY/index.m3u8
-
-#EXTINF:-1 tvg-id="HITTV.es" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Hit Tv |Music (ᵀᵛ²)
-http://185.189.225.149/HitTV/index.m3u8
-
-#EXTINF:-1 tvg-id=“iberalia.es" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² IBERALIA ES (ᵀᵛ²)
-http://185.189.225.149/iberalia/index.m3u8
-
-#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² 8madrid TV | Movies (ᵀᵛ²)
-http://185.189.225.149/8madrid/index.m3u8
-
-#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² MEGA ES (ᵀᵛ²)
-http://185.189.225.149/mega/index.m3u8 
-
-#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Paramount Network ES (ᵀᵛ²)
-http://185.189.225.149/paramount/index.m3u8 
-
-#EXTINF:-1 tvg-id=“STAR.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² Star Channel ES (ᵀᵛ²)
-http://185.189.225.149/STAR/index.m3u8
-
-#EXTINF:-1 tvg-id=“tcm.es" group-title="📺IPTVworld🌐",🇪🇸Ⓜ² TCM ES (ᵀᵛ²)
-http://185.189.225.149/tcm/index.m3u8
 
 
 
