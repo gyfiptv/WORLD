@@ -175,11 +175,11 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cnn.espanol
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ CNN ESPANOL CO (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cnn.espanol.co.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇲🇽⚽ TUDN MX (opt1)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇲🇽⚽ TUDN | VIX MX (opt1)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇲🇽⚽ TUDN MX (opt2)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇲🇽⚽ TUDN | VIX MX (opt2)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇲🇽⚽ TUDN MX (opt3)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇲🇽⚽ TUDN | VIX MX (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tudn.mx.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ UNIVISION 41 Eastern NY (opt1)
@@ -4323,15 +4323,15 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2733
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ² TIVA TV (opt2)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2733
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ MEGA TV (opt1) X
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ MEGA TV (opt1) 
 http://disfruta.net:80/fpavas/raZFGMA7GT/2726
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ TELEORO CANAL 13 (opt1) X
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ TELEORO CANAL 13 (opt1) 
 http://disfruta.net:80/fpavas/raZFGMA7GT/2732
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ UNIVISION (opt1) X
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ CANAL 11 | UNIVISION (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2728
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WAPA 2 (opt1) X
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WAPA 2 (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2730
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WIPR CANAL 6 (opt1) X
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WIPR CANAL 6 (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2725
 
 
@@ -7710,6 +7710,10 @@ https://cloudvideo.servers10.com:8081/8108/index.m3u8
 http://fortv.cc:8080/Boobear/Boobear/21895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rt TELEMUNDO INTERNACIONAL Latino
+http://38.183.182.166:8000/play/a0rt/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ² TBS (opt1)
