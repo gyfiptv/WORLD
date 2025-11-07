@@ -2407,8 +2407,6 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/369
 http://disfruta.net:80/fpavas/raZFGMA7GT/1059
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ D1R3CTV SP0RTS 2 HD
 http://disfruta.net:80/fpavas/raZFGMA7GT/1205
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ D1R3CTV SP0RTS+ PLUS HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/1205
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ D1R3CTV SP0RTS FHD (EC)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1383
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇦🇷ᵀᵛ¹ D1R3CTV SP0RTS FHD (PE)
@@ -2477,11 +2475,6 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/295
 
 
 
-
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ CANAL 24 HORAS
-http://disfruta.net:80/fpavas/raZFGMA7GT/276
-
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ CARACOLᴴᴰ
 http://disfruta.net:80/fpavas/raZFGMA7GT/260
 
@@ -2491,38 +2484,23 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/262
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL
 http://disfruta.net:80/fpavas/raZFGMA7GT/263
 
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ CITY TV
-http://disfruta.net:80/fpavas/raZFGMA7GT/264
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ COSMOVISION
 http://disfruta.net:80/fpavas/raZFGMA7GT/265
-
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ CITY TV
+http://disfruta.net:80/fpavas/raZFGMA7GT/264
 
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS FHD (CO)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1382
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS FHD (CO)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1382
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS 2 HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/1205
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS 2 HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/1205
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS+ PLUS HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/1205
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS+ PLUS HD
 http://disfruta.net:80/fpavas/raZFGMA7GT/1205
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS FHD (EC)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1383
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS FHD (EC)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1383
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS FHD (AR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1059
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS FHD (AR)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1059
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ D1R3CTV SP0RTS FHD (PE)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1194
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ² D1R3CTV SP0RTS FHD (PE)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1194
+
 
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇨🇴ᵀᵛ¹ ESPN 2 HD (AR)
@@ -2641,28 +2619,19 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/513
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS FHD (PE)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1194
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS FHD (PE)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1194
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS 2 HD
 http://disfruta.net:80/fpavas/raZFGMA7GT/1205
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS 2 HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/1205
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS+ PLUS HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/1205
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS+ PLUS HD
-http://disfruta.net:80/fpavas/raZFGMA7GT/1205
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS FHD (EC)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1383
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS FHD (EC)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1383
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS FHD (AR)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1059
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS FHD (AR)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1059
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ D1R3CTV SP0RTS FHD (CO)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1382
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ² D1R3CTV SP0RTS FHD (CO)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1382
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="📺IPTVworld🌐",🇵🇪ᵀᵛ¹ ESPN 2 HD (AR)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1084
@@ -2873,9 +2842,9 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2713
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ² UNICOS | Canal TVO +23 (opt2)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2713
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ Nex Canal 21 (opt1)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ TV MAX | Nex Canal 21 (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2714
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ² Nex Canal 21 (opt2)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ² TV MAX | Nex Canal 21 (opt2)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2714
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ SERTV RPC (opt1)
@@ -2909,15 +2878,24 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2716
 
 
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ ¹ TELEMUNDO (opt1)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ TELEMUNDO PR (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2727
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ² TELEMUNDO (opt2)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ² TELEMUNDO PR (opt2)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2727
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ CANAL 11 | UNIVISION (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2728
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ CANAL 11 | UNIVISION (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2728
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WAPA (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2731
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ² WAPA (opt2)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2731
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WAPA 2 (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2730
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WAPA 2 (opt2)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2730
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ TIVA TV (opt1) 
 http://disfruta.net:80/fpavas/raZFGMA7GT/2733
@@ -2928,10 +2906,6 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2733
 http://disfruta.net:80/fpavas/raZFGMA7GT/2726
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ TELEORO CANAL 13 (opt1) 
 http://disfruta.net:80/fpavas/raZFGMA7GT/2732
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ CANAL 11 | UNIVISION (opt1)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2728
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WAPA 2 (opt1)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2730
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WIPR CANAL 6 (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2725
 
@@ -2992,12 +2966,6 @@ http://38.183.182.166:8000/play/a0ih/index.m3u8
 http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ij RT Latino
 http://38.183.182.166:8000/play/a0ij/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0iq ESPN 7 Latino
-http://38.183.182.166:8000/play/a0iq/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0it ESPN 5 Latino
-http://38.183.182.166:8000/play/a0it/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0iu ESPN 6 Latino
-http://38.183.182.166:8000/play/a0iu/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0iq ESPN 7 Latino
 http://38.183.182.166:8000/play/a0iq/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0it ESPN 5 Latino
@@ -3615,17 +3583,95 @@ https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVworld🌐",🇪🇸☑ MyTime Movie Network Spain | Movies
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ARTNTV.us" tvg-country="AM" tvg-language="Armenian;Russian" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png" group-title="📺IPTVworld🌐",ARTN TV US (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ARTNTV.us" tvg-country="AM" tvg-language="Armenian;Russian" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png" group-title="📺IPTVworld🌐",🇺🇸☑ ARTN TV US (1080p) [Not 24/7]
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:-1 tvg-id="AmgaTV.us" tvg-country="AM" tvg-language="Armenian;English;Russian" tvg-logo="https://i.imgur.com/3vQVwUV.jpg" group-title="📺IPTVworld🌐",Amga TV US (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AmgaTV.us" tvg-country="AM" tvg-language="Armenian;English;Russian" tvg-logo="https://i.imgur.com/3vQVwUV.jpg" group-title="📺IPTVworld🌐",🇺🇸☑ Amga TV US (720p) [Not 24/7]
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
-#EXTINF:-1 tvg-id="HighVisionTV.ir" tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="📺IPTVworld🌐",High Vision IR | Music
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KIIOLD4.us" tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="📺IPTVworld🌐",AABC TV (480p)
+#EXTINF:-1 tvg-id="KIIOLD4.us" tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="📺IPTVworld🌐",🇺🇸☑ AABC TV (480p)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 
+#EXTINF:-1 tvg-id="HighVisionTV.ir" tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="📺IPTVworld🌐",🇺🇸☑ High Vision IR | Music
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸☑ High Vision
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸☑ High Vision (1080p) [Not 24/7]
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="📺IPTVworld🌐",🇺🇸121 Hard Knocks | Sports
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="📺IPTVworld🌐",🇺🇸145 24 Hour Free Movies US | Movies (720p)
+https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="📺IPTVworld🌐",🇺🇸150 World Poker Tour | Sports
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="📺IPTVworld🌐",🇺🇸158 24 Hour Free Movies (720p) [Not 24/7]
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+
+#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="📺IPTVworld🌐",🇺🇸193 Ski TV | Sports (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTrKSxt.png" group-title="📺IPTVworld🌐",🇺🇸216 Poker Night in America | Sports
+https://d2njbreu8qyfxo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-PokerNightInAmerica/216.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GsSS3HM.jpeg" group-title="📺IPTVworld🌐",🇺🇸236 The Grappling Network | Sports
+https://d1vwakhda3vp6p.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-TheGrapplingNetwork/236.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKmEBLp.png" group-title="📺IPTVworld🌐",🇺🇸255 EVRGRN TV | Lifestyle
+https://d3i0k0tahnbipo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-EVRGRN/255.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸257 FREEBIE TV | Movies & TV 
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/257.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="📺IPTVworld🌐",🇺🇸263 Fite 24/7 | Sports
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="📺IPTVworld🌐",🇺🇸263 Fite 24/7 | Sports (opt1)
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="📺IPTVworld🌐",🇺🇸263 Fite 24/7 | Sports (opt2)
+https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/263.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="📺IPTVworld🌐",🇺🇸266 KYUSHO JITSU | Fight
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/266.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸270 WCT | World Champions
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/270.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸276 EXTREME +
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/276.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸280 SENSHI | Fight
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/280.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸281 SENSHI | Fight
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/281.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸316 ZOOMER| gym
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/316.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸391 CrimeFlix (opt1)
+https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸391 CrimeFlix (opt2)
+https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸417 Gospel Mix (opt1)
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/417.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸417 Gospel Mix (opt2)
+https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/417.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸418 Cricket Gold (opt1)
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸418 Cricket Gold (opt2)
+https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/418.m3u8
 
 
 
@@ -4266,30 +4312,22 @@ http://fl7.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_1 |Movies (opt1)
 http://fl1.moveonjoy.com/CRAVE_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_1 |Movies (opt2)
-http://fl2.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_1 |Movies (opt3)
 http://fl7.moveonjoy.com/CRAVE_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_2 |Movies (opt1)
 http://fl1.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_2 |Movies (opt2)
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_2 |Movies (opt3)
-http://fl7.moveonjoy.com/CRAVE_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_3 |Movies (opt1)
 http://fl1.moveonjoy.com/CRAVE_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_3 |Movies (opt2)
-http://fl2.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_3 |Movies (opt3)
 http://fl7.moveonjoy.com/CRAVE_3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_4 |Movies (opt1)
 http://fl1.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_4 |Movies (opt2)
 http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CRAVE_4 |Movies (opt3)
-http://fl7.moveonjoy.com/CRAVE_4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/392-3925337_cmt-logo-png-transparent-png.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ CMT |E! (opt1)
 http://fl1.moveonjoy.com/CMT/index.m3u8
@@ -5526,6 +5564,44 @@ http://fortv.cc:8080/Boobear/Boobear/21895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸418 Cricket Gold | Sports (1080p)
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="📺IPTVworld🌐",🇺🇸☑ Kartoon Channel | Kids
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ComedyCentralenEspanol.us" tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="📺IPTVworld🌐",🇪🇸☑ Comedy Central en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
+#EXTINF:-1 tvg-id="ComediaMadeinSpain.us" tvg-logo="https://i.imgur.com/8ddFdSQ.png" group-title="📺IPTVworld🌐",🇪🇸☑ Comedia Made in Spain (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="📺IPTVworld🌐",🇪🇸fl1 Comedy Central East (720p)
+https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="📺IPTVworld🌐",🇪🇸fl2 Comedy Central East (720p)
+https://fl2.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-logo="https://i.imgur.com/KLfXnba.png" group-title="📺IPTVworld🌐",🇪🇸fl1 Comedy TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-logo="https://i.imgur.com/KLfXnba.png" group-title="📺IPTVworld🌐",🇪🇸fl2 Comedy TV
+https://fl2.moveonjoy.com/Comedy_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="📺IPTVworld🌐",🇪🇸fl1 Comet | E! (720p)
+https://fl1.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="📺IPTVworld🌐",🇪🇸fl2 Comet | E! (720p)
+https://fl2.moveonjoy.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Canada" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="📺IPTVworld🌐",🇪🇸☑ Comedy Central
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac
+
+#EXTINF:-1 tvg-id="ComedyCentralAnimation.us@SD" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="📺IPTVworld🌐",🇪🇸☑ Comedy Central Animation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a949f5b5e4000862467c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b862-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=954a470a-ef46-4375-9079-27408bd93898
+
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="📺IPTVworld🌐",🇪🇸☑ Comedy Central Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
+
+
+
 #EXTINF:-1 tvg-id="AlacantiTV.es" tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="📺IPTVworld🌐",🇪🇸☑ Alacantí TV ES (576p) [Not 24/7]
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-id="AlcarriaTV.es" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="📺IPTVworld🌐",🇪🇸☑ Alcarria TV ES (576p) [Not 24/7]
@@ -5622,6 +5698,11 @@ http://41.205.93.154/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://uspto.report/TM/90204662/mark.png" group-title="📺IPTVworld🌐",🇺🇸ⓕ269 Camp Spoopy | Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:-1 tvg-logo="https://uspto.report/TM/90204662/mark.png" group-title="📺IPTVworld🌐",🇺🇸ⓕ269 Camp Spoopy | Kids
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=269
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bhY0Zcs.png" group-title="📺IPTVworld🌐",🇺🇸ⓕ46 Cooking Panda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=46
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bhY0Zcs.png" group-title="📺IPTVworld🌐",🇺🇸ⓕ46 Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
@@ -5634,11 +5715,26 @@ https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="📺IPTVworld🌐",🇺🇸☑ Classic Cinema Online |Movies
 https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="📺IPTVworld🌐",🇺🇸☑ CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="📺IPTVworld🌐",🇺🇸☑ Comedy Dynamics
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="📺IPTVworld🌐",🇺🇸☑ CGTN Español | News(1080p)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="📺IPTVworld🌐",🇺🇸☑ CGTN | News (1080p)
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="📺IPTVworld🌐",🇺🇸☑ CGTN Documentary (1080p)
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png" group-title="📺IPTVworld🌐",🇺🇸☑ CGTN Documentary
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="📺IPTVworld🌐",🇺🇸☑ CGTN Arabic | News (1080p) [Not 24/7]
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="📺IPTVworld🌐",🇺🇸☑ CGTN Français | News (1080p) [Not 24/7]
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="📺IPTVworld🌐",🇺🇸☑ CGTN Русский | News (1080p)
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 
 
@@ -5991,7 +6087,11 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVworld🌐",🇺🇸☑ MyTime Movie Network
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸☑ Cowboy Movie Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 
+#EXTINF:-1 tvg-id="CosmosTv.ar@SD" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="📺IPTVworld🌐",🇪🇸☑ Cosmos TV | Movies | News (720p)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="📺IPTVworld🌐",🇲🇽☑ Azteca Internacional MX 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
