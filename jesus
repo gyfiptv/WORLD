@@ -2184,7 +2184,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02d TN 7 CR
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02d TELETICA 7 CR
 http://200.125.170.122:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02g ANIMAL PLANET | DISCOVERY
 http://200.125.170.122:8000/play/a02g/index.m3u8
@@ -2214,7 +2214,7 @@ http://200.125.170.122:8000/play/a03k/index.m3u8
 http://200.125.170.122:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03o TELEUNION CANAL 12 RD
 http://200.125.170.122:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03s CANAL 11
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03s CANAL 11 REPRETEL CR
 http://200.125.170.122:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03t TCS+
 http://200.125.170.122:8000/play/a03t/index.m3u8
@@ -2227,78 +2227,77 @@ http://200.125.170.122:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03z HISTORY 2
 http://200.125.170.122:8000/play/a03z/index.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04a TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04a GOLDEN
 http://200.125.170.122:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04b TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04b TCM
 http://200.125.170.122:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04c MC
 http://200.125.170.122:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04d TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04d ES NE
 http://200.125.170.122:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04e TV
-http://200.125.170.122:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04f TV
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04f TIGO SPORTS CR
 http://200.125.170.122:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04g TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04g NICKELODEON
 http://200.125.170.122:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04i TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04i THEATER DISCOVERY
 http://200.125.170.122:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04j TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04j H&H DISCOVERY
 http://200.125.170.122:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04k TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04k HOLA! TV
 http://200.125.170.122:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04l TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04l COMEDY CENTRAL
 http://200.125.170.122:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04o TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04o UNIVERSAL PREMIERE
 http://200.125.170.122:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04p TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04p UNIVERSAL PREMIERE
 http://200.125.170.122:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04q TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04q UNIVERSAL REALITY
 http://200.125.170.122:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04r TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04r UNIVERSAL CRIME
 http://200.125.170.122:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04s TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04s UNIVERSAL+
 http://200.125.170.122:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04t TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04t RTVD RD
 http://200.125.170.122:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04v TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04v TV MUSIC
 http://200.125.170.122:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04w TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04w TV MUSIC
 http://200.125.170.122:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04x TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04x LAR D TV
 http://200.125.170.122:8000/play/a04x/index.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05d TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05d LUM
 http://200.125.170.122:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05g TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05g CONCERT
 http://200.125.170.122:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05h TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05h UNIVERSAL TV
 http://200.125.170.122:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05j TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05j MP*
 http://200.125.170.122:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05l TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05l CINEMAX
 http://200.125.170.122:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05o TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a05o NBC
 http://200.125.170.122:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05p TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05p TVE ES
 http://200.125.170.122:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05q TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05q R TV
 http://200.125.170.122:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05s TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05s AXN
 http://200.125.170.122:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05t TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05t SPACE
 http://200.125.170.122:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05u TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05u FUTV SPORTS CR
 http://200.125.170.122:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05v TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05v ESPN
 http://200.125.170.122:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05w TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a05w ESPN 3
 http://200.125.170.122:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05x TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05x ESPN 3
 http://200.125.170.122:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05y TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05y ESPN 6
 http://200.125.170.122:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05z TV
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05z NATIONAL GEOGRAPHIC
 http://200.125.170.122:8000/play/a05z/index.m3u8
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09h TELEMICRO CANAL 5 RD
