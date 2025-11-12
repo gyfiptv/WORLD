@@ -2160,180 +2160,22 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tvj.car.m3
 
 
 
-#E#EXTM3U
+
+#EXTM3U
 #EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ GROUP 07 📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣7️⃣ 🇺🇸  🌐🌎⭐ USALATINOᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  s1.iptv 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸☑  Cowboy Movie Channel
-https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸☑  MIRAMAX | Movie Channel
-https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVworld🌐",🇺🇸☑ MyTime Movie Network | Movies
-https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVworld🌐",🇪🇸☑ MyTime Movie Network Spain | Movies
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02d TELETICA 7 CR
-http://200.125.170.122:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02g ANIMAL PLANET | DISCOVERY
-http://200.125.170.122:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02k AMC
-http://200.125.170.122:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02o SONY MOVIES
-http://200.125.170.122:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02q TV AZTECA 7
-http://200.125.170.122:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02u TEENNICK
-http://200.125.170.122:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02x ENTERTAINMENT!
-http://200.125.170.122:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02y FILM&ARTS
-http://200.125.170.122:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02z A&E
-http://200.125.170.122:8000/play/a02z/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="📺IPTVworld🌐",🇩🇴☑ CDN Deportes RD | Sports 
-http://200.125.170.122:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03k TELEUNIVERSO RD
-http://200.125.170.122:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03n TELECENTRO RD
-http://200.125.170.122:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03o TELEUNION CANAL 12 RD
-http://200.125.170.122:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03s CANAL 11 REPRETEL CR
-http://200.125.170.122:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03t TCS+
-http://200.125.170.122:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03v BABY FIRST
-http://200.125.170.122:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03x RCN NOVELAS
-http://200.125.170.122:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03y EURO CHANNEL
-http://200.125.170.122:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03z HISTORY 2
-http://200.125.170.122:8000/play/a03z/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04a GOLDEN
-http://200.125.170.122:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04b TCM
-http://200.125.170.122:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04c MC
-http://200.125.170.122:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04d ES NE
-http://200.125.170.122:8000/play/a04d/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04f TIGO SPORTS CR
-http://200.125.170.122:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04g NICKELODEON
-http://200.125.170.122:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04i THEATER DISCOVERY
-http://200.125.170.122:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04j H&H DISCOVERY
-http://200.125.170.122:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04k HOLA! TV
-http://200.125.170.122:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04l COMEDY CENTRAL
-http://200.125.170.122:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04o UNIVERSAL PREMIERE
-http://200.125.170.122:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04p UNIVERSAL PREMIERE
-http://200.125.170.122:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04q UNIVERSAL REALITY
-http://200.125.170.122:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04r UNIVERSAL CRIME
-http://200.125.170.122:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04s UNIVERSAL+
-http://200.125.170.122:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04t RTVD RD
-http://200.125.170.122:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04v TV MUSIC
-http://200.125.170.122:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04w TV MUSIC
-http://200.125.170.122:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04x LAR D TV
-http://200.125.170.122:8000/play/a04x/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05d LUM
-http://200.125.170.122:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05g CONCERT
-http://200.125.170.122:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05h UNIVERSAL TV
-http://200.125.170.122:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05j MP*
-http://200.125.170.122:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05l CINEMAX
-http://200.125.170.122:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a05o NBC
-http://200.125.170.122:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05p TVE ES
-http://200.125.170.122:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05q R TV
-http://200.125.170.122:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05s AXN
-http://200.125.170.122:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05t SPACE
-http://200.125.170.122:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05u FUTV SPORTS CR
-http://200.125.170.122:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05v ESPN
-http://200.125.170.122:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a05w ESPN 3
-http://200.125.170.122:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05x ESPN 3
-http://200.125.170.122:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05y ESPN 6
-http://200.125.170.122:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05z NATIONAL GEOGRAPHIC
-http://200.125.170.122:8000/play/a05z/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09h TELEMICRO CANAL 5 RD
-http://200.125.170.122:8000/play/a09h/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09h COLOR VISION CANAL 9 RD
-http://200.125.170.122:8000/play/a09h/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09j CDN RD
-http://200.125.170.122:8000/play/a09j/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09l TOONCAST
-http://200.125.170.122:8000/play/a09l/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09m TV AZTECA 7 INTERNACIONAL
-http://200.125.170.122:8000/play/a09m/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09v TLC
-http://200.125.170.122:8000/play/a09v/index.m3u8
-
-
-
-
-
-
-#E#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ GROUP 08 📺IPTVworld🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣8️⃣ 🇺🇸  🌐🌎⭐ LATINOᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣7️⃣ 🇺🇸  🌐🌎⭐ LATINOᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  disfruta. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="📺IPTVworld🌐",🇦🇷CRONICA TV (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/355
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="📺IPTVworld🌐",🇦🇷CRONICA TV (opt2)
 http://disfruta.net:80/fpavas/raZFGMA7GT/355
-
-
 
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸ᵀᵛ¹ ADRENALINA SPORTS NETWORK HD (AR)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1072
@@ -2874,10 +2716,6 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2711
 http://disfruta.net:80/fpavas/raZFGMA7GT/2716
 
 
-
-
-
-
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ TELEMUNDO PR (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2727
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ² TELEMUNDO PR (opt2)
@@ -2908,6 +2746,163 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2726
 http://disfruta.net:80/fpavas/raZFGMA7GT/2732
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇷ᴾᴿ¹ WIPR CANAL 6 (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2725
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ GROUP 08 📺IPTVworld🌐 ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣8️⃣ 🇺🇸  🌐🌎⭐ USALATINOᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  200.125. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸☑  Cowboy Movie Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸☑  MIRAMAX | Movie Channel
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVworld🌐",🇺🇸☑ MyTime Movie Network | Movies
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVworld🌐",🇪🇸☑ MyTime Movie Network Spain | Movies
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02d TELETICA 7 CR
+http://200.125.170.122:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02g ANIMAL PLANET | DISCOVERY
+http://200.125.170.122:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02k AMC
+http://200.125.170.122:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02o SONY MOVIES
+http://200.125.170.122:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02q TV AZTECA 7
+http://200.125.170.122:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02u TEENNICK
+http://200.125.170.122:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02x ENTERTAINMENT!
+http://200.125.170.122:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02y FILM&ARTS
+http://200.125.170.122:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a02z A&E
+http://200.125.170.122:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="📺IPTVworld🌐",🇩🇴☑ CDN Deportes RD | Sports 
+http://200.125.170.122:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03k TELEUNIVERSO RD
+http://200.125.170.122:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03n TELECENTRO RD
+http://200.125.170.122:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03o TELEUNION CANAL 12 RD
+http://200.125.170.122:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03s CANAL 11 REPRETEL CR
+http://200.125.170.122:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03t TCS+
+http://200.125.170.122:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03v BABY FIRST
+http://200.125.170.122:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03x RCN NOVELAS
+http://200.125.170.122:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03y EURO CHANNEL
+http://200.125.170.122:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a03z HISTORY 2
+http://200.125.170.122:8000/play/a03z/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04a GOLDEN
+http://200.125.170.122:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04b TCM
+http://200.125.170.122:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04c MC
+http://200.125.170.122:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04d ES NE
+http://200.125.170.122:8000/play/a04d/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04f TIGO SPORTS CR
+http://200.125.170.122:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04g NICKELODEON
+http://200.125.170.122:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04i THEATER DISCOVERY
+http://200.125.170.122:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04j H&H DISCOVERY
+http://200.125.170.122:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04k HOLA! TV
+http://200.125.170.122:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04l COMEDY CENTRAL
+http://200.125.170.122:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04o UNIVERSAL PREMIERE
+http://200.125.170.122:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04p UNIVERSAL PREMIERE
+http://200.125.170.122:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04q UNIVERSAL REALITY
+http://200.125.170.122:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04r UNIVERSAL CRIME
+http://200.125.170.122:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04s UNIVERSAL+
+http://200.125.170.122:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04t RTVD RD
+http://200.125.170.122:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04v TV MUSIC
+http://200.125.170.122:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04w TV MUSIC
+http://200.125.170.122:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a04x LAR D TV
+http://200.125.170.122:8000/play/a04x/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05d LUM
+http://200.125.170.122:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05g CONCERT
+http://200.125.170.122:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05h UNIVERSAL TV
+http://200.125.170.122:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05j MP*
+http://200.125.170.122:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05l CINEMAX
+http://200.125.170.122:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a05o NBC
+http://200.125.170.122:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05p TVE ES
+http://200.125.170.122:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05q R TV
+http://200.125.170.122:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05s AXN
+http://200.125.170.122:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05t SPACE
+http://200.125.170.122:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05u FUTV SPORTS CR
+http://200.125.170.122:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05v ESPN
+http://200.125.170.122:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a05w ESPN 3
+http://200.125.170.122:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05x ESPN 3
+http://200.125.170.122:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05y ESPN 6
+http://200.125.170.122:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a05z NATIONAL GEOGRAPHIC
+http://200.125.170.122:8000/play/a05z/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09h TELEMICRO CANAL 5 RD
+http://200.125.170.122:8000/play/a09h/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09h COLOR VISION CANAL 9 RD
+http://200.125.170.122:8000/play/a09h/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09j CDN RD
+http://200.125.170.122:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09l TOONCAST
+http://200.125.170.122:8000/play/a09l/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09m TV AZTECA 7 INTERNACIONAL
+http://200.125.170.122:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a09v TLC
+http://200.125.170.122:8000/play/a09v/index.m3u8
+
+
+
+
+
 
 
 
@@ -3672,6 +3667,12 @@ https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸418 Cricket Gold (opt2)
 https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/418.m3u8
+
+
+
+
+
+
 
 
 
