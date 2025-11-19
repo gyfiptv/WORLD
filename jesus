@@ -4122,50 +4122,45 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ AMC_NETWORK (opt1)
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 AMC_NETWORK (opt1)
 https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ AMC_NETWORK (opt2)
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 AMC_NETWORK (opt2)
 https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ ABC_EAST 25 Columbia (opt1)
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 ABC_EAST 25 Columbia (opt1)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ ABC_EAST 25 Columbia (opt2)
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 ABC_EAST 25 Columbia (opt2)
 http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ ACCN ESPN | ACC_NETWORK (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 ACCN ESPN | ACC_NETWORK (opt1)
 http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ ACCN ESPN | ACC_NETWORK (opt2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 ACCN ESPN | ACC_NETWORK (opt2)
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ Animal_Planet (opt1)
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 Animal_Planet (opt1)
 http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ Animal_Planet (opt2)
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 Animal_Planet (opt2)
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ American_Heroes_Channel |Documentary (opt1) X
+#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 American_Heroes_Channel |Documentary (opt1) X
 http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ American_Heroes_Channel |Documentary (opt2) X
+#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 American_Heroes_Channel |Documentary (opt2) X
 http://fl2.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ BEIN_SPORTS (opt1)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 BEIN_SPORTS (opt1)
 https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ BEIN_SPORTS (opt2)
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 BEIN_SPORTS (opt2)
 https://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸Ⓜ BEIN_SPORTS (opt3)
-https://fl7.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ BIG_TEN_NETWORK (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 BIG_TEN_NETWORK (opt1)
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ BIG_TEN_NETWORK (opt2)
-https://fl2.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ BIG_TEN_NETWORK (opt3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl7 BIG_TEN_NETWORK (opt2)
 https://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ BOOMERANG | kids (opt1)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 BOOMERANG | kids (opt1)
 http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ BOOMERANG | kids (opt2)
-http://fl2.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ BOOMERANG | kids (opt3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl7 BOOMERANG | kids (opt2)
 http://fl7.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbOkq8C.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ BET_GOSPEL (opt1)
