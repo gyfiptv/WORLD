@@ -2691,9 +2691,6 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2690
 
 
 
-
-
-
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ¹ UNICOS | Canal TVO +23 (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2713
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇵🇦ᵀᵛ² UNICOS | Canal TVO +23 (opt2)
@@ -2978,17 +2975,22 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  cloudvideo 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Coto Brus TV" tvg-logo="https://cdn.m3u.cl/logo/1388_Coto_Brus_TV.png" group-title="📺IPTVworld🌐",🇪🇸8030 C9NTV | Coto Brus TV | CR
+#EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="📺IPTVworld🌐",🇪🇸☑8024 Ciudades Del Ocio TV ES (720p)
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+
+#EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="📺IPTVworld🌐",🇪🇸☑8026 SPEKTRA TV ES (720p)
+https://cloudvideo.servers10.com:8081/8026/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Coto Brus TV" tvg-logo="https://cdn.m3u.cl/logo/1388_Coto_Brus_TV.png" group-title="📺IPTVworld🌐",🇪🇸☑8030 C9NTV | Coto Brus TV | CR
 https://cloudvideo.servers10.com:8081/8030/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸8032 MUSIC4 TV Granada
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸☑8032 MUSIC4 TV Granada
 https://cloudvideo.servers10.com:8081/8032/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸8034 Faa.autos TV ES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺IPTVworld🌐",🇪🇸☑8034 Faa.autos TV ES
 https://cloudvideo.servers10.com:8081/8034/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1170" tvg-name="MZ Sports" tvg-logo="https://cdn.m3u.cl/logo/1170_MZ_Sports.png" group-title="📺IPTVworld🌐",🇪🇸8248 MZ Sports | CR
+#EXTINF:-1 tvg-id="1170" tvg-name="MZ Sports" tvg-logo="https://cdn.m3u.cl/logo/1170_MZ_Sports.png" group-title="📺IPTVworld🌐",🇪🇸☑8248 MZ Sports | CR
 https://cloudvideo.servers10.com:8081/8248/index.m3u8?PlaylistM3UCL
-
-
 
 
 
@@ -2997,262 +2999,119 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  cloudvideo 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸128 THE BOX SEATS (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/128.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸150 WPT WORLD POKER TOUR (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/150.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸152 THE BOX SEATS (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/152.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸158 TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/158.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸236 TGN THE GRAPPLING NETWORK (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/236.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸240 THE BOX SEATS (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/240.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸266 ULTRAKRAV TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/266.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸276 EX+ EXTREME+ (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/276.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸280 ROW REALITY OF WRESTLING (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/280.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸316 Z ZOOMER (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/316.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸338 WPT WORLD POKER TOUR (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/338.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸344 CINE+iNd!E=CiND!E TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/344.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸352 CINE+iNd!E=CiND!E SERIES (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/352.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸390 TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/390.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸406 WPT WORLD POKER TOUR (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/406.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸416 FEVA MUSIC SA (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/416.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸418 TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸420 TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/420.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸424 TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/424.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸426 TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/426.m3u8
+
+#EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-logo="https://i.imgur.com/9oyc88J.png" group-title="📺IPTVworld🌐",🇺🇸438 Adventure Sports TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸442 SF SPORTS FIRST TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/442.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸444 SURFING PLUS CHANNEL (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/444.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸456 SF SPORTS FIRST TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/456.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸458 TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/458.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸464 SF SPORTS FIRST TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/464.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸466 WPT WORLD POKER TOUR (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/466.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸468 TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/468.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸476 WTV WILD TELEVISION NETWORK CA (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸478 TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/478.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸480 TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/480.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸486 BKFC (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/486.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸488 SF SPORTS FIRST TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/488.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸490 TGN THE GRAPPLING NETWORK (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/490.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸494 TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/494.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸500 WPT WORLD POKER TOUR (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/500.m3u8
 
 
 
 
 
 
-
-
-
-
-#E#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVworld🌐" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺IPTVworld🌐", ##########  ♥ GROUP 09 📺IPTVworld🌐 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣9️⃣ 🇺🇸  🌐🌎⭐ LATINOᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  38.183. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ew RPP PE Latino
-http://38.183.182.166:8000/play/a0ew/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fa ATV+ PE Latino
-http://38.183.182.166:8000/play/a0fa/index.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/ee/exitosa_pe_tv.png" group-title="📺IPTVworld🌐",🇪🇸a0fb EXITOSA TV PE Latino
-http://38.183.182.166:8000/play/a0fb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fe TV 12 SV Latino
-http://38.183.182.166:8000/play/a0fe/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fs VENEVISION VE Latino
-http://38.183.182.166:8000/play/a0fs/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fu TELESUR VE Latino
-http://38.183.182.166:8000/play/a0fu/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fv TELE TUYA VE Latino
-http://38.183.182.166:8000/play/a0fv/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0fw GLOBOVISION VE Latino
-http://38.183.182.166:8000/play/a0fw/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0gr TV PERU GO! PE Latino
-http://38.183.182.166:8000/play/a0gr/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ih V CLASSIC TV Latino
-http://38.183.182.166:8000/play/a0ih/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ii PANAMERICANA TV PE Latino
-http://38.183.182.166:8000/play/a0ii/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ij RT Latino
-http://38.183.182.166:8000/play/a0ij/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0iq ESPN 7 Latino
-http://38.183.182.166:8000/play/a0iq/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0it ESPN 5 Latino
-http://38.183.182.166:8000/play/a0it/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0iu ESPN 6 Latino
-http://38.183.182.166:8000/play/a0iu/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0iw ESPN 6 Latino
-http://38.183.182.166:8000/play/a0iw/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ix ESPN 2 Latino
-http://38.183.182.166:8000/play/a0ix/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0iz ESPN 3 Latino
-http://38.183.182.166:8000/play/a0iz/index.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0jb CREO MOVIE PE Latino
-http://38.183.182.166:8000/play/a0jb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0jc NOVA Pura Cumbia PE Latino
-http://38.183.182.166:8000/play/a0jc/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0jf CREO LATINO tu cine PE Latino
-http://38.183.182.166:8000/play/a0jf/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0jj CREO KIDS PE Latino
-http://38.183.182.166:8000/play/a0jj/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0jr CHAKRA TV AR Latino
-http://38.183.182.166:8000/play/a0jr/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0js URBANO TV CR Latino
-http://38.183.182.166:8000/play/a0js/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0jt TV Latino
-http://38.183.182.166:8000/play/a0jt/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ju UNITEL TV BO Latino
-http://38.183.182.166:8000/play/a0ju/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0kj VIVE TV Latino
-http://38.183.182.166:8000/play/a0kj/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ra FOOD NETWORK Latino
-http://38.183.182.166:8000/play/a0ra/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rb AMERICA TELEVISION PE Latino
-http://38.183.182.166:8000/play/a0rb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rc LAS ESTRELLAS MX Latino
-http://38.183.182.166:8000/play/a0rc/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0re ESPN Latino
-http://38.183.182.166:8000/play/a0re/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rf LATINA PE Latino
-http://38.183.182.166:8000/play/a0rf/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rg HBO FAMILY Latino
-http://38.183.182.166:8000/play/a0rg/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rm GOLDEN Latino
-http://38.183.182.166:8000/play/a0rm/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rn CARTOONITO Latino
-http://38.183.182.166:8000/play/a0rn/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ro NICK JR Latino
-http://38.183.182.166:8000/play/a0ro/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rp HISTORY 2 Latino
-http://38.183.182.166:8000/play/a0rp/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rq TLC Latino
-http://38.183.182.166:8000/play/a0rq/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rr DISCOVERY SCIENCE Latino
-http://38.183.182.166:8000/play/a0rr/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rs E! | ENTERTAINMENT! Latino
-http://38.183.182.166:8000/play/a0rs/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rt TELEMUNDO INTERNACIONAL Latino
-http://38.183.182.166:8000/play/a0rt/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ru RCN INTERNACIONAL Latino
-http://38.183.182.166:8000/play/a0ru/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rv NICK MUSIC Latino
-http://38.183.182.166:8000/play/a0rv/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rw TEEN NICK Latino
-http://38.183.182.166:8000/play/a0rw/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rx TOONCAST Latino
-http://38.183.182.166:8000/play/a0rx/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ry FILM & ARTS Latino
-http://38.183.182.166:8000/play/a0ry/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0rz HGTV Discovery Latino
-http://38.183.182.166:8000/play/a0rz/index.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sb USA Latino
-http://38.183.182.166:8000/play/a0sb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sc GOLDEN EDGE Latino
-http://38.183.182.166:8000/play/a0sc/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sd GOLDEN Latino
-http://38.183.182.166:8000/play/a0sd/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0se TCM Latino
-http://38.183.182.166:8000/play/a0se/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sf eE | europaEUROPA Latino
-http://38.183.182.166:8000/play/a0sf/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sh HBO+ Latino
-http://38.183.182.166:8000/play/a0sh/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0si HBO2 Latino
-http://38.183.182.166:8000/play/a0si/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sk dc | DISTRITO COMEDIA Latino
-http://38.183.182.166:8000/play/a0sk/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sm WUAN+ Latino
-http://38.183.182.166:8000/play/a0sm/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0su GLOBAL TELEVISION PE Latino
-http://38.183.182.166:8000/play/a0su/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a0sv BBC NEWS Latino
-http://38.183.182.166:8000/play/a0sv/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sx ANTENA 3 ESPANA Latino
-http://38.183.182.166:8000/play/a0sx/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sy EURO CHANNEL Latino
-http://38.183.182.166:8000/play/a0sy/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0sz ENLACE Latino
-http://38.183.182.166:8000/play/a0sz/index.m3u8
-
-
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0te DW TV | Deutsche Welle Latino
-http://38.183.182.166:8000/play/a0te/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0tl CNN CHILE Latino
-http://38.183.182.166:8000/play/a0tl/index.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ub BABY TV Latino
-http://38.183.182.166:8000/play/a0ub/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ui CNN ESPANOL Latino
-http://38.183.182.166:8000/play/a0ui/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uq CINEMAX Latino
-http://38.183.182.166:8000/play/a0uq/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uu CNT' EC Latino
-http://38.183.182.166:8000/play/a0uu/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uw DISNEY JR Latino
-http://38.183.182.166:8000/play/a0uw/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uy TURBO DISCOVERY Latino
-http://38.183.182.166:8000/play/a0uy/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0uz CINEMAX Latino
-http://38.183.182.166:8000/play/a0uz/index.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0va A&E Latino
-http://38.183.182.166:8000/play/a0va/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vb COMEDY CENTRAL Latino
-http://38.183.182.166:8000/play/a0vb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vc EL GOURMET Latino
-http://38.183.182.166:8000/play/a0vc/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vd NATIONAL GEOGRAPHIC Latino
-http://38.183.182.166:8000/play/a0vd/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0ve TNT Latino
-http://38.183.182.166:8000/play/a0ve/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vf CINE CANAL Latino
-http://38.183.182.166:8000/play/a0vf/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vg SONY CHANNEL Latino
-http://38.183.182.166:8000/play/a0vg/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vh WB TV | Warner Bros Latino
-http://38.183.182.166:8000/play/a0vh/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vi AXN Latino
-http://38.183.182.166:8000/play/a0vi/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vj ID | INVESTIGATION DISCOVERY Latino
-http://38.183.182.166:8000/play/a0vj/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vk SPACE Latino
-http://38.183.182.166:8000/play/a0vk/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vl ESPN 4 Latino
-http://38.183.182.166:8000/play/a0vl/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vm AMC NETWORK Latino
-http://38.183.182.166:8000/play/a0vm/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vn HBO Latino
-http://38.183.182.166:8000/play/a0vn/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vo MTV Latino
-http://38.183.182.166:8000/play/a0vo/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vp DK | DISCOVERY KIDS Latino
-http://38.183.182.166:8000/play/a0vp/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vq h&h DISCOVERY Latino
-http://38.183.182.166:8000/play/a0vq/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vr THEATER DISCOVERY Latino
-http://38.183.182.166:8000/play/a0vr/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vs TVN CL Latino
-http://38.183.182.166:8000/play/a0vs/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vt CHILE VISION CL Latino
-http://38.183.182.166:8000/play/a0vt/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vv TNT SPORTS PREMIUM CL Latino
-http://38.183.182.166:8000/play/a0vv/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vw ESPN 2 Latino
-http://38.183.182.166:8000/play/a0vw/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0vx HBO POP Latino
-http://38.183.182.166:8000/play/a0vx/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xa CREO SPORT PE Latino
-http://38.183.182.166:8000/play/a0xa/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xb TE QUIERO TV | CREO TV PE Latino
-http://38.183.182.166:8000/play/a0xb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xd GOL PERU PE Latino
-http://38.183.182.166:8000/play/a0xd/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xi 36TV HUACHO PE Latino
-http://38.183.182.166:8000/play/a0xi/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xj KANAL D DRAMA | Series Turcas Latino
-http://38.183.182.166:8000/play/a0xj/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xo D PELICULA Latino
-http://38.183.182.166:8000/play/a0xo/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xv TELEVEN VE Latino
-http://38.183.182.166:8000/play/a0xv/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0xy TV PODER DE DIOS Latino
-http://38.183.182.166:8000/play/a0xy/index.m3u8
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0za PASIONES TV | DRAMA Telenovelas y Series Latino
-http://38.183.182.166:8000/play/a0za/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zb DHE Latino
-http://38.183.182.166:8000/play/a0zb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸a0zc HBO XTREME EN|ES Latino
-http://38.183.182.166:8000/play/a0zc/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zd SUN Latino
-http://38.183.182.166:8000/play/a0zd/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zg ATV PE Latino
-http://38.183.182.166:8000/play/a0zg/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zs DISNEY CHANNEL Latino
-http://38.183.182.166:8000/play/a0zs/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸a0zz MTV 00s Latino
-http://38.183.182.166:8000/play/a0zz/index.m3u8
 
 
 
@@ -3687,7 +3546,6 @@ https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸☑ High Vision (1080p) [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="📺IPTVworld🌐",🇺🇸121 Hard Knocks | Sports
@@ -5452,7 +5310,7 @@ https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 A 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
-http://fortv.cc:8080/Boobear/Boobear/21895
+https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
@@ -5656,7 +5514,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 C 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
-http://fortv.cc:8080/Boobear/Boobear/21895
+https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
@@ -5902,7 +5760,7 @@ https://dove-distro.cinedigm.com/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️ᴛʙɴᵀᵛ 🇪🇸 E 🇺🇸  🌐🌎⭐ 🇪🇸IPTV🌐world🇺🇸 ⭐🌎🌐
-http://fortv.cc:8080/Boobear/Boobear/21895
+https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVworld🌐",✝️BibleMoviesᵀᵛ  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
@@ -5985,8 +5843,7 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/mani
 #EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es" tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="📺IPTVworld🌐",🇪🇸☑ Canal 1 Mar Menor-Torre Pacheco  ES
 https://directo.tuwebtv.es/canal1.m3u8
 
-#EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="📺IPTVworld🌐",🇪🇸☑ Ciudades Del Ocio TV ES (720p)
-https://cloudvideo.servers10.com:8081/8024/index.m3u8
+
 
 
 
