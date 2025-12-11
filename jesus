@@ -8,6 +8,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ UNIVISION 41 Eastern NY (opt1)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/univision.eastern.us.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸⚽ UNIVISION 41 Eastern NY (opt2)
@@ -3074,47 +3075,178 @@ http://45.5.116.178:8000/play/a01y/index.m3u8
 http://45.5.116.178:8000/play/a01z/index.m3u8
 
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02b MTV
+http://45.5.116.178:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02c MTV
+http://45.5.116.178:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02e TV Music
+http://45.5.116.178:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02f TV
+http://45.5.116.178:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02g Canal 11
+http://45.5.116.178:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02h TV
+http://45.5.116.178:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02j STVE
+http://45.5.116.178:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02m TELECENTRO RD
+http://45.5.116.178:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02n CDN DEPORTES
+http://45.5.116.178:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02o TV x
+http://45.5.116.178:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02r TELEMETRO RD
+http://45.5.116.178:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02s TELEUNION
+http://45.5.116.178:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02v Canal 6
+http://45.5.116.178:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02w Canal 11
+http://45.5.116.178:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02y TV x
+http://45.5.116.178:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a02z Baby First
+http://45.5.116.178:8000/play/a02z/index.m3u8
 
 
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03a LAS | LatinoAmerica Sports MX
+http://45.5.116.178:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03c MTV 00s
+http://45.5.116.178:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03d hTV Music
+http://45.5.116.178:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03e GOLDEN
+http://45.5.116.178:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03f TCM
 http://45.5.116.178:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03g MC
+http://45.5.116.178:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03h TS E
+http://45.5.116.178:8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03j LAS | LatinoAmerica Sports MX x
 http://45.5.116.178:8000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03k Cartoon CARTOONS | ToonCast x
 http://45.5.116.178:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03l CA Canal Antigua GT
+http://45.5.116.178:8000/play/a03l/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03m TV AZTECA GUATE
 http://45.5.116.178:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03n UNIVISION Canal 7
+http://45.5.116.178:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03o Canal 3
+http://45.5.116.178:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03p N4V SV
+http://45.5.116.178:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03q TL2 TELE DOS
+http://45.5.116.178:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03r Canal 5 TSi HN
+http://45.5.116.178:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03s SONY MOVIES X
 http://45.5.116.178:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03u TELEMICRO 5 RD
+http://45.5.116.178:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03v Canal 9 RD
+http://45.5.116.178:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03w CDN
+http://45.5.116.178:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03x TV
+http://45.5.116.178:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03y TOONCAST
+http://45.5.116.178:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03z Azteca 7 INT
+http://45.5.116.178:8000/play/a03z/index.m3u8
 
 
 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04a ESPN 2
+http://45.5.116.178:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04b EXA TV
+http://45.5.116.178:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04c CLARO CINEMA
+http://45.5.116.178:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04d STAR CHANNEL
+http://45.5.116.178:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04e WB TV
+http://45.5.116.178:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04f SONY Channel
+http://45.5.116.178:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04g CINECANAL
+http://45.5.116.178:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04i TV
+http://45.5.116.178:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04j FUTV
+http://45.5.116.178:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04l TV
+http://45.5.116.178:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04m TV
+http://45.5.116.178:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04s TSi
+http://45.5.116.178:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04t TV
+http://45.5.116.178:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04u TV
+http://45.5.116.178:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04v NICKELODEON
+http://45.5.116.178:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04w TV
+http://45.5.116.178:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04x STAR Channel
+http://45.5.116.178:8000/play/a04x/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04y TURBO DISCOVERY
 http://45.5.116.178:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a04z H&H DISCOVERY
+http://45.5.116.178:8000/play/a04z/index.m3u8
 
 
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05k [Adult Swim] 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05a CINEMAX
+http://45.5.116.178:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05b STUDIO UNIVERSAL
+http://45.5.116.178:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05c CINECANAL
+http://45.5.116.178:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05d NBC
+http://45.5.116.178:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05e TV
+http://45.5.116.178:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05f Canal R
+http://45.5.116.178:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05h AXN
+http://45.5.116.178:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05i SPACE
+http://45.5.116.178:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05k FUTV 
 http://45.5.116.178:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05l ESPN 3
+http://45.5.116.178:8000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05m CNN en Espanol HD X
 http://45.5.116.178:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05p SUN CHANNEL	X																																																																																																																																																
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05o ESPN 6
+http://45.5.116.178:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05p NAT GEO																																																																																																																																																
 http://45.5.116.178:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05r TNT Novelas HD X
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05q PARAMOUNT NETWORK
+http://45.5.116.178:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05r TNT SERIES
 http://45.5.116.178:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05s TELEUNION - Canal 12 X
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05s DISCOVERY NETWORK
 http://45.5.116.178:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05t Tele 11 Univision | Unimas PR x
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05t DISCOVERY WORLD
 http://45.5.116.178:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05v ESPN X
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05u PASIONES
+http://45.5.116.178:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05v UNIVISION
 http://45.5.116.178:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05w ESPN 2 HD 
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05w DISCOVERY ID 
 http://45.5.116.178:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05x ESPN 3 X
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05x UNIVERSAL CINEMA
 http://45.5.116.178:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05y ESPN 6 X
 http://45.5.116.178:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05z ESPN 5 - CO Ok. Thanks. X
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a05z ESPN 5 X
 http://45.5.116.178:8000/play/a05z/index.m3u8
 
 
@@ -3163,33 +3295,6 @@ http://45.5.116.178:8000/play/a07k/index.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0gb LIFETIME HD X
-http://45.5.116.178:8000/play/a0gb/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0ge MTV 80s X
-http://45.5.116.178:8000/play/a0ge/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0gi CNN en Espanol HD X
-http://45.5.116.178:8000/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0gj ✝Enlace TV HD X
-http://45.5.116.178:8000/play/a0gj/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0gk HISTORY X
-http://45.5.116.178:8000/play/a0gk/index.m3u8
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0gm MTV HD X
-http://45.5.116.178:8000/play/a0gm/index.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0g9 TNT NOVELAS X
-http://45.5.116.178:8000/play/a0g9/index.m3u8
-
-
-
-
-
-
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a03l CA | CANAL ANTIGUA
 http://45.5.116.178:8000/play/a03l/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a050 DISCOVERY ID
@@ -3214,6 +3319,27 @@ http://45.5.116.178:8000/play/a067/index.m3u8
 http://45.5.116.178:8000/play/a068/index.m3u8
 #EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a069 Film & Arts
 http://45.5.116.178:8000/play/a069/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0gb LIFETIME HD X
+http://45.5.116.178:8000/play/a0gb/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0ge MTV 80s X
+http://45.5.116.178:8000/play/a0ge/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0gi CNN en Espanol HD X
+http://45.5.116.178:8000/play/a0gi/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0gj ✝Enlace TV HD X
+http://45.5.116.178:8000/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0gk HISTORY X
+http://45.5.116.178:8000/play/a0gk/index.m3u8
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0gm MTV HD X
+http://45.5.116.178:8000/play/a0gm/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸©a0g9 TNT NOVELAS X
+http://45.5.116.178:8000/play/a0g9/index.m3u8
+
 
 
 
