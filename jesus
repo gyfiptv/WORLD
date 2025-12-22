@@ -4204,9 +4204,9 @@ http://143.244.60.30/TVG/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/873dcb93915f7258898f83396518af91a43b9b02-2003x600.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FANDUEL TV |TVG (opt1)
 http://fl1.moveonjoy.com/TVG/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/873dcb93915f7258898f83396518af91a43b9b02-2003x600.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FANDUEL TV |TVG (opt2)
-http://fl1.moveonjoy.com/TVG/index.m3u8
+http://fl1.moveonjoy.com/TVG/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_marketing_production/873dcb93915f7258898f83396518af91a43b9b02-2003x600.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FANDUEL TV |TVG (opt3)
-http://fl1.moveonjoy.com/TVG/index.m3u8
+http://fl1.moveonjoy.com/TVG/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FS1 FOX_Sports_1 (opt1)
@@ -4241,75 +4241,63 @@ https://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FX |Movies (opt1)
 http://143.244.60.30/FX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FX |Movies (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FX |Movies (opt1)
 http://fl1.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FX |Movies (opt2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 FX |Movies (opt2)
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FX |Movies (opt3)
-http://fl7.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FXX |Movies (opt1)
 http://143.244.60.30/FXX/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FXX |Movies (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FXX |Movies (opt1)
 http://fl1.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FXX |Movies (opt2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 FXX |Movies (opt2)
 http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FXX |Movies (opt3)
-http://fl7.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FX_MOVIE | FXM (opt1)
 http://143.244.60.30/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FX_MOVIE | FXM RETRO (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FX_MOVIE | FXM RETRO (opt1)
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FX_MOVIE | FXM RETRO (opt2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 FX_MOVIE | FXM RETRO (opt2)
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FX_MOVIE | FXM RETRO (opt3)
-http://fl7.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FREE_FORM (opt1)
 http://143.244.60.30/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FREE_FORM (opt1)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FREE_FORM (opt1)
 https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FREE_FORM (opt2)
-https://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FREE_FORM (opt3)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl7 FREE_FORM (opt2)
 http://fl7.moveonjoy.com/FREE_FORM/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FUSE TV (opt1)
 http://143.244.60.30/FUSE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FUSE TV (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FUSE TV (opt1)
 https://fl1.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FUSE TV (opt2)
-https://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FUSE TV (opt3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl7 FUSE TV (opt2)
 https://fl7.moveonjoy.com/FUSE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FYI |Lifestyle (opt1)
 http://143.244.60.30/FYI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FYI |Lifestyle (opt1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FYI |Lifestyle (opt1)
 http://fl1.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FYI |Lifestyle (opt2)
-http://fl2.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FYI |Lifestyle (opt3)
-http://fl7.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FYI |Lifestyle (opt2)
+http://fl1.moveonjoy.com/FYI/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FYI |Lifestyle (opt3)
+http://fl1.moveonjoy.com/FYI/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FOX_SOUL |Lifestyle (Opt-1)
 http://143.244.60.30/FOX_SOUL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FOX_SOUL |Lifestyle (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FOX_SOUL |Lifestyle (Opt-1)
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FOX_SOUL |Lifestyle (Opt-2)
-http://fl2.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FOX_SOUL |Lifestyle (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl7 FOX_SOUL |Lifestyle (Opt-2)
 http://fl7.moveonjoy.com/FOX_SOUL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ FOOD_NETWORK |Cooking (opt1)
 http://143.244.60.30/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FOOD_NETWORK |Cooking (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FOOD_NETWORK |Cooking (opt1)
 https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FOOD_NETWORK |Cooking (opt2)
-https://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ FOOD_NETWORK |Cooking (opt3)
-https://fl7.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FOOD_NETWORK |Cooking (opt2)
+https://fl1.moveonjoy.com/FOOD_NETWORK/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl1 FOOD_NETWORK |Cooking (opt3)
+https://fl1.moveonjoy.com/FOOD_NETWORK/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ GRIT_TV |Westerns (Opt1)
 http://143.244.60.30/GRIT_TV/index.m3u8
@@ -4611,14 +4599,14 @@ http://fl2.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ MARQUEE_SPORTS_NETWORK (opt3)
 http://fl7.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ MSG Madison Square Gardens |Sports (opt1) x
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ MSG Madison Square Gardens |Sports (opt1)
 http://143.244.60.30/MSG/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ MSG Madison Square Gardens |Sports (opt1)
-http://fl1.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ MSG Madison Square Gardens |Sports (opt2)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 MSG Madison Square Gardens |Sports (opt1)
 http://fl2.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ MSG Madison Square Gardens |Sports (opt3)
-http://fl7.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 MSG Madison Square Gardens |Sports (opt2)
+http://fl2.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜfl2 MSG Madison Square Gardens |Sports (opt3)
+http://fl2.moveonjoy.com/MSG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="📺IPTVworld🌐",🇺🇸Ⓜ¹ MLB_NETWORK (opt1)
 http://143.244.60.30/MLB_NETWORK/index.m3u8
