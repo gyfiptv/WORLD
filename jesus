@@ -243,7 +243,10 @@ http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8405
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸NOV-TLNovelas (TV)(720)
 http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8406
 
-
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☆ ES : UNIVISION
+http://mains.services:2086/4523074511/3178768/88734
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☆ ES : UNIVISION DEPORTES
+http://mains.services:2086/4523074511/3178768/88733
 
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☆ UNIVISION (KUVN) DALLAS
 http://mains.services/live/4523074511/3178768/e974828f-b520-446d-b6dd-21b18a407d68.m3u
@@ -308,7 +311,8 @@ http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8390
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸NOV-Univision (T)(720)
 http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/67009
 
-
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☆ TUNIMAS
+http://mains.services:2086/4523074511/3178768/88742
 
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☆ UNIMAS
 http://mains.services/live/4523074511/3178768/470d14ba-7478-4bc8-ac6f-a2dd55c643d3.m3u
@@ -337,6 +341,29 @@ http://mains.services/live/4523074511/3178768/00dad0fa-c4cf-4e56-ad93-e0eec51637
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☆ TUDN ZONA FUTBOL
+http://mains.services:2086/4523074511/3178768/88728
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN FHD (US)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN FHD (US)
+http://xsport1.me/live/fpavas/raZFGMA7GT/54a9ea28-9fe3-4297-ab1d-43aa03651f31.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN HD (MX)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN HD (MX)
+http://xsport1.me/live/fpavas/raZFGMA7GT/33499fe0-7ac3-4596-a167-1c9fbe122b6d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN HD (US)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN HD (US)
+http://xsport1.me/live/fpavas/raZFGMA7GT/c7e3110f-b062-4ae4-b435-5d2231a0b993.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN SD (US)" tvg-logo="https://1.bp.blogspot.com/-2Qozv_IZzAU/XTHsirGYuSI/AAAAAAAA8B8/-xEieOU6gYUjWZPIh6yzZEh0-akZsMB9gCLcBGAs/s1600/TUDN.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN SD (US)
+http://xsport1.me/live/fpavas/raZFGMA7GT/90a2fca3-0e44-458d-8654-a26de06d91d6.m3u
+
+#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEPORTES - TUDN - MEX (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/9603
+#EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-name="DEPORTES - TUDN - MEX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEPORTES - TUDN - MEX (Z)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/9604
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="DEPORTES - TUDN - USA (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEPORTES - TUDN - USA (TV)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/9605
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="DEPORTES - TUDN - USA (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEPORTES - TUDN - USA (Z)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/9606
+
+
 
 
 
