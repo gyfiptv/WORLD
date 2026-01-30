@@ -789,10 +789,6 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸 STARZ 🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STAR CHANNEL 
-https://streamer1.nexgen.bz/STARCHANNEL/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STAR CHANNEL 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STARCHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ (opt1)
 http://143.244.60.30/STARZ/index.m3u8
@@ -811,22 +807,34 @@ http://143.244.60.30/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_WESTERNS(opt1)
 http://143.244.60.30/STARZ_ENCORE_WESTERNS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ (fl1)
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ (fl1)
 http://fl1.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_WEST (fl1)
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ (fl2)
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_WEST (fl1)
 http://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_EDGE (fl1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_EDGE (fl1)
 http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_COMEDY (fl1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_EDGE (fl2)
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_COMEDY (fl1)
 http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ Starz_Encore (fl1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_COMEDY (fl2)
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² Starz_Encore (fl1)
 http://fl1.moveonjoy.com/Starz_Encore/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_ACTION (fl1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² Starz_Encore (fl7)
+http://fl7.moveonjoy.com/Starz_Encore/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_ENCORE_ACTION (fl1)
 http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_CLASSIC (fl1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_ENCORE_ACTION (fl2)
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_ENCORE_CLASSIC (fl1)
 http://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_WESTERNS(fl1)
+#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_ENCORE_WESTERNS(fl1)
 http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_ENCORE_WESTERNS(fl2)
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
 
 #EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇪🇸⚽ MOVIEPLEX | Starz US (opt1)
@@ -1082,7 +1090,10 @@ http://mains.vip:2086/3003556325/2772007/2490
 #EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ WEST FHD 
 http://mains.vip:2086/3003556325/2772007/64048
 
-
+#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STAR CHANNEL x
+https://streamer1.nexgen.bz/STARCHANNEL/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STAR CHANNEL x
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STARCHANNEL/index.m3u8
 
 
 
@@ -1111,45 +1122,27 @@ http://143.244.60.30/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_NEXT (opt1)
 http://143.244.60.30/SHOWTIME_NEXT/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME (opt1)
-http://143.244.60.30/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_2 (opt1)
-http://143.244.60.30/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_WEST (opt1)
-http://143.244.60.30/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_EXTREME (opt1)
-http://143.244.60.30/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_WOMEN (opt1)
-http://143.244.60.30/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_NEXT (opt1)
-http://143.244.60.30/SHOWTIME_NEXT/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME (fl1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME (fl1)
 http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_2 (fl1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME (fl2)
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_2 (fl1)
 http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_WEST (fl1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_2 (fl2)
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_WEST (fl1)
 http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_EXTREME (fl1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_WEST (fl2)
+http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_EXTREME (fl1)
 http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_WOMEN (fl1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_WOMEN (fl1)
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_NEXT (fl1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_NEXT (fl1)
 http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME (fl1)
-http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_2 (fl1)
-http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_WEST (fl1)
-http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_EXTREME (fl1)
-http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_WOMEN (fl1)
-http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_NEXT (fl1)
-http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EXTREME | PBC PAY-PER-VIEW (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.extreme.eastern.us.m3u8
