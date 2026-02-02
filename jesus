@@ -5,308 +5,86 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
 
-#EXTINF:-1 tvg-id=“CinemaxEast.us" tvg-logo="" group-title="🇺🇸 HBO 🇪🇸",🇪🇸Ⓜ² HBO | CINEMAX EN|ES (ᵀᵛ¹)
-https://streamer1.nexgen.bz/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id=“CinemaxEast.us" tvg-logo="" group-title="🇺🇸 HBO 🇪🇸",🇪🇸Ⓜ² HBO | CINEMAX EN|ES (ᵀᵛ¹)
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/index.m3u8
-
-#EXTINF:-1 tvg-id=“HBO2.us" tvg-logo="" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ² HBO2 EN|ES (ᵀᵛ¹)
-https://streamer1.nexgen.bz/HBO2/index.m3u8
-#EXTINF:-1 tvg-id=“HBO2.us" tvg-logo="" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ² HBO2 EN|ES (ᵀᵛ¹)
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO2/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-logo="" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ² HBO_FAMILY EN|ES (ᵀᵛ¹)
-https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-logo="" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ² HBO_FAMILY EN|ES (ᵀᵛ¹)
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id=“HBOPop.us" tvg-logo="" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ² HBO_POP (ᵀᵛ¹)
-https://streamer1.nexgen.bz/HBO_POP/index.m3u
-#EXTINF:-1 tvg-id=“HBOPop.us" tvg-logo="" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ² HBO_POP (ᵀᵛ¹)
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_POP/index.m3u
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO (opt1)
 http://143.244.60.30/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO_2 (opt1)
-http://143.244.60.30/HBO_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸 HBO 🇪🇸",🇪🇸Ⓜ¹ HBO_FAMILY (opt1)
-http://143.244.60.30/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO_COMEDY (opt1)
-http://143.244.60.30/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO_ZONE (opt1)
-http://143.244.60.30/HBO_ZONE/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO (fl1)
 https://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO (fl2)
+https://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO_2 (opt1)
+http://143.244.60.30/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO_2 (fl1)
 https://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸 HBO 🇪🇸",🇪🇸Ⓜ¹ HBO_FAMILY (opt1)
+http://143.244.60.30/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸 HBO 🇪🇸",🇪🇸Ⓜ¹ HBO_FAMILY (fl1)
 https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO_COMEDY (opt1)
+http://143.244.60.30/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO_COMEDY (fl1)
 https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO_ZONE (opt1)
+http://143.244.60.30/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸Ⓜ¹ HBO_ZONE (fl1)
 https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt4)
+https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.west.us.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸 HBO 🇪🇸",🇪🇸Ⓜ HBO_FAMILY (fl1)
-https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸 HBO 🇪🇸",🇪🇸Ⓜ HBO_FAMILY (fl2)
-https://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt4)
+https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.eastern.us.m3u8
 
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt4)
+https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.2.eastern.us.m3u8
 
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO XTREME [SD]
-http://pfsv.io:80/6181288/27664/329272.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.family.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.family.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt4)
+https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.family.eastern.us.m3u8
 
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO 2 [FHD]
-http://pfsv.io:80/6181288/27664/470.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO 2 [FHD][H265]
-http://pfsv.io:80/6181288/27664/30234.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO 2 [HD]
-http://pfsv.io:80/6181288/27664/472.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO 2 [SD]
-http://pfsv.io:80/6181288/27664/481.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO FAMILY [FHD]
-http://pfsv.io:80/6181288/27664/464.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO FAMILY [FHD][H265]
-http://pfsv.io:80/6181288/27664/30235.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO FAMILY [HD]
-http://pfsv.io:80/6181288/27664/473.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO FAMILY [SD]
-http://pfsv.io:80/6181288/27664/483.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO MUNDI [FHD]
-http://pfsv.io:80/6181288/27664/467.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO MUNDI [FHD][H265]
-http://pfsv.io:80/6181288/27664/30239.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO MUNDI [HD]
-http://pfsv.io:80/6181288/27664/477.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO MUNDI [SD]
-http://pfsv.io:80/6181288/27664/485.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO PLUS [FHD]
-http://pfsv.io:80/6181288/27664/465.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO PLUS [FHD][H265]
-http://pfsv.io:80/6181288/27664/30237.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO PLUS [HD]
-http://pfsv.io:80/6181288/27664/475.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO PLUS [SD]
-http://pfsv.io:80/6181288/27664/482.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO POP [FHD]
-http://pfsv.io:80/6181288/27664/469.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO POP [FHD][H265]
-http://pfsv.io:80/6181288/27664/30241.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO POP [HD]
-http://pfsv.io:80/6181288/27664/479.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO POP [SD]
-http://pfsv.io:80/6181288/27664/487.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO SIGNATURE [FHD]
-http://pfsv.io:80/6181288/27664/466.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO SIGNATURE [FHD][H265]
-http://pfsv.io:80/6181288/27664/30238.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO SIGNATURE [HD]
-http://pfsv.io:80/6181288/27664/476.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO SIGNATURE [SD]
-http://pfsv.io:80/6181288/27664/484.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO XTREME [FHD]
-http://pfsv.io:80/6181288/27664/468.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO XTREME [FHD][H265]
-http://pfsv.io:80/6181288/27664/30240.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO XTREME [HD]
-http://pfsv.io:80/6181288/27664/478.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO [FHD]
-http://pfsv.io:80/6181288/27664/471.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO [FHD][H265]
-http://pfsv.io:80/6181288/27664/30236.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO [HD]
-http://pfsv.io:80/6181288/27664/474.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO [SD]
-http://pfsv.io:80/6181288/27664/480.ts
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO 2 [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130205.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO FAMILY [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130206.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO MUNDI [FHD] LEG
-http://pfsv.io:80/6181288/27664/123557.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO MUNDI [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130208.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO MUNDI [HD] LEG
-http://pfsv.io:80/6181288/27664/123558.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO PLUS [FHD] LEG
-http://pfsv.io:80/6181288/27664/123491.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO PLUS [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130204.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO PLUS [HD] LEG
-http://pfsv.io:80/6181288/27664/123489.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO PLUS [SD] LEG
-http://pfsv.io:80/6181288/27664/123490.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO POP [FHD] LEG
-http://pfsv.io:80/6181288/27664/123554.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO POP [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130209.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO POP [HD] LEG
-http://pfsv.io:80/6181288/27664/123508.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO POP [SD] LEG
-http://pfsv.io:80/6181288/27664/123509.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO SIGNATURE [FHD] LEG
-http://pfsv.io:80/6181288/27664/123555.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO SIGNATURE [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130210.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO SIGNATURE [HD] LEG
-http://pfsv.io:80/6181288/27664/123556.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO XTREME [FHD] LEG
-http://pfsv.io:80/6181288/27664/123559.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO XTREME [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130211.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO XTREME [HD] LEG
-http://pfsv.io:80/6181288/27664/123560.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO XTREME [SD] LEG
-http://pfsv.io:80/6181288/27664/123492.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO [FHD] LEG
-http://pfsv.io:80/6181288/27664/123488.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130207.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO [HD] LEG
-http://pfsv.io:80/6181288/27664/123486.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO [SD] LEG
-http://pfsv.io:80/6181288/27664/123487.ts
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO SIGNATURE [SD] LEG
-http://pfsv.io:80/6181288/27664/329724.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",HBO MUNDI [SD] LEG
-http://pfsv.io:80/6181288/27664/330707.ts
-
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt1)
-http://mains.vip:2086/3003556325/2772007/64102
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64102
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt3)
-http://mains.services:2086/640939802963/IDC01478!/64102
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/64102
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY EAST FHD (opt1)
-http://mains.vip:2086/3003556325/2772007/64103
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY EAST FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64103
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY EAST FHD (opt3)
-http://mains.services:2086/640939802963/IDC01478!/64103
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY EAST FHD (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/64103
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt1)
-http://mains.vip:2086/3003556325/2772007/64104
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64104
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt3)
-http://mains.services:2086/640939802963/IDC01478!/64104
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/64104
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY FHD (opt1)
-http://mains.vip:2086/3003556325/2772007/172
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY FHD (opt2)
-http://mains.services:2086/4523074511/3178768/172
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY FHD (opt3)
-http://mains.services:2086/640939802963/IDC01478!/172
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY FHD (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/172
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY HD (opt1)
-http://mains.vip:2086/3003556325/2772007/92570
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY HD (opt2)
-http://mains.services:2086/4523074511/3178768/92570
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY HD (opt3)
-http://mains.services:2086/640939802963/IDC01478!/92570
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO FAMILY HD (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/92570
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt1)
-http://mains.vip:2086/3003556325/2772007/92571
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt2)
-http://mains.services:2086/4523074511/3178768/92571
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt3)
-http://mains.services:2086/640939802963/IDC01478!/92571
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/92571
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
-http://mains.vip:2086/3003556325/2772007/92572
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
-http://mains.services:2086/4523074511/3178768/92572
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
-http://mains.services:2086/640939802963/IDC01478!/92572
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/92572
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt1)
-http://mains.vip:2086/3003556325/2772007/66579
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt2)
-http://mains.services:2086/4523074511/3178768/66579
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt3)
-http://mains.services:2086/640939802963/IDC01478!/66579
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/66579
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt1) 
-http://mains.vip:2086/3003556325/2772007/66678
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt2)
-http://mains.services:2086/4523074511/3178768/66678
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt3)
-http://mains.services:2086/640939802963/IDC01478!/66678
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/66678
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt1)
-http://mains.vip:2086/3003556325/2772007/14948
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt2)
-http://mains.services:2086/4523074511/3178768/14948
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt3)
-http://mains.services:2086/640939802963/IDC01478!/14948
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/14948
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt1)
-http://mains.vip:2086/3003556325/2772007/14949
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt2)
-http://mains.services:2086/4523074511/3178768/14949
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt3)
-http://mains.services:2086/640939802963/IDC01478!/14949
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/14949
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt1)
-http://mains.vip:2086/3003556325/2772007/2492
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt2)
-http://mains.services:2086/4523074511/3178768/2492
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt3)
-http://mains.services:2086/640939802963/IDC01478!/2492
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/2492
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt1)
-http://mains.vip:2086/3003556325/2772007/15469
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt2)
-http://mains.services:2086/4523074511/3178768/15469
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt3)
-http://mains.services:2086/640939802963/IDC01478!/15469
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/15469
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt1)
-http://mains.vip:2086/3003556325/2772007/15470
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt2)
-http://mains.services:2086/4523074511/3178768/15470
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt3)
-http://mains.services:2086/640939802963/IDC01478!/15470
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/15470
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.ca.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.ca.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.ca.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt4)
+https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.ca.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO XTREME ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7437.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO XTREME ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7437.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO XTREME ES (opt3)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7437.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO XTREME ES (opt4)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7437.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO XTREME ES (opt5)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7437.ts
 
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO ES (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7431.m3u8
@@ -374,17 +152,6 @@ http://alfa.7057460.xyz:2095/live/ameca01/1989/7436.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO MUNDI ES (opt5)
 http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7436.ts
 
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO XTREME ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7437.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO XTREME ES (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7437.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO XTREME ES (opt3)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7437.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO XTREME ES (opt4)
-http://alfa.7057460.xyz:2095/live/ameca01/1989/7437.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO XTREME ES (opt5)
-http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7437.ts
-
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO POP ES (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7438.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO POP ES (opt2)
@@ -396,77 +163,121 @@ http://alfa.7057460.xyz:2095/live/ameca01/1989/7438.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸★ HBO POP ES (opt5)
 http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7438.ts
 
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
+http://mains.vip:2086/3003556325/2772007/92572
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
+http://mains.services:2086/4523074511/3178768/92572
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
+http://mains.services:2086/640939802963/IDC01478!/92572
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/92572
 
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO BR (opt1) 
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt1)
+http://mains.vip:2086/3003556325/2772007/66579
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt2)
+http://mains.services:2086/4523074511/3178768/66579
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt3)
+http://mains.services:2086/640939802963/IDC01478!/66579
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/66579
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt1)
+http://mains.vip:2086/3003556325/2772007/92571
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt2)
+http://mains.services:2086/4523074511/3178768/92571
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt3)
+http://mains.services:2086/640939802963/IDC01478!/92571
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/92571
+
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt1) 
+http://mains.vip:2086/3003556325/2772007/66678
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt2)
+http://mains.services:2086/4523074511/3178768/66678
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt3)
+http://mains.services:2086/640939802963/IDC01478!/66678
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/66678
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt1)
+http://mains.vip:2086/3003556325/2772007/64102
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt2)
+http://mains.services:2086/4523074511/3178768/64102
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt3)
+http://mains.services:2086/640939802963/IDC01478!/64102
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/64102
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt1)
+http://mains.vip:2086/3003556325/2772007/64104
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt2)
+http://mains.services:2086/4523074511/3178768/64104
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt3)
+http://mains.services:2086/640939802963/IDC01478!/64104
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/64104
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt1)
+http://mains.vip:2086/3003556325/2772007/14948
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt2)
+http://mains.services:2086/4523074511/3178768/14948
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt3)
+http://mains.services:2086/640939802963/IDC01478!/14948
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/14948
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt1)
+http://mains.vip:2086/3003556325/2772007/14949
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt2)
+http://mains.services:2086/4523074511/3178768/14949
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt3)
+http://mains.services:2086/640939802963/IDC01478!/14949
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/14949
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt1)
+http://mains.vip:2086/3003556325/2772007/2492
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt2)
+http://mains.services:2086/4523074511/3178768/2492
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt3)
+http://mains.services:2086/640939802963/IDC01478!/2492
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/2492
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt1)
+http://mains.vip:2086/3003556325/2772007/15469
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt2)
+http://mains.services:2086/4523074511/3178768/15469
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt3)
+http://mains.services:2086/640939802963/IDC01478!/15469
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/15469
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt1)
+http://mains.vip:2086/3003556325/2772007/15470
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt2)
+http://mains.services:2086/4523074511/3178768/15470
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt3)
+http://mains.services:2086/640939802963/IDC01478!/15470
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/15470
+
+
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 18+ BR (opt1) 
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO BR (opt2)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO BR (opt3)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 18+ BR (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 18+ BR (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO BR (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.br.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt2)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.west.us.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt2)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt2)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.2.eastern.us.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt2)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.family.eastern.us.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.ca.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt2)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.ca.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.ca.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.ca.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO BR (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO BR (opt2)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO BR (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO BR (opt4)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 18+ BR (opt4)
 https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.br.m3u8
 
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO FAMILY BR (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.family.br.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO FAMILY BR (opt2)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.family.br.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.br.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO FAMILY BR (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.family.br.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO FAMILY BR (opt4)
@@ -475,7 +286,7 @@ https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.family
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO MUNDI BR (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.plus.br.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO MUNDI BR (opt2)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.plus.br.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.plus.br.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO MUNDI BR (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.plus.br.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO MUNDI BR (opt4)
@@ -484,11 +295,130 @@ https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.plus.b
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO SIGNATURE BR (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hbo.signature.br.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO SIGNATURE BR (opt2)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.signature.br.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signature.br.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO SIGNATURE BR (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hbo.signature.br.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO SIGNATURE BR (opt4)
 https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/hbo.signature.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO XTREME [SD]
+http://pfsv.io:80/6181288/27664/329272.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO 2 [FHD]
+http://pfsv.io:80/6181288/27664/470.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO 2 [FHD][H265]
+http://pfsv.io:80/6181288/27664/30234.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO 2 [HD]
+http://pfsv.io:80/6181288/27664/472.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO 2 [SD]
+http://pfsv.io:80/6181288/27664/481.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO FAMILY [FHD]
+http://pfsv.io:80/6181288/27664/464.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO FAMILY [FHD][H265]
+http://pfsv.io:80/6181288/27664/30235.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO FAMILY [HD]
+http://pfsv.io:80/6181288/27664/473.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO FAMILY [SD]
+http://pfsv.io:80/6181288/27664/483.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO MUNDI [FHD]
+http://pfsv.io:80/6181288/27664/467.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO MUNDI [FHD][H265]
+http://pfsv.io:80/6181288/27664/30239.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO MUNDI [HD]
+http://pfsv.io:80/6181288/27664/477.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO MUNDI [SD]
+http://pfsv.io:80/6181288/27664/485.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO PLUS [FHD]
+http://pfsv.io:80/6181288/27664/465.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO PLUS [FHD][H265]
+http://pfsv.io:80/6181288/27664/30237.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO PLUS [HD]
+http://pfsv.io:80/6181288/27664/475.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO PLUS [SD]
+http://pfsv.io:80/6181288/27664/482.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO POP [FHD]
+http://pfsv.io:80/6181288/27664/469.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO POP [FHD][H265]
+http://pfsv.io:80/6181288/27664/30241.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO POP [HD]
+http://pfsv.io:80/6181288/27664/479.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO POP [SD]
+http://pfsv.io:80/6181288/27664/487.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO SIGNATURE [FHD]
+http://pfsv.io:80/6181288/27664/466.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO SIGNATURE [FHD][H265]
+http://pfsv.io:80/6181288/27664/30238.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO SIGNATURE [HD]
+http://pfsv.io:80/6181288/27664/476.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO SIGNATURE [SD]
+http://pfsv.io:80/6181288/27664/484.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO XTREME [FHD]
+http://pfsv.io:80/6181288/27664/468.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO XTREME [FHD][H265]
+http://pfsv.io:80/6181288/27664/30240.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO XTREME [HD]
+http://pfsv.io:80/6181288/27664/478.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO [FHD]
+http://pfsv.io:80/6181288/27664/471.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO [FHD][H265]
+http://pfsv.io:80/6181288/27664/30236.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO [HD]
+http://pfsv.io:80/6181288/27664/474.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO [SD]
+http://pfsv.io:80/6181288/27664/480.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO 2 [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130205.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO FAMILY [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130206.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO MUNDI [FHD] LEG
+http://pfsv.io:80/6181288/27664/123557.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO MUNDI [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130208.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO MUNDI [HD] LEG
+http://pfsv.io:80/6181288/27664/123558.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO PLUS [FHD] LEG
+http://pfsv.io:80/6181288/27664/123491.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO PLUS [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130204.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO PLUS [HD] LEG
+http://pfsv.io:80/6181288/27664/123489.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO PLUS [SD] LEG
+http://pfsv.io:80/6181288/27664/123490.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO POP [FHD] LEG
+http://pfsv.io:80/6181288/27664/123554.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO POP [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130209.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO POP [HD] LEG
+http://pfsv.io:80/6181288/27664/123508.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO POP [SD] LEG
+http://pfsv.io:80/6181288/27664/123509.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO SIGNATURE [FHD] LEG
+http://pfsv.io:80/6181288/27664/123555.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO SIGNATURE [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130210.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO SIGNATURE [HD] LEG
+http://pfsv.io:80/6181288/27664/123556.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO XTREME [FHD] LEG
+http://pfsv.io:80/6181288/27664/123559.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO XTREME [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130211.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO XTREME [HD] LEG
+http://pfsv.io:80/6181288/27664/123560.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO XTREME [SD] LEG
+http://pfsv.io:80/6181288/27664/123492.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO [FHD] LEG
+http://pfsv.io:80/6181288/27664/123488.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130207.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO [HD] LEG
+http://pfsv.io:80/6181288/27664/123486.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO [SD] LEG
+http://pfsv.io:80/6181288/27664/123487.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO SIGNATURE [SD] LEG
+http://pfsv.io:80/6181288/27664/329724.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷 HBO MUNDI [SD] LEG
+http://pfsv.io:80/6181288/27664/330707.ts
+
+
 
 
 #EXTM3U
@@ -498,20 +428,8 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
 
-#EXTINF:-1 tvg-id=“Cinemax.us" tvg-logo="" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸Ⓜ² CINEMAX EN|ES (ᵀᵛ¹)
-https://streamer1.nexgen.bz/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id=“Cinemax.us" tvg-logo="" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸Ⓜ² CINEMAX EN|ES (ᵀᵛ¹)
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/index.m3u8
-
-#EXTINF:-1 tvg-id=“CineCanal.us" tvg-logo="" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸Ⓜ² CINECANAL (ᵀᵛ¹)
-https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-id=“CineCanal.us" tvg-logo="" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸Ⓜ² CINECANAL (ᵀᵛ¹)
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸Ⓜ¹ Sony_Movie_Channel (opt1)
 http://143.244.60.30/Sony_Movie_Channel/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸Ⓜ Sony_Movie_Channel (fl1)
 http://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸Ⓜ Sony_Movie_Channel (fl2)
@@ -519,26 +437,25 @@ http://fl2.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ CINEMAX |Movies (opt1)
 http://143.244.60.30/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ CINEMAX_EAST |Movies (opt1)
-http://143.244.60.30/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ CINEMAX_WEST |Movies (opt2)
-http://143.244.60.30/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/outer-max.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ OUTER_MAX |Movies (opt1)
-http://143.244.60.30/OUTER_MAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/moremax.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ CINEMAX_MOREMAX |Movies (opt1)
-http://143.244.60.30/CINEMAX_MOREMAX/index.m3u8
-
-
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ CINEMAX |Movies (fl1)
 http://fl1.moveonjoy.com/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ CINEMAX_EAST |Movies (opt1)
+http://143.244.60.30/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ CINEMAX_EAST |Movies (fl1)
 http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ CINEMAX_WEST |Movies (fl1)
-http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/outer-max.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ OUTER_MAX |Movies (fl1)
-http://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/moremax.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ CINEMAX_MOREMAX |Movies (fl1)
-http://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸Ⓜ¹ CINEMAX_EAST |Movies (fl2)
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt4)
+https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/cinecanal.mx.m3u8
+
 
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINEMAX MX (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinemax.mx.m3u8
@@ -605,177 +522,86 @@ https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/movieplex.
 
 
 
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",CINEMAX [FHD]
-http://pfsv.io:80/6181288/27664/275.ts
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",CINEMAX [FHD][H265]
-http://pfsv.io:80/6181288/27664/30215.ts
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",CINEMAX [HD]
-http://pfsv.io:80/6181288/27664/303.ts
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",CINEMAX [SD]
-http://pfsv.io:80/6181288/27664/328.ts
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",CINEMAX [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130188.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX (opt1)
+http://mains.vip:2086/3003556325/2772007/13560
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX (opt2)
+http://mains.services:2086/4523074511/3178768/13560
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX (opt3)
+http://mains.services:2086/640939802963/IDC01478!/13560
 
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",CINEMAX [FHD] LEG
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST (opt1)
+http://mains.vip:2086/3003556325/2772007/64136
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST (opt2)
+http://mains.services:2086/4523074511/3178768/64136
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST (opt3)
+http://mains.services:2086/640939802963/IDC01478!/64136
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/14944
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt2)
+http://mains.services:2086/4523074511/3178768/14944
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt3)
+http://mains.vip:2086/3003556325/2772007/14944
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/14944
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/92613
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt2) 
+http://mains.services:2086/4523074511/3178768/92613
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt3) 
+http://mains.vip:2086/3003556325/2772007/92613
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/92613
+
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt1)
+http://mains.services:2086/640939802963/IDC01478!/92560
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt2)
+http://mains.services:2086/4523074511/3178768/92560
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt3)
+http://mains.vip:2086/3003556325/2772007/92560
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/92560
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt4)
+https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/cinemax.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt4)
+https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/cinemax.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD]
+http://pfsv.io:80/6181288/27664/275.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD][H265]
+http://pfsv.io:80/6181288/27664/30215.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [HD]
+http://pfsv.io:80/6181288/27664/303.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [SD]
+http://pfsv.io:80/6181288/27664/328.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130188.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD] LEG
 http://pfsv.io:80/6181288/27664/331685.ts
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",CINEMAX [HD] LEG
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [HD] LEG
 http://pfsv.io:80/6181288/27664/331686.ts
 
 
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ THRILLER MAX EAST (opt1)
-http://mains.vip:2086/6129666453/9260275/8867
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ THRILLER MAX EAST (opt2)
-http://mains.services:2086/4523074511/3178768/8867
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ THRILLER MAX EAST (opt3)
-http://mains.services:2086/640939802963/IDC01478!/8867
-
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST | 95387 (opt1)
-http://mains.vip:2086/3003556325/2772007/95387
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST | 95387 (opt2)
-http://mains.services:2086/4523074511/3178768/95387
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST | 95387 (opt3)
-http://mains.services:2086/640939802963/IDC01478!/95387
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX | 13560 (opt1)
-http://mains.vip:2086/3003556325/2772007/13560
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX | 13560 (opt2)
-http://mains.services:2086/4523074511/3178768/13560
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX | 13560 (opt3)
-http://mains.services:2086/640939802963/IDC01478!/13560
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST | 64136 (opt1)
-http://mains.vip:2086/3003556325/2772007/64136
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST | 64136 (opt2)
-http://mains.services:2086/4523074511/3178768/64136
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST | 64136 (opt3)
-http://mains.services:2086/640939802963/IDC01478!/64136
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX MOREMAX ES | 14944 (opt1)
-http://mains.vip:2086/3003556325/2772007/14944
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX MOREMAX ES | 14944 (opt2)
-http://mains.services:2086/4523074511/3178768/14944
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX MOREMAX ES | 14944 (opt3)
-http://mains.services:2086/640939802963/IDC01478!/14944
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX OUTERMAX | 45496 (opt1)
-http://mains.vip:2086/3003556325/2772007/45496
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX OUTERMAX | 45496 (opt2)
-http://mains.services:2086/4523074511/3178768/45496
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX OUTERMAX | 45496 (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/45496
-
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO | 92613 (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/92613
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO | 92613 (opt2) 
-http://mains.services:2086/4523074511/3178768/92613
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO | 92613 (opt3) 
-http://mains.vip:2086/3003556325/2772007/92613
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO | 92613 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/92613
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES | 14944 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/14944
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES | 14944 (opt2)
-http://mains.services:2086/4523074511/3178768/14944
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES | 14944 (opt3)
-http://mains.vip:2086/3003556325/2772007/14944
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES | 14944 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/14944
-
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOVIEMAX ES (opt1)
-http://mains.services:2086/640939802963/IDC01478!/88778
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOVIEMAX ES (opt2)
-http://mains.services:2086/4523074511/3178768/88778
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOVIEMAX ES (opt3)
-http://mains.vip:2086/3003556325/2772007/88778
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOREMAX ES (opt1)
-http://mains.services:2086/640939802963/IDC01478!/88782
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOREMAX ES (opt2)
-http://mains.services:2086/4523074511/3178768/88782
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOREMAX ES (opt3)
-http://mains.vip:2086/3003556325/2772007/88782
-
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MAX UP ES (opt1)
-http://mains.services:2086/640939802963/IDC01478!/88784
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MAX UP ES (opt2)
-http://mains.services:2086/4523074511/3178768/88784
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MAX UP ES (opt3)
-http://mains.vip:2086/3003556325/2772007/88784
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MAX PRIME LATINO (opt1)
-http://mains.services:2086/640939802963/IDC01478!/92560
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MAX PRIME LATINO (opt2)
-http://mains.services:2086/4523074511/3178768/92560
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MAX PRIME LATINO (opt3)
-http://mains.vip:2086/3003556325/2772007/92560
 
 
 
 
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/cinemax.br.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/cinemax.br.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | OUTERMAX US (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/outermax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | OUTERMAX US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/outermax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | OUTERMAX US (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/outermax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | OUTERMAX US (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/outermax.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinecanal.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinecanal.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinecanal.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/cinecanal.mx.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOVIEPLEX LATINO (opt1)
-http://mains.services:2086/640939802963/IDC01478!/92555
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOVIEPLEX LATINO (opt2)
-http://mains.services:2086/4523074511/3178768/92555
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOVIEPLEX LATINO (opt3)
-http://mains.vip:2086/3003556325/2772007/92555
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOVIEPLEX ES (opt1)
-http://mains.services:2086/640939802963/IDC01478!/88788
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOVIEPLEX ES (opt2)
-http://mains.services:2086/4523074511/3178768/88788
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ MOVIEPLEX ES (opt3)
-http://mains.vip:2086/3003556325/2772007/88788
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ INDIEPLEX ES (opt1)
-http://mains.services:2086/640939802963/IDC01478!/88777
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ INDIEPLEX ES (opt2)
-http://mains.services:2086/4523074511/3178768/88777
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ INDIEPLEX ES (opt3)
-http://mains.vip:2086/3003556325/2772007/88777
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ INDIEPLEX ES (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/88777
 
 
 
@@ -792,45 +618,44 @@ http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c573
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ (opt1)
 http://143.244.60.30/STARZ/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_WEST (opt1)
-http://143.244.60.30/STARZ_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_EDGE (opt1)
-http://143.244.60.30/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_COMEDY (opt1)
-http://143.244.60.30/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ Starz_Encore (opt1)
-http://143.244.60.30/Starz_Encore/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_ACTION (opt1)
-http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_CLASSIC (opt1)
-http://143.244.60.30/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_WESTERNS(opt1)
-http://143.244.60.30/STARZ_ENCORE_WESTERNS/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ (fl1)
 http://fl1.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ (fl2)
 http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_WEST (opt1)
+http://143.244.60.30/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_WEST (fl1)
 http://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_EDGE (opt1)
+http://143.244.60.30/STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_EDGE (fl1)
 http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_EDGE (fl2)
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_COMEDY (opt1)
+http://143.244.60.30/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_COMEDY (fl1)
 http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_COMEDY (fl2)
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ Starz_Encore (opt1)
+http://143.244.60.30/Starz_Encore/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² Starz_Encore (fl1)
 http://fl1.moveonjoy.com/Starz_Encore/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² Starz_Encore (fl7)
 http://fl7.moveonjoy.com/Starz_Encore/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_ACTION (opt1)
+http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_ENCORE_ACTION (fl1)
 http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_ENCORE_ACTION (fl2)
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_CLASSIC (opt1)
+http://143.244.60.30/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_ENCORE_CLASSIC (fl1)
 http://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STARZ_ENCORE_WESTERNS(opt1)
+http://143.244.60.30/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_ENCORE_WESTERNS(fl1)
 http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STARZ_ENCORE_WESTERNS(fl2)
@@ -1007,26 +832,6 @@ http://mains.services:2086/4523074511/3178768/57852
 #EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ RETRO PLEX | Starz US (opt3)
 http://mains.services:2086/640939802963/IDC01478!/57852
 
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ EAST
-http://mains.vip:2086/3003556325/2772007/95401
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ ENCORE ACTION
-http://mains.vip:2086/3003556325/2772007/95434
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ ENCORE BLACK
-http://mains.vip:2086/3003556325/2772007/95450
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ ENCORE CLASSIC
-http://mains.vip:2086/3003556325/2772007/95449
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ ENCORE EAST
-http://mains.vip:2086/3003556325/2772007/95406
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ ENCORE FAMILY
-http://mains.vip:2086/3003556325/2772007/95455
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ ENCORE SUSPENSE
-http://mains.vip:2086/3003556325/2772007/95456
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ ENCORE WEST
-http://mains.vip:2086/3003556325/2772007/95459
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ ENCORE WESTERNS
-http://mains.vip:2086/3003556325/2772007/95452
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ KIDS & FAMILY
-http://mains.vip:2086/3003556325/2772007/95421
 
 #EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ  ENCORE BLACK
 http://mains.vip:2086/3003556325/2772007/56139
@@ -1048,6 +853,7 @@ http://mains.vip:2086/3003556325/2772007/558
 http://mains.vip:2086/3003556325/2772007/64058
 #EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ ENCORE
 http://mains.vip:2086/3003556325/2772007/344
+
 #EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ ENCORE ACTION
 http://mains.vip:2086/3003556325/2772007/8849
 #EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ ENCORE ACTION FHD 
@@ -1090,12 +896,6 @@ http://mains.vip:2086/3003556325/2772007/2490
 #EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸☆ STARZ WEST FHD 
 http://mains.vip:2086/3003556325/2772007/64048
 
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ¹ STAR CHANNEL x
-https://streamer1.nexgen.bz/STARCHANNEL/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 STARZ 🇪🇸",🇺🇸Ⓜ² STAR CHANNEL x
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STARCHANNEL/index.m3u8
-
-
 
 
 
@@ -1111,38 +911,34 @@ http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c573
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME (opt1)
 http://143.244.60.30/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_2 (opt1)
-http://143.244.60.30/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_WEST (opt1)
-http://143.244.60.30/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_EXTREME (opt1)
-http://143.244.60.30/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_WOMEN (opt1)
-http://143.244.60.30/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_NEXT (opt1)
-http://143.244.60.30/SHOWTIME_NEXT/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME (fl1)
 http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME (fl2)
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_2 (opt1)
+http://143.244.60.30/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_2 (fl1)
 http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_2 (fl2)
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_WEST (opt1)
+http://143.244.60.30/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_WEST (fl1)
 http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_WEST (fl2)
-http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_EXTREME (opt1)
+http://143.244.60.30/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_EXTREME (fl1)
 http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_EXTREME (fl2)
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_WOMEN (opt1)
+http://143.244.60.30/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_WOMEN (fl1)
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ¹ SHOWTIME_NEXT (opt1)
+http://143.244.60.30/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_NEXT (fl1)
 http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸Ⓜ² SHOWTIME_NEXT (fl7)
+http://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EXTREME | PBC PAY-PER-VIEW (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/showtime.extreme.eastern.us.m3u8
@@ -1226,13 +1022,6 @@ http://mains.services:2086/4523074511/3178768/92537
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME LATINO (opt3)
 http://mains.vip:2086/3003556325/2772007/92537
 
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME BEYOND LATINO (opt1)
-http://mains.services:2086/640939802963/IDC01478!/92536
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME BEYOND LATINO (opt2)
-http://mains.services:2086/4523074511/3178768/92536
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME BEYOND LATINO (opt3)
-http://mains.vip:2086/3003556325/2772007/92536
-
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt1)
 http://mains.services:2086/640939802963/IDC01478!/92535
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt2)
@@ -1240,40 +1029,7 @@ http://mains.services:2086/4523074511/3178768/92535
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt3)
 http://mains.vip:2086/3003556325/2772007/92535
 
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME WEST LATINO (opt1)
-http://mains.services:2086/640939802963/IDC01478!/92534
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME WEST LATINO (opt2)
-http://mains.services:2086/4523074511/3178768/92534
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME WEST LATINO (opt3)
-http://mains.vip:2086/3003556325/2772007/92534
 
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME ES (opt1)
-http://mains.services:2086/640939802963/IDC01478!/88806
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME ES (opt2)
-http://mains.services:2086/4523074511/3178768/88806
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME ES (opt3)
-http://mains.vip:2086/3003556325/2772007/88806
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME BEYOND ES (opt1)
-http://mains.services:2086/640939802963/IDC01478!/88807
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME BEYOND ES (opt2)
-http://mains.services:2086/4523074511/3178768/88807
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME BEYOND ES (opt3)
-http://mains.vip:2086/3003556325/2772007/88807
-
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/95491
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 (opt2)
-http://mains.services:2086/4523074511/3178768/95491
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST (opt1)
-http://mains.services:2086/640939802963/IDC01478!/95432
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST (opt2)
-http://mains.services:2086/4523074511/3178768/95432
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EXTREME (opt1)
-http://mains.services:2086/640939802963/IDC01478!/95490
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EXTREME (opt2)
-http://mains.services:2086/4523074511/3178768/95490
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHO X BET (opt1)
 http://mains.services:2086/640939802963/IDC01478!/1603
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHO X BET (opt2)
@@ -1347,35 +1103,34 @@ http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c573
 http://143.244.60.30/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ American_Heroes_Channel |Documentary (opt1) 
 http://143.244.60.30/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Comedy Central East
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Comedy Central East (opt1)
 http://143.244.60.30/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-logo="https://comedy.tv/files/2018/09/COMEDY.TV_LOGO-300x132.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Comedy_TV (opt1)
 http://143.244.60.30/Comedy_TV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Cleo_TV |Lifestyle (opt1)
 http://143.244.60.30/Cleo_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ COURT_TV |Crime (opt1) X
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ COURT_TV |Crime (opt1)
 http://143.244.60.30/COURT_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/crime-investigation-network-logo-DCB045F60C-seeklogo.com.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Crime_and_Investigation_Network |Crime+ (opt1)
 http://143.244.60.30/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ COOKING_CHANNEL (opt1)
 http://143.244.60.30/COOKING_CHANNEL/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Comedy_Central (opt1) X
 http://143.244.60.30/Comedy_Central/index.m3u
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/CuriosityStream/CuriosityStream-Logo.wine.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Curiosity_Stream (opt1) x
 http://143.244.60.30/Curiosity_Stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ DISCOVERY_FAMILY_CHANNEL |E! (opt1)
 http://143.244.60.30/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/discovery-life-channel-logo-sbpofvl25b3nih6x-2.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ DISCOVERY_LIFE (opt1)
 http://143.244.60.30/DISCOVERY_LIFE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Discovery_Channel (opt1) x
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Discovery_Channel (opt1)
 http://143.244.60.30/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹  Discovery_Science (opt1)
 http://143.244.60.30/Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ DIY | MAGNOLIA NETWORK |Lifestyle (opt1) x
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ DIY | MAGNOLIA NETWORK |Lifestyle (opt1)
 http://143.244.60.30/DIY/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Destination_America |Lifestyle (opt1)
 http://143.244.60.30/Destination_America/index.m3u8
 #EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ E_ENTERTAINMENT_TELEVISION (opt1)
@@ -1384,16 +1139,15 @@ http://143.244.60.30/E_ENTERTAINMENT_TELEVISION/index.m3u8
 http://143.244.60.30/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ HGTV |Lifestyle (opt1)
 http://143.244.60.30/HGTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ HLN |Crime (Opt-1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ HLN |Crime (opt1)
 http://143.244.60.30/HLN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ HSN |Shopping (Opt-1)
 http://143.244.60.30/HSN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ INVESTIGATION_DISCOVERY (opt1)
 http://143.244.60.30/INVESTIGATION_DISCOVERY/index.m3u8
-
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ LOVE_NATURE (opt1) 
 http://143.244.60.30/LOVE_NATURE/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ DIY | MAGNOLIA Network |Lifestyle (opt1) x
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ DIY | MAGNOLIA Network |Lifestyle (opt1)
 http://143.244.60.30/DIY/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Military_History (opt1)
 http://143.244.60.30/Military_History/index.m3u8
@@ -1403,12 +1157,16 @@ http://143.244.60.30/MTV/index.m3u8
 http://143.244.60.30/MTV_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MTV_LIVE (opt1)
 http://143.244.60.30/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3x2nmDh.jpeg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MTV_U (opt1)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3x2nmDh.jpeg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MTV_U (opt1) x
 http://143.244.60.30/MTV_U/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MTV_CLASSIC |Music (opt1)
 http://143.244.60.30/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MAV_TV (opt1)
+
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MAV_TV (opt1) x
 http://143.244.60.30/MAV_TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MOTOR_TREND (opt1)
 http://143.244.60.30/MOTOR_TREND/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ National_Geographic Channel (opt1)
@@ -1419,7 +1177,7 @@ http://143.244.60.30/Nat_Geo_Wild/index.m3u8
 http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Outside_Television_logo_2009.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ OUTSIDE_TV (opt1)
 http://143.244.60.30/OUTSIDE_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ OXYGEN True Crime (Opt-1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ OXYGEN True Crime (opt1)
 http://143.244.60.30/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ OWN (opt1)
 http://143.244.60.30/OWN/index.m3u8
@@ -1429,10 +1187,12 @@ http://143.244.60.30/Ovation/index.m3u8
 http://143.244.60.30/Pop_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/11/QVC-Symbol.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ QVC |Shopping (opt1) 
 http://143.244.60.30/QVC/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ TNT | NBA SPORTS (opt1)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ TNT | NBA SPORTS (opt1) x
 http://143.244.60.30/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ TRU_TV |Reality (opt1) x
 http://143.244.60.30/TRU_TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://q.adsy.me/images/KIuWI__tv-one.svg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ TV_ONE |E! (opt1)
 http://143.244.60.30/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6vMjnXl.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Travel_Channel (opt1)
@@ -1443,8 +1203,124 @@ http://143.244.60.30/TLC/index.m3u8
 http://143.244.60.30/VH1/index.m3u8
 #EXTINF:-1 tvg-logo="https://uploads.dailydot.com/2020/04/how_to_stream_world_fishing_network.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ WORLD_FISHING_NETWORK (opt1)
 http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ THE_WEATHER_CHANNEL (opt1) X
 http://143.244.60.30/THE_WEATHER_CHANNEL/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Animal_Planet (fl1)
+http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ American_Heroes_Channel |Documentary (fl1) 
+http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Comedy Central East (fl1)
+http://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-logo="https://comedy.tv/files/2018/09/COMEDY.TV_LOGO-300x132.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Comedy_TV (fl1)
+http://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Cleo_TV |Lifestyle (fl1)
+http://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ COURT_TV |Crime (fl1)
+http://fl1.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/crime-investigation-network-logo-DCB045F60C-seeklogo.com.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Crime_and_Investigation_Network |Crime+ (fl1)
+http://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ COOKING_CHANNEL (fl1)
+http://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Comedy_Central (fl1) X
+http://fl1.moveonjoy.com/Comedy_Central/index.m3u
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/CuriosityStream/CuriosityStream-Logo.wine.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Curiosity_Stream (fl1) x
+http://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bb/Discovery_Family_2014.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ DISCOVERY_FAMILY_CHANNEL |E! (fl1)
+http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/discovery-life-channel-logo-sbpofvl25b3nih6x-2.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ DISCOVERY_LIFE (fl1)
+http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Discovery_Channel (fl1)
+http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹  Discovery_Science (fl1)
+http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ DIY | MAGNOLIA NETWORK |Lifestyle (fl1)
+http://fl1.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Destination_America |Lifestyle (fl1)
+http://fl1.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ E_ENTERTAINMENT_TELEVISION (fl1)
+http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ FOOD_NETWORK |Cooking (fl1)
+http://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ HGTV |Lifestyle (fl1)
+http://fl1.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ HLN |Crime (fl1)
+http://fl1.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ HSN |Shopping (fl1)
+http://fl1.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ INVESTIGATION_DISCOVERY (fl1)
+http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ LOVE_NATURE (fl1) 
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/230-2300933_diy-diy-network-logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ DIY | MAGNOLIA Network |Lifestyle (fl1)
+http://fl1.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Military_History (fl1)
+http://fl1.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MTV (fl1)
+http://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MTV_2 (fl1)
+http://fl1.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MTV_LIVE (fl1)
+http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3x2nmDh.jpeg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MTV_U (fl1) x
+http://fl1.moveonjoy.com/MTV_U/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MTV_CLASSIC |Music (fl1)
+http://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MAV_TV (fl1) x
+http://fl1.moveonjoy.com/MAV_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ MOTOR_TREND (fl1)
+http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ National_Geographic Channel (fl1)
+http://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Nat_Geo_Wild (fl1)
+http://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ OUDOOR_CHANNEL (fl1)
+http://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Outside_Television_logo_2009.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ OUTSIDE_TV (fl1)
+http://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ OXYGEN True Crime (fl1)
+http://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ OWN (fl1)
+http://fl1.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/Ovation.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Ovation |Pop Culture (fl1)
+http://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Pop_TV |E! (fl1)
+http://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/11/QVC-Symbol.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ QVC |Shopping (fl1) 
+http://fl1.moveonjoy.com/QVC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tnt_tv_romania.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ TNT | NBA SPORTS (fl1) x
+http://fl1.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ TRU_TV |Reality (fl1) x
+http://fl1.moveonjoy.com/TRU_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://q.adsy.me/images/KIuWI__tv-one.svg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ TV_ONE |E! (fl1)
+http://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vMjnXl.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ Travel_Channel (fl1)
+http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/tlc-logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ TLC |Lifestyle (fl1)
+http://fl1.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ VH1 |E! (fl1)
+http://fl1.moveonjoy.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://uploads.dailydot.com/2020/04/how_to_stream_world_fishing_network.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ WORLD_FISHING_NETWORK (fl1)
+http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ THE_WEATHER_CHANNEL (fl1) X
+http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+
+
+
 
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 GROUP 02 🇺🇸  ⭐🌎 ɪᴘᴛv📺DOCUMENTARY🇺🇸 🌎⭐
@@ -1452,208 +1328,208 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1,ANIMAL PLANET [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ANIMAL PLANET [FHD]
 http://pfsv.io:80/6181288/27664/164.ts
-#EXTINF:-1,ANIMAL PLANET [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ANIMAL PLANET [FHD][H265]
 http://pfsv.io:80/6181288/27664/30248.ts
-#EXTINF:-1,ANIMAL PLANET [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ANIMAL PLANET [HD]
 http://pfsv.io:80/6181288/27664/179.ts
-#EXTINF:-1,ANIMAL PLANET [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ANIMAL PLANET [SD]
 http://pfsv.io:80/6181288/27664/194.ts
 
-#EXTINF:-1,ANIMAL PLANET [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ANIMAL PLANET [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130161.ts
-#EXTINF:-1,ARTE 1 [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ARTE 1 [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130169.ts
 
-#EXTINF:-1,ARTE 1 [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ARTE 1 [FHD]
 http://pfsv.io:80/6181288/27664/165.ts
-#EXTINF:-1,ARTE 1 [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ARTE 1 [FHD][H265]
 http://pfsv.io:80/6181288/27664/30249.ts
-#EXTINF:-1,ARTE 1 [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ARTE 1 [HD]
 http://pfsv.io:80/6181288/27664/180.ts
-#EXTINF:-1,ARTE 1 [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ARTE 1 [SD]
 http://pfsv.io:80/6181288/27664/195.ts
 
-#EXTINF:-1,DISCOVERY CHANNEL [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY CHANNEL [FHD]
 http://pfsv.io:80/6181288/27664/166.ts
-#EXTINF:-1,DISCOVERY CHANNEL [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY CHANNEL [FHD][H265]
 http://pfsv.io:80/6181288/27664/30260.ts
-#EXTINF:-1,DISCOVERY CHANNEL [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY CHANNEL [HD]
 http://pfsv.io:80/6181288/27664/181.ts
-#EXTINF:-1,DISCOVERY CHANNEL [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY CHANNEL [SD]
 http://pfsv.io:80/6181288/27664/196.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY HOME & HEALTH [FHD]
 http://pfsv.io:80/6181288/27664/168.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY HOME & HEALTH [HD]
 http://pfsv.io:80/6181288/27664/183.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY HOME & HEALTH [SD]
 http://pfsv.io:80/6181288/27664/198.ts
-#EXTINF:-1,DISCOVERY HOME&HEALTH [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY HOME&HEALTH [FHD][H265]
 http://pfsv.io:80/6181288/27664/30254.ts
-#EXTINF:-1,DISCOVERY KIDS [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY KIDS [FHD]
 http://pfsv.io:80/6181288/27664/127.ts
-#EXTINF:-1,Discovery Kids [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 Discovery Kids [FHD][H265]
 http://pfsv.io:80/6181288/27664/30269.ts
-#EXTINF:-1,DISCOVERY KIDS [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY KIDS [HD]
 http://pfsv.io:80/6181288/27664/140.ts
-#EXTINF:-1,DISCOVERY KIDS [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY KIDS [SD]
 http://pfsv.io:80/6181288/27664/152.ts
-#EXTINF:-1,DISCOVERY SCIENCE [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY SCIENCE [FHD]
 http://pfsv.io:80/6181288/27664/169.ts
-#EXTINF:-1,DISCOVERY SCIENCE [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY SCIENCE [FHD][H265]
 http://pfsv.io:80/6181288/27664/30255.ts
-#EXTINF:-1,DISCOVERY SCIENCE [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY SCIENCE [HD]
 http://pfsv.io:80/6181288/27664/184.ts
-#EXTINF:-1,DISCOVERY SCIENCE [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY SCIENCE [SD]
 http://pfsv.io:80/6181288/27664/199.ts
-#EXTINF:-1,DISCOVERY THEATER [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY THEATER [FHD]
 http://pfsv.io:80/6181288/27664/170.ts
-#EXTINF:-1,DISCOVERY THEATER [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY THEATER [FHD][H265]
 http://pfsv.io:80/6181288/27664/30256.ts
-#EXTINF:-1,DISCOVERY THEATER [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY THEATER [HD]
 http://pfsv.io:80/6181288/27664/185.ts
-#EXTINF:-1,DISCOVERY THEATER [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY THEATER [SD]
 http://pfsv.io:80/6181288/27664/200.ts
-#EXTINF:-1,DISCOVERY TURBO [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY TURBO [FHD]
 http://pfsv.io:80/6181288/27664/171.ts
-#EXTINF:-1,DISCOVERY TURBO [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY TURBO [FHD][H265]
 http://pfsv.io:80/6181288/27664/30257.ts
-#EXTINF:-1,DISCOVERY TURBO [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY TURBO [HD]
 http://pfsv.io:80/6181288/27664/186.ts
-#EXTINF:-1,DISCOVERY TURBO [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY TURBO [SD]
 http://pfsv.io:80/6181288/27664/201.ts
-#EXTINF:-1,DISCOVERY WORLD [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY WORLD [FHD]
 http://pfsv.io:80/6181288/27664/172.ts
-#EXTINF:-1,DISCOVERY WORLD [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY WORLD [FHD][H265]
 http://pfsv.io:80/6181288/27664/30258.ts
-#EXTINF:-1,DISCOVERY WORLD [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY WORLD [HD]
 http://pfsv.io:80/6181288/27664/187.ts
-#EXTINF:-1,DISCOVERY WORLD [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY WORLD [SD]
 http://pfsv.io:80/6181288/27664/202.ts
 
-#EXTINF:-1,COMEDY CENTRAL [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 COMEDY CENTRAL [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130254.ts
-#EXTINF:-1,CURTA! [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 CURTA! [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130255.ts
 
-#EXTINF:-1,DISCOVERY CHANNEL [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY CHANNEL [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130163.ts
-#EXTINF:-1,DISCOVERY HOME & HEALTH [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY HOME & HEALTH [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130162.ts
-#EXTINF:-1,DISCOVERY KIDS [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY KIDS [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130214.ts
-#EXTINF:-1,DISCOVERY SCIENCE [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY SCIENCE [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130164.ts
-#EXTINF:-1,DISCOVERY THEATER [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY THEATER [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130165.ts
-#EXTINF:-1,DISCOVERY TURBO [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY TURBO [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130166.ts
-#EXTINF:-1,DISCOVERY WORLD [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY WORLD [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130167.ts
 
-#EXTINF:-1,DOG TV [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DOG TV [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130256.ts
-#EXTINF:-1,E! [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 E! [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130257.ts
 
-#EXTINF:-1,DOG TV [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DOG TV [FHD]
 http://pfsv.io:80/6181288/27664/32426.ts
-#EXTINF:-1,DOG TV [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DOG TV [HD]
 http://pfsv.io:80/6181288/27664/32425.ts
 
-#EXTINF:-1,E! [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 E! [FHD]
 http://pfsv.io:80/6181288/27664/99.ts
-#EXTINF:-1,E! [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 E! [FHD][H265]
 http://pfsv.io:80/6181288/27664/30186.ts
-#EXTINF:-1,E! [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 E! [HD]
 http://pfsv.io:80/6181288/27664/108.ts
-#EXTINF:-1,E! [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 E! [SD]
 http://pfsv.io:80/6181288/27664/117.ts
 
-#EXTINF:-1,FASHIONTV [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FASHIONTV [FHD][H265]
 http://pfsv.io:80/6181288/27664/30184.ts
 
-#EXTINF:-1,FISH TV [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FISH TV [FHD]
 http://pfsv.io:80/6181288/27664/100.ts
-#EXTINF:-1,FISH TV [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FISH TV [FHD][H265]
 http://pfsv.io:80/6181288/27664/30185.ts
-#EXTINF:-1,FISH TV [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FISH TV [HD]
 http://pfsv.io:80/6181288/27664/109.ts
-#EXTINF:-1,FISH TV [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FISH TV [SD]
 http://pfsv.io:80/6181288/27664/118.ts
-#EXTINF:-1,FOOD NETWORK [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FOOD NETWORK [FHD]
 http://pfsv.io:80/6181288/27664/101.ts
-#EXTINF:-1,FOOD NETWORK [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FOOD NETWORK [FHD][H265]
 http://pfsv.io:80/6181288/27664/30193.ts
-#EXTINF:-1,FOOD NETWORK [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FOOD NETWORK [HD]
 http://pfsv.io:80/6181288/27664/110.ts
-#EXTINF:-1,FOOD NETWORK [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FOOD NETWORK [SD]
 http://pfsv.io:80/6181288/27664/119.ts
 
-#EXTINF:-1,FILM&ARTS [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FILM&ARTS [FHD]
 http://pfsv.io:80/6181288/27664/134867.ts
-#EXTINF:-1,FILM&ARTS [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FILM&ARTS [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130189.ts
-#EXTINF:-1,FISH TV [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FISH TV [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130258.ts
-#EXTINF:-1,FOOD NETWORK [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FOOD NETWORK [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130259.ts
 
 
-#EXTINF:-1,HGTV [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HGTV [FHD]
 http://pfsv.io:80/6181288/27664/167.ts
-#EXTINF:-1,HGTV [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HGTV [FHD][H265]
 http://pfsv.io:80/6181288/27664/30253.ts
-#EXTINF:-1,HGTV [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HGTV [HD]
 http://pfsv.io:80/6181288/27664/182.ts
-#EXTINF:-1,HGTV [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HGTV [SD]
 http://pfsv.io:80/6181288/27664/197.ts
 
-#EXTINF:-1,HGTV [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HGTV [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130168.ts
 
-#EXTINF:-1,HISTORY CHANNEL 2 [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL 2 [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130170.ts
-#EXTINF:-1,HISTORY CHANNEL [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130171.ts
 
-#EXTINF:-1,INVESTIGACAO DISCOVERY [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 INVESTIGACAO DISCOVERY [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130172.ts
 
-#EXTINF:-1,HISTORY CHANNEL 2 [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL 2 [FHD]
 http://pfsv.io:80/6181288/27664/173.ts
-#EXTINF:-1,HISTORY CHANNEL 2 [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL 2 [FHD][H265]
 http://pfsv.io:80/6181288/27664/30262.ts
-#EXTINF:-1,HISTORY CHANNEL 2 [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL 2 [HD]
 http://pfsv.io:80/6181288/27664/188.ts
-#EXTINF:-1,HISTORY CHANNEL 2 [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL 2 [SD]
 http://pfsv.io:80/6181288/27664/203.ts
-#EXTINF:-1,HISTORY CHANNEL [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL [FHD]
 http://pfsv.io:80/6181288/27664/174.ts
-#EXTINF:-1,HISTORY CHANNEL [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL [FHD][H265]
 http://pfsv.io:80/6181288/27664/30250.ts
-#EXTINF:-1,HISTORY CHANNEL [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL [HD]
 http://pfsv.io:80/6181288/27664/189.ts
-#EXTINF:-1,HISTORY CHANNEL [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL [SD]
 http://pfsv.io:80/6181288/27664/204.ts
 
-#EXTINF:-1,INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]
 http://pfsv.io:80/6181288/27664/30259.ts
-#EXTINF:-1,INVESTIGACAO DISCOVERY [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 INVESTIGACAO DISCOVERY [FHD]
 http://pfsv.io:80/6181288/27664/175.ts
-#EXTINF:-1,INVESTIGACAO DISCOVERY [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 INVESTIGACAO DISCOVERY [HD]
 http://pfsv.io:80/6181288/27664/190.ts
-#EXTINF:-1,INVESTIGACAO DISCOVERY [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 INVESTIGACAO DISCOVERY [SD]
 http://pfsv.io:80/6181288/27664/205.ts
 
-#EXTINF:-1,TLC [FHD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 TLC [FHD]
 http://pfsv.io:80/6181288/27664/286.ts
-#EXTINF:-1,TLC [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 TLC [FHD][H265]
 http://pfsv.io:80/6181288/27664/30229.ts
-#EXTINF:-1,TLC [HD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 TLC [HD]
 http://pfsv.io:80/6181288/27664/314.ts
-#EXTINF:-1,TLC [SD]
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 TLC [SD]
 http://pfsv.io:80/6181288/27664/340.ts
 
 
@@ -3944,53 +3820,52 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1,CARTOON NETWORK [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOON NETWORK [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130213.ts
-#EXTINF:-1,CARTOONITO [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOONITO [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130212.ts
 
-#EXTINF:-1,CARTOON NETWORK [FHD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOON NETWORK [FHD]
 http://pfsv.io:80/6181288/27664/126.ts
-#EXTINF:-1,CARTOON NETWORK [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOON NETWORK [FHD][H265]
 http://pfsv.io:80/6181288/27664/30268.ts
-#EXTINF:-1,CARTOON NETWORK [HD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOON NETWORK [HD]
 http://pfsv.io:80/6181288/27664/139.ts
-#EXTINF:-1,CARTOON NETWORK [SD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOON NETWORK [SD]
 http://pfsv.io:80/6181288/27664/151.ts
-#EXTINF:-1,CARTOONITO [FHD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOONITO [FHD]
 http://pfsv.io:80/6181288/27664/125.ts
-#EXTINF:-1,CARTOONITO [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOONITO [FHD][H265]
 http://pfsv.io:80/6181288/27664/30267.ts
-#EXTINF:-1,CARTOONITO [HD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOONITO [HD]
 http://pfsv.io:80/6181288/27664/138.ts
-#EXTINF:-1,CARTOONITO [SD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOONITO [SD]
 http://pfsv.io:80/6181288/27664/150.ts
 
-#EXTINF:-1,NICK JR [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICK JR [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130219.ts
-#EXTINF:-1,NICKELODEON [FHD][HDR]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICKELODEON [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130218.ts
 
-#EXTINF:-1,NICK JR [FHD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICK JR [FHD]
 http://pfsv.io:80/6181288/27664/130.ts
-#EXTINF:-1,NICK JR [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICK JR [FHD][H265]
 http://pfsv.io:80/6181288/27664/30263.ts
-#EXTINF:-1,NICK JR [HD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICK JR [HD]
 http://pfsv.io:80/6181288/27664/144.ts
-#EXTINF:-1,NICK JR [SD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICK JR [SD]
 http://pfsv.io:80/6181288/27664/158.ts
-#EXTINF:-1,NICKELODEON [FHD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICKELODEON [FHD]
 http://pfsv.io:80/6181288/27664/131.ts
-#EXTINF:-1,NICKELODEON [FHD][H265]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICKELODEON [FHD][H265]
 http://pfsv.io:80/6181288/27664/30264.ts
-#EXTINF:-1,NICKELODEON [HD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICKELODEON [HD]
 http://pfsv.io:80/6181288/27664/145.ts
-#EXTINF:-1,NICKELODEON [SD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICKELODEON [SD]
 http://pfsv.io:80/6181288/27664/159.ts
-
-#EXTINF:-1,TOONCAST [HD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 TOONCAST [HD]
 http://pfsv.io:80/6181288/27664/48756.ts
-#EXTINF:-1,TOONCAST [SD]
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 TOONCAST [SD]
 http://pfsv.io:80/6181288/27664/160.ts
 
 
@@ -7265,261 +7140,6 @@ https://cloudvideo.servers10.com:8081/8248/index.m3u8?PlaylistM3UCL
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺WORLD🌐ESPANOL🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️BibleMoviesᵀᵛ ##########  ♥  GROUP 01 📺WORLD🌐ESPANOL🇪🇸 ♥  ##########
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 UsaLATINOᵀᵛ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺PREMIUM🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  streamer1 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ AXN  ES
-https://streamer1.nexgen.bz/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² AXN  ES
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/index.m3u8
-
-#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ AMC
-https://streamer1.nexgen.bz/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² AMC
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AMC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ BET
-https://streamer1.nexgen.bz/BET/index.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² BET
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BET/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ BRAVO
-https://streamer1.nexgen.bz/BRAVO/index.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² BRAVO
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BRAVO/index.m3u8
-
-#EXTINF:-1 tvg-id=“Cinemax.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ CINEMAX
-https://streamer1.nexgen.bz/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id=“Cinemax.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² CINEMAX
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/index.m3u8
-
-#EXTINF:-1 tvg-id=“CineCanal.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ CINECANAL
-https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-id=“CineCanal.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² CINECANAL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-
-#EXTINF:-1 tvg-id="TheCookingChannel.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ COOKING CHANNEL
-https://streamer1.nexgen.bz/COOKING/index.m3u8
-#EXTINF:-1 tvg-id="TheCookingChannel.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² COOKING CHANNEL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/COOKING/index.m3u8
-
-#EXTINF:-1 tvg-id=“ComedyCentral.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ COMEDY_CENTRAL
-https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id=“ComedyCentral.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² COMEDY_CENTRAL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
-
-#EXTINF:-1 tvg-id=“DiscoveryNetwork.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ DISCOVERY CHANNEL
-https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id=“DiscoveryNetwork.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² DISCOVERY CHANNEL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-id=“DiscoveryWorld.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ DISCOVERY_WORLD EN|ES
-https://streamer1.nexgen.bz/DISCOVERY_WORLD/index.m3u8
-#EXTINF:-1 tvg-id=“DiscoveryWorld.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² DISCOVERY_WORLD EN|ES
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY_WORLD/index.m3u8
-
-#EXTINF:-1 tvg-id=“DiscoveryTurbo.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ DISCOVERY_TURBO
-https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
-#EXTINF:-1 tvg-id=“DiscoveryTurbo.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² DISCOVERY_TURBO
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ FOOD Network
-https://streamer1.nexgen.bz/FOOD/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² FOOD Network
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FOOD/index.m3u8
-
-#EXTINF:-1 tvg-id=“Fuse.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ FUSE
-https://streamer1.nexgen.bz/FUSE/index.m3u8
-#EXTINF:-1 tvg-id=“Fuse.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² FUSE
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FUSE/index.m3u8
-
-#EXTINF:-1 tvg-id=“FX.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ FX 
-https://streamer1.nexgen.bz/FX/index.m3u8
-#EXTINF:-1 tvg-id=“FX.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² FX 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FX/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ FOOD NETWORK HD
-https://streamer1.nexgen.bz/FOOD/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² FOOD NETWORK HD
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FOOD/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ GET TV 
-https://streamer1.nexgen.bz/GET/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² GET TV 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/GET/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ GSN | Game Show Network
-https://streamer1.nexgen.bz/GSN/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² GSN | Game Show Network
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/GSN/index.m3u8
-
-#EXTINF:-1 tvg-id=“HBO2.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ HBO 2
-https://streamer1.nexgen.bz/HBO2/index.m3u8
-#EXTINF:-1 tvg-id=“HBO2.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² HBO 2
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO2/index.m3u8
-
-#EXTINF:-1 tvg-id=“HBOPop.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ HBO_POP
-https://streamer1.nexgen.bz/HBO_POP/index.m3u
-#EXTINF:-1 tvg-id=“HBOPop.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² HBO_POP
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_POP/index.m3u
-
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ HBO_FAMILY
-https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² HBO_FAMILY
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id=“History.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ HISTORY
-https://streamer1.nexgen.bz/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id=“History.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² HISTORY
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
-
-#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ HISTORY 2
-https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² HISTORY 2
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-
-#EXTINF:-1 tvg-id=“HGTV.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ HGTV
-https://streamer1.nexgen.bz/HGTV/index.m3u8
-#EXTINF:-1 tvg-id=“HGTV.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² HGTV
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HGTV/index.m3u8
-
-#EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ HTV MUSIC SD
-https://streamer1.nexgen.bz/HTV/index.m3u8
-#EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² HTV MUSIC SD
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ HALLMARK
-https://streamer1.nexgen.bz/HALLMARK/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² HALLMARK
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HALLMARK/index.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ LIFETIME
-https://streamer1.nexgen.bz/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² LIFETIME
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/index.m3u8
-
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ LMN | LIFETIME MOVIES Network
-https://streamer1.nexgen.bz/LMN/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² LMN | LIFETIME MOVIES Network
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LMN/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ MAGNOLIA Network 
-https://streamer1.nexgen.bz/MAGNOLIA/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² MAGNOLIA Network 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/MAGNOLIA/index.m3u8
-
-#EXTINF:-1 tvg-id=“MTV.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ MTV 
-https://streamer1.nexgen.bz/MTV/index.m3u8
-#EXTINF:-1 tvg-id=“MTV.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² MTV 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/MTV/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ NAT_GEO
-https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² NAT_GEO
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
-
-#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ OUTDOOR CHANNEL
-https://streamer1.nexgen.bz/OUTDOOR/index.m3u8
-#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² OUTDOOR CHANNEL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/OUTDOOR/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ PARAMOUNT NETWORK HD
-https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² PARAMOUNT NETWORK HD
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
-
-#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ SYFY
-https://streamer1.nexgen.bz/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² SYFY
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ STAR CHANNEL 
-https://streamer1.nexgen.bz/STARCHANNEL/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² STAR CHANNEL 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STARCHANNEL/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ ✝TBN uk
-https://streamer1.nexgen.bz/TBN/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ✝TBN uk
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TBN/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ TELEHIT MUSIC SD
-https://streamer1.nexgen.bz/TELEHIT/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² TELEHIT MUSIC SD
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TELEHIT/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ TBS |E!
-https://streamer1.nexgen.bz/TBS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² TBS |E!
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TBS/index.m3u8
-
-#EXTINF:-1 tvg-id="TCM.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ TCM 
-https://streamer1.nexgen.bz/TCM/index.m3u8
-#EXTINF:-1 tvg-id="TCM.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² TCM 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TCM/index.m3u8
-
-#EXTINF:-1 tvg-id="TLC.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ¹ TLC
-https://streamer1.nexgen.bz/TLC/index.m3u8
-#EXTINF:-1 tvg-id="TLC.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸Ⓜ² TLC
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TLC/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ TNT | NBA SPORTS
-https://streamer1.nexgen.bz/TNT/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² TNT | NBA SPORTS
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TNT/index.m3u8
-
-#EXTINF:-1 tvg-id="truTV.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ TRUTV | NBA SPORTS
-https://streamer1.nexgen.bz/TRUTV/index.m3u8
-#EXTINF:-1 tvg-id="truTV.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² TRUTV | NBA SPORTS
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TRUTV/index.m3u8
-
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ USA Network
-https://streamer1.nexgen.bz/USA/index.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² USA Network
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/USA/index.m3u8
-
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ USA | SYFY
-https://streamer1.nexgen.bz/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² USA | SYFY
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-id=“VH1.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ VH1 
-https://streamer1.nexgen.bz/VH1/index.m3u8
-#EXTINF:-1 tvg-id=“VH1.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² VH1 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/VH1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/800px-Wetv-july-2024-logo.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ WE_TV |Lifestyle (opt1)
-https://streamer1.nexgen.bz/WE_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/800px-Wetv-july-2024-logo.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² WE_TV |Lifestyle (opt1)
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WE_TV/index.m3u8
-
-#EXTINF:-1 tvg-id=“WPIX.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ¹ PIX11 NEWS NYC
-https://streamer1.nexgen.bz/WPIX/index.m3u8
-#EXTINF:-1 tvg-id=“WPIX.us" tvg-logo="" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² PIX11 NEWS NYC
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WPIX/index.m3u8
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-name="📺WORLD🌐ESPANOL🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺WORLD🌐ESPANOL🇪🇸", ##########  ♥ GROUP 01 📺IPTVworld🌐 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
@@ -10534,17 +10154,16 @@ http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ Animal_Planet (opt2)
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ American_Heroes_Channel |Documentary (opt1) X
+#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ American_Heroes_Channel |Documentary (fl1) 
 http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ American_Heroes_Channel |Documentary (opt2) X
-http://fl2.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://us1-prod-images.disco-api.com/2021/06/28/40a4c1f8-e793-3814-84ca-d0ad557f399d.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ American_Heroes_Channel |Documentary (fl7)
+http://fl7.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 #EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BEIN_SPORTS (opt1)
 https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BEIN_SPORTS (opt2)
 https://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BEIN_SPORTS (opt3)
-https://fl7.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="📺IPTVenglish🇺🇸",🇺🇸Ⓜ BIG_TEN_NETWORK (opt1)
 https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
