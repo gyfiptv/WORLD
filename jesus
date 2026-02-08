@@ -2479,31 +2479,14 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ LOVE_NATURE (opt1) 
+#EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☑ Love Nature en Espanol [Geo-blocked]
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ LOVE_NATURE (opt1) 
 http://143.244.60.30/LOVE_NATURE/index.m3u8
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ LOVE_NATURE (fl1) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ LOVE_NATURE (fl1) 
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png/v1/fill/w_1280,h_720,al_c/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Lone Star | Westerns
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Love Nature 4K Sub (opt1)
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 Love Nature 4K Sub (opt2)
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&amp;ads.device_dnt=%7BTARGETOPT%7D&amp;ads.us_privacy=1YNY&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 Love Nature 4K* Sub (opt1)
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 Love Nature 4K* (opt2)
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 Love Nature ¹⁰⁸⁰ᵖ EN sub
@@ -2528,13 +2511,6 @@ https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/love.nature
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ⚽ Love Nature CA (opt8) 
 https://tvnow.best/api/stream/mubaydova09@gmail.com/095114/livetv.epg/love.nature.ca.m3u8
 
-
-
-
-#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸 3363 LOVE NATURE en Espanol (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
-#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸 3363 LOVE NATURE en Espanol (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3363
 
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸ⓕ1011 LAW & CRIME (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1011
@@ -4323,6 +4299,17 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (1080p)
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
+https://tvpass.org/live/TelemundoEast/hd
+
+#EXTINF:-1 tvg-id="Telemundo.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☑ Telemundo West (720p)
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☑ Telemundo Corpus Christi | E!
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☑ Telemundo Telenovelas Clásicas | Series
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
 
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸LAT: TELEMUNDO 51 MIAMI HD
 http://1tv41.icu:8080/zqQ0Q2/591076/56410
@@ -4614,6 +4601,9 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☑ UNIMAS KFTR-DT1 | E! [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸NOV-Unimas (T)(720)
 http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/67007
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸NOV-UNIMáS (KFTR-Los Angeles CA) (M)(720)
@@ -4658,6 +4648,11 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☑ BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☑ CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☆ TUDN ZONA FUTBOL
 http://mains.services:2086/4523074511/3178768/88728
 
@@ -4697,15 +4692,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt1)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt4)
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/univision.eastern.us.m3u8
-
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇲🇽⚽ TUDN | VIX MX (opt1)
 https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/tudn.mx.m3u8
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇲🇽⚽ TUDN | VIX MX (opt2)
@@ -4714,6 +4700,16 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tudn.mx.m3u
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tudn.mx.m3u8
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇲🇽⚽ TUDN | VIX MX (opt4)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/tudn.mx.m3u8
+
+
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt1)
+https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/univision.eastern.us.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/univision.eastern.us.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/univision.eastern.us.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt4)
+https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/univision.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸⚽ MEGA TV US (opt1)
 https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/mega.cl.m3u8
@@ -7114,22 +7110,28 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
+https://tvpass.org/live/TelemundoEast/hd
+
+#EXTINF:-1 tvg-id="Telemundo.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo West (720p)
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Corpus Christi | E!
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Telenovelas Clásicas | Series
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
 
 #EXTINF:-1 group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸 TELEMUNDO INTERNACIONAL (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2125
-
 #EXTINF:-1 group-title="🆕🇸 TELEMUNDO 🇪🇸",🇵🇷ᴾᴿ¹ TELEMUNDO (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2727
-
 #EXTINF:-1 group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸 TELEMUNDO 51 Miami (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2519
-
 #EXTINF:-1 group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸 TELEMUNDO 47 New York (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2521
-
 #EXTINF:-1 group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸 TELEMUNDO 60 San Antonio (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2517
-
 #EXTINF:-1 group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸 TELEMUNDO (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2126
 
@@ -7526,6 +7528,11 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",🇪🇸☑ UNIVISION SD | WNJU-DT1 (640p)
+https://tvpass.org/live/UnivisionEast/sd
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",🇪🇸☑ UNIVISION HD | WNJU-DT1 (1080p)
+https://tvpass.org/live/UnivisionEast/hd
+
 
 #EXTINF:-1 group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt1)
 https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/univision.eastern.us.m3u8
@@ -7752,7 +7759,8 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",🇺🇸☑ CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 
 #EXTINF:-1 group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",🇪🇸⚽ TUDN MX (opt1)
 https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/tudn.mx.m3u8
@@ -7935,8 +7943,8 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIMAS KFTR-DT1 | E! [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 
 #EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt1)
 https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/unimas.network.east.us.m3u8
