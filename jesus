@@ -8616,6 +8616,11 @@ https://tvpass.org/live/HBOZoneEast/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ HBO Zone East (hd)
 https://tvpass.org/live/HBOZoneEast/hd
 
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ HLN (sd)
+https://tvpass.org/live/HLN/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ HLN (hd)
+https://tvpass.org/live/HLN/hd
+
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ HGTV East (sd)
 https://tvpass.org/live/HGTVEast/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ HGTV East (hd)
@@ -8626,10 +8631,37 @@ https://tvpass.org/live/HistoryEast/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ History Channel East (hd)
 https://tvpass.org/live/HistoryEast/hd
 
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Investigation Discovery USA East (sd)
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Investigation Discovery USA East (hd)
+https://tvpass.org/live/InvestigationDiscoveryEast/hd
+
+
 #EXTINF:-1 tvg-id="IFC.us@East" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ IFC East Movies (sd)
 https://tvpass.org/live/IFCEast/sd
 #EXTINF:-1 tvg-id="IFC.us@East" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ IFC East Movies (hd)
 https://tvpass.org/live/IFCEast/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ LMN Lifetime Movies Network East (sd)
+https://tvpass.org/live/LifetimeMoviesEast/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ LMN Lifetime Movies Network East (hd)
+https://tvpass.org/live/LifetimeMoviesEast/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ LMN Lifetime Network East (sd)
+https://tvpass.org/live/LifetimeEast/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ LMN Lifetime Network East (hd)
+https://tvpass.org/live/LifetimeEast/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Marquee Sports Network (sd)
+https://tvpass.org/live/marquee-sports-network/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Marquee Sports Network (hd)
+https://tvpass.org/live/marquee-sports-network/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Midatlantic Sports Network (sd)
+https://tvpass.org/live/midatlantic-sports-network/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Midatlantic Sports Network (hd)
+https://tvpass.org/live/midatlantic-sports-network/hd
+
 
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ MSNBC USA (sd)
 https://tvpass.org/live/MSNBC/sd
@@ -8650,6 +8682,11 @@ https://tvpass.org/live/Motortrend/hd
 https://tvpass.org/live/monumental-sports-network/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Monumental Sports Network (hd)
 https://tvpass.org/live/monumental-sports-network/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ MSG Madison Square Gardens (sd)
+https://tvpass.org/live/msg-madison-square-gardens/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ MSG Madison Square Gardens (hd)
+https://tvpass.org/live/msg-madison-square-gardens/hd
 
 #EXTINF:-1 tvg-id="MSGPlus.us" tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ MSG Plus Sports (sd)
 https://tvpass.org/live/msg-plus/sd
