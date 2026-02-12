@@ -8565,6 +8565,12 @@ https://tvpass.org/live/AMCEast/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ AMC East (hd)
 https://tvpass.org/live/AMCEast/hd
 
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ American Heroes Channel (sd)
+https://tvpass.org/live/AmericanHeroesChannel/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ American Heroes Channel (hd)
+https://tvpass.org/live/AmericanHeroesChannel/hd
+
+
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Animal Planet East (sd)
 https://tvpass.org/live/AnimalPlanetEast/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Animal Planet East (hd)
@@ -8624,11 +8630,6 @@ https://tvpass.org/live/CSPAN2/hd
 https://tvpass.org/live/WCBSDT1/sd
 #EXTINF:-1 tvg-id="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/512px-CBS_2.svg.png" group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ CBS LA | WCBS-DT1 (hd)
 https://tvpass.org/live/WCBSDT1/hd
-
-#EXTINF:-1 tvg-id="WISDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ CBS 8 | WIS-DT2 (sd)
-https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-#EXTINF:-1 tvg-id="WISDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ CBS 8 | WIS-DT2 (hd)
-https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 
 #EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ CBS LA | KCBS-DT1 (sd)
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
@@ -8744,6 +8745,19 @@ https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 https://tvpass.org/live/FoxBusiness/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Fox Business (hd)
 https://tvpass.org/live/FoxBusiness/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Fanduel Sports Indiana (sd)
+https://tvpass.org/live/fanduel-sports-indiana/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Fanduel Sports Indiana (hd)
+https://tvpass.org/live/fanduel-sports-indiana/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Fanduel Sports Network Florida (sd)
+https://tvpass.org/live/fanduel-sports-network-florida/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Fanduel Sports Network Florida (hd)
+https://tvpass.org/live/fanduel-sports-network-florida/hd
+
+
+
 
 
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Food Network East (sd)
