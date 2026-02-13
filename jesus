@@ -9220,21 +9220,40 @@ https://tvpass.org/live/sportsnet-west/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Sportsnet West (hd)
 https://tvpass.org/live/sportsnet-west/hd
 
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ The Tennis Channel (sd) 
+https://tvpass.org/live/TennisChannel/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ The Tennis Channel (hd)
+https://tvpass.org/live/TennisChannel/hd
 
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ The Cooking Channel (sd) 
 https://tvpass.org/live/CookingChannel/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ The Cooking Channel (hd)
 https://tvpass.org/live/CookingChannel/hd
 
-#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TLC East (sd)
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ The Weather Channel (sd) 
+https://tvpass.org/live/TheWeatherChannel/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ The Weather Channel (hd)
+https://tvpass.org/live/TheWeatherChannel/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TLC USA East (sd)
 https://tvpass.org/live/TLCEast/sd
-#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TLC East (hd)
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TLC USA East (hd)
 https://tvpass.org/live/TLCEast/hd
 
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TV Land Eastern (sd)
 https://tvpass.org/live/tv-land-eastern/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TV Land Eastern (hd)
 https://tvpass.org/live/tv-land-eastern/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TMC US East (sd) x
+https://tvpass.org/live/tmc-us-eastern-feed/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TMC US East (hd)
+https://tvpass.org/live/tmc-us-eastern-feed/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Turner Classic Movies USA (sd) x
+https://tvpass.org/live/turner-classic-movies-usa/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Turner Classic Movies USA (hd)
+https://tvpass.org/live/turner-classic-movies-usa/hd
 
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TBS East (sd)
 https://tvpass.org/live/TBSEast/sd
@@ -9251,6 +9270,15 @@ https://tvpass.org/live/truTVEast/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ truTV East (hd)
 https://tvpass.org/live/truTVEast/hd
 
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Travel US East (sd) x
+https://tvpass.org/live/travel-us-east/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Travel US East (hd)
+https://tvpass.org/live/travel-us-east/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TV One (sd) 
+https://tvpass.org/live/TVOne/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TV One (hd)
+https://tvpass.org/live/TVOne/hd
 
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TSN 1 (sd)
 https://tvpass.org/live/tsn1/sd
@@ -9277,10 +9305,10 @@ https://tvpass.org/live/tsn5/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ TSN 5 (hd)
 https://tvpass.org/live/tsn5/hd
 
-#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇪🇸☑ TeenNick East (sd) x
-https://tvpass.org/live/teennick-eastern/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇪🇸☑ TeenNick East (sd) 
+https://tvpass.org/live/TeenNickEast/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇪🇸☑ TeenNick East (hd)
-https://tvpass.org/live/teennick-eastern/hd
+https://tvpass.org/live/TeenNickEast/hd
 
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇪🇸☑ Telemundo East (sd)
 https://tvpass.org/live/TelemundoEast/sd
@@ -9292,7 +9320,25 @@ https://tvpass.org/live/UnivisionEast/sd
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇪🇸☑ Univision East (hd)
 https://tvpass.org/live/UnivisionEast/hd
 
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇪🇸☑ UNIVERSO Universal Kids East (sd)
+https://tvpass.org/live/UniversalKidsEast/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇪🇸☑ UNIVERSO Universal Kids East (hd)
+https://tvpass.org/live/UniversalKidsEast/hd
 
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ USA Network East (sd) x
+https://tvpass.org/live/usa-network-east-feed/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ USA Network East (hd)
+https://tvpass.org/live/usa-network-east-feed/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ VH1 East (sd) 
+https://tvpass.org/live/VH1East/sd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ VH1 East (hd)
+https://tvpass.org/live/VH1East/hd
+
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ VICE (sd) 
+https://tvpass.org/live/vice/hd
+#EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ VICE (hd)
+https://tvpass.org/live/vice/hd
 
 #EXTINF:-1 group-title="📺WORLD🌐ENGLISH🇺🇸",🇺🇸☑ Yes Network (sd)
 https://tvpass.org/live/yes-network/sd
