@@ -4486,6 +4486,16 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
 https://tvpass.org/live/TelemundoEast/sd
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
@@ -4996,6 +5006,12 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸☑ NBCLX HOME | E!
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC
+https://streamer1.nexgen.bz/NBC/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/mono.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo West (720p)
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
@@ -5277,6 +5293,12 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",🇪🇸☑ BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",NBC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",NBC
+https://streamer1.nexgen.bz/NBC/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",NBC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",🇪🇸⚽ TUDN MX (opt1)
