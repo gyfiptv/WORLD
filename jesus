@@ -1159,8 +1159,11 @@ http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c573
 
 
 
-#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ AFV |ALWAYS FUNNY. (720p)
+#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ AFV ALWAYS FUNNY | Comedy (720p)
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Gagsnetwork | Comedy
+https://s7.merlive.am/gagsnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ AKC TV|Dogs |American Kennel Club
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
@@ -1315,6 +1318,11 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
+#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Comedy | AFV ALWAYS FUNNY
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Comedy | Gagsnetwork
+https://s7.merlive.am/gagsnetwork/index.m3u8
 
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7307 CRIME (opt1)
@@ -3699,6 +3707,7 @@ http://143.244.60.30/THE_WEATHER_CHANNEL/index.m3u8
 
 
 
+
 #EXTM3U
 #EXTINF:-1 tvg-name="🇺🇸🧒KIDS👧🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",⚽ ########## 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 ##########
 http://tdgu3cz8.rostelekom.xyz/iptv/S3ZDD8GRPVNTPV/6466/index.m3u8
@@ -3708,54 +3717,6 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ BOOMERANG | kids (fl2)
-http://fl2.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cartoon-network-logo-FAC3A19C0D-seeklogo.com.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ CARTOON_NETWORK |Kids (fl2)
-http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ DISNEY (fl2)
-http://fl2.moveonjoy.com//DISNEY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ DISNEY_XD (fl2)
-http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ DISNEY_JR (fl2)
-http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ Nickelodeon East (fl2) 
-http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ NICKELODEON | Kids (fl2) 
-http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ NICKTOONS (fl2) x
-http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ NICK_JR | Kids (fl2)
-http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ NICK_MUSIC | Kids (fl2)
-http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ BOOMERANG | kids (opt1)
-http://143.244.60.30/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cartoon-network-logo-FAC3A19C0D-seeklogo.com.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ CARTOON_NETWORK |Kids (opt1)
-http://143.244.60.30/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ DISNEY (opt1)
-http://143.244.60.30/DISNEY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ DISNEY_XD (opt1)
-http://143.244.60.30/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ DISNEY_JR (opt1)
-http://143.244.60.30/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ Nickelodeon East (720p) 
-http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ NICKELODEON | Kids (opt1) 
-http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ NICKTOONS (opt1) x
-http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ NICK_JR | Kids (opot1)
-http://143.244.60.30/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ¹ NICK_MUSIC | Kids (opt1)
-http://143.244.60.30/NICK_MUSIC/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 GROUP 02 🇺🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇺🇸 🌍🌐
-https://streamer1.nexgen.bz/TBN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
-http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOON NETWORK [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130213.ts
@@ -3887,8 +3848,21 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
+#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Comedy | AFV ALWAYS FUNNY
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Comedy | Gagsnetwork
+https://s7.merlive.am/gagsnetwork/index.m3u8
+
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑  Camp Spoopy | kids (576p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² CARTOON NETWORK (opt1)
+http://23.237.104.106:8080/USA_CARTOON_NETWORK//index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² CARTOON NETWORK (opt1)
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² CARTOON NETWORK (opt1)
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/mono.m3u8
 
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☆ CARTOON NETWORK FHD (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/64139.m3u8
@@ -3925,11 +3899,27 @@ https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/cartoonito
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 D 🇺🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² DISNEY XD (opt1)
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² DISNEY XD (opt1)
+http://23.237.104.106:8080/USA_DISNEY_XD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² DISNEY XD (opt1)
+http://23.237.104.106:8080/USA_DISNEY_XD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² DISNEY JUNIOR (opt1)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² DISNEY JUNIOR (opt1)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² DISNEY JUNIOR (opt1)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/mono.m3u8
 
 
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸★7473 DISNEY CHANNEL (opt1)
@@ -3970,6 +3960,29 @@ https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/disney.east
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/disney.eastern.us.m3u8
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ DISNEY CHANNEL EASTERN US (opt4)
 https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/disney.eastern.us.m3u8
+
+
+
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY CHANNEL CO (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/disney.co.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY CHANNEL CO (opt2)
+https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/disney.co.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY CHANNEL CO (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/disney.co.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY CHANNEL CO (opt4)
+https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/disney.co.m3u8
+
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY JUNIOR CO (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/disney.jr.co.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY JUNIOR CO (opt2)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/disney.jr.co.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY JUNIOR CO (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/disney.jr.co.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY JUNIOR CO (opt4)
+https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/disney.jr.co.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 K 🇺🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
@@ -4216,6 +4229,33 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12138
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12139
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ✝   🇪🇸 KIDS 🇪🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ✝    ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2364 KIDS ZAZ TV Geek
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2364
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2365 KIDS ZAZ TV Geek
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2365
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2366 KIDS SONIC TV (opt1)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2366
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2367 KIDS SONIC TV (opt1)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2367
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2368 KIDS TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2368
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2369 KIDS SPACE TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
+
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2491 KIDS TOONS | EN (opt1) 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2491
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2492 KIDS GAME | EN (opt1) 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2492
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2494 KIDS TV | EN (opt1) 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2494
+
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2541 KIDS TOONS | EN (opt1) 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2541
 
 
 
@@ -4226,13 +4266,13 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 Nickelodeon (opt1)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 Nickelodeon (opt1)
-http://23.237.104.106:8080/USA_NICKELODEON/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 Nickelodeon (opt1)
-http://23.237.104.106:8080/USA_NICKELODEON/mono.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² NICKELODEON | NICK NITE (opt1)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² NICKELODEON | NICK NITE (opt1)
+http://23.237.104.106:8080/USA_NICKELODEON/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² NICKELODEON | NICK NITE (opt1)
+http://23.237.104.106:8080/USA_NICKELODEON/mono.m3u8
 
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☆ NICK JR (opt1)
 http://mains.services:2086/640939802963/IDC01478!/95475
@@ -4305,110 +4345,6 @@ https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/nick.jr.us.
 https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/nick.jr.us.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 P 🇺🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
-https://streamer1.nexgen.bz/TBN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
-http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP MAX UK (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/pop.max.uk.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP MAX UK (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/pop.max.uk.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP MAX UK (opt3)
-https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/pop.max.uk.m3u8
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP UK (opt1) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/pop.uk.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP UK (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/pop.uk.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP UK (opt3)
-https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/pop.uk.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="🇺🇸🧒KIDS👧🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",⚽ ########## 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 ##########
-http://tdgu3cz8.rostelekom.xyz/iptv/S3ZDD8GRPVNTPV/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ✝   🇪🇸 C 🇪🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ✝    ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ CARTOON NETWORK UK (opt1) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cartoon.network.uk.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ CARTOON NETWORK UK (opt2)
-https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/cartoon.network.uk.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ CARTOON NETWORK UK (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cartoon.network.uk.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ CARTOON NETWORK UK (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/cartoon.network.uk.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ✝   🇪🇸 D 🇪🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ✝    ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY CHANNEL CO (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/disney.co.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY CHANNEL CO (opt2)
-https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/disney.co.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY CHANNEL CO (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/disney.co.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY CHANNEL CO (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/disney.co.m3u8
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY JUNIOR CO (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/disney.jr.co.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY JUNIOR CO (opt2)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/disney.jr.co.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY JUNIOR CO (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/disney.jr.co.m3u8
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ DISNEY JUNIOR CO (opt4)
-https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/disney.jr.co.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ✝   🇪🇸 KIDS 🇪🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ✝    ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2364 KIDS ZAZ TV Geek
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2364
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2365 KIDS ZAZ TV Geek
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2365
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2366 KIDS SONIC TV (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2366
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2367 KIDS SONIC TV (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2367
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2368 KIDS TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2368
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2369 KIDS SPACE TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2491 KIDS TOONS | EN (opt1) 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2491
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2492 KIDS GAME | EN (opt1) 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2492
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2494 KIDS TV | EN (opt1) 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2494
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2541 KIDS TOONS | EN (opt1) 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2541
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ✝   🇪🇸 N 🇪🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ✝    ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ NICK CO (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/nickelodeon.co.m3u8
@@ -4432,10 +4368,27 @@ https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/nick.jr.co
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ✝   🇪🇸 P 🇪🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ✝    ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 P 🇺🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
+http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
+
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP MAX UK (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/pop.max.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP MAX UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/pop.max.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP MAX UK (opt3)
+https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/pop.max.uk.m3u8
+
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP UK (opt1) 
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/pop.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/pop.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸⚽ POP UK (opt3)
+https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/pop.uk.m3u8
+
+
 
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ PAKAPAKA AR (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/pakapaka.ar.m3u8
@@ -4445,6 +4398,8 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/pakapaka.ar
 https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/pakapaka.ar.m3u8
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸⚽ PAKAPAKA AR (opt4)
 https://tvnow.best/api/stream/tdscolquitt@gmail.com/260532/livetv.epg/pakapaka.ar.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ✝   🇪🇸 T 🇪🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
@@ -4472,6 +4427,12 @@ http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7160.ts
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7160.ts
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸★ TOONCAST (opt3)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7160.ts
+
+
+
+
+
+
 
 
 
@@ -10203,9 +10164,9 @@ https://tvpass.org/live/FoodNetworkEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Food Network East (hd)
 https://tvpass.org/live/FoodNetworkEast/hd
 
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Freeform East (sd)
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Freeform East | Family (sd)
 https://tvpass.org/live/FreeformEast/sd
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Freeform East (hd)
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Freeform East | Family (hd)
 https://tvpass.org/live/FreeformEast/hd
 
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ FX Movie Channel (sd)
@@ -11596,6 +11557,25 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.ktxl.s
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 FOX 🇺🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="🆕🇸 FOX 🇺🇸",🇺🇸☑ Fox News Channel (720p)
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="🆕🇸 FOX 🇺🇸",🇺🇸☑ FOX Business (1080p)
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="🆕🇸 FOX 🇺🇸",🇺🇸☑ Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 FOX 🇺🇸",🇺🇸☑ FOX Sports AmazonNews [Geo-blocked]
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="🆕🇸 FOX 🇺🇸",🇺🇸☑ Fox News Radio (720p)
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",☆ FOX (WSVN- Miami FL) (opt1)
 http://mains.vip:2086/3003556325/2772007/90403
