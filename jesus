@@ -1257,8 +1257,11 @@ http://dhost.live:2095/yUhuFtQY/dgnxaTw/66788
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 Curiosity Stream SE
 http://twentycents.club:8080/haavardmaraak@gmail.com/QOLrOghuZq/3198
 
-#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 CURIOSITY STREAM
+#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 CURIOSITY STREAM ts
 http://9to5.sytes.net:8080/play/1yT5Wt0AKmAMxN7kczzzYCg5iz8kGxyPLwT3gzgcWJ4/ts
+#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 CURIOSITY STREAM m3
+http://9to5.sytes.net:8080/play/1yT5Wt0AKmAMxN7kczzzYCg5iz8kGxyPLwT3gzgcWJ4/m3u8
+
 
 
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ Curiosity Stream ZE (opt1)
@@ -1390,9 +1393,9 @@ http://mains.services:2086/640939802963/IDC01478!/64114
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ FOOD NETWORK FHD (opt2)
 http://mains.vip:2086/3003556325/2772007/64114
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ FOOD NETWORK FHD (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/64114
-#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ FOOD NETWORK FHD (opt4)
 http://mains.services:2086/4523074511/3178768/64114
+#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ FOOD NETWORK FHD (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/64114
 
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt1)
@@ -1400,10 +1403,9 @@ http://mains.services:2086/640939802963/IDC01478!/64134
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt2)
 http://mains.vip:2086/3003556325/2772007/64134
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/64134
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt4)
 http://mains.services:2086/4523074511/3178768/64134
-
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/64134
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸ⓕ46 COOKING PANDA (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=46
@@ -1459,21 +1461,21 @@ http://mains.services:2086/640939802963/IDC01478!/91273
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel CA (opt2)
 http://mains.vip:2086/3003556325/2772007/91273
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel CA (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/91273
+http://mains.services:2086/4523074511/3178768/91273
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt1) x
 http://mains.services:2086/640939802963/IDC01478!/95430
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt2)
 http://mains.vip:2086/3003556325/2772007/95430
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/95430
+http://mains.services:2086/4523074511/3178768/95430
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt1) x
 http://mains.services:2086/640939802963/IDC01478!/211
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt2)
 http://mains.vip:2086/3003556325/2772007/211
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/211
+http://mains.services:2086/4523074511/3178768/211
 
 
 
@@ -1902,14 +1904,6 @@ http://pfsv.io:80/6181288/27664/108.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 E! [SD]
 http://pfsv.io:80/6181288/27664/117.ts
 
-#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ E_ENTERTAINMENT_TELEVISION (opt1)
-http://143.244.60.30/E_ENTERTAINMENT_TELEVISION/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ E_ENTERTAINMENT_TELEVISION (fl1)
-http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ E_ENTERTAINMENT_TELEVISION (fl2)
-http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 F 🇺🇸  ⭐🌎 ɪᴘᴛv📺DOCUMENTARY🇺🇸 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
@@ -1958,13 +1952,6 @@ http://pfsv.io:80/6181288/27664/130258.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FOOD NETWORK [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130259.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ FOOD_NETWORK |Cooking (opt1)
-http://143.244.60.30/FOOD_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ FOOD_NETWORK |Cooking (fl1)
-http://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ¹ FOOD_NETWORK |Cooking (fl2)
-http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 G 🇺🇸  ⭐🌎 ɪᴘᴛv📺DOCUMENTARY🇺🇸 🌎⭐
