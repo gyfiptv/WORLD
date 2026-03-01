@@ -1652,6 +1652,12 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",✝️BibleMoviesᵀᵛ tvnow. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/24.horas.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/24.horas.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/24.horas.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ LA 1 RTVE.ES (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/la.1.es.m3u8
@@ -1674,6 +1680,13 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/antena.3.es
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/antena.3.es.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ ATRESSERIES A3MEDIA ES (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/atresseries.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ ATRESSERIES A3MEDIA ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/atresseries.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ ATRESSERIES A3MEDIA ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/atresseries.es.m3u8
+
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ CUATRO MEDIASET.ES (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cuatro.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ CUATRO MEDIASET.ES (opt2)
@@ -1695,19 +1708,7 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/lasexta.es.
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/lasexta.es.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/24.horas.es.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/24.horas.es.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/24.horas.es.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tcm.es.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tcm.es.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tcm.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.white.es.m3u8
@@ -1799,7 +1800,6 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tcm.es.m3u8
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tcm.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ TCM ES(opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tcm.es.m3u8
-
 
 
 
