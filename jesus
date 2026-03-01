@@ -1680,12 +1680,28 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/antena.3.es
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/antena.3.es.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ ATRESSERIES A3MEDIA ES (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/atresseries.es.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ ATRESSERIES A3MEDIA ES (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ A3S ATRESSERIES A3MEDIA ES (opt1) Syfy
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.es.m3u8 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ A3S ATRESSERIES A3MEDIA ES (opt2) Syfy
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/syfy.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ A3S ATRESSERIES A3MEDIA ES (opt3) Syfy
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/syfy.es.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ A3S A3MEDIA ES (opt1) Syfy
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/atresseries.es.m3u8 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ A3S A3MEDIA ES (opt2) Syfy
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/atresseries.es.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ ATRESSERIES A3MEDIA ES (opt3)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ A3S A3MEDIA ES (opt3) Syfy
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/atresseries.es.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ SERIES 2 | por M+ ES (opt1) 
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/movistar.series.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ SERIES 2 | por M+ ES (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/movistar.series.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ SERIES 2 | por M+ ES (opt3)
+https://tvnow.best/api/stream/sylviabonniwell@yahoo.com/641629/livetv.epg/movistar.series.es.m3u8
+
+
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ CUATRO MEDIASET.ES (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cuatro.es.m3u8
@@ -1724,6 +1740,20 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/babytv.es.m
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ BABYTV | Kids ES (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/babytv.es.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ BARCA TV  ES (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/barca.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ BARCA TV  ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/barca.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ BARCA TV ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/barca.es.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ BE MAD ES (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/be.mad.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ BE MAD ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/be.mad.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ BE MAD ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/be.mad.es.m3u8
+
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ CALLE 13 ES (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/calle.13.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ CALLE 13 ES (opt2)
@@ -1737,6 +1767,28 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/dkiss.es.m3
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/dkiss.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ DKISS ES (opt3)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/dkiss.es.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ Deportes | por M+ ES (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/movistar.deportes.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ Deportes | por M+ ES (opt2) 
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/movistar.deportes.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ Deportes | por M+ ES (opt3) 
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/movistar.deportes.es.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/discovery.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt3) 
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/discovery.es.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ DISCOVERY World CO (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.world.co.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ DISCOVERY World CO (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/discovery.world.co.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ DISCOVERY World CO (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/discovery.world.co.m3u8
+
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐SPAIN🇪🇸",🇪🇸⚽ DMAX ES (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/dmax.es.m3u8
@@ -2548,8 +2600,6 @@ http://mains.services:2086/640939802963/IDC01478!/14944
 http://mains.services:2086/4523074511/3178768/14944
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt3)
 http://mains.vip:2086/3003556325/2772007/14944
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/14944
 
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/92613
@@ -2557,8 +2607,6 @@ http://mains.services:2086/640939802963/IDC01478!/92613
 http://mains.services:2086/4523074511/3178768/92613
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt3) 
 http://mains.vip:2086/3003556325/2772007/92613
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/92613
 
 
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt1)
@@ -2567,8 +2615,6 @@ http://mains.services:2086/640939802963/IDC01478!/92560
 http://mains.services:2086/4523074511/3178768/92560
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt3)
 http://mains.vip:2086/3003556325/2772007/92560
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/92560
 
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinemax.br.m3u8
