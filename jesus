@@ -8827,164 +8827,305 @@ https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/tudn.
 
 
 
-
 #EXTM3U
-#EXTINF:-1 tvg-name="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸", ##########  ♥ GROUP 01 🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸 ♥  ##########
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 tvg-name="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",◉ ##########☆ 🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸 ☆##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 ᴜɴɪvɪsɪᴏɴ ɴᴏw 🇺🇸  🌐🌎⭐ vɪᴘᵀᵛ📺ᴜɴɪvɪsɪᴏɴ ɴᴏw🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  Univision ɴᴏw 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 TVᴾᵃˢˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 ᴜɴɪvɪsɪᴏɴ ɴᴏw 🇺🇸  🌐🌎⭐ vɪᴘᵀᵛ📺ᴜɴɪvɪsɪᴏɴᵀᵛɴᴏw🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  TVᴾᵃˢˢ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  ᴜɴɪvɪsɪᴏɴ ɴᴏw 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ TUDN vɪx ɴᴏw  TUDN-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ TUDN vɪx ɴᴏw  TUDN-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ Zona TUDN vɪx ɴᴏw  ZONA-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ Zona TUDN vɪx ɴᴏw ZONA-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
-
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ UNIMAS 46 vɪx ɴᴏw  KFTR-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIMAS 46 NOW KFTR-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ UNIMAS 46 vɪx ɴᴏw  KFTR-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIMAS 46 NOW KFTR-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 
-#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ Canal VIX ɴᴏw VIX-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+
+#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
-#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ Canal VIX ɴᴏw VIX-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
 
-#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ24/7 ɴᴏw vɪx N247-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 24/7 NOW N247-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
-#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ24/7 ɴᴏw vɪx N247-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 24/7 NOW N247-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
 
-#EXTINF:-1 tvg-id="WLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ23 ɴᴏw Miami WLTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="WLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Miami WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
-#EXTINF:-1 tvg-id="KLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ23 ɴᴏw Miami WLTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Miami WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
 
-#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Los Angeles KMEX-DT1 West [Geo-blocked]
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Los Angeles KMEX-DT1 West [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Los Angeles KMEX-DT1 West [Geo-blocked]
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Los Angeles KMEX-DT1 West [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 
-#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ14 ɴᴏw San Francisco KDTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 14 NOW San Francisco KDTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8
-#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ14 ɴᴏw San Francisco KDTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 14 NOW San Francisco KDTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8
 
-#EXTINF:-1 tvg-id="WXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ41 ɴᴏw New York WXTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="WXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 41 NOW New York WXTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
-#EXTINF:-1 tvg-id="KXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ41 ɴᴏw New York WXTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 41 NOW New York WXTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
-#EXTINF:-1 tvg-id="WGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ66 ɴᴏw Chicago WGBO-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="WGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 66 NOW Chicago WGBO-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
-#EXTINF:-1 tvg-id="KGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ66 ɴᴏw Chicago WGBO-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 66 NOW Chicago WGBO-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
 
-#EXTINF:-1 tvg-id="WUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Atlanta WUVG-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="WUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Atlanta WUVG-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
-#EXTINF:-1 tvg-id="KUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Atlanta WUVG-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Atlanta WUVG-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
 
-#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ23 ɴᴏw Dallas KUVN-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Dallas KUVN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
-#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ23 ɴᴏw Dallas KUVN-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Dallas KUVN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 
-#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ45 ɴᴏw Houston KXLN-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 45 NOW Houston KXLN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
-#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ45 ɴᴏw Houston KXLN-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 45 NOW Houston KXLN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
 
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt2)
+https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt4)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt5)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt6) 
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt7) 
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/unimas.network.east.us.m3u8
 
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt2)
+https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt4)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt5)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tudn.mx.m3u8tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt6)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt7)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/tudn.mx.m3u8
 
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt1)
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt2) 
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt2) 
 https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt3)
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt4)
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt4)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt5)
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt5)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt6) 
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt6) 
 https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt7) 
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt7) 
 https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/univision.eastern.us.m3u8
 
 
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ UniMas Network East (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ UniMas Network East (opt2)
-https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ UniMas Network East (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ UniMas Network East (opt4)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ UniMas Network East (opt5)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ UniMas Network East (opt6) 
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ UniMas Network East (opt7) 
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/unimas.network.east.us.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ TUDN MX (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ TUDN MX (opt2)
-https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ TUDN MX (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ TUDN MX (opt4)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ TUDN MX (opt5)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tudn.mx.m3u8tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ TUDN MX (opt6)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸⚽ TUDN MX (opt7)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/tudn.mx.m3u8
 
 
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
 https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
 https://tvpass.org/live/TelemundoEast/hd
 
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ UNIVISION | WNJU-DT1 (sd)
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIVISION SD | WNJU-DT1 (640p)
 https://tvpass.org/live/UnivisionEast/sd
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ UNIVISION | WNJU-DT1 (hd)
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIVISION HD | WNJU-DT1 (1080p)
 https://tvpass.org/live/UnivisionEast/hd
 
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ ESPN Deportes (sd)
-https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ ESPN Deportes (hd)
-https://tvpass.org/live/espn-deportes/hd
 
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ UNIVERSO Universal Kids East (sd)
-https://tvpass.org/live/UniversalKidsEast/sd
-#EXTINF:-1 group-title="🆕🇸 ᴜɴɪvɪsɪᴏɴ 📺 ɴᴏw 🇪🇸",🇪🇸☑ UNIVERSO Universal Kids East (hd)
-https://tvpass.org/live/UniversalKidsEast/hd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 UNIMAS 🇪🇸  ⭐🌎 🆕🇸UNIMAS📺NOVELAS🇪🇸 🌎⭐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIMAS 46 KFTR-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIMAS 46 KFTR-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7608.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7608.ts
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt3)
+http://alfa.7057460.xyz:2095/enavarro95/95cuenta/7608
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt4)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7608.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt5)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7608.ts
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt6)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7608
+
+
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt1) 
+http://mains.services:2086/live/640939802963/IDC01478!/66602.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt2) 
+http://mains.vip:2086/3003556325/2772007/66602 
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt1) 
+http://mains.services:2086/live/640939802963/IDC01478!/88742.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt2)  
+http://mains.vip:2086/3003556325/2772007/88742 
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt1) 
+http://mains.services:2086/live/640939802963/IDC01478!/66719.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt2) 
+http://mains.vip:2086/3003556325/2772007/66719 
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS EAST (opt1) 
+http://mains.services:2086/live/640939802963/IDC01478!/92475.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS EAST (opt2) 
+http://mains.vip:2086/3003556325/2772007/92475 
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KFSF) VALLEJO CALIFORNIA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96751.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KFSF) VALLEJO CALIFORNIA (opt2)
+http://mains.vip:2086/3003556325/2772007/96751
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KFTH) ALVIN TEXAS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96752.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KFTH) ALVIN TEXAS (opt2)
+http://mains.vip:2086/3003556325/2772007/96752
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KSTR) IRVING TEXAS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96755.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KSTR) IRVING TEXAS (opt2)
+http://mains.vip:2086/3003556325/2772007/96755
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KTFO) AUSTIN TEXAS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96756.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KTFO) AUSTIN TEXAS (opt2)
+http://mains.vip:2086/3003556325/2772007/96756
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WAMI) HOLLYWOOD FLORIDA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96758.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WAMI) HOLLYWOOD FLORIDA (opt2)
+http://mains.vip:2086/3003556325/2772007/96758
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WFPA) PHILADELPHIA PENNSYLVANIA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96760.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WFPA) PHILADELPHIA PENNSYLVANIA (opt2)
+http://mains.vip:2086/3003556325/2772007/96760
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WFUT) NEWARK NEW JERSEY (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96761.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WFUT) NEWARK NEW JERSEY (opt2)
+http://mains.vip:2086/3003556325/2772007/96761
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 NOVELAS 🇪🇸  ⭐🌎 🆕🇸📰UNIMAS📺NOVELAS🗞️🇪🇸 🌎⭐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸 Sony Canal Novelas | Movies
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸 Sony Canal Novelas | Movies
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7479.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7479.ts
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt3)
+http://alfa.7057460.xyz:2095/enavarro95/95cuenta/7479
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt4)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7479.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt5)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7479.ts
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt6)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7479
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7606.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7606.ts
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt3)
+http://alfa.7057460.xyz:2095/enavarro95/95cuenta/7606
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt4)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7606.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt5)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7606.ts
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt6)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7606
+
+
+
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ TLNOVELAS | UNIVISION (opt1) 
+http://mains.services:2086/live/640939802963/IDC01478!/66605.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ TLNOVELAS | UNIVISION (opt2) 
+http://mains.vip:2086/3003556325/2772007/66605 
+
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ TELENOVELAS (opt1) 
+http://mains.services:2086/live/640939802963/IDC01478!/92491.m3u8
+#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ TELENOVELAS (opt2)  
+http://mains.vip:2086/3003556325/2772007/92491 
+
+#EXTINF:-1 tvg-id="PlutoTVTelemundoTelenovelas.us" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸 Pluto TV Telemundo Telenovelas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVTelenovelas.es" tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸 Pluto TV Telenovelas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVTelenovela.fr" tvg-logo="https://i.imgur.com/huntRdh.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸 Pluto TV Telenovela
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e
+
+
+
+
+
+
 
 
 
@@ -9529,305 +9670,164 @@ https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/tudn.
 
 
 
+
 #EXTM3U
-#EXTINF:-1 tvg-name="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",◉ ##########☆ 🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸 ☆##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+#EXTINF:-1 tvg-name="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸", ##########  ♥ GROUP 01 📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸 ♥  ##########
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 ᴜɴɪvɪsɪᴏɴ ɴᴏw 🇺🇸  🌐🌎⭐ vɪᴘᵀᵛ📺ᴜɴɪvɪsɪᴏɴᵀᵛɴᴏw🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 ᴜɴɪvɪsɪᴏɴ ɴᴏw 🇺🇸  🌐🌎⭐ vɪᴘᵀᵛ📺ᴜɴɪvɪsɪᴏɴ ɴᴏw🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  ᴜɴɪvɪsɪᴏɴ ɴᴏw 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  Univision ɴᴏw 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 TVᴾᵃˢˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  TVᴾᵃˢˢ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIMAS 46 NOW KFTR-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIMAS 46 NOW KFTR-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
-
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TUDN vɪx ɴᴏw  TUDN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TUDN vɪx ɴᴏw  TUDN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ Zona TUDN vɪx ɴᴏw  ZONA-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ Zona TUDN vɪx ɴᴏw ZONA-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
 
-#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIMAS 46 vɪx ɴᴏw  KFTR-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIMAS 46 vɪx ɴᴏw  KFTR-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+
+#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ Canal VIX ɴᴏw VIX-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
-#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ Canal VIX ɴᴏw VIX-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
 
-#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 24/7 NOW N247-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ24/7 ɴᴏw vɪx N247-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
-#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 24/7 NOW N247-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ24/7 ɴᴏw vɪx N247-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
 
-#EXTINF:-1 tvg-id="WLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Miami WLTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="WLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ23 ɴᴏw Miami WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
-#EXTINF:-1 tvg-id="KLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Miami WLTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ23 ɴᴏw Miami WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
 
-#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Los Angeles KMEX-DT1 West [Geo-blocked]
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Los Angeles KMEX-DT1 West [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Los Angeles KMEX-DT1 West [Geo-blocked]
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Los Angeles KMEX-DT1 West [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 
-#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 14 NOW San Francisco KDTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ14 ɴᴏw San Francisco KDTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8
-#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 14 NOW San Francisco KDTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ14 ɴᴏw San Francisco KDTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8
 
-#EXTINF:-1 tvg-id="WXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 41 NOW New York WXTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="WXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ41 ɴᴏw New York WXTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
-#EXTINF:-1 tvg-id="KXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 41 NOW New York WXTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ41 ɴᴏw New York WXTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 
-#EXTINF:-1 tvg-id="WGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 66 NOW Chicago WGBO-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="WGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ66 ɴᴏw Chicago WGBO-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
-#EXTINF:-1 tvg-id="KGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 66 NOW Chicago WGBO-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ66 ɴᴏw Chicago WGBO-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
 
-#EXTINF:-1 tvg-id="WUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Atlanta WUVG-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="WUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Atlanta WUVG-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
-#EXTINF:-1 tvg-id="KUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Atlanta WUVG-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Atlanta WUVG-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
 
-#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Dallas KUVN-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ23 ɴᴏw Dallas KUVN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
-#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Dallas KUVN-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ23 ɴᴏw Dallas KUVN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 
-#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 45 NOW Houston KXLN-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ45 ɴᴏw Houston KXLN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
-#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ N+ UNIVISION 45 NOW Houston KXLN-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ45 ɴᴏw Houston KXLN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
 
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt2)
-https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt4)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt5)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt6) 
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/unimas.network.east.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ UniMas Network East (opt7) 
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt1)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt2)
-https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt4)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt5)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tudn.mx.m3u8tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt6)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ TUDN MX (opt7)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt1)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt2) 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt2) 
 https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt3)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt4)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt4)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt5)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt5)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt6) 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt6) 
 https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt7) 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt7) 
 https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/univision.eastern.us.m3u8
 
 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ UniMas Network East (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ UniMas Network East (opt2)
+https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ UniMas Network East (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ UniMas Network East (opt4)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ UniMas Network East (opt5)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ UniMas Network East (opt6) 
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/unimas.network.east.us.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ UniMas Network East (opt7) 
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/unimas.network.east.us.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ TUDN MX (opt1)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ TUDN MX (opt2)
+https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ TUDN MX (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ TUDN MX (opt4)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ TUDN MX (opt5)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tudn.mx.m3u8tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ TUDN MX (opt6)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ TUDN MX (opt7)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/tudn.mx.m3u8
 
 
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
 https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
 https://tvpass.org/live/TelemundoEast/hd
 
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIVISION SD | WNJU-DT1 (640p)
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVISION | WNJU-DT1 (sd)
 https://tvpass.org/live/UnivisionEast/sd
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIVISION HD | WNJU-DT1 (1080p)
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVISION | WNJU-DT1 (hd)
 https://tvpass.org/live/UnivisionEast/hd
 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ ESPN Deportes (sd)
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ ESPN Deportes (hd)
+https://tvpass.org/live/espn-deportes/hd
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 UNIMAS 🇪🇸  ⭐🌎 🆕🇸UNIMAS📺NOVELAS🇪🇸 🌎⭐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIMAS 46 KFTR-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☑ UNIMAS 46 KFTR-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
-
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7608.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7608.ts
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt3)
-http://alfa.7057460.xyz:2095/enavarro95/95cuenta/7608
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt4)
-http://alfa.7057460.xyz:2095/live/ameca01/1989/7608.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt5)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7608.ts
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ UNIMAS East (opt6)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7608
-
-
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt1) 
-http://mains.services:2086/live/640939802963/IDC01478!/66602.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt2) 
-http://mains.vip:2086/3003556325/2772007/66602 
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt1) 
-http://mains.services:2086/live/640939802963/IDC01478!/88742.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt2)  
-http://mains.vip:2086/3003556325/2772007/88742 
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt1) 
-http://mains.services:2086/live/640939802963/IDC01478!/66719.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (opt2) 
-http://mains.vip:2086/3003556325/2772007/66719 
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS EAST (opt1) 
-http://mains.services:2086/live/640939802963/IDC01478!/92475.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS EAST (opt2) 
-http://mains.vip:2086/3003556325/2772007/92475 
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KFSF) VALLEJO CALIFORNIA (opt1)
-http://mains.services:2086/live/640939802963/IDC01478!/96751.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KFSF) VALLEJO CALIFORNIA (opt2)
-http://mains.vip:2086/3003556325/2772007/96751
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KFTH) ALVIN TEXAS (opt1)
-http://mains.services:2086/live/640939802963/IDC01478!/96752.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KFTH) ALVIN TEXAS (opt2)
-http://mains.vip:2086/3003556325/2772007/96752
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KSTR) IRVING TEXAS (opt1)
-http://mains.services:2086/live/640939802963/IDC01478!/96755.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KSTR) IRVING TEXAS (opt2)
-http://mains.vip:2086/3003556325/2772007/96755
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KTFO) AUSTIN TEXAS (opt1)
-http://mains.services:2086/live/640939802963/IDC01478!/96756.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (KTFO) AUSTIN TEXAS (opt2)
-http://mains.vip:2086/3003556325/2772007/96756
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WAMI) HOLLYWOOD FLORIDA (opt1)
-http://mains.services:2086/live/640939802963/IDC01478!/96758.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WAMI) HOLLYWOOD FLORIDA (opt2)
-http://mains.vip:2086/3003556325/2772007/96758
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WFPA) PHILADELPHIA PENNSYLVANIA (opt1)
-http://mains.services:2086/live/640939802963/IDC01478!/96760.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WFPA) PHILADELPHIA PENNSYLVANIA (opt2)
-http://mains.vip:2086/3003556325/2772007/96760
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WFUT) NEWARK NEW JERSEY (opt1)
-http://mains.services:2086/live/640939802963/IDC01478!/96761.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ UNIMAS (WFUT) NEWARK NEW JERSEY (opt2)
-http://mains.vip:2086/3003556325/2772007/96761
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 NOVELAS 🇪🇸  ⭐🌎 🆕🇸📰UNIMAS📺NOVELAS🗞️🇪🇸 🌎⭐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸 Sony Canal Novelas | Movies
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸 Sony Canal Novelas | Movies
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7479.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7479.ts
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt3)
-http://alfa.7057460.xyz:2095/enavarro95/95cuenta/7479
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt4)
-http://alfa.7057460.xyz:2095/live/ameca01/1989/7479.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt5)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7479.ts
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸★ PASIONES (opt6)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7479
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7606.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7606.ts
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt3)
-http://alfa.7057460.xyz:2095/enavarro95/95cuenta/7606
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt4)
-http://alfa.7057460.xyz:2095/live/ameca01/1989/7606.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt5)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7606.ts
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇺🇸★ UNIVERSO (opt6)
-http://alfa.7057460.xyz:2095/julinnn2/Camion01/7606
-
-
-
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ TLNOVELAS | UNIVISION (opt1) 
-http://mains.services:2086/live/640939802963/IDC01478!/66605.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ TLNOVELAS | UNIVISION (opt2) 
-http://mains.vip:2086/3003556325/2772007/66605 
-
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ TELENOVELAS (opt1) 
-http://mains.services:2086/live/640939802963/IDC01478!/92491.m3u8
-#EXTINF:-1 group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸☆ TELENOVELAS (opt2)  
-http://mains.vip:2086/3003556325/2772007/92491 
-
-#EXTINF:-1 tvg-id="PlutoTVTelemundoTelenovelas.us" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸 Pluto TV Telemundo Telenovelas (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVTelenovelas.es" tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸 Pluto TV Telenovelas (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="PlutoTVTelenovela.fr" tvg-logo="https://i.imgur.com/huntRdh.png" group-title="🆕🇸 UNIMAS 📺 NOVELAS 🇪🇸",🇪🇸 Pluto TV Telenovela
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e
-
-
-
-
-
-
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVERSO Universal Kids East (sd)
+https://tvpass.org/live/UniversalKidsEast/sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVERSO Universal Kids East (hd)
+https://tvpass.org/live/UniversalKidsEast/hd
 
 
 
