@@ -3540,10 +3540,11 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
 
 
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",🇺🇸☑ CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",🇪🇸☑ BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",🇺🇸☑ CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",NBC
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/index.m3u8
@@ -3551,7 +3552,6 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/index.m3u8
 https://streamer1.nexgen.bz/NBC/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",NBC
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/mono.m3u8
-
 
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="🆕🇸 UNIVISION 📺 TUDN 🇪🇸",🇪🇸⚽ TUDN MX (opt1)
@@ -7109,29 +7109,6 @@ http://mains.vip:2086/3003556325/2772007/96943
 http://mains.services:2086/640939802963/IDC01478!/96943
 #EXTINF:-1 group-title="🆕🇸 NBC 🇺🇸",☆ NBC 25 (WXXV) Gulfport Mississippi (opt3)
 http://mains.services:2086/4523074511/3178768/96943
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -11202,6 +11179,11 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7160.ts
 
 
 
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-name="📺WORLD🌐ESPANOL🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐ESPANOL🇪🇸", ##########  ♥ GROUP 01 📺WORLD🌐ESPANOL🇪🇸 ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
@@ -11299,6 +11281,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (1080p)
 https://tvpass.org/live/TelemundoEast/sd
@@ -11487,6 +11470,8 @@ http://mains.services/live/4523074511/3178768/6e66d980-9ec2-4c02-8d88-21675888d0
 http://mains.services/live/4523074511/3178768/f0a3ae40-f2f9-4b30-8315-5b7e2b2bb373.m3u
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 UNIMASᵀᵛ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺LATINOᵀᵛ🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
@@ -11542,45 +11527,12 @@ https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☑ CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸☆ TUDN ZONA FUTBOL
-http://mains.services:2086/4523074511/3178768/88728
-
-#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN FHD (US)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN FHD (US)
-http://xsport1.me/live/fpavas/raZFGMA7GT/54a9ea28-9fe3-4297-ab1d-43aa03651f31.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN FHD (US)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN FHD (US)
-http://xsport1.me/live/fpavas/raZFGMA7GT/54a9ea28-9fe3-4297-ab1d-43aa03651f31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN FHD (US)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN FHD (US)
-http://xsport1.me/live/fpavas/raZFGMA7GT/54a9ea28-9fe3-4297-ab1d-43aa03651f31.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN HD (MX)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN HD (MX)
-http://xsport1.me/live/fpavas/raZFGMA7GT/33499fe0-7ac3-4596-a167-1c9fbe122b6d.m3u
 #EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN HD (US)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN HD (US)
 http://xsport1.me/live/fpavas/raZFGMA7GT/c7e3110f-b062-4ae4-b435-5d2231a0b993.m3u
 #EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN HD (US)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN HD (US)
 http://xsport1.me/live/fpavas/raZFGMA7GT/c7e3110f-b062-4ae4-b435-5d2231a0b993.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN HD (US)" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN HD (US)
 http://xsport1.me/live/fpavas/raZFGMA7GT/c7e3110f-b062-4ae4-b435-5d2231a0b993.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN SD (US)" tvg-logo="https://1.bp.blogspot.com/-2Qozv_IZzAU/XTHsirGYuSI/AAAAAAAA8B8/-xEieOU6gYUjWZPIh6yzZEh0-akZsMB9gCLcBGAs/s1600/TUDN.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN SD (US)
-http://xsport1.me/live/fpavas/raZFGMA7GT/90a2fca3-0e44-458d-8654-a26de06d91d6.m3u
-#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN SD (US)" tvg-logo="https://1.bp.blogspot.com/-2Qozv_IZzAU/XTHsirGYuSI/AAAAAAAA8B8/-xEieOU6gYUjWZPIh6yzZEh0-akZsMB9gCLcBGAs/s1600/TUDN.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN SD (US)
-http://xsport1.me/live/fpavas/raZFGMA7GT/90a2fca3-0e44-458d-8654-a26de06d91d6.m3u6
-#EXTINF:-1 tvg-id="" tvg-name="DEP | TUDN SD (US)" tvg-logo="https://1.bp.blogspot.com/-2Qozv_IZzAU/XTHsirGYuSI/AAAAAAAA8B8/-xEieOU6gYUjWZPIh6yzZEh0-akZsMB9gCLcBGAs/s1600/TUDN.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEP | TUDN SD (US)
-http://xsport1.me/live/fpavas/raZFGMA7GT/90a2fca3-0e44-458d-8654-a26de06d91d6.ts
-
-
-
-
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEPORTES - TUDN - MEX (M)(720) x
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/9603
-#EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-name="DEPORTES - TUDN - MEX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEPORTES - TUDN - MEX (Z)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/9604
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="DEPORTES - TUDN - USA (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEPORTES - TUDN - USA (TV)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/9605
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="DEPORTES - TUDN - USA (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="📺WORLD🌐ESPANOL🇪🇸",DEPORTES - TUDN - USA (Z)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/9606
-
-
 
 
 
@@ -11624,210 +11576,6 @@ https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-name="📺WORLD🌐ESPANOL🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺WORLD🌐ESPANOL🇪🇸", ##########  ♥ GROUP 01 📺WORLD🌐ESPANOL🇪🇸 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 LatinoPREMIUMᵀᵛ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  200.125. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a02d TELETICA 7 CR
-http://200.125.170.122:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a02g ANIMAL PLANET | DISCOVERY
-http://200.125.170.122:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a02k AMC
-http://200.125.170.122:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a02o SONY MOVIES
-http://200.125.170.122:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a02q TV AZTECA 7
-http://200.125.170.122:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a02u TEENNICK
-http://200.125.170.122:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a02x ENTERTAINMENT!
-http://200.125.170.122:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a02y FILM&ARTS
-http://200.125.170.122:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a02z A&E
-http://200.125.170.122:8000/play/a02z/index.m3u8
-
-#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇩🇴a03j CDN Deportes RD | Sports 
-http://200.125.170.122:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a03k TELEUNIVERSO RD
-http://200.125.170.122:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a03n TELECENTRO RD
-http://200.125.170.122:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a03o TELEUNION CANAL 12 RD
-http://200.125.170.122:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a03s CANAL 11 REPRETEL CR
-http://200.125.170.122:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a03t TCS+
-http://200.125.170.122:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a03v BABY FIRST
-http://200.125.170.122:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a03x RCN NOVELAS
-http://200.125.170.122:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a03y EURO CHANNEL
-http://200.125.170.122:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a03z HISTORY 2
-http://200.125.170.122:8000/play/a03z/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04a GOLDEN
-http://200.125.170.122:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04b TCM
-http://200.125.170.122:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04c MC
-http://200.125.170.122:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04d ES NE
-http://200.125.170.122:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04f TIGO SPORTS CR
-http://200.125.170.122:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04g NICKELODEON
-http://200.125.170.122:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04h TNT
-http://200.125.170.122:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04i THEATER DISCOVERY
-http://200.125.170.122:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04j H&H DISCOVERY
-http://200.125.170.122:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04k HOLA! TV
-http://200.125.170.122:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04l COMEDY CENTRAL
-http://200.125.170.122:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04o UNIVERSAL PREMIERE
-http://200.125.170.122:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04p UNIVERSAL PREMIERE
-http://200.125.170.122:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04q UNIVERSAL REALITY
-http://200.125.170.122:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04r UNIVERSAL CRIME
-http://200.125.170.122:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04s UNIVERSAL+
-http://200.125.170.122:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04t RTVD RD
-http://200.125.170.122:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04v TVO Canal 23 SV MUSIC
-http://200.125.170.122:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04w Canal 9 GT MUSIC
-http://200.125.170.122:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a04x LAR D TV
-http://200.125.170.122:8000/play/a04x/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05d LVM
-http://200.125.170.122:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05g CONCERT Channel
-http://200.125.170.122:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05h UNIVERSAL TV
-http://200.125.170.122:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05j MP*
-http://200.125.170.122:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05l CINEMAX
-http://200.125.170.122:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸a05o NBC
-http://200.125.170.122:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05p TVE ES
-http://200.125.170.122:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05q R TV
-http://200.125.170.122:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05s AXN
-http://200.125.170.122:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05t SPACE
-http://200.125.170.122:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05u FUTV SPORTS CR
-http://200.125.170.122:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05v ESPN
-http://200.125.170.122:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸a05w ESPN 3
-http://200.125.170.122:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05x ESPN 3
-http://200.125.170.122:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05y ESPN 6
-http://200.125.170.122:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a05z NATIONAL GEOGRAPHIC
-http://200.125.170.122:8000/play/a05z/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a09h TELEMICRO CANAL 5 RD
-http://200.125.170.122:8000/play/a09h/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a09h COLOR VISION CANAL 9 RD
-http://200.125.170.122:8000/play/a09h/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a09j CDN RD
-http://200.125.170.122:8000/play/a09j/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a09l TOONCAST
-http://200.125.170.122:8000/play/a09l/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a09m TV AZTECA 7 INTERNACIONAL
-http://200.125.170.122:8000/play/a09m/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a09v TLC
-http://200.125.170.122:8000/play/a09v/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a002 BABY TV
-http://200.125.170.122:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a003 ZOO MOO
-http://200.125.170.122:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a004 AMC SERIES
-http://200.125.170.122:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a005 ANTENA 3
-http://200.125.170.122:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a006 TV CHILE
-http://200.125.170.122:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a007 HGTV
-http://200.125.170.122:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a008 DISCOVERY SCIENCE
-http://200.125.170.122:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a010 HBO+ PLUS
-http://200.125.170.122:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a011 HBO FAMILY
-http://200.125.170.122:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a012 HBO XTREME
-http://200.125.170.122:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a031 TELEMUNDO INTERNACIONAL
-http://200.125.170.122:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a032 FX
-http://200.125.170.122:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a033 eE europeEUROPE
-http://200.125.170.122:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a038 NBC GOLF
-http://200.125.170.122:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a040 GOURMET
-http://200.125.170.122:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a041 SUN
-http://200.125.170.122:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a045 PX SPORTS
-http://200.125.170.122:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a046 LAS LATINOAMERICA SPORTS
-http://200.125.170.122:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a049 H TV | Music
-http://200.125.170.122:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a052 TVM Music
-http://200.125.170.122:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a057 DISNEY CHANNEL
-http://200.125.170.122:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a059 TNT
-http://200.125.170.122:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a060 PARAMOUNT NETWORK
-http://200.125.170.122:8000/play/a060/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a061 TNT SERIES
-http://200.125.170.122:8000/play/a061/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a062 DISCOVERY NETWORK
-http://200.125.170.122:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a063 WORLD DISCOVERY
-http://200.125.170.122:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a064 PASIONES
-http://200.125.170.122:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a065 UNIVISION
-http://200.125.170.122:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a066 DISCOVERY ID
-http://200.125.170.122:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a067 UNIVERSAL CINEMA
-http://200.125.170.122:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a097 DEPORTES TVC
-http://200.125.170.122:8000/play/a097/index.m3u8
-
-
 
 #EXTM3U
 #EXTINF:-1 tvg-name="📺WORLD🌐ESPANOL🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺WORLD🌐ESPANOL🇪🇸", ##########  ♥ GROUP 01 📺IPTVworld🌐 ♥  ##########
@@ -11839,59 +11587,123 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² A&E | AandE
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² A&E | AandE (opt1)
 http://41.205.93.154/AandE/index.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² A&E | AandE (opt2)
+http://41.205.93.154/AandE/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² A&E | AandE (opt3)
+http://41.205.93.154/AandE/mono.m3u8
 
-#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ABC 7 KABC LA
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ABC 7 KABC LA (opt1)
 http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ABC 7 KABC LA (opt2)
+http://41.205.93.154/ABC/playlist.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ABC 7 KABC LA (opt3)
+http://41.205.93.154/ABC/mono.m3u8
 
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² AMC
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² AMC (opt1)
 http://41.205.93.154/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² AMC (opt2)
+http://41.205.93.154/AMC/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² AMC (opt3)
+http://41.205.93.154/AMC/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ANIMALPLANET
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ANIMAL PLANET (opt1)
 http://41.205.93.154/ANIMALPLANET/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ANIMAL PLANET (opt2)
+http://41.205.93.154/ANIMALPLANET/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ANIMAL PLANET (opt3)
+http://41.205.93.154/ANIMALPLANET/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² BET FR
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² BET FR (opt1) x
 http://41.205.93.154/BET/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² BRAVO
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² BRAVO (opt1)
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² BRAVO (opt2)
+http://41.205.93.154/BRAVO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² BRAVO (opt3)
+http://41.205.93.154/BRAVO/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² BOOMERANG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² BOOMERANG x
 http://41.205.93.154/BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² CBS 26 WIYE-LD | BIG3 | FOX Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² CNBC WORLD
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² CNBC WORLD (opt1)
 http://41.205.93.154/CNBC/index.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² CNBC WORLD (opt2)
+http://41.205.93.154/CNBC/playlist.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² CNBC WORLD (opt3)
+http://41.205.93.154/CNBC/mono.m3u8
 
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL FR
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL FR x
 http://41.205.93.154/DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPN
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPN (opt1)
 http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPN (opt2)
+http://41.205.93.154/ESPN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPN (opt3)
+http://41.205.93.154/ESPN/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPNU
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPNU (opt1)
 http://41.205.93.154/ESPNU/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPNU (opt2)
+http://41.205.93.154/ESPNU/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPNU (opt3)
+http://41.205.93.154/ESPNU/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPNNEWS 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPNNEWS (opt1)
 http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPNNEWS (opt2)
+http://41.205.93.154/ESPNNEWS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² ESPNNEWS (opt3)
+http://41.205.93.154/ESPNNEWS/mono.m3u8
 
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² LIFETIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² CBS 26 WIYE-LD | BIG3 | FOX Business (opt1)
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² CBS 26 WIYE-LD | BIG3 | FOX Business (opt2)
+http://41.205.93.154/FOXBUSINESS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² CBS 26 WIYE-LD | BIG3 | FOX Business (opt3)
+http://41.205.93.154/FOXBUSINESS/mono.m3u8
+
+
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² LIFETIME (opt1)
 http://41.205.93.154/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² LMN | LIFETIME MOVIE NETWORK
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² LIFETIME (opt2)
+http://41.205.93.154/LIFETIME/playlist.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² LIFETIME (opt3)
+http://41.205.93.154/LIFETIME/mono.m3u8
+
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² LMN | LIFETIME MOVIE NETWORK (opt1)
 http://41.205.93.154/LMN/index.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² LMN | LIFETIME MOVIE NETWORK (opt2)
+http://41.205.93.154/LMN/playlist.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² LMN | LIFETIME MOVIE NETWORK (opt3)
+http://41.205.93.154/LMN/mono.m3u8
 
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² NBC | USA
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² NBC | USA (opt1)
 http://41.205.93.154/NBC/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² SYFY | USA
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² NBC | USA (opt2)
+http://41.205.93.154/NBC/playlist.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² NBC | USA (opt3)
+http://41.205.93.154/NBC/mono.m3u8
+
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt1)
 http://41.205.93.154/SYFY/index.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt2)
+http://41.205.93.154/SYFY/playlist.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt3)
+http://41.205.93.154/SYFY/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² TBS |E!
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² TBS |E! (opt1)
 http://41.205.93.154/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² TBS |E! (opt2)
+http://41.205.93.154/TBS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² TBS |E! (opt3)
+http://41.205.93.154/TBS/mono.m3u8
 
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² TLC
+#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸Ⓜ² TLC x
 http://41.205.93.154/TLC/index.m3u8
 
 
@@ -12942,427 +12754,6 @@ https://eu1.servers10.com:8081/8198/index.m3u8?PlaylistM3UCL
 
 
 
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺WORLD🌐ESPANOL🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺WORLD🌐ESPANOL🇪🇸", ##########  ♥ GROUP 01 📺WORLD🌐ESPANOL🇪🇸 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 LatinoPREMIUMᵀᵛ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐ESPANOL🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  45.5. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00l GOLDEN PREMIER
-http://45.5.116.178:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a002 Canal Ocho 8 HN
-http://45.5.116.178:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a003 BABY TV
-http://45.5.116.178:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a004 ZOO MOO
-http://45.5.116.178:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a005 AMC SERIES
-http://45.5.116.178:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a006 ANTENA 3
-http://45.5.116.178:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a007 TV CHILE
-http://45.5.116.178:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a008 HGTV
-http://45.5.116.178:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a009 SCIENCE DISCOVERY
-http://45.5.116.178:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a011 HBO+
-http://45.5.116.178:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a013 HBO XTREME
-http://45.5.116.178:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a020 TV MUSIC
-http://45.5.116.178:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a021 AXN
-http://45.5.116.178:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a022 TNT
-http://45.5.116.178:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a023 AMC
-http://45.5.116.178:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a024 CNN EN ESPANOL
-http://45.5.116.178:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a025 BBC NEWS
-http://45.5.116.178:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a026 FRANCE 24
-http://45.5.116.178:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a027 ✝ENLACE
-http://45.5.116.178:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a028 ✝EWTN
-http://45.5.116.178:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a029 HISTORY
-http://45.5.116.178:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a030 FX
-http://45.5.116.178:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03l CA | CANAL ANTIGUA GT
-http://45.5.116.178:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a032 EURO CHANNEL
-http://45.5.116.178:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a033 HISTORY 2
-http://45.5.116.178:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a034 GOURMET
-http://45.5.116.178:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a035 SUN
-http://45.5.116.178:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a036 CLARO SPORTS 2
-http://45.5.116.178:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a037 ESPN 3
-http://45.5.116.178:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a039 PX SPORTS
-http://45.5.116.178:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a040 SONY CHANNEL
-http://45.5.116.178:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a041 WB TV
-http://45.5.116.178:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a042 E! ENTERTAINMENT!
-http://45.5.116.178:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a043 A&E
-http://45.5.116.178:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a045 DISCOVERY NETWORK
-http://45.5.116.178:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a046 ANIMAL PLANET
-http://45.5.116.178:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a047 HISTORY
-http://45.5.116.178:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a048 TLC
-http://45.5.116.178:8000/play/a048/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a049 ESPN
-http://45.5.116.178:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a050 DISCOVERY ID
-http://45.5.116.178:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a051 CLARO SPORTS 
-http://45.5.116.178:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a052 LVM La Voz de Maria
-http://45.5.116.178:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a053 ✝TELEVIDA X
-http://45.5.116.178:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a054 MTV
-http://45.5.116.178:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a055 CONCERT
-http://45.5.116.178:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a056 UNIVERSAL TV
-http://45.5.116.178:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a058 MP | MultiPremier
-http://45.5.116.178:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a059 CINE LATINO
-http://45.5.116.178:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a061 ESPN 4 x
-http://45.5.116.178:8000/play/a061/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸©a066 STUDIO UNIVERSAL
-http://45.5.116.178:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a067 ANIMAL PLANET | Discovery
-http://45.5.116.178:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇺🇸©a068 E! ENTERTAINMENT!
-http://45.5.116.178:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a069 Film & Arts
-http://45.5.116.178:8000/play/a069/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a071 ✝TV CRET
-http://45.5.116.178:8000/play/a071/index.m3u8
-
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00a HOLA! TV
-http://45.5.116.178:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00b C10 SV
-http://45.5.116.178:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00c A3S INT
-http://45.5.116.178:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00d GOLF NBC
-http://45.5.116.178:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00e CNN 
-http://45.5.116.178:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00f C10 SV
-http://45.5.116.178:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="📺WORLD🌐ESPANOL🇪🇸",🇸🇻©a00g Canal 4 SV (opt1)
-http://45.5.116.178:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00h TD CR TELETICA
-http://45.5.116.178:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00i TD 2 CR TELETICA X
-http://45.5.116.178:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00j Discovery KIDS
-http://45.5.116.178:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00l GOLDEN PREMIER
-http://45.5.116.178:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00m GOLDEN PREMIER 2
-http://45.5.116.178:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00o ✝TELEVIDA
-http://45.5.116.178:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00p Canal 8 CR
-http://45.5.116.178:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00s Film & Arts
-http://45.5.116.178:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00t DHE
-http://45.5.116.178:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00u PARAMOUNT NETWORK
-http://45.5.116.178:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00v Claro Sports
-http://45.5.116.178:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a00y CN Cartoon Network
-http://45.5.116.178:8000/play/a00y/index.m3u8
-
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01a CANAL CLARO
-http://45.5.116.178:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01b GUATEVISION
-http://45.5.116.178:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01c CANAL 11 HN
-http://45.5.116.178:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01d tA TeleAmazonas EC
-http://45.5.116.178:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01e ANTENA 7 RD
-http://45.5.116.178:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01f TeleSistema t11 RD
-http://45.5.116.178:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01j HCH HN
-http://45.5.116.178:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01k CN CARTOON NETWORK
-http://45.5.116.178:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01l NICK JR.
-http://45.5.116.178:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01m CARTOONITO
-http://45.5.116.178:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01n DISNEY JR.
-http://45.5.116.178:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01o Canal 51 NICARAO TV
-http://45.5.116.178:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01p SEMILLITAS Kids
-http://45.5.116.178:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01q [adult swim]
-http://45.5.116.178:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01r TELEMUNDO INTERNACIONAL
-http://45.5.116.178:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01s TV AZTECA 7 CORAZON
-http://45.5.116.178:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01t SPACE
-http://45.5.116.178:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01u TNT SERIES
-http://45.5.116.178:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01v TNT NOVELAS
-http://45.5.116.178:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01w NAT GEO
-http://45.5.116.178:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01x LIFETIME
-http://45.5.116.178:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01y ESPN 6
-http://45.5.116.178:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a01z MTV Music
-http://45.5.116.178:8000/play/a01z/index.m3u8
-
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02b MTV
-http://45.5.116.178:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02c MTV
-http://45.5.116.178:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02e TV Music
-http://45.5.116.178:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02f Canal 13 GT
-http://45.5.116.178:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02g Canal 11 GT
-http://45.5.116.178:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02h Canal 6 SV
-http://45.5.116.178:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02j STVE
-http://45.5.116.178:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02m Digital Quince | TELECENTRO RD
-http://45.5.116.178:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02n CDN DEPORTES
-http://45.5.116.178:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02o TeleUniverso TV
-http://45.5.116.178:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02r TELEMETRO RD
-http://45.5.116.178:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02s TELEUNION
-http://45.5.116.178:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02v Canal 6 CR Repretel
-http://45.5.116.178:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02w Canal 11 CR
-http://45.5.116.178:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02y Canal 19 SV
-http://45.5.116.178:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a02z Baby First
-http://45.5.116.178:8000/play/a02z/index.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03a LAS | LatinoAmerica Sports MX
-http://45.5.116.178:8000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03c MTV 00s
-http://45.5.116.178:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03d hTV Music
-http://45.5.116.178:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03e GOLDEN
-http://45.5.116.178:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03f TCM
-http://45.5.116.178:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03g MC MX Movies y Series
-http://45.5.116.178:8000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03h ES NE
-http://45.5.116.178:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03j LAS | LatinoAmerica Sports MX x
-http://45.5.116.178:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03k Cartoon CARTOONS | ToonCast x
-http://45.5.116.178:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03l CA Canal Antigua GT
-http://45.5.116.178:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03m TV AZTECA GUATE
-http://45.5.116.178:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03n UNIVISION Canal 7
-http://45.5.116.178:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03o Canal 3
-http://45.5.116.178:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03p N4V SV
-http://45.5.116.178:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03q TL2 TELE DOS
-http://45.5.116.178:8000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03r Canal 5 TSi HN
-http://45.5.116.178:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03s SONY MOVIES X
-http://45.5.116.178:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03u TELEMICRO 5 RD
-http://45.5.116.178:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03v Canal 9 RD
-http://45.5.116.178:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03w CDN
-http://45.5.116.178:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03x Canal 4
-http://45.5.116.178:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03y TOONCAST
-http://45.5.116.178:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a03z Azteca 7 INT
-http://45.5.116.178:8000/play/a03z/index.m3u8
-
-
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04a ESPN 2
-http://45.5.116.178:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04b EXA TV
-http://45.5.116.178:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04c CLARO CINEMA
-http://45.5.116.178:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04d STAR CHANNEL
-http://45.5.116.178:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04e WB TV
-http://45.5.116.178:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04f SONY Channel
-http://45.5.116.178:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04g CINECANAL
-http://45.5.116.178:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04i RTVD 4 RD
-http://45.5.116.178:8000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04j FUTV CR
-http://45.5.116.178:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04l Canal 9 Canal del Congrerso Republica GT
-http://45.5.116.178:8000/play/a04l/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04m LAR D TV
-http://45.5.116.178:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04s TSi HN
-http://45.5.116.178:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04t UNE TV HN
-http://45.5.116.178:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04u DISCOVERY KIDS
-http://45.5.116.178:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04v NICKELODEON
-http://45.5.116.178:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04w DISNEY CHANNEL
-http://45.5.116.178:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04x STAR Channel
-http://45.5.116.178:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04y TURBO DISCOVERY
-http://45.5.116.178:8000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a04z H&H DISCOVERY
-http://45.5.116.178:8000/play/a04z/index.m3u8
-
-
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05a CINEMAX
-http://45.5.116.178:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05b STUDIO UNIVERSAL
-http://45.5.116.178:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05c CINECANAL
-http://45.5.116.178:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05d NBC
-http://45.5.116.178:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05e TVE ES
-http://45.5.116.178:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05f Canal R
-http://45.5.116.178:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05h AXN
-http://45.5.116.178:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05i SPACE
-http://45.5.116.178:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05k FUTV CR
-http://45.5.116.178:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05l ESPN 3
-http://45.5.116.178:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05m CNN en Espanol HD X
-http://45.5.116.178:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05o ESPN 6
-http://45.5.116.178:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05p NAT GEO																																																																																																																																																
-http://45.5.116.178:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05q PARAMOUNT NETWORK
-http://45.5.116.178:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05r TNT SERIES
-http://45.5.116.178:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05s DISCOVERY NETWORK
-http://45.5.116.178:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05t DISCOVERY WORLD
-http://45.5.116.178:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05u PASIONES
-http://45.5.116.178:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05v UNIVISION
-http://45.5.116.178:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05w DISCOVERY ID 
-http://45.5.116.178:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05x UNIVERSAL CINEMA
-http://45.5.116.178:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05y ESPN 6 X
-http://45.5.116.178:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸©a05z ESPN 5 X
-http://45.5.116.178:8000/play/a05z/index.m3u8
-
-
-
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06a A&E
-http://45.5.116.178:8000/play/a06a/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06b AMC
-http://45.5.116.178:8000/play/a06b/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06c UNIVERSAL+
-http://45.5.116.178:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06d FX
-http://45.5.116.178:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06e eE europaEUROPA
-http://45.5.116.178:8000/play/a06e/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06f SONY MOVIES
-http://45.5.116.178:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06h TV AZTECA 7
-http://45.5.116.178:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06i STAR tve.es
-http://45.5.116.178:8000/play/a06i/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06j NBC GOLF
-http://45.5.116.178:8000/play/a06j/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06o CLARO SPORTS
-http://45.5.116.178:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06t PARAMOUNT NETWORK
-http://45.5.116.178:8000/play/a06t/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06u CLARO SPORTS 2
-http://45.5.116.178:8000/play/a06u/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06v HBO
-http://45.5.116.178:8000/play/a06v/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06w HBO 2
-http://45.5.116.178:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06x HBO+
-http://45.5.116.178:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06y HBO FAMILY
-http://45.5.116.178:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐ESPANOL🇪🇸",🇪🇸a06z HBO XTREME
-http://45.5.116.178:8000/play/a06z/index.m3u8
 
 
 
