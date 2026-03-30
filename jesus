@@ -7141,6 +7141,1677 @@ http://mains.services:2086/4523074511/3178768/96943
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name="🇺🇸CHANNELS📺Premium🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",⚽ ##########☆ 🇺🇸CHANNELS📺Premium🇪🇸 ☆##########
+http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 A 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ AFV | Comedy
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ ALIBI | CRIME INVESTIGATION UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/alibi.uk.m3u8
+#EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ ALIBI | CRIME INVESTIGATION UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/alibi.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ ALIBI | CRIME INVESTIGATION UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/alibi.uk.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.white.es.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt2) 
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/axn.white.es.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt3) 
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/axn.white.es.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN White FHD" tvg-logo="http://xplatinmedia.com:8080/images/58afbb161e884d432eefb2b825e2326c.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN White FHD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153831
+#EXTINF:-1 tvg-id="324" tvg-name="ES: AXN White HD" tvg-logo="http://xplatinmedia.com:8080/images/58afbb161e884d432eefb2b825e2326c.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN White HD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153833
+#EXTINF:-1 tvg-id="324" tvg-name="ES: AXN White SD" tvg-logo="http://xplatinmedia.com:8080/images/58afbb161e884d432eefb2b825e2326c.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN White SD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153834
+
+#EXTINF:-1 tvg-id="324" tvg-name="ES: AXN FHD" tvg-logo="http://xplatinmedia.com:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN FHD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153835
+
+#EXTINF:-1 tvg-id="324" tvg-name="ES: AXN HD" tvg-logo="http://xplatinmedia.com:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN HD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153837
+#EXTINF:-1 tvg-id="324" tvg-name="ES: AXN SD" tvg-logo="http://xplatinmedia.com:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN SD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153838
+
+
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7031.ts
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt2)
+http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7031.m3u8
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt3)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7031.m3u8
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt4)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7031.m3u8
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt5)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7031
+
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : LATINO | 92627 (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/92627
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : LATINO | 92627 (opt2) 
+http://mains.vip:2086/3003556325/2772007/92627
+
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : ES | 88675 (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/88675
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : ES | 88675 (opt2) 
+http://mains.vip:2086/3003556325/2772007/88675
+
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [FHD]
+http://pfsv.io:80/6181288/27664/295.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [FHD][H265]
+http://pfsv.io:80/6181288/27664/30206.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [HD]
+http://pfsv.io:80/6181288/27664/301.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [SD]
+http://pfsv.io:80/6181288/27664/326.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [FHD] LEG
+http://pfsv.io:80/6181288/27664/122939.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130186.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [HD] LEG
+http://pfsv.io:80/6181288/27664/122933.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [SD] LEG
+http://pfsv.io:80/6181288/27664/122934.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [FHD]
+http://pfsv.io:80/6181288/27664/294.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [FHD][H265]
+http://pfsv.io:80/6181288/27664/30228.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [HD]
+http://pfsv.io:80/6181288/27664/300.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [SD]
+http://pfsv.io:80/6181288/27664/325.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130185.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [FHD] LEG
+http://pfsv.io:80/6181288/27664/331695.ts
+
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² AMC
+http://41.205.93.154/AMC/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ AMC US (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ AMC US (opt2) 
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/amc.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ AMC US (opt3) 
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/amc.eastern.us.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7029.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt2)
+http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7029.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt3)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7029.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt4)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7029.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt5)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7029
+
+
+#EXTINF:-1 tvg-id="324" tvg-name="ES: AMC FHD" tvg-logo="http://xplatinmedia.com:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AMC FHD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153816
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC Full HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AMC Full HD HEVC
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153817
+#EXTINF:-1 tvg-id="324" tvg-name="ES: AMC HD" tvg-logo="http://xplatinmedia.com:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AMC HD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153818
+#EXTINF:-1 tvg-id="324" tvg-name="ES: AMC SD" tvg-logo="http://xplatinmedia.com:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AMC SD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153819
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : LATINO | 98772 (opt1) 
+http://mains.vip:2086/3003556325/2772007/98772
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : LATINO | 98772 (opt2) 
+http://mains.services:2086/640939802963/IDC01478!/98772
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : ES | 88671 (opt1) 
+http://mains.vip:2086/3003556325/2772007/88671
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : ES | 88671 (opt2) 
+http://mains.services:2086/640939802963/IDC01478!/88671
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/95377
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC (opt2) 
+http://mains.vip:2086/3003556325/2772007/95377 
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC HD (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/562
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC HD (opt2)  
+http://mains.vip:2086/3003556325/2772007/562 
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC FHD (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/64158
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC FHD (opt2) 
+http://mains.vip:2086/3003556325/2772007/64158 
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ A&E : LATINO | 98773 (opt1) 
+http://mains.vip:2086/3003556325/2772007/98773
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ A&E : LATINO | 98773 (opt2) 
+http://mains.services:2086/640939802963/IDC01478!/98773
+
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² A&E | AandE
+http://41.205.93.154/AandE/index.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7032.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt2)
+http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7032.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt3)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7032.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt4)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7032.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt5)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7032
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  A&E [FHD]
+http://pfsv.io:80/6181288/27664/293.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  A&E [FHD][H265]
+http://pfsv.io:80/6181288/27664/30227.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  A&E [HD]
+http://pfsv.io:80/6181288/27664/299.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  A&E [SD]
+http://pfsv.io:80/6181288/27664/324.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  A&E [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130184.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 FHD" tvg-logo="http://xplatinmedia.com:8080/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Antena 3 FHD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153822
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Antena 3 HD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153824
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 SD" tvg-logo="http://xplatinmedia.com:8080/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Antena 3 SD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153825
+#EXTINF:-1 tvg-id="" tvg-name="ES: Aragon TV SD" tvg-logo="http://xplatinmedia.com:8080/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Aragon TV SD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153826
+#EXTINF:-1 tvg-id="7" tvg-name="ES: Aragon TV HD" tvg-logo="http://xplatinmedia.com:8080/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Aragon TV HD
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153827
+#EXTINF:-1 tvg-id="7" tvg-name="ES: Aragon TV SD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Aragon TV SD HEVC
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153828
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 B 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bet.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/bet.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/bet.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* HER US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bet.her.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* HER US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/bet.her.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* HER US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/bet.her.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* JAMS US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bet.jams.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* JAMS US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/bet.jams.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* JAMS US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/bet.jams.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* SOUL US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bet.soul.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* SOUL US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/bet.soul.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ BET* SOUL US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/bet.soul.us.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² BET FR
+http://41.205.93.154/BET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² BRAVO
+http://41.205.93.154/BRAVO/index.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ BET FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64152
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ BET FHD (opt2)
+http://mains.vip:2086/3003556325/2772007/64152
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ BET HER FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64151
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ BET HER FHD (opt2)
+http://mains.vip:2086/3003556325/2772007/64151
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ BET JAMS (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56110
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ BET JAMS (opt2)
+http://mains.vip:2086/3003556325/2772007/56110
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ BET SOUL (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56109
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ BET SOUL (opt2)
+http://mains.vip:2086/3003556325/2772007/56109
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 C 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINEMAX MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINEMAX MX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINEMAX MX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinemax.mx.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINECANAL MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINECANAL MX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINECANAL MX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cinecanal.mx.m3u8
+
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINEMAX MX (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2210
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINEMAX AR (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2211
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINECANAL MX (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2206
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINECANAL AR (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2205
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  CINE SKY 01 [FHD]
+http://pfsv.io:80/6181288/27664/50858.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  CINE SKY 2 [FHD]
+http://pfsv.io:80/6181288/27664/50859.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  CINE SKY 3 [FHD]
+http://pfsv.io:80/6181288/27664/50860.ts
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸ⓕ291 Canela.tv | Kids Movies TG (opt1)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=291
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸ⓕ291 Canela.tv | Kids Movies TG (opt2)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=291
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 D 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ D PELICULA MX (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2213
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ D PELICULA PLUS MX (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2214
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 E 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ EPIX |  MGM+ (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/epix.east.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ EPIX |  MGM+ (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/epix.east.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ EPIX |  MGM+ (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/epix.east.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ EPIX DRIVE IN |  MGM+ (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/epix.drive.in.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ EPIX DRIVE IN |  MGM+ (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/epix.drive.in.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ EPIX DRIVE IN |  MGM+ (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/epix.drive.in.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ EPIX HITS |  MGM+ (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/epix.hits.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ EPIX HITS |  MGM+ (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/epix.hits.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ EPIX HITS |  MGM+ (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/epix.hits.us.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX DRIVE IN |  MGM+ (opt1)
+http://mains.vip:2086/3003556325/2772007/56132
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX DRIVE IN |  MGM+ (opt2)
+http://mains.services:2086/640939802963/IDC01478!/56132
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX DRIVE IN |  MGM+ (opt1)
+http://mains.vip:2086/3003556325/2772007/64120
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX DRIVE IN |  MGM+ (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64120
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX |  MGM+ (opt1)
+http://mains.vip:2086/3003556325/2772007/95367
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX |  MGM+ (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95367
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX 2 |  MGM+ (opt1)
+http://mains.vip:2086/3003556325/2772007/95366
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX 2 |  MGM+ (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95366
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX HITS |  MGM+ (opt1)
+http://mains.vip:2086/3003556325/2772007/95368
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX HITS |  MGM+ (opt2)
+http://mains.services:2086/4523074511/3178768/95368
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX |  MGM+ (opt1)
+http://mains.vip:2086/3003556325/2772007/13606
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX |  MGM+ (opt2)
+http://mains.services:2086/640939802963/IDC01478!/13606
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX 2 |  MGM+ (opt1)
+http://mains.vip:2086/3003556325/2772007/42473
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX 2 |  MGM+ (opt2)
+http://mains.services:2086/640939802963/IDC01478!/42473
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX HITS |  MGM+ (opt1)
+http://mains.vip:2086/3003556325/2772007/14941
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX HITS |  MGM+ (opt2)
+http://mains.services:2086/640939802963/IDC01478!/14941
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX |  MGM+ (opt1)
+http://mains.vip:2086/3003556325/2772007/64122
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX |  MGM+ (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64122
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX 2 |  MGM+ (opt1)
+http://mains.vip:2086/3003556325/2772007/64121
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX 2 |  MGM+ (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64121
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX HITS |  MGM+ (opt1)
+http://mains.vip:2086/3003556325/2772007/64119
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ EPIX HITS |  MGM+ (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64119
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 F 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FREEFORM (opt1)
+http://mains.services:2086/640939802963/IDC01478!/95373
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FREEFORM (opt2)
+http://mains.vip:2086/3003556325/2772007/95373
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FREEFORM (opt1)
+http://mains.services:2086/640939802963/IDC01478!/320
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FREEFORM (opt2)
+http://mains.vip:2086/3003556325/2772007/320
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FX (opt1)
+http://mains.services:2086/640939802963/IDC01478!/95489
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FX (opt2)
+http://mains.vip:2086/3003556325/2772007/95489
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXM RETRO (opt1)
+http://mains.services:2086/640939802963/IDC01478!/95462
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXM RETRO (opt2)
+http://mains.vip:2086/3003556325/2772007/95462
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXX (opt1)
+http://mains.services:2086/640939802963/IDC01478!/95423
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXX (opt2)
+http://mains.vip:2086/3003556325/2772007/95423
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FX (opt1)
+http://mains.services:2086/640939802963/IDC01478!/324
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FX (opt2)
+http://mains.vip:2086/3003556325/2772007/324
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXMOVIE RETRO (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64117
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXMOVIE RETRO (opt2)
+http://mains.vip:2086/3003556325/2772007/64117
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXM RETRO (opt1)
+http://mains.services:2086/640939802963/IDC01478!/1271
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXM RETRO (opt2)
+http://mains.vip:2086/3003556325/2772007/1271
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXX (opt1)
+http://mains.services:2086/640939802963/IDC01478!/323
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXX (opt2)
+http://mains.vip:2086/3003556325/2772007/323
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXX (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64116
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FXX (opt2)
+http://mains.vip:2086/3003556325/2772007/64116
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FYI (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64115
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FYI (opt2)
+http://mains.vip:2086/3003556325/2772007/64115
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FYI NETWORK (opt1)
+http://mains.services:2086/640939802963/IDC01478!/342
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FYI NETWORK (opt2)
+http://mains.vip:2086/3003556325/2772007/342
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FUSE (opt1)
+http://mains.vip:2086/3003556325/2772007/15464
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FUSE (opt2)
+http://mains.services:2086/640939802963/IDC01478!/15464
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FUSE FHD (opt1)
+http://mains.vip:2086/3003556325/2772007/64109
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ FUSE FHD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64109
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 G 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GET TV (opt1)
+http://mains.vip:2086/3003556325/2772007/62322
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GET TV (opt2)
+http://mains.services:2086/640939802963/IDC01478!/62322
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GRIT FHD (opt1)
+http://mains.vip:2086/3003556325/2772007/15371
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GRIT FHD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/15371
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 H 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HALLMARK CHANNEL (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hallmark.channel.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HALLMARK CHANNEL (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hallmark.channel.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HALLMARK CHANNEL (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hallmark.channel.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HALLMARK FAMILY (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hallmark.drama.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HALLMARK FAMILY (opt2) 
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hallmark.drama.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HALLMARK FAMILY (opt3) 
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hallmark.drama.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HALLMARK MYSTERY (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HALLMARK MYSTERY (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HALLMARK MYSTERY (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
+
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK CHANNEL(opt1)
+http://mains.vip:2086/3003556325/2772007/95427
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK CHANNEL(opt2)
+http://mains.services:2086/640939802963/IDC01478!/95427
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK FAMILY (opt1)
+http://mains.vip:2086/3003556325/2772007/95506
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK FAMILY (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95506
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK MYSTERY (opt1)
+http://mains.vip:2086/3003556325/2772007/95429
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK MYSTERY (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95429
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK CHANNEL US (opt1)
+http://mains.vip:2086/3003556325/2772007/341
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK CHANNEL US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/341
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK FAMILY US (opt1)
+http://mains.vip:2086/3003556325/2772007/14869
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK FAMILY US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/14869
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK MYSTERY US (opt1)
+http://mains.vip:2086/3003556325/2772007/14947
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK MYSTERY US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/14947
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK CHANNEL FHD US (opt1)
+http://mains.vip:2086/3003556325/2772007/64099
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK CHANNEL FHD US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64099
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK FAMILY FHD US (opt1)
+http://mains.vip:2086/3003556325/2772007/64097
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK FAMILY FHD US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64097
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK MYSTERY FHD US (opt1)
+http://mains.vip:2086/3003556325/2772007/64098
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK MYSTERY FHD US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64098
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HDNET MOVIES US (opt1)
+http://mains.vip:2086/3003556325/2772007/95512
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HDNET MOVIES US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95512
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 I 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] IndiePlex" tvg-logo="http://p-img.movetv.com/cms/images/5251406eda7de8e7548ea6dd4ba6fc70dfd99be5.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] IndiePlex
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182875
+#EXTINF:-1 tvg-id="" tvg-name="[sling] India TV" tvg-logo="http://p-img.movetv.com/cms/images/7ce2395f3ea55a66f9699c21da91bd1374379841.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] India TV
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182703
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Ingles Para Todos" tvg-logo="http://p-img.movetv.com/cms/images/de4aef0c1b0fffaecf96ea8cbce41b43b0916285.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Ingles Para Todos
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182879
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 L 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Love Nature" tvg-logo="http://p-img.movetv.com/1280x720/ad68f598f19be96e331c97ef06c7e05a.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Love Nature
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182635
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Love Stories TV" tvg-logo="http://p-img.movetv.com/cms/images/9041f1c9a6fb6455627e93a8d94f614b3b728ab5.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Love Stories TV
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182737
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² LIFETIME
+http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² LMN | LIFETIME MOVIE NETWORK
+http://41.205.93.154/LMN/index.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LIFETIME (opt1)
+http://mains.vip:2086/3003556325/2772007/95382
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LIFETIME (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95382
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LMN | LIFETIME MOVIE NETWORK (opt1)
+http://mains.vip:2086/3003556325/2772007/95379
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LMN | LIFETIME MOVIE NETWORK (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95379
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LIFETIME US (opt1)
+http://mains.vip:2086/3003556325/2772007/15491
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LIFETIME US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/15491
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LMN | LIFETIME MOVIE NETWORK US (opt1)
+http://mains.vip:2086/3003556325/2772007/338
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LMN | LIFETIME MOVIE NETWORK US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/338
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LIFETIME FHD US (opt1)
+http://mains.vip:2086/3003556325/2772007/64093
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LIFETIME FHD US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64093
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LMN | LIFETIME MOVIE NETWORK FHD US (opt1)
+http://mains.vip:2086/3003556325/2772007/64092
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LMN | LIFETIME MOVIE NETWORK FHD US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64092
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME NETWORK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/lifetime.network.us.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME NETWORK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/lifetime.network.us.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME NETWORK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/lifetime.network.us.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME MOVIES (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/lifetime.movies.east.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME MOVIES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/lifetime.movies.east.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME MOVIES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/lifetime.movies.east.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME CA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/lifetime.tv.canada.ca.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME CA (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/lifetime.tv.canada.ca.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME CA (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/lifetime.tv.canada.ca.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME SONY UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/lifetime.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME SONY UK (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/lifetime.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ LIFETIME SONY UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/lifetime.uk.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 M 🇺🇸  ⭐🌎 CHANNELS📺Music 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Miami Heat" tvg-logo="http://p-img.movetv.com/cms/images/e2ed6dd3226e489a00fb104daba6388d2022a2ae.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Miami Heat
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182607
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Max" tvg-logo="http://b-img.movetv.com/2490x682/272cd936cd509184c374b2290175a5f6.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Max
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182723
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Miramax Movie Channel" tvg-logo="http://p-img.movetv.com/1280x720/8be1c205b22f12a14130168f80e6cb1d.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Miramax Movie Channel
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182820
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  MEGAPIX [FHD]
+http://pfsv.io:80/6181288/27664/281.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  MEGAPIX [FHD][H265]
+http://pfsv.io:80/6181288/27664/30218.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  MEGAPIX [HD]
+http://pfsv.io:80/6181288/27664/310.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  MEGAPIX [SD]
+http://pfsv.io:80/6181288/27664/335.ts
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 O 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] MGM+ Drive-In" tvg-logo="http://p-img.movetv.com/images/2dc0ab7525da74ccde3f5efac3294a8f49bc598f" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] MGM+ Drive-In
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182284
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ OWN (opt1) 
+http://mains.vip:2086/3003556325/2772007/95451
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ OWN (opt2) 
+http://mains.services:2086/640939802963/IDC01478!/95451
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ OWN HD (opt1) 
+http://mains.vip:2086/3003556325/2772007/311
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ OWN HD (opt2) 
+http://mains.services:2086/640939802963/IDC01478!/311
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ OWN FHD (opt1)
+http://mains.vip:2086/3003556325/2772007/64078
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ OWN FHD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64078
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 P 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Más Pasiones" tvg-logo="http://b-img.movetv.com/1280x720/97022d84f9294622c3a564a18c3b0f8d.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸", Más Pasiones
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182632
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV1-Spanish" tvg-logo="http://p-img.movetv.com/cms/images/abc646be71464209f13ae40f37e0f5e196154fe4.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV1-Spanish
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182604
+#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV2-Spanish" tvg-logo="http://p-img.movetv.com/cms/images/c32f7cd861426e5599d1ca4f0eb2aead4a6d437d.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV2-Spanish
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182476
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV1" tvg-logo="http://p-img.movetv.com/cms/images/8aa44a31667565d6536b6fb1d1aa75eee4989294.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV1
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182782
+#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV2" tvg-logo="http://p-img.movetv.com/cms/images/9b729e6a66c60dc061cd28d12236734a58097054.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV2
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182581
+#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV3" tvg-logo="http://p-img.movetv.com/cms/images/faa0edee20c0eb8f440c8c2fa132eb2e08df0310.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV3
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183173
+#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV4" tvg-logo="http://p-img.movetv.com/cms/images/6acabeb7c1c48ccf9cc2db43d5d1d9c208563aa7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV4
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182427
+
+#EXTINF:-1 tvg-id=“Paramount.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ PARAMOUNT NETWORK AR (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2259
+
+#EXTINF:-1 tvg-id=“Paramount.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ PARAMOUNT NETWORK CO (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2257
+
+#EXTINF:-1 tvg-id=“Paramount.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ PARAMOUNT NETWORK CO (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2258
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  Paramount Channel [FHD]
+http://pfsv.io:80/6181288/27664/300930.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  Paramount Channel [HD]
+http://pfsv.io:80/6181288/27664/300931.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  Paramount Channel [SD]
+http://pfsv.io:80/6181288/27664/300932.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  PARAMOUNT NETWORK [FHD]
+http://pfsv.io:80/6181288/27664/296.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  PARAMOUNT NETWORK [FHD][H265]
+http://pfsv.io:80/6181288/27664/30213.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  PARAMOUNT NETWORK [HD]
+http://pfsv.io:80/6181288/27664/311.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  PARAMOUNT NETWORK [SD]
+http://pfsv.io:80/6181288/27664/336.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] PixL" tvg-logo="http://p-img.movetv.com/cms/images/61430b74e28a957b741d68ecf789d8c94f877ef3.PNG" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PixL
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182522
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ PIXL US (opt1)
+http://mains.vip:2086/3003556325/2772007/55946
+#EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ PIXL US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/55946
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ PIXL TV US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/pixl.tv.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ PIXL TV US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/pixl.tv.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ PIXL TV US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/pixl.tv.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ PIXL TV US (opt4)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/pixl.tv.us.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ PARAMOUNT NETWORK (opt1)
+http://mains.vip:2086/3003556325/2772007/95476
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ PARAMOUNT NETWORK (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95476
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ PARAMOUNT NETWORK HD (opt1)
+http://mains.vip:2086/3003556325/2772007/246
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ PARAMOUNT NETWORK HD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/246
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ PARAMOUNT NETWORK FHD (opt1)
+http://mains.vip:2086/3003556325/2772007/64068
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ PARAMOUNT NETWORK FHD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64068
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ POP US (opt1) 
+http://mains.vip:2086/3003556325/2772007/95500
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ POP US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95500
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ POP (opt1)
+http://mains.vip:2086/3003556325/2772007/15308
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ POP (opt2)
+http://mains.services:2086/640939802963/IDC01478!/15308
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ POP FHD (opt1)
+http://mains.vip:2086/3003556325/2772007/64075
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ POP FHD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64075
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 R 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] La Rosa de Guadalupe" tvg-logo="http://p-img.movetv.com/images/f6ec0384cdf4b63494c998be7e78adf10f8e946e" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] La Rosa de Guadalupe
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182969
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ REELZ (opt1)
+http://mains.vip:2086/3003556325/2772007/15466
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ REELZ (opt2)
+http://mains.services:2086/640939802963/IDC01478!/15466
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ REELZ FHD (opt1)
+http://mains.vip:2086/3003556325/2772007/64064
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ REELZ FHD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64064
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 S 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] 5 Star Max" tvg-logo="http://p-img.movetv.com/400x103/4f4d3125ecb8575b805eeb125acdc082.jpeg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] 5 Star Max
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182768
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Starz Encore Español" tvg-logo="http://p-img.movetv.com/cms/images/48d3665b4297f1cce2f3e77e377f8bfc97f4a4bd.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Starz Encore Español
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182508
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Starz Encore Action" tvg-logo="http://p-img.movetv.com/cms/images/449f438d95bf4e36f7065e0bea03a1cd1885d5ca.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Starz Encore Action
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182981
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Starz West" tvg-logo="http://p-img.movetv.com/cms/images/41503a0f6042f19d32e76e59f732b9b144ef833a.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Starz West
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183002
+#EXTINF:-1 tvg-id="" tvg-name="[sling] STARZ" tvg-logo="http://p-img.movetv.com/cms/images/342ab9c3420a142ed0cd22e60cbbf701fa76d980.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] STARZ
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182305
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Starz Comedy" tvg-logo="http://p-img.movetv.com/cms/images/98628717ead279423369c3de6efc4ad728009848.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Starz Comedy
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183404
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Start TV" tvg-logo="http://p-img.movetv.com/cms/images/4dfeaa6de0115b258963b683bcf4a6e74021b000.PNG" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Start TV
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182307
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Star HD-Dish" tvg-logo="http://p-img.movetv.com/cms/images/93f397d7fb88a0f7a20aa8f560e84e3ceec88672.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Star HD-Dish
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182878
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Star Maa Movies" tvg-logo="http://p-img.movetv.com/1280x720/1ffd9017c97472d24203f1b5b3e8b2ae.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Star Maa Movies
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182840
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Showtime Family Zone" tvg-logo="http://p-img.movetv.com/cms/images/b260820faba508916fb603f89a2da4a6319ff497.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Showtime Family Zone
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182894
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Showtime Showcase VOS MARV" tvg-logo="http://p-img.movetv.com/cms/images/fac52c32de8e2070f1776498169145bfefaf032d.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Showtime Showcase VOS MARV
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182984
+#EXTINF:-1 tvg-id="" tvg-name="[sling] SHO x BET" tvg-logo="http://p-img.movetv.com/cms/images/76e8ac229a6d02b8ac022c9e77af5bebb16f75a4.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] SHO x BET
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183432
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Showtime 2" tvg-logo="http://p-img.movetv.com/cms/images/183b8199e7859ba6473d031a85924daa3a87437d.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Showtime 2
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182456
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Showtime Next VOS MARV" tvg-logo="http://p-img.movetv.com/cms/images/1be25819f11c2d5213de30618fb658345c34e39e.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Showtime Next VOS MARV
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182494
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Paramount+ with SHOWTIME" tvg-logo="http://p-img.movetv.com/images/356d788b911df978a1c1580dac7fcaedd946ac33" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Paramount+ with SHOWTIME
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182896
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Sony Cine" tvg-logo="http://p-img.movetv.com/images/0054619606a1efd7f53cfd1b1fc99a3049625989" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Sony Cine
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183118
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Sundance Now" tvg-logo="http://p-img.movetv.com/cms/images/56f8071f8fd86afc3d16b2e182e9a8b6db1ba1ca.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Sundance Now
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182721
+
+
+
+#EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt1)
+http://41.205.93.154/SYFY/index.m3u8
+#EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt2)
+http://41.205.93.154/SYFY/mono.m3u8
+#EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt3)
+http://41.205.93.154/SYFY/playlist.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [FHD]
+http://pfsv.io:80/6181288/27664/274.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [FHD][H265]
+http://pfsv.io:80/6181288/27664/30216.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [HD]
+http://pfsv.io:80/6181288/27664/302.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [SD]
+http://pfsv.io:80/6181288/27664/327.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [FHD]
+http://pfsv.io:80/6181288/27664/282.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [FHD][H265]
+http://pfsv.io:80/6181288/27664/30214.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [HD]
+http://pfsv.io:80/6181288/27664/313.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [SD]
+http://pfsv.io:80/6181288/27664/338.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [FHD] LEG
+http://pfsv.io:80/6181288/27664/130685.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130187.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [HD] LEG
+http://pfsv.io:80/6181288/27664/123518.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [SD] LEG
+http://pfsv.io:80/6181288/27664/123519.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [FHD] [LEG]
+http://pfsv.io:80/6181288/27664/169116.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130194.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [HD] LEG
+http://pfsv.io:80/6181288/27664/123512.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [SD] LEG
+http://pfsv.io:80/6181288/27664/123513.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [FHD]
+http://pfsv.io:80/6181288/27664/283.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [FHD][H265]
+http://pfsv.io:80/6181288/27664/30221.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [HD]
+http://pfsv.io:80/6181288/27664/320.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [SD]
+http://pfsv.io:80/6181288/27664/346.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130196.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [HD] LEG
+http://pfsv.io:80/6181288/27664/331690.ts
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SYFY [FHD]
+http://pfsv.io:80/6181288/27664/284.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SYFY [FHD][H265]
+http://pfsv.io:80/6181288/27664/30222.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SYFY [HD]
+http://pfsv.io:80/6181288/27664/312.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SYFY [SD]
+http://pfsv.io:80/6181288/27664/337.ts
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SHORTS TV US (opt1)
+http://mains.vip:2086/3003556325/2772007/95509
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SHORTS TV US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95509
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SUNDANCE TV
+http://mains.vip:2086/3003556325/2772007/95378
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SUNDANCE TV US
+http://mains.vip:2086/3003556325/2772007/1284
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SUNDANCE TV FHD US
+http://mains.vip:2086/3003556325/2772007/64038
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SYFY
+http://mains.vip:2086/3003556325/2772007/95407
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SYFY US
+http://mains.vip:2086/3003556325/2772007/245
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SYFY FHD US
+http://mains.vip:2086/3003556325/2772007/64037
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt1)
+http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7152.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7152.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7152
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt4)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7152.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt5)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7152.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt6)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7152.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt7)
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7152.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt8)
+http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7152.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt9)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7152.ts
+
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SYFY ES (opt1)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/syfy.es.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SYFY ES (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.es.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SYFY ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/syfy.es.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SYFY US (opt1)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/syfy.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SYFY US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SYFY US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/syfy.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SYFY UK (opt1)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/syfy.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SYFY UK (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SYFY UK (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/syfy.uk.m3u8
+
+
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SONY MOVIES CHANNEL US (opt1)
+http://mains.vip:2086/3003556325/2772007/21949
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SONY MOVIES CHANNEL US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/21949
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : LATINO | 66561 (opt1)
+http://mains.vip:2086/3003556325/2772007/66561
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : LATINO | 66561 (opt2)
+http://mains.services:2086/640939802963/IDC01478!/66561
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : ES | 88695 (opt1)
+http://mains.vip:2086/3003556325/2772007/88695
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : ES | 88695 (opt2)
+http://mains.services:2086/640939802963/IDC01478!/88695
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SONY Channel ES (opt1)
+http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7150.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SONY Channel ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7150.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SONY Channel ES (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7150.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SONY Channel ES (opt4)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7150.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt1)
+http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7152.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7152.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7152
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt4)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7152.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt5)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7152.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt6)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7152.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt7)
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7152.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt8)
+http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7152.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt9)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7152.ts
+
+
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SONY MOVIES US (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/sony.movies.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SONY MOVIES US (opt2)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/sony.movies.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SONY MOVIES US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/sony.movies.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SONY MOVIES US (opt4)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/sony.movies.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SONY MOVIES US (opt5)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sony.movies.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SONY MOVIES US (opt6) 
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/sony.movies.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE AR (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE AR (opt2)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE AR (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE AR (opt4)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE AR (opt5)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/space.ar.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE AR (opt6) 
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/space.ar.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE BR (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/space.br.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE BR (opt2)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/space.br.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE BR (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/space.br.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE BR (opt4)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/space.br.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE BR (opt5)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/space.br.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SPACE BR (opt6) 
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/space.br.m3u8
+
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE (opt1)
+http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7151.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7151.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7151
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE (opt4)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7151.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE (opt5)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7151.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE (opt6)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7151.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE (opt7)
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7151.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE (opt8)
+http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7151.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE (opt9)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7151.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE HD (opt1)
+http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7449.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE HD (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7449.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE HD (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7449.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 T 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] TBN" tvg-logo="http://p-img.movetv.com/cms/images/71b65d1fdd476ce9e94d3e7ed4ebf98492b0eea0.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] TBN
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182442
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² TBS |E! (opt1)
+http://41.205.93.154/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² TBS |E! (opt2)
+http://41.205.93.154/TBS/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² TBS |E! (opt3)
+http://41.205.93.154/TBS/playlist.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸 TBS [FHD]
+http://pfsv.io:80/6181288/27664/285.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸 TBS [FHD][H265]
+http://pfsv.io:80/6181288/27664/30223.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸 TBS [HD]
+http://pfsv.io:80/6181288/27664/321.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸 TBS [SD]
+http://pfsv.io:80/6181288/27664/347.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸 TCM [HD]
+http://pfsv.io:80/6181288/27664/339.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸 TBS [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130198.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸 TCM [SD]
+http://pfsv.io:80/6181288/27664/331406.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸 TCM [FHD]
+http://pfsv.io:80/6181288/27664/331447.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT NOVELAS [HD]
+http://pfsv.io:80/6181288/27664/148422.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT NOVELAS [SD]
+http://pfsv.io:80/6181288/27664/148423.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [FHD]
+http://pfsv.io:80/6181288/27664/288.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [FHD][H265]
+http://pfsv.io:80/6181288/27664/30225.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [HD]
+http://pfsv.io:80/6181288/27664/316.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [SD]
+http://pfsv.io:80/6181288/27664/342.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [FHD]
+http://pfsv.io:80/6181288/27664/287.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [FHD][H265]
+http://pfsv.io:80/6181288/27664/30224.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [HD]
+http://pfsv.io:80/6181288/27664/315.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [SD]
+http://pfsv.io:80/6181288/27664/341.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [FHD] LEG
+http://pfsv.io:80/6181288/27664/330665.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT Series [FHD][HDR]
+http://pfsv.io:80/6181288/27664/331687.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT NOVELAS [FHD]
+http://pfsv.io:80/6181288/27664/148424.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [HD] LEG
+http://pfsv.io:80/6181288/27664/123514.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [SD] LEG
+http://pfsv.io:80/6181288/27664/123515.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130200.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [HD] LEG
+http://pfsv.io:80/6181288/27664/123504.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [SD] LEG
+http://pfsv.io:80/6181288/27664/123505.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT Series [FHD] LEG
+http://pfsv.io:80/6181288/27664/330666.ts
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TNT | NBA TNT SPORTS FHD (opt1) 
+http://mains.vip:2086/3003556325/2772007/64033
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TNT | NBA TNT SPORTS FHD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64033
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TBS HD (opt1)
+http://mains.vip:2086/3003556325/2772007/64036
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TBS HD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64036
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ TNT EAST US (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tnt.east.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ TNT EAST US (opt2)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/tnt.east.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ TNT EAST US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tnt.east.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ TNT EAST US (opt4)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tnt.east.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ TNT EAST US (opt5)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tnt.east.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ TNT EAST US (opt6) 
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/tnt.east.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TNT | NBA TNT SPORTS (opt1) x
+http://mains.vip:2086/3003556325/2772007/95393
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TNT | NBA TNT SPORTS (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95393
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TNT EAST | NBA TNT SPORTS (opt1) x
+http://mains.vip:2086/3003556325/2772007/298
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TNT EAST | NBA TNT SPORTS (opt2)
+http://mains.services:2086/640939802963/IDC01478!/298
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 ☆ TRU TV | NBA TNT SPORTS (opt1) x
+http://mains.vip:2086/3003556325/2772007/95425
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 ☆ TRU TV | NBA TNT SPORTS (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95425
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TBS (opt1) x
+http://mains.vip:2086/3003556325/2772007/95398
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TBS (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95398
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TBS HD (opt1) x
+http://mains.vip:2086/3003556325/2772007/301
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TBS HD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/301
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [FHD]
+http://pfsv.io:80/6181288/27664/562.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [FHD][H265]
+http://pfsv.io:80/6181288/27664/30242.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [HD]
+http://pfsv.io:80/6181288/27664/568.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [SD]
+http://pfsv.io:80/6181288/27664/574.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [FHD]
+http://pfsv.io:80/6181288/27664/567.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [FHD][H265]
+http://pfsv.io:80/6181288/27664/30243.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [HD]
+http://pfsv.io:80/6181288/27664/569.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [SD]
+http://pfsv.io:80/6181288/27664/575.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [FHD]
+http://pfsv.io:80/6181288/27664/563.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [FHD][H265]
+http://pfsv.io:80/6181288/27664/30244.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [HD]
+http://pfsv.io:80/6181288/27664/570.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [SD]
+http://pfsv.io:80/6181288/27664/576.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [FHD]
+http://pfsv.io:80/6181288/27664/564.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [FHD][H265]
+http://pfsv.io:80/6181288/27664/30245.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [HD]
+http://pfsv.io:80/6181288/27664/572.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [SD]
+http://pfsv.io:80/6181288/27664/578.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [FHD]
+http://pfsv.io:80/6181288/27664/565.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [FHD][H265]
+http://pfsv.io:80/6181288/27664/30246.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [HD]
+http://pfsv.io:80/6181288/27664/573.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [SD]
+http://pfsv.io:80/6181288/27664/579.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [FHD]
+http://pfsv.io:80/6181288/27664/566.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [FHD][H265]
+http://pfsv.io:80/6181288/27664/30247.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [HD]
+http://pfsv.io:80/6181288/27664/571.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [SD]
+http://pfsv.io:80/6181288/27664/577.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [FHD] LEG
+http://pfsv.io:80/6181288/27664/123550.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130244.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [HD] LEG
+http://pfsv.io:80/6181288/27664/123494.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [SD] LEG
+http://pfsv.io:80/6181288/27664/123495.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [FHD] LEG
+http://pfsv.io:80/6181288/27664/123553.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130245.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [HD] LEG
+http://pfsv.io:80/6181288/27664/123542.ts
+##EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [SD] LEG
+http://pfsv.io:80/6181288/27664/123541.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [FHD] LEG
+http://pfsv.io:80/6181288/27664/123552.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130247.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [HD] LEG
+http://pfsv.io:80/6181288/27664/123496.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [SD] LEG
+http://pfsv.io:80/6181288/27664/123497.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [FHD] LEG
+http://pfsv.io:80/6181288/27664/123548.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130248.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [HD] LEG
+http://pfsv.io:80/6181288/27664/123498.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [SD] LEG
+http://pfsv.io:80/6181288/27664/123499.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [FHD] LEG
+http://pfsv.io:80/6181288/27664/123549.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130249.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [HD] LEG
+http://pfsv.io:80/6181288/27664/123500.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [SD] LEG
+http://pfsv.io:80/6181288/27664/123501.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [FHD] LEG
+http://pfsv.io:80/6181288/27664/123551.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130250.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [HD] LEG
+http://pfsv.io:80/6181288/27664/123502.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [SD] LEG
+http://pfsv.io:80/6181288/27664/123503.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Zona Futbol" tvg-logo="http://p-img.movetv.com/cms/images/6c697ef84bc80a3d8f06e9ab6ee6c42f097ce62c.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Zona Futbol
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182684
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Zona TUDN" tvg-logo="http://p-img.movetv.com/images/d3ef4d3677491d925aa199b0b7f83e01b6621438" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Zona TUDN
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182911
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] TUDN Extra 5" tvg-logo="http://p-img.movetv.com/cms/images/525cd8db6e967ec8204a6edc3e2a07e29e2c882a.jpg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] TUDN Extra 5
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182676
+#EXTINF:-1 tvg-id="" tvg-name="[sling] TUDN Extra 9" tvg-logo="http://p-img.movetv.com/cms/images/3d7474bd0315390c8cb9d0ba48299a4b624adc66.jpg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] TUDN Extra 9
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182506
+#EXTINF:-1 tvg-id="" tvg-name="[sling] TUDN Extra 10" tvg-logo="http://p-img.movetv.com/cms/images/474785461f243d47f180de586bc6891b4c2afcc1.jpg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] TUDN Extra 10
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182437
+
+
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
+https://tvpass.org/live/TelemundoEast/hd
+
+
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+
+#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
+#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 U 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ UNIMAS 46 NOW KFTR-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ UNIMAS 46 NOW KFTR-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+
+
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 24/7 NOW N247-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 24/7 NOW N247-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
+
+#EXTINF:-1 tvg-id="WLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Miami WLTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+#EXTINF:-1 tvg-id="KLTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Miami WLTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Los Angeles KMEX-DT1 West [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Los Angeles KMEX-DT1 West [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+
+#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 14 NOW San Francisco KDTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8
+#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 14 NOW San Francisco KDTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8
+
+#EXTINF:-1 tvg-id="WXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 41 NOW New York WXTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+#EXTINF:-1 tvg-id="KXTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 41 NOW New York WXTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+
+#EXTINF:-1 tvg-id="WGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 66 NOW Chicago WGBO-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
+#EXTINF:-1 tvg-id="KGBODT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 66 NOW Chicago WGBO-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
+
+#EXTINF:-1 tvg-id="WUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Atlanta WUVG-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
+#EXTINF:-1 tvg-id="KUVGDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 34 NOW Atlanta WUVG-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
+
+#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Dallas KUVN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
+#EXTINF:-1 tvg-id="KUVNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 23 NOW Dallas KUVN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
+
+#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 45 NOW Houston KXLN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
+#EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ N+ UNIVISION 45 NOW Houston KXLN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ UNIVISION | WNJU-DT1 (sd)
+https://tvpass.org/live/UnivisionEast/sd
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ UNIVISION | WNJU-DT1 (hd)
+https://tvpass.org/live/UnivisionEast/hd
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ UNIVERSO Universal Kids East (sd)
+https://tvpass.org/live/UniversalKidsEast/sd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ UNIVERSO Universal Kids East (hd)
+https://tvpass.org/live/UniversalKidsEast/hd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ ESPN Deportes (sd)
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ ESPN Deportes (hd)
+https://tvpass.org/live/espn-deportes/hd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] Unimas - WUTF" tvg-logo="http://p-img.movetv.com/cms/images/742350e97f4c0d6dad672a21e40e74661befb771.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Unimas - WUTF
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183126
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 USA [FHD]
+http://pfsv.io:80/6181288/27664/316227.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 USA [FHD][H265]
+http://pfsv.io:80/6181288/27664/316230.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 USA [FHD][HDR]
+http://pfsv.io:80/6181288/27664/316231.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 USA [HD]
+http://pfsv.io:80/6181288/27664/316228.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 USA [SD]
+http://pfsv.io:80/6181288/27664/316229.ts
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL CHANNEL [FHD]
+http://pfsv.io:80/6181288/27664/290.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL CHANNEL [FHD][H265]
+http://pfsv.io:80/6181288/27664/30230.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL CHANNEL [HD]
+http://pfsv.io:80/6181288/27664/317.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL CHANNEL [SD]
+http://pfsv.io:80/6181288/27664/343.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL CHANNEL [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130202.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL TV [FHD] LEG
+http://pfsv.io:80/6181288/27664/331688.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL TV [HD] LEG
+http://pfsv.io:80/6181288/27664/331689.ts
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ USA NETWORK FHD (opt1)
+http://mains.vip:2086/3003556325/2772007/64025
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ USA NETWORK FHD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/64025
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ USA Network (West) US (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/usa.network.pacific.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ USA Network (West) US (opt2)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/usa.network.pacific.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ USA Network (West) US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/usa.network.pacific.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ USA Network (West) US (opt4)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/usa.network.pacific.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ USA Network (West) US (opt5)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/usa.network.pacific.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ USA Network (West) US (opt6) 
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/usa.network.pacific.us.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 UNIVERSO (opt1)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8391
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",★ UNIVERSO (opt1)
+http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7606.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",★ UNIVERSO (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7606.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",★ UNIVERSO (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7606
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",★ UNIVERSO (opt4)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7606.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",★ UNIVERSO (opt5)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7606.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",★ UNIVERSO (opt6)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7606.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",★ UNIVERSO (opt7)
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7606.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",★ UNIVERSO (opt8)
+http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7606.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",★ UNIVERSO (opt9)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7606.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ UNIVERSO | NBC (opt1)
+http://mains.vip:2086/3003556325/2772007/95414
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ UNIVERSO | NBC (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95414
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ USA NETWORK (opt1) x
+http://mains.vip:2086/3003556325/2772007/95409
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ USA NETWORK (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95409
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ USA NETWORK (opt1) x
+http://mains.vip:2086/3003556325/2772007/242
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ USA NETWORK (opt2)
+http://mains.services:2086/640939802963/IDC01478!/242
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ UP TV (opt1) x
+http://mains.vip:2086/3003556325/2772007/95497
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ UP TV (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95497
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ UP TV (opt1) x
+http://mains.vip:2086/3003556325/2772007/59383
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ UP TV (opt2)
+http://mains.services:2086/640939802963/IDC01478!/59383
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 V 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+http://fortv.cc:8080/Boobear/Boobear/21895
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Noticias (AVOD)" tvg-logo="http://p-img.movetv.com/cms/images/ba6fc20ffda9430413a3d23e04ee867edc3d9962.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Noticias (AVOD)
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182551
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Kids (AVOD)" tvg-logo="http://p-img.movetv.com/cms/images/655449b8b17fbcfbd038e22a664bddfa62233468.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Kids (AVOD)
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182785
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Deportes (AVOD)" tvg-logo="http://p-img.movetv.com/cms/images/fee2eb5fc6166da61048c24b84547799acbb35e1.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Deportes (AVOD)
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182763
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 1" tvg-logo="http://p-img.movetv.com/images/d1bb90b7aae7715348b1b9818fe8c13298155d4f" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 1
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183127
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 2" tvg-logo="http://p-img.movetv.com/images/12f82e6d6fc23e2e5526f75a2d04dfea85b228b7" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 2
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183132
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 5" tvg-logo="http://p-img.movetv.com/images/bc09892e574d871674d6930987fda8113c927ccb" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 5
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183434
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 10" tvg-logo="http://p-img.movetv.com/images/8687ad3129b372489e63f2a1f2020774b613846d" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 10
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182457
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 12" tvg-logo="http://p-img.movetv.com/images/00a6f25bb96c9716a04ec270ad21525b893ee47d" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 12
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183202
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 15" tvg-logo="http://p-img.movetv.com/images/28ac8893e7c3fc7ab72d04f9db141af7606f0a10" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 15
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183111
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 18" tvg-logo="http://p-img.movetv.com/images/a86ae50f8a039049add56478351c49c25a2114a4" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 18
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182730
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Deportes 21" tvg-logo="http://p-img.movetv.com/cms/images/fe9d44799eef7096aaed963416f323dc7ceae1d3.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Deportes 21
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182767
+#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Deportes 23" tvg-logo="http://p-img.movetv.com/cms/images/e66be32852219c6a053dbf7a4168813a2369474e.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Deportes 23
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182592
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 W 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+http://fortv.cc:8080/Boobear/Boobear/21895
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[sling] WAPA America" tvg-logo="http://p-img.movetv.com/cms/images/f5db94c76a7a1787779da6c6abf03d4be269c5fb.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] WAPA America
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182968
+#EXTINF:-1 tvg-id="" tvg-name="[sling] WAPA TV" tvg-logo="http://p-img.movetv.com/1280x720/c0609a7532a844245e86dd18470d29a6.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] WAPA TV
+http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182461
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER CHANNEL [FHD]
+http://pfsv.io:80/6181288/27664/297.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER CHANNEL [FHD][H265]
+http://pfsv.io:80/6181288/27664/30226.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER CHANNEL [HD]
+http://pfsv.io:80/6181288/27664/319.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER CHANNEL [SD]
+http://pfsv.io:80/6181288/27664/345.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 Warner Channel [FHD] LEG
+http://pfsv.io:80/6181288/27664/330669.ts
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER CHANNEL [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130203.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER [HD] LEG
+http://pfsv.io:80/6181288/27664/123516.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER [SD] LEG
+http://pfsv.io:80/6181288/27664/123517.ts
+
+
+
+
 
 
 
