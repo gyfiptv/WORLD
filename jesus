@@ -1003,9 +1003,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (sd)
 https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (hd)
 https://tvpass.org/live/TelemundoEast/hd
 
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVISION | WNJU-DT1 (sd)
@@ -1022,6 +1022,50 @@ https://tvpass.org/live/espn-deportes/hd
 https://tvpass.org/live/UniversalKidsEast/sd
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVERSO Universal Kids East (hd)
 https://tvpass.org/live/UniversalKidsEast/hd
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* TELEMUNDO PR (opt1)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5197.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* TELEMUNDO PR (opt2)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5197.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* TELEMUNDO PR (opt3)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5197
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* TELEMUNDO PUNTO 2 (opt1)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5193.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* TELEMUNDO PUNTO 2 (opt2)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5193.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* TELEMUNDO PUNTO 2 (opt3)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5193
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* WAPA America PR (opt1)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5195.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* WAPA America PR (opt2)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5195.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* WAPA America PR (opt3)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5195
+
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* Mega TV Miami (opt1)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/27542.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* Mega TV Miami (opt2)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/27542.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* Mega TV Miami (opt3)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27542
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* STAR Channel (opt1)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5192.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* STAR Channel (opt2)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5192.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* STAR Channel (opt3)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5192
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* STAR Channel | op2 (opt1)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5198.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* STAR Channel | op2 (opt2)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5198.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸* STAR Channel | op2 (opt3)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5198
+
 
 
 
