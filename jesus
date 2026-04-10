@@ -7402,21 +7402,6 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/axn.white.e
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/axn.white.es.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN White FHD" tvg-logo="http://xplatinmedia.com:8080/images/58afbb161e884d432eefb2b825e2326c.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN White FHD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153831
-#EXTINF:-1 tvg-id="324" tvg-name="ES: AXN White HD" tvg-logo="http://xplatinmedia.com:8080/images/58afbb161e884d432eefb2b825e2326c.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN White HD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153833
-#EXTINF:-1 tvg-id="324" tvg-name="ES: AXN White SD" tvg-logo="http://xplatinmedia.com:8080/images/58afbb161e884d432eefb2b825e2326c.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN White SD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153834
-
-#EXTINF:-1 tvg-id="324" tvg-name="ES: AXN FHD" tvg-logo="http://xplatinmedia.com:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN FHD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153835
-
-#EXTINF:-1 tvg-id="324" tvg-name="ES: AXN HD" tvg-logo="http://xplatinmedia.com:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN HD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153837
-#EXTINF:-1 tvg-id="324" tvg-name="ES: AXN SD" tvg-logo="http://xplatinmedia.com:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AXN SD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153838
-
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7031.ts
@@ -7496,14 +7481,6 @@ http://alfa.7057460.xyz:2095/live/ameca01/1989/7029.m3u8
 http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7029
 
 
-#EXTINF:-1 tvg-id="324" tvg-name="ES: AMC FHD" tvg-logo="http://xplatinmedia.com:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AMC FHD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153816
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC Full HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AMC Full HD HEVC
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153817
-#EXTINF:-1 tvg-id="324" tvg-name="ES: AMC HD" tvg-logo="http://xplatinmedia.com:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AMC HD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153818
-#EXTINF:-1 tvg-id="324" tvg-name="ES: AMC SD" tvg-logo="http://xplatinmedia.com:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: AMC SD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153819
 
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : LATINO | 98772 (opt1) 
@@ -7564,20 +7541,6 @@ http://pfsv.io:80/6181288/27664/324.ts
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  A&E [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130184.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 FHD" tvg-logo="http://xplatinmedia.com:8080/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Antena 3 FHD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153822
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Antena 3 HD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153824
-#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 SD" tvg-logo="http://xplatinmedia.com:8080/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Antena 3 SD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153825
-#EXTINF:-1 tvg-id="" tvg-name="ES: Aragon TV SD" tvg-logo="http://xplatinmedia.com:8080/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Aragon TV SD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153826
-#EXTINF:-1 tvg-id="7" tvg-name="ES: Aragon TV HD" tvg-logo="http://xplatinmedia.com:8080/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Aragon TV HD
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153827
-#EXTINF:-1 tvg-id="7" tvg-name="ES: Aragon TV SD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ES: Aragon TV SD HEVC
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/153828
 
 
 
@@ -8056,13 +8019,6 @@ https://tvpass.org/live/IFCEast/sd
 https://tvpass.org/live/IFCEast/hd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[sling] IndiePlex" tvg-logo="http://p-img.movetv.com/cms/images/5251406eda7de8e7548ea6dd4ba6fc70dfd99be5.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] IndiePlex
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182875
-#EXTINF:-1 tvg-id="" tvg-name="[sling] India TV" tvg-logo="http://p-img.movetv.com/cms/images/7ce2395f3ea55a66f9699c21da91bd1374379841.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] India TV
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182703
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Ingles Para Todos" tvg-logo="http://p-img.movetv.com/cms/images/de4aef0c1b0fffaecf96ea8cbce41b43b0916285.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Ingles Para Todos
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182879
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 L 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
@@ -8078,11 +8034,6 @@ https://tvpass.org/live/LifetimeMoviesEast/hd
 https://tvpass.org/live/LifetimeEast/sd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ LMN Lifetime Network Eastern (hd)
 https://tvpass.org/live/LifetimeEast/hd
-
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Love Nature" tvg-logo="http://p-img.movetv.com/1280x720/ad68f598f19be96e331c97ef06c7e05a.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Love Nature
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182635
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Love Stories TV" tvg-logo="http://p-img.movetv.com/cms/images/9041f1c9a6fb6455627e93a8d94f614b3b728ab5.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Love Stories TV
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182737
 
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² LIFETIME
@@ -8172,13 +8123,6 @@ https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ MeTV Wjlp New Jersey New York (hd)
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Miami Heat" tvg-logo="http://p-img.movetv.com/cms/images/e2ed6dd3226e489a00fb104daba6388d2022a2ae.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Miami Heat
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182607
-
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Max" tvg-logo="http://b-img.movetv.com/2490x682/272cd936cd509184c374b2290175a5f6.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Max
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182723
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Miramax Movie Channel" tvg-logo="http://p-img.movetv.com/1280x720/8be1c205b22f12a14130168f80e6cb1d.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Miramax Movie Channel
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182820
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  MEGAPIX [FHD]
 http://pfsv.io:80/6181288/27664/281.ts
@@ -8213,8 +8157,6 @@ https://tvpass.org/live/OxygenEast/sd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Oxygen (True Crime) Eastern (hd)
 https://tvpass.org/live/OxygenEast/hd
 
-#EXTINF:-1 tvg-id="" tvg-name="[sling] MGM+ Drive-In" tvg-logo="http://p-img.movetv.com/images/2dc0ab7525da74ccde3f5efac3294a8f49bc598f" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] MGM+ Drive-In
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182284
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ OWN (opt1) 
 http://mains.vip:2086/3003556325/2772007/95451
@@ -8242,22 +8184,6 @@ https://tvpass.org/live/pbs-wnet-new-york-ny/sd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ PBS WNET NewYork (hd)
 https://tvpass.org/live/pbs-wnet-new-york-ny/hd
 
-#EXTINF:-1 tvg-id="" tvg-name="Más Pasiones" tvg-logo="http://b-img.movetv.com/1280x720/97022d84f9294622c3a564a18c3b0f8d.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸", Más Pasiones
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182632
-
-#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV1-Spanish" tvg-logo="http://p-img.movetv.com/cms/images/abc646be71464209f13ae40f37e0f5e196154fe4.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV1-Spanish
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182604
-#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV2-Spanish" tvg-logo="http://p-img.movetv.com/cms/images/c32f7cd861426e5599d1ca4f0eb2aead4a6d437d.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV2-Spanish
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182476
-
-#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV1" tvg-logo="http://p-img.movetv.com/cms/images/8aa44a31667565d6536b6fb1d1aa75eee4989294.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV1
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182782
-#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV2" tvg-logo="http://p-img.movetv.com/cms/images/9b729e6a66c60dc061cd28d12236734a58097054.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV2
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182581
-#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV3" tvg-logo="http://p-img.movetv.com/cms/images/faa0edee20c0eb8f440c8c2fa132eb2e08df0310.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV3
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183173
-#EXTINF:-1 tvg-id="" tvg-name="[sling] PPV4" tvg-logo="http://p-img.movetv.com/cms/images/6acabeb7c1c48ccf9cc2db43d5d1d9c208563aa7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PPV4
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182427
 
 #EXTINF:-1 tvg-id=“Paramount.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ PARAMOUNT NETWORK AR (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2259
@@ -8284,8 +8210,6 @@ http://pfsv.io:80/6181288/27664/311.ts
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  PARAMOUNT NETWORK [SD]
 http://pfsv.io:80/6181288/27664/336.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="[sling] PixL" tvg-logo="http://p-img.movetv.com/cms/images/61430b74e28a957b741d68ecf789d8c94f877ef3.PNG" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] PixL
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182522
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ PIXL US (opt1)
 http://mains.vip:2086/3003556325/2772007/55946
@@ -8345,8 +8269,6 @@ https://tvpass.org/live/Reelz/sd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ ReelzChannel (hd)
 https://tvpass.org/live/Reelz/hd
 
-#EXTINF:-1 tvg-id="" tvg-name="[sling] La Rosa de Guadalupe" tvg-logo="http://p-img.movetv.com/images/f6ec0384cdf4b63494c998be7e78adf10f8e946e" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] La Rosa de Guadalupe
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182969
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ REELZ (opt1)
 http://mains.vip:2086/3003556325/2772007/15466
@@ -8373,42 +8295,6 @@ https://tvpass.org/live/SundanceTVEast/hd
 https://tvpass.org/live/SyfyEast/sd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Syfy Eastern (hd)
 https://tvpass.org/live/SyfyEast/hd
-
-#EXTINF:-1 tvg-id="" tvg-name="[sling] 5 Star Max" tvg-logo="http://p-img.movetv.com/400x103/4f4d3125ecb8575b805eeb125acdc082.jpeg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] 5 Star Max
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182768
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Starz Encore Español" tvg-logo="http://p-img.movetv.com/cms/images/48d3665b4297f1cce2f3e77e377f8bfc97f4a4bd.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Starz Encore Español
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182508
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Starz Encore Action" tvg-logo="http://p-img.movetv.com/cms/images/449f438d95bf4e36f7065e0bea03a1cd1885d5ca.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Starz Encore Action
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182981
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Starz West" tvg-logo="http://p-img.movetv.com/cms/images/41503a0f6042f19d32e76e59f732b9b144ef833a.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Starz West
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183002
-#EXTINF:-1 tvg-id="" tvg-name="[sling] STARZ" tvg-logo="http://p-img.movetv.com/cms/images/342ab9c3420a142ed0cd22e60cbbf701fa76d980.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] STARZ
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182305
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Starz Comedy" tvg-logo="http://p-img.movetv.com/cms/images/98628717ead279423369c3de6efc4ad728009848.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Starz Comedy
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183404
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Start TV" tvg-logo="http://p-img.movetv.com/cms/images/4dfeaa6de0115b258963b683bcf4a6e74021b000.PNG" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Start TV
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182307
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Star HD-Dish" tvg-logo="http://p-img.movetv.com/cms/images/93f397d7fb88a0f7a20aa8f560e84e3ceec88672.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Star HD-Dish
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182878
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Star Maa Movies" tvg-logo="http://p-img.movetv.com/1280x720/1ffd9017c97472d24203f1b5b3e8b2ae.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Star Maa Movies
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182840
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Showtime Family Zone" tvg-logo="http://p-img.movetv.com/cms/images/b260820faba508916fb603f89a2da4a6319ff497.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Showtime Family Zone
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182894
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Showtime Showcase VOS MARV" tvg-logo="http://p-img.movetv.com/cms/images/fac52c32de8e2070f1776498169145bfefaf032d.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Showtime Showcase VOS MARV
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182984
-#EXTINF:-1 tvg-id="" tvg-name="[sling] SHO x BET" tvg-logo="http://p-img.movetv.com/cms/images/76e8ac229a6d02b8ac022c9e77af5bebb16f75a4.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] SHO x BET
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183432
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Showtime 2" tvg-logo="http://p-img.movetv.com/cms/images/183b8199e7859ba6473d031a85924daa3a87437d.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Showtime 2
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182456
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Showtime Next VOS MARV" tvg-logo="http://p-img.movetv.com/cms/images/1be25819f11c2d5213de30618fb658345c34e39e.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Showtime Next VOS MARV
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182494
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Paramount+ with SHOWTIME" tvg-logo="http://p-img.movetv.com/images/356d788b911df978a1c1580dac7fcaedd946ac33" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Paramount+ with SHOWTIME
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182896
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Sony Cine" tvg-logo="http://p-img.movetv.com/images/0054619606a1efd7f53cfd1b1fc99a3049625989" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Sony Cine
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183118
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Sundance Now" tvg-logo="http://p-img.movetv.com/cms/images/56f8071f8fd86afc3d16b2e182e9a8b6db1ba1ca.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Sundance Now
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182721
-
 
 
 #EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt1)
@@ -8715,8 +8601,6 @@ https://tvpass.org/live/TVOne/sd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ TV One (hd)
 https://tvpass.org/live/TVOne/hd
 
-#EXTINF:-1 tvg-id="" tvg-name="[sling] TBN" tvg-logo="http://p-img.movetv.com/cms/images/71b65d1fdd476ce9e94d3e7ed4ebf98492b0eea0.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] TBN
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182442
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² TBS |E! (opt1)
 http://41.205.93.154/TBS/index.m3u8
@@ -8934,18 +8818,6 @@ http://pfsv.io:80/6181288/27664/123502.ts
 http://pfsv.io:80/6181288/27664/123503.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Zona Futbol" tvg-logo="http://p-img.movetv.com/cms/images/6c697ef84bc80a3d8f06e9ab6ee6c42f097ce62c.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Zona Futbol
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182684
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Zona TUDN" tvg-logo="http://p-img.movetv.com/images/d3ef4d3677491d925aa199b0b7f83e01b6621438" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Zona TUDN
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182911
-
-#EXTINF:-1 tvg-id="" tvg-name="[sling] TUDN Extra 5" tvg-logo="http://p-img.movetv.com/cms/images/525cd8db6e967ec8204a6edc3e2a07e29e2c882a.jpg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] TUDN Extra 5
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182676
-#EXTINF:-1 tvg-id="" tvg-name="[sling] TUDN Extra 9" tvg-logo="http://p-img.movetv.com/cms/images/3d7474bd0315390c8cb9d0ba48299a4b624adc66.jpg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] TUDN Extra 9
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182506
-#EXTINF:-1 tvg-id="" tvg-name="[sling] TUDN Extra 10" tvg-logo="http://p-img.movetv.com/cms/images/474785461f243d47f180de586bc6891b4c2afcc1.jpg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] TUDN Extra 10
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182437
-
 
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
 https://tvpass.org/live/TelemundoEast/sd
@@ -9075,9 +8947,6 @@ https://tvpass.org/live/espn-deportes/sd
 https://tvpass.org/live/espn-deportes/hd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[sling] Unimas - WUTF" tvg-logo="http://p-img.movetv.com/cms/images/742350e97f4c0d6dad672a21e40e74661befb771.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] Unimas - WUTF
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183126
-
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 USA [FHD]
 http://pfsv.io:80/6181288/27664/316227.ts
@@ -9193,31 +9062,6 @@ https://tvpass.org/live/vice/hd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ VICE (hd)
 https://tvpass.org/live/vice/hd
 
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Noticias (AVOD)" tvg-logo="http://p-img.movetv.com/cms/images/ba6fc20ffda9430413a3d23e04ee867edc3d9962.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Noticias (AVOD)
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182551
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Kids (AVOD)" tvg-logo="http://p-img.movetv.com/cms/images/655449b8b17fbcfbd038e22a664bddfa62233468.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Kids (AVOD)
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182785
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Deportes (AVOD)" tvg-logo="http://p-img.movetv.com/cms/images/fee2eb5fc6166da61048c24b84547799acbb35e1.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Deportes (AVOD)
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182763
-
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 1" tvg-logo="http://p-img.movetv.com/images/d1bb90b7aae7715348b1b9818fe8c13298155d4f" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 1
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183127
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 2" tvg-logo="http://p-img.movetv.com/images/12f82e6d6fc23e2e5526f75a2d04dfea85b228b7" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 2
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183132
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 5" tvg-logo="http://p-img.movetv.com/images/bc09892e574d871674d6930987fda8113c927ccb" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 5
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183434
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 10" tvg-logo="http://p-img.movetv.com/images/8687ad3129b372489e63f2a1f2020774b613846d" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 10
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182457
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 12" tvg-logo="http://p-img.movetv.com/images/00a6f25bb96c9716a04ec270ad21525b893ee47d" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 12
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183202
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 15" tvg-logo="http://p-img.movetv.com/images/28ac8893e7c3fc7ab72d04f9db141af7606f0a10" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 15
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/183111
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Premium Deportes 18" tvg-logo="http://p-img.movetv.com/images/a86ae50f8a039049add56478351c49c25a2114a4" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Premium Deportes 18
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182730
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Deportes 21" tvg-logo="http://p-img.movetv.com/cms/images/fe9d44799eef7096aaed963416f323dc7ceae1d3.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Deportes 21
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182767
-#EXTINF:-1 tvg-id="" tvg-name="[sling] ViX Deportes 23" tvg-logo="http://p-img.movetv.com/cms/images/e66be32852219c6a053dbf7a4168813a2369474e.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] ViX Deportes 23
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182592
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 W 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
@@ -9225,10 +9069,6 @@ http://fortv.cc:8080/Boobear/Boobear/21895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[sling] WAPA America" tvg-logo="http://p-img.movetv.com/cms/images/f5db94c76a7a1787779da6c6abf03d4be269c5fb.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] WAPA America
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182968
-#EXTINF:-1 tvg-id="" tvg-name="[sling] WAPA TV" tvg-logo="http://p-img.movetv.com/1280x720/c0609a7532a844245e86dd18470d29a6.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",[sling] WAPA TV
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/182461
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER CHANNEL [FHD]
 http://pfsv.io:80/6181288/27664/297.ts
@@ -9263,463 +9103,463 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: ANIMATION
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: ANIMATION
 http://1tv41.icu:8080/zqQ0Q2/591076/119420
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: BLOCKBUSTERS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: BLOCKBUSTERS
 http://1tv41.icu:8080/zqQ0Q2/591076/119421
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: CLASSIC
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: CLASSIC
 http://1tv41.icu:8080/zqQ0Q2/591076/119422
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: COMEDY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: COMEDY
 http://1tv41.icu:8080/zqQ0Q2/591076/119423
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: CULT
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: CULT
 http://1tv41.icu:8080/zqQ0Q2/591076/119424
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: FAMILY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: FAMILY
 http://1tv41.icu:8080/zqQ0Q2/591076/119425
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: GREATS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: GREATS
 http://1tv41.icu:8080/zqQ0Q2/591076/119426
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: GREATS TWO
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: GREATS TWO
 http://1tv41.icu:8080/zqQ0Q2/591076/119427
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: HISTORICAL
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: HISTORICAL
 http://1tv41.icu:8080/zqQ0Q2/591076/119428
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: MUSICAL
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: MUSICAL
 http://1tv41.icu:8080/zqQ0Q2/591076/119430
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: MYSTERY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: MYSTERY
 http://1tv41.icu:8080/zqQ0Q2/591076/119431
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: PREMIERE
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: PREMIERE
 http://1tv41.icu:8080/zqQ0Q2/591076/119432
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: ROMANCE
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: ROMANCE
 http://1tv41.icu:8080/zqQ0Q2/591076/119433
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: SCI-FI
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: SCI-FI
 http://1tv41.icu:8080/zqQ0Q2/591076/119434
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: WESTERN
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: WESTERN
 http://1tv41.icu:8080/zqQ0Q2/591076/119435
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: HITS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: HITS
 http://1tv41.icu:8080/zqQ0Q2/591076/119436
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 CINEBOX: THRILLER
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 CINEBOX: THRILLER
 http://1tv41.icu:8080/zqQ0Q2/591076/119437
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 DOCUBOX: 7NEWS SPOTLIGHT
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 DOCUBOX: 7NEWS SPOTLIGHT
 http://1tv41.icu:8080/zqQ0Q2/591076/119438
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 DOCUBOX: ALL DOCUMENTERY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 DOCUBOX: ALL DOCUMENTERY
 http://1tv41.icu:8080/zqQ0Q2/591076/119439
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 DOCUBOX: DISCOVERY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 DOCUBOX: DISCOVERY
 http://1tv41.icu:8080/zqQ0Q2/591076/119440
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 DOCUBOX: DW DOCUMENTERY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 DOCUBOX: DW DOCUMENTERY
 http://1tv41.icu:8080/zqQ0Q2/591076/119441
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 DOCUBOX: FREE DOCUMENTERY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 DOCUBOX: FREE DOCUMENTERY
 http://1tv41.icu:8080/zqQ0Q2/591076/119442
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 DOCUBOX: FREE DOCUMENTERY ANILAMS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 DOCUBOX: FREE DOCUMENTERY ANILAMS
 http://1tv41.icu:8080/zqQ0Q2/591076/119443
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 DOCUBOX: FRONTLINE PBS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 DOCUBOX: FRONTLINE PBS
 http://1tv41.icu:8080/zqQ0Q2/591076/119444
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 DOCUBOX: NAT GEO WILD
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 DOCUBOX: NAT GEO WILD
 http://1tv41.icu:8080/zqQ0Q2/591076/119447
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 DOCUBOX: NETFLIX
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 DOCUBOX: NETFLIX
 http://1tv41.icu:8080/zqQ0Q2/591076/119448
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 DOCUBOX: REAL CRIME
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 DOCUBOX: REAL CRIME
 http://1tv41.icu:8080/zqQ0Q2/591076/119449
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 DOCUBOX: REAL WILD
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 DOCUBOX: REAL WILD
 http://1tv41.icu:8080/zqQ0Q2/591076/119451
 
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Action
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Action
 http://1tv41.icu:8080/zqQ0Q2/591076/215269
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Adventure
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Adventure
 http://1tv41.icu:8080/zqQ0Q2/591076/215270
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Alien
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Alien
 http://1tv41.icu:8080/zqQ0Q2/591076/215271
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Animation
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Animation
 http://1tv41.icu:8080/zqQ0Q2/591076/215272
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Avengers
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Avengers
 http://1tv41.icu:8080/zqQ0Q2/591076/215273
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Batman
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Batman
 http://1tv41.icu:8080/zqQ0Q2/591076/215274
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Biography
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Biography
 http://1tv41.icu:8080/zqQ0Q2/591076/215275
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Blade
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Blade
 http://1tv41.icu:8080/zqQ0Q2/591076/215276
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Blade Runner
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Blade Runner
 http://1tv41.icu:8080/zqQ0Q2/591076/215277
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Comedy
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Comedy
 http://1tv41.icu:8080/zqQ0Q2/591076/215278
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Creature
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Creature
 http://1tv41.icu:8080/zqQ0Q2/591076/215279
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Crime
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Crime
 http://1tv41.icu:8080/zqQ0Q2/591076/215280
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Deadpool
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Deadpool
 http://1tv41.icu:8080/zqQ0Q2/591076/215281
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Die Hard
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Die Hard
 http://1tv41.icu:8080/zqQ0Q2/591076/215282
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Drama
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Drama
 http://1tv41.icu:8080/zqQ0Q2/591076/215283
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Epic
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Epic
 http://1tv41.icu:8080/zqQ0Q2/591076/215284
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Family
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Family
 http://1tv41.icu:8080/zqQ0Q2/591076/215285
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Fantasy
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Fantasy
 http://1tv41.icu:8080/zqQ0Q2/591076/215286
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Fast and the Furious
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Fast and the Furious
 http://1tv41.icu:8080/zqQ0Q2/591076/215287
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Final Destination
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Final Destination
 http://1tv41.icu:8080/zqQ0Q2/591076/215288
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Ghostbusters
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Ghostbusters
 http://1tv41.icu:8080/zqQ0Q2/591076/215289
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Hangover
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Hangover
 http://1tv41.icu:8080/zqQ0Q2/591076/215290
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Harry Potter
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Harry Potter
 http://1tv41.icu:8080/zqQ0Q2/591076/215291
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: History
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: History
 http://1tv41.icu:8080/zqQ0Q2/591076/215292
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Horror
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Horror
 http://1tv41.icu:8080/zqQ0Q2/591076/215293
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Ice Age
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Ice Age
 http://1tv41.icu:8080/zqQ0Q2/591076/215294
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Indiana Jones
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Indiana Jones
 http://1tv41.icu:8080/zqQ0Q2/591076/215295
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: James Bond (007)
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: James Bond (007)
 http://1tv41.icu:8080/zqQ0Q2/591076/215296
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: John Wick
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: John Wick
 http://1tv41.icu:8080/zqQ0Q2/591076/215297
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Jurassic Park
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Jurassic Park
 http://1tv41.icu:8080/zqQ0Q2/591076/215298
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Kingsman
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Kingsman
 http://1tv41.icu:8080/zqQ0Q2/591076/215299
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Legendary
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Legendary
 http://1tv41.icu:8080/zqQ0Q2/591076/215300
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Mad Max
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Mad Max
 http://1tv41.icu:8080/zqQ0Q2/591076/215301
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Maze Runner
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Maze Runner
 http://1tv41.icu:8080/zqQ0Q2/591076/215302
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Men in Black
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Men in Black
 http://1tv41.icu:8080/zqQ0Q2/591076/215303
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Mission Impossible
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Mission Impossible
 http://1tv41.icu:8080/zqQ0Q2/591076/215304
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Musical
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Musical
 http://1tv41.icu:8080/zqQ0Q2/591076/215305
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Mystery
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Mystery
 http://1tv41.icu:8080/zqQ0Q2/591076/215306
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Mythological
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Mythological
 http://1tv41.icu:8080/zqQ0Q2/591076/215307
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Oceans Eleven
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Oceans Eleven
 http://1tv41.icu:8080/zqQ0Q2/591076/215308
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Pirates of the Caribbean
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Pirates of the Caribbean
 http://1tv41.icu:8080/zqQ0Q2/591076/215309
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Planet of Apes
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Planet of Apes
 http://1tv41.icu:8080/zqQ0Q2/591076/215310
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Post-Apocalyptic
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Post-Apocalyptic
 http://1tv41.icu:8080/zqQ0Q2/591076/215311
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Resident Evil
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Resident Evil
 http://1tv41.icu:8080/zqQ0Q2/591076/215312
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Robot
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Robot
 http://1tv41.icu:8080/zqQ0Q2/591076/215313
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Rocky
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Rocky
 http://1tv41.icu:8080/zqQ0Q2/591076/215314
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Romantic
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Romantic
 http://1tv41.icu:8080/zqQ0Q2/591076/215315
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Saw
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Saw
 http://1tv41.icu:8080/zqQ0Q2/591076/215316
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Science Fiction
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Science Fiction
 http://1tv41.icu:8080/zqQ0Q2/591076/215317
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Sherlock Holmes
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Sherlock Holmes
 http://1tv41.icu:8080/zqQ0Q2/591076/215318
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Shrek
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Shrek
 http://1tv41.icu:8080/zqQ0Q2/591076/215319
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Space
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Space
 http://1tv41.icu:8080/zqQ0Q2/591076/215320
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Spiderman
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Spiderman
 http://1tv41.icu:8080/zqQ0Q2/591076/215321
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Sports
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Sports
 http://1tv41.icu:8080/zqQ0Q2/591076/215322
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Spy
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Spy
 http://1tv41.icu:8080/zqQ0Q2/591076/215323
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Star Wars
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Star Wars
 http://1tv41.icu:8080/zqQ0Q2/591076/215324
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Superhero
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Superhero
 http://1tv41.icu:8080/zqQ0Q2/591076/215325
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Survival
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Survival
 http://1tv41.icu:8080/zqQ0Q2/591076/215326
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Bourne
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Bourne
 http://1tv41.icu:8080/zqQ0Q2/591076/215327
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Conjuring
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Conjuring
 http://1tv41.icu:8080/zqQ0Q2/591076/215328
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Expendables
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Expendables
 http://1tv41.icu:8080/zqQ0Q2/591076/215329
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Godfather
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Godfather
 http://1tv41.icu:8080/zqQ0Q2/591076/215330
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Hobbit
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Hobbit
 http://1tv41.icu:8080/zqQ0Q2/591076/215331
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Hunger Games
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Hunger Games
 http://1tv41.icu:8080/zqQ0Q2/591076/215332
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Karete Kid
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Karete Kid
 http://1tv41.icu:8080/zqQ0Q2/591076/215333
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Lord of The Rings
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Lord of The Rings
 http://1tv41.icu:8080/zqQ0Q2/591076/215334
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Matrix
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Matrix
 http://1tv41.icu:8080/zqQ0Q2/591076/215335
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Mummy
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Mummy
 http://1tv41.icu:8080/zqQ0Q2/591076/215336
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Purge
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Purge
 http://1tv41.icu:8080/zqQ0Q2/591076/215337
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: The Terminator
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: The Terminator
 http://1tv41.icu:8080/zqQ0Q2/591076/215338
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Three Flavours Cornetto
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Three Flavours Cornetto
 http://1tv41.icu:8080/zqQ0Q2/591076/215339
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Thriller
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Thriller
 http://1tv41.icu:8080/zqQ0Q2/591076/215340
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Toy Story
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Toy Story
 http://1tv41.icu:8080/zqQ0Q2/591076/215341
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Transformers
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Transformers
 http://1tv41.icu:8080/zqQ0Q2/591076/215342
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Transporter
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Transporter
 http://1tv41.icu:8080/zqQ0Q2/591076/215343
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Twilight Saga
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Twilight Saga
 http://1tv41.icu:8080/zqQ0Q2/591076/215344
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: War
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: War
 http://1tv41.icu:8080/zqQ0Q2/591076/215345
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Western
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Western
 http://1tv41.icu:8080/zqQ0Q2/591076/215346
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: X-Men
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: X-Men
 http://1tv41.icu:8080/zqQ0Q2/591076/215347
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Zombie
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Zombie
 http://1tv41.icu:8080/zqQ0Q2/591076/215348
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Benedict Cumberbatch
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Benedict Cumberbatch
 http://1tv41.icu:8080/zqQ0Q2/591076/215349
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Bradley Cooper
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Bradley Cooper
 http://1tv41.icu:8080/zqQ0Q2/591076/215350
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Christian Bale
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Christian Bale
 http://1tv41.icu:8080/zqQ0Q2/591076/215351
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 ,M4: Cillian Murphy
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 ,M4: Cillian Murphy
 http://1tv41.icu:8080/zqQ0Q2/591076/215352
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Edward Norton
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Edward Norton
 http://1tv41.icu:8080/zqQ0Q2/591076/215353
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Hugh Jackman
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Hugh Jackman
 http://1tv41.icu:8080/zqQ0Q2/591076/215354
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Jack Nicholson
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Jack Nicholson
 http://1tv41.icu:8080/zqQ0Q2/591076/215355
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Jake Gyllenhaal
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Jake Gyllenhaal
 http://1tv41.icu:8080/zqQ0Q2/591076/215356
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Jamie Foxx
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Jamie Foxx
 http://1tv41.icu:8080/zqQ0Q2/591076/215357
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Jeff Bridges
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Jeff Bridges
 http://1tv41.icu:8080/zqQ0Q2/591076/215358
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Jim Carrey
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Jim Carrey
 http://1tv41.icu:8080/zqQ0Q2/591076/215359
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Johnny Depp
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Johnny Depp
 http://1tv41.icu:8080/zqQ0Q2/591076/215360
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Keanu Reeves
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Keanu Reeves
 http://1tv41.icu:8080/zqQ0Q2/591076/215361
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Liam Neeson
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Liam Neeson
 http://1tv41.icu:8080/zqQ0Q2/591076/215362
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Mark Wahlberg
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Mark Wahlberg
 http://1tv41.icu:8080/zqQ0Q2/591076/215363
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Matt Damon
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Matt Damon
 http://1tv41.icu:8080/zqQ0Q2/591076/215364
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Micheal Caine
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Micheal Caine
 http://1tv41.icu:8080/zqQ0Q2/591076/215365
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Morgan Freeman
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Morgan Freeman
 http://1tv41.icu:8080/zqQ0Q2/591076/215366
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Russell Crowe
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Russell Crowe
 http://1tv41.icu:8080/zqQ0Q2/591076/215367
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Ryan Reynolds
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Ryan Reynolds
 http://1tv41.icu:8080/zqQ0Q2/591076/215368
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Samuel L. Jakson
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Samuel L. Jakson
 http://1tv41.icu:8080/zqQ0Q2/591076/215369
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Tom Cruise
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Tom Cruise
 http://1tv41.icu:8080/zqQ0Q2/591076/215370
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Tom Hanks
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Tom Hanks
 http://1tv41.icu:8080/zqQ0Q2/591076/215371
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Will Smith
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Will Smith
 http://1tv41.icu:8080/zqQ0Q2/591076/215372
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Adam Sandler
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Adam Sandler
 http://1tv41.icu:8080/zqQ0Q2/591076/215373
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Arnold Schwarzenegger
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Arnold Schwarzenegger
 http://1tv41.icu:8080/zqQ0Q2/591076/215374
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Daniel Craig
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Daniel Craig
 http://1tv41.icu:8080/zqQ0Q2/591076/215375
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Dwayne Johnson
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Dwayne Johnson
 http://1tv41.icu:8080/zqQ0Q2/591076/215376
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Gerard Butler
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Gerard Butler
 http://1tv41.icu:8080/zqQ0Q2/591076/215377
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Jackie Chan
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Jackie Chan
 http://1tv41.icu:8080/zqQ0Q2/591076/215378
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Jason Statham
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Jason Statham
 http://1tv41.icu:8080/zqQ0Q2/591076/215379
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Kevin Hart
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Kevin Hart
 http://1tv41.icu:8080/zqQ0Q2/591076/215380
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Orlando Bloom
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Orlando Bloom
 http://1tv41.icu:8080/zqQ0Q2/591076/215381
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Sylvester Stallone
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Sylvester Stallone
 http://1tv41.icu:8080/zqQ0Q2/591076/215382
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Tom Hardy
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Tom Hardy
 http://1tv41.icu:8080/zqQ0Q2/591076/215383
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Amy Adams
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Amy Adams
 http://1tv41.icu:8080/zqQ0Q2/591076/215384
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Anne Hathaway
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Anne Hathaway
 http://1tv41.icu:8080/zqQ0Q2/591076/215385
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Brie Larson
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Brie Larson
 http://1tv41.icu:8080/zqQ0Q2/591076/215386
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Cate Blanchett
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Cate Blanchett
 http://1tv41.icu:8080/zqQ0Q2/591076/215387
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Charlize Theron
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Charlize Theron
 http://1tv41.icu:8080/zqQ0Q2/591076/215388
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Halle Berry
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Halle Berry
 http://1tv41.icu:8080/zqQ0Q2/591076/215389
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Helen Mirren
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Helen Mirren
 http://1tv41.icu:8080/zqQ0Q2/591076/215390
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Brad Pitt
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Brad Pitt
 http://1tv41.icu:8080/zqQ0Q2/591076/215391
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Al Pacino
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Al Pacino
 http://1tv41.icu:8080/zqQ0Q2/591076/215392
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Denzel Washington
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Denzel Washington
 http://1tv41.icu:8080/zqQ0Q2/591076/215393
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Vin Diesel
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Vin Diesel
 http://1tv41.icu:8080/zqQ0Q2/591076/215394
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Bruce Willis
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Bruce Willis
 http://1tv41.icu:8080/zqQ0Q2/591076/215395
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Robert Downey Jr
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Robert Downey Jr
 http://1tv41.icu:8080/zqQ0Q2/591076/215396
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Leonardo DiCaprio
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Leonardo DiCaprio
 http://1tv41.icu:8080/zqQ0Q2/591076/215397
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Angelina Jolie
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Angelina Jolie
 http://1tv41.icu:8080/zqQ0Q2/591076/215398
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Alicia Vikander
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Alicia Vikander
 http://1tv41.icu:8080/zqQ0Q2/591076/215399
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Emma Stone
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Emma Stone
 http://1tv41.icu:8080/zqQ0Q2/591076/215400
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Emma Watson
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Emma Watson
 http://1tv41.icu:8080/zqQ0Q2/591076/215401
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 ,M4: Jennifer Lawrence
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 ,M4: Jennifer Lawrence
 http://1tv41.icu:8080/zqQ0Q2/591076/215402
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Julia Roberts
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Julia Roberts
 http://1tv41.icu:8080/zqQ0Q2/591076/215403
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Julianne Moore
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Julianne Moore
 http://1tv41.icu:8080/zqQ0Q2/591076/215404
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Kate Winslet
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Kate Winslet
 http://1tv41.icu:8080/zqQ0Q2/591076/215405
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Keira Knightley
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Keira Knightley
 http://1tv41.icu:8080/zqQ0Q2/591076/215406
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Kristen Stewart
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Kristen Stewart
 http://1tv41.icu:8080/zqQ0Q2/591076/215407
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Lupita Nyong` o
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Lupita Nyong` o
 http://1tv41.icu:8080/zqQ0Q2/591076/215408
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Margot Robbie
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Margot Robbie
 http://1tv41.icu:8080/zqQ0Q2/591076/215409
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Meryl Streep
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Meryl Streep
 http://1tv41.icu:8080/zqQ0Q2/591076/215410
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Michelle Pfeiffer
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Michelle Pfeiffer
 http://1tv41.icu:8080/zqQ0Q2/591076/215411
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Natalie Portman
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Natalie Portman
 http://1tv41.icu:8080/zqQ0Q2/591076/215412
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Nicole Kidman
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Nicole Kidman
 http://1tv41.icu:8080/zqQ0Q2/591076/215413
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Rachel McAdams
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Rachel McAdams
 http://1tv41.icu:8080/zqQ0Q2/591076/215414
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Reese Witherspoon
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Reese Witherspoon
 http://1tv41.icu:8080/zqQ0Q2/591076/215415
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Salma Hayek
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Salma Hayek
 http://1tv41.icu:8080/zqQ0Q2/591076/215416
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Sandra Bullock
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Sandra Bullock
 http://1tv41.icu:8080/zqQ0Q2/591076/215417
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Saoirse Ronan
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Saoirse Ronan
 http://1tv41.icu:8080/zqQ0Q2/591076/215418
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Scarlett Johansson
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Scarlett Johansson
 http://1tv41.icu:8080/zqQ0Q2/591076/215419
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Viola Davis
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Viola Davis
 http://1tv41.icu:8080/zqQ0Q2/591076/215420
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Cameron Diaz
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Cameron Diaz
 http://1tv41.icu:8080/zqQ0Q2/591076/215421
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Catherine Zeta-Jones
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Catherine Zeta-Jones
 http://1tv41.icu:8080/zqQ0Q2/591076/215422
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Drew Barrymore
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Drew Barrymore
 http://1tv41.icu:8080/zqQ0Q2/591076/215423
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Eva Green
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Eva Green
 http://1tv41.icu:8080/zqQ0Q2/591076/215424
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Jennifer Aniston
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Jennifer Aniston
 http://1tv41.icu:8080/zqQ0Q2/591076/215425
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Jessica Alba
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Jessica Alba
 http://1tv41.icu:8080/zqQ0Q2/591076/215426
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 ,M4: Lucy Liu
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 ,M4: Lucy Liu
 http://1tv41.icu:8080/zqQ0Q2/591076/215427
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Megan Fox
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Megan Fox
 http://1tv41.icu:8080/zqQ0Q2/591076/215428
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Melissa McCarthy
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Melissa McCarthy
 http://1tv41.icu:8080/zqQ0Q2/591076/215429
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Mila Kunis
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Mila Kunis
 http://1tv41.icu:8080/zqQ0Q2/591076/215430
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Penope Cruz
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Penope Cruz
 http://1tv41.icu:8080/zqQ0Q2/591076/215431
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Sigourney Weaver
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Sigourney Weaver
 http://1tv41.icu:8080/zqQ0Q2/591076/215432
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 M4: Zoe Saldana
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 M4: Zoe Saldana
 http://1tv41.icu:8080/zqQ0Q2/591076/215433
 
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 Game Of Thrones 
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 Game Of Thrones 
 http://1tv41.icu:8080/zqQ0Q2/591076/66318
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 COMEDY MOVIES
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 COMEDY MOVIES
 http://1tv41.icu:8080/zqQ0Q2/591076/121096
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 Adventure Time
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 Adventure Time
 http://1tv41.icu:8080/zqQ0Q2/591076/178879
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 FRIENDS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 FRIENDS
 http://1tv41.icu:8080/zqQ0Q2/591076/66407
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 RICK AND MORTY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 RICK AND MORTY
 http://1tv41.icu:8080/zqQ0Q2/591076/66302
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 DRAGON BALL Z
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 DRAGON BALL Z
 http://1tv41.icu:8080/zqQ0Q2/591076/79572
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 FULL HOUSE
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 FULL HOUSE
 http://1tv41.icu:8080/zqQ0Q2/591076/66269
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 FAMILY GUY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 FAMILY GUY
 http://1tv41.icu:8080/zqQ0Q2/591076/66317
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 KEEPING UP WITH THE KARDASHIANS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 KEEPING UP WITH THE KARDASHIANS
 http://1tv41.icu:8080/zqQ0Q2/591076/66403
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 FRESH PRINCE OF BEL-AIR
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 FRESH PRINCE OF BEL-AIR
 http://1tv41.icu:8080/zqQ0Q2/591076/79559
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 THE FIRST 48HRS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 THE FIRST 48HRS
 http://1tv41.icu:8080/zqQ0Q2/591076/66393
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 RIDICULOUSNESS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 RIDICULOUSNESS
 http://1tv41.icu:8080/zqQ0Q2/591076/66397
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 SAVED BY THE BELL
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 SAVED BY THE BELL
 http://1tv41.icu:8080/zqQ0Q2/591076/66344
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 SEINFELD
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 SEINFELD
 http://1tv41.icu:8080/zqQ0Q2/591076/66303
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 PAW PATROL
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 PAW PATROL
 http://1tv41.icu:8080/zqQ0Q2/591076/66311
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 The KING OF QUEENS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 The KING OF QUEENS
 http://1tv41.icu:8080/zqQ0Q2/591076/79567
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 Horror Movies
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 Horror Movies
 http://1tv41.icu:8080/zqQ0Q2/591076/119429
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 THE GOLDEN GIRLS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 THE GOLDEN GIRLS
 http://1tv41.icu:8080/zqQ0Q2/591076/120948
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 THE FLINTSTONES
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 THE FLINTSTONES
 http://1tv41.icu:8080/zqQ0Q2/591076/120949
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 STAR TREK
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 STAR TREK
 http://1tv41.icu:8080/zqQ0Q2/591076/121115
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 Bach live
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 Bach live
 http://1tv41.icu:8080/zqQ0Q2/591076/123165
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 FAMILY MATTERS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 FAMILY MATTERS
 http://1tv41.icu:8080/zqQ0Q2/591076/125634
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 TOM AND JERRY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 TOM AND JERRY
 http://1tv41.icu:8080/zqQ0Q2/591076/125635
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 DUCK TALES
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 DUCK TALES
 http://1tv41.icu:8080/zqQ0Q2/591076/125636
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 TEEN TITANS GO!
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 TEEN TITANS GO!
 http://1tv41.icu:8080/zqQ0Q2/591076/125637
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 LOONEY TUNES
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 LOONEY TUNES
 http://1tv41.icu:8080/zqQ0Q2/591076/125638
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 THE SOPRANOS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 THE SOPRANOS
 http://1tv41.icu:8080/zqQ0Q2/591076/125971
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 SEX IN THE CITY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 SEX IN THE CITY
 http://1tv41.icu:8080/zqQ0Q2/591076/125972
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 GUNSMOKE
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 GUNSMOKE
 http://1tv41.icu:8080/zqQ0Q2/591076/140069
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 American Crime Story
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 American Crime Story
 http://1tv41.icu:8080/zqQ0Q2/591076/178876
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 Bar Rescue
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 Bar Rescue
 http://1tv41.icu:8080/zqQ0Q2/591076/178865
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 Biography: WWE Legends
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 Biography: WWE Legends
 http://1tv41.icu:8080/zqQ0Q2/591076/178860
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸 24/7 Chuck
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸 24/7 Chuck
 http://1tv41.icu:8080/zqQ0Q2/591076/178845
 
 
@@ -12165,15 +12005,23 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
+
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☑ Love Nature en Espanol [Geo-blocked]
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☑ Love Nature en Espanol [Geo-blocked]
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 Love Nature ¹⁰⁸⁰ᵖ EN sub
 http://lemon.catchmeifyo.com:8000/live/5591251346/0984058798/16428.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 Love Nature ¹⁰⁸⁰ᵖ EN sub
-http://lemon.catchmeifyo.com:8000/5591251346/0984058798/16428
+http://lemon.catchmeifyo.com:8000/live/2267031533/0917672579/16428.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 Love Nature ¹⁰⁸⁰ᵖ EN sub
+http://lemon.catchmeifyo.com:8000/4067888515/3151498128/16428
+
+
+
+
 
 
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ⚽ Love Nature CA (opt1)
