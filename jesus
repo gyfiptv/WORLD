@@ -5347,9 +5347,9 @@ http://lemon.catchmeifyo.com:8000/live/5591251346/0984058798/16428.ts
 
 
 
-#EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="🆕🇸Usa-Latino🌎",🇪🇸☑ Love Nature en Espanol [Geo-blocked]
+#EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="🆕🇸english🇺🇸",🇪🇸☑ Love Nature en Espanol [Geo-blocked]
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="🆕🇸Usa-Latino🌎",🇪🇸☑ Love Nature en Espanol [Geo-blocked]
+#EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="🆕🇸english🇺🇸",🇪🇸☑ Love Nature en Espanol [Geo-blocked]
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
 
@@ -14508,30 +14508,30 @@ http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7438.ts
 
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
 http://mains.best:2086/live/3003556325/2772007/92572.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
 http://mains.best:2086/live/3003556325/2772007/92572.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
 http://mains.best:2086/3003556325/2772007/92572
 
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
 http://mains.services:2086/live/4523074511/3178768/92572.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
 http://mains.services:2086/live/4523074511/3178768/92572.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
 http://mains.services:2086/4523074511/3178768/92572
 
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/92572.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
 http://mains.services:2086/live/640939802963/IDC01478!/92572.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
 http://mains.services:2086/640939802963/IDC01478!/92572
 
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt4)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
 http://mains.services:2086/live/507Vej3h3S/4632273/92572.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt4)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
 http://mains.services:2086/live/507Vej3h3S/4632273/92572.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt4)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/92572
 
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt1)
