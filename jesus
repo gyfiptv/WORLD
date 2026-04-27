@@ -5036,29 +5036,6 @@ http://mains.services:2086/live/4523074511/3178768/64154.m3u8
 http://mains.services:2086/4523074511/3178768/95487
 
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ANIMAL PLANET [FHD]
-http://pfsv.io:80/6181288/27664/164.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ANIMAL PLANET [FHD][H265]
-http://pfsv.io:80/6181288/27664/30248.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ANIMAL PLANET [HD]
-http://pfsv.io:80/6181288/27664/179.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ANIMAL PLANET [SD]
-http://pfsv.io:80/6181288/27664/194.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ANIMAL PLANET [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130161.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ARTE 1 [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130169.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ARTE 1 [FHD]
-http://pfsv.io:80/6181288/27664/165.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ARTE 1 [FHD][H265]
-http://pfsv.io:80/6181288/27664/30249.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ARTE 1 [HD]
-http://pfsv.io:80/6181288/27664/180.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 ARTE 1 [SD]
-http://pfsv.io:80/6181288/27664/195.ts
-
 
 
 
@@ -5122,21 +5099,21 @@ https://tvpass.org/live/CrimePlusInvestigation/sd
 #EXTINF:-1 tvg-id="CrimePlusInvestigation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Crime + Investigation Network (hd)
 https://tvpass.org/live/CrimePlusInvestigation/hd
 
-#EXTINF:-1,CLOVER CHANNEL *FHD
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* CLOVER CHANNEL *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/92780.ts
-#EXTINF:-1,COMEDY CENTRAL *FHD
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* COMEDY CENTRAL *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/799.ts
-#EXTINF:-1,CLOVER CHANNEL *HD
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* CLOVER CHANNEL *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/92781.ts
-#EXTINF:-1,CLOVER CHANNEL *HQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* CLOVER CHANNEL *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/92782.ts
-#EXTINF:-1,COMEDY CENTRAL *HD
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* COMEDY CENTRAL *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/56967.ts
-#EXTINF:-1,COMEDY CENTRAL *HQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* COMEDY CENTRAL *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/56968.ts
-#EXTINF:-1,COMEDY CENTRAL *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* COMEDY CENTRAL *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29526.ts
-#EXTINF:-1,COMEDY CENTRAL *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* COMEDY CENTRAL *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29588.ts
 
 
@@ -5304,11 +5281,6 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/distrito.c
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISTRITO COMEDIA MX (opt2)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/distrito.comedia.mx.m3u8
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 COMEDY CENTRAL [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130254.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 CURTA! [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130255.ts
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ  🇺🇸 COOKING | FOOD 🇪🇸  ⭐🌎 ᴜsᴀ📺ʟᴀᴛɪɴᴏ 🌎⭐
@@ -5321,9 +5293,9 @@ https://tvpass.org/live/FoodNetworkEast/sd
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Food Network East (hd)
 https://tvpass.org/live/FoodNetworkEast/hd
 
-#EXTINF:-1,FOOD NETWORK *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* FOOD NETWORK *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29652.ts
-#EXTINF:-1,GOURMET *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* GOURMET *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29608.ts
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* FOOD NETWORK *FHD
@@ -5332,17 +5304,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/969.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1015.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* FOOD NETWORK *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/994.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FOOD NETWORK [FHD]
-http://pfsv.io:80/6181288/27664/101.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FOOD NETWORK [FHD][H265]
-http://pfsv.io:80/6181288/27664/30193.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FOOD NETWORK [HD]
-http://pfsv.io:80/6181288/27664/110.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FOOD NETWORK [SD]
-http://pfsv.io:80/6181288/27664/119.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FOOD NETWORK [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130259.ts
 
 
 #EXTINF:-1 tvg-logo="https://funroads.tv/wp-content/uploads/fun-roads-header-horizontal-1.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Fun Roads | Lifestyle
@@ -5516,48 +5477,48 @@ http://41.205.93.154/DISCOVERY/mono.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL FR (ᵀᵛ¹)
 http://41.205.93.154/DISCOVERY/playlist.m3u8
 
-#EXTINF:-1,DHE *HD
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DHE *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/62275.ts
-#EXTINF:-1,DHE *HQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DHE *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/62276.ts
 
-#EXTINF:-1,DHE *FHD
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DHE *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/62274.ts
-#EXTINF:-1,DISTRITO COMEDIA *FHD
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISTRITO COMEDIA *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/797.ts
-#EXTINF:-1,DW *FHD
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DW *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/798.ts
-#EXTINF:-1,DW *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DW *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29625.ts
 
-#EXTINF:-1,DISCOVERY CHANNEL *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY CHANNEL *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29527.ts
-#EXTINF:-1,DISCOVERY H&H *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY H&H *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29528.ts
-#EXTINF:-1,DISCOVERY ID *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY ID *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29546.ts
-#EXTINF:-1,DISCOVERY KIDS *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY KIDS *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29549.ts
-#EXTINF:-1,DISCOVERY TURBO *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY TURBO *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29545.ts
-#EXTINF:-1,DISCOVERY WORLD *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY WORLD *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29550.ts
 
-#EXTINF:-1,DISCOVERY CHANNEL *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY CHANNEL *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29589.ts
-#EXTINF:-1,DISCOVERY H&H *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY H&H *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29590.ts
-#EXTINF:-1,DISCOVERY ID *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY ID *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29615.ts
-#EXTINF:-1,DISCOVERY KIDS *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY KIDS *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29622.ts
-#EXTINF:-1,DISCOVERY SCIENCE *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY SCIENCE *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29623.ts
-#EXTINF:-1,DISCOVERY THEATER *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY THEATER *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29645.ts
-#EXTINF:-1,DISCOVERY TURBO *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY TURBO *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29614.ts
-#EXTINF:-1,DISCOVERY WORLD *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY WORLD *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29624.ts
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY CHANNEL *FHD
@@ -5898,85 +5859,6 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/dmax.es.m3u
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸 ⚽ DMAX ES (opt4)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/dmax.es.m3u8
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY CHANNEL [FHD]
-http://pfsv.io:80/6181288/27664/166.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY CHANNEL [FHD][H265]
-http://pfsv.io:80/6181288/27664/30260.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY CHANNEL [HD]
-http://pfsv.io:80/6181288/27664/181.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY CHANNEL [SD]
-http://pfsv.io:80/6181288/27664/196.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY HOME & HEALTH [FHD]
-http://pfsv.io:80/6181288/27664/168.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY HOME & HEALTH [HD]
-http://pfsv.io:80/6181288/27664/183.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY HOME & HEALTH [SD]
-http://pfsv.io:80/6181288/27664/198.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY HOME&HEALTH [FHD][H265]
-http://pfsv.io:80/6181288/27664/30254.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY KIDS [FHD]
-http://pfsv.io:80/6181288/27664/127.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 Discovery Kids [FHD][H265]
-http://pfsv.io:80/6181288/27664/30269.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY KIDS [HD]
-http://pfsv.io:80/6181288/27664/140.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY KIDS [SD]
-http://pfsv.io:80/6181288/27664/152.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY SCIENCE [FHD]
-http://pfsv.io:80/6181288/27664/169.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY SCIENCE [FHD][H265]
-http://pfsv.io:80/6181288/27664/30255.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY SCIENCE [HD]
-http://pfsv.io:80/6181288/27664/184.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY SCIENCE [SD]
-http://pfsv.io:80/6181288/27664/199.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY THEATER [FHD]
-http://pfsv.io:80/6181288/27664/170.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY THEATER [FHD][H265]
-http://pfsv.io:80/6181288/27664/30256.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY THEATER [HD]
-http://pfsv.io:80/6181288/27664/185.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY THEATER [SD]
-http://pfsv.io:80/6181288/27664/200.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY TURBO [FHD]
-http://pfsv.io:80/6181288/27664/171.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY TURBO [FHD][H265]
-http://pfsv.io:80/6181288/27664/30257.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY TURBO [HD]
-http://pfsv.io:80/6181288/27664/186.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY TURBO [SD]
-http://pfsv.io:80/6181288/27664/201.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY WORLD [FHD]
-http://pfsv.io:80/6181288/27664/172.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY WORLD [FHD][H265]
-http://pfsv.io:80/6181288/27664/30258.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY WORLD [HD]
-http://pfsv.io:80/6181288/27664/187.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY WORLD [SD]
-http://pfsv.io:80/6181288/27664/202.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY CHANNEL [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130163.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY HOME & HEALTH [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130162.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY KIDS [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130214.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY SCIENCE [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130164.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY THEATER [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130165.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY TURBO [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130166.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DISCOVERY WORLD [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130167.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DOG TV [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130256.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DOG TV [FHD]
-http://pfsv.io:80/6181288/27664/32426.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 DOG TV [HD]
-http://pfsv.io:80/6181288/27664/32425.ts
-
 
 
 
@@ -5985,7 +5867,7 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1,E! ENTERTAINMENT *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* E! ENTERTAINMENT *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29626.ts
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* E! ENTERTAIMENT *FHD
@@ -6033,22 +5915,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3486
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸ⓕ3486 El Encantador de Perros |Cesar Millan (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3486
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/6318c9054ef502139523a0bc/c57978d9-80c8-48a1-96aa-386d501e9e3c/earthtv.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ EarthxTV | Lifestyle
-https://ov.ottera.tv/live/master.m3u8?channel=earth_et
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKmEBLp.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ EVRGRN TV | Lifestyle
-https://d3i0k0tahnbipo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-EVRGRN/255.m3u8
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 E! [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130257.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 E! [FHD]
-http://pfsv.io:80/6181288/27664/99.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 E! [FHD][H265]
-http://pfsv.io:80/6181288/27664/30186.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 E! [HD]
-http://pfsv.io:80/6181288/27664/108.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 E! [SD]
-http://pfsv.io:80/6181288/27664/117.ts
 
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 F 🇺🇸  ⭐🌎 ɪᴘᴛv📺DOCUMENTARY🇺🇸 🌎⭐
@@ -6077,24 +5944,6 @@ http://mains.best:2086/3003556325/2772007/4411
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ FREE SPEECH TV (opt2)
 http://mains.services:2086/4523074511/3178768/4411
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FASHIONTV [FHD][H265]
-http://pfsv.io:80/6181288/27664/30184.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FISH TV [FHD]
-http://pfsv.io:80/6181288/27664/100.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FISH TV [FHD][H265]
-http://pfsv.io:80/6181288/27664/30185.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FISH TV [HD]
-http://pfsv.io:80/6181288/27664/109.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FISH TV [SD]
-http://pfsv.io:80/6181288/27664/118.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FILM&ARTS [FHD]
-http://pfsv.io:80/6181288/27664/134867.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FILM&ARTS [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130189.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 FISH TV [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130258.ts
 
 
 
@@ -6103,7 +5952,7 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1,GOURMET *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* GOURMET *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29608.ts
 
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸ⓕ12140 GENIAL TV | DOC (opt1)
@@ -6158,14 +6007,14 @@ https://tvpass.org/live/HLN/sd
 https://tvpass.org/live/HLN/hd
 
 
-#EXTINF:-1,HOLA TV *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOLA TV *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29660.ts
-#EXTINF:-1,HISTORY *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HISTORY *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29612.ts
 
-#EXTINF:-1,HISTORY *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HISTORY *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29543.ts
-#EXTINF:-1,H2 *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29631.ts
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 *FHD
@@ -6371,42 +6220,6 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/h2.co.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸 ⚽ HISTORY 2 CO (opt4)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/h2.co.m3u8
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HGTV [FHD]
-http://pfsv.io:80/6181288/27664/167.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HGTV [FHD][H265]
-http://pfsv.io:80/6181288/27664/30253.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HGTV [HD]
-http://pfsv.io:80/6181288/27664/182.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HGTV [SD]
-http://pfsv.io:80/6181288/27664/197.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HGTV [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130168.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL 2 [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130170.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130171.ts
-
-
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL 2 [FHD]
-http://pfsv.io:80/6181288/27664/173.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL 2 [FHD][H265]
-http://pfsv.io:80/6181288/27664/30262.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL 2 [HD]
-http://pfsv.io:80/6181288/27664/188.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL 2 [SD]
-http://pfsv.io:80/6181288/27664/203.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL [FHD]
-http://pfsv.io:80/6181288/27664/174.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL [FHD][H265]
-http://pfsv.io:80/6181288/27664/30250.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL [HD]
-http://pfsv.io:80/6181288/27664/189.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 HISTORY CHANNEL [SD]
-http://pfsv.io:80/6181288/27664/204.ts
-
 
 
 
@@ -6510,18 +6323,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12133
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸ⓕ12133 IDEAS HOMEWORK | DOC | (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12133
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 INVESTIGACAO DISCOVERY [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130172.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]
-http://pfsv.io:80/6181288/27664/30259.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 INVESTIGACAO DISCOVERY [FHD]
-http://pfsv.io:80/6181288/27664/175.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 INVESTIGACAO DISCOVERY [HD]
-http://pfsv.io:80/6181288/27664/190.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 INVESTIGACAO DISCOVERY [SD]
-http://pfsv.io:80/6181288/27664/205.ts
-
 
 
 
@@ -6607,7 +6408,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28432.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MAS CHIC *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28433.ts
 
-#EXTINF:-1,MAS CHIC *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MAS CHIC *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29634.ts
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7528 MEGA | DOC (opt1)
@@ -6755,9 +6556,9 @@ https://tvpass.org/live/MTVEast/sd
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ MTV USA Eastern (hd)
 https://tvpass.org/live/MTVEast/hd
 
-#EXTINF:-1,MTV *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MTV *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29637.ts
-#EXTINF:-1,MTV HITS *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MTV HITS *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29656.ts
 
 
@@ -6857,9 +6658,9 @@ https://tvpass.org/live/NationalGeographicWildEast/sd
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ National Geographic Wild (hd)
 https://tvpass.org/live/NationalGeographicWildEast/hd
 
-#EXTINF:-1,NAT GEO *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* NAT GEO *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29542.ts
-#EXTINF:-1,NAT GEO *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* NAT GEO *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29611.ts
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* NAT GEO *FHD
@@ -7252,13 +7053,13 @@ https://tvpass.org/live/truTVEast/sd
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ truTV Eastern (hd)
 https://tvpass.org/live/truTVEast/hd
 
-#EXTINF:-1,TNT *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* TNT *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29668.ts
-#EXTINF:-1,TNT SERIES *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* TNT SERIES *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29613.ts
-#EXTINF:-1,TRUTV *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* TRUTV *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29579.ts
-#EXTINF:-1,TLC *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* TLC *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29657.ts
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* TLC *FHD
@@ -7383,17 +7184,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1179
 #EXTINF:-1 ,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸ⓕ1179 TOP TRAVEL |DOC (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1179
 
-
-
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 TLC [FHD]
-http://pfsv.io:80/6181288/27664/286.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 TLC [FHD][H265]
-http://pfsv.io:80/6181288/27664/30229.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 TLC [HD]
-http://pfsv.io:80/6181288/27664/314.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇧🇷 TLC [SD]
-http://pfsv.io:80/6181288/27664/340.ts
 
 
 
@@ -7671,9 +7461,9 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ✝  ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,VH1 *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* VH1 *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29658.ts
-#EXTINF:-1,VH1 MEGAHITS *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* VH1 MEGAHITS *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29655.ts
 
 
@@ -7706,71 +7496,13 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7168.m3u8
 
 
 
+
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-name="🇺🇸🧒KIDS👧🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",⚽ ########## 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 ##########
 http://tdgu3cz8.rostelekom.xyz/iptv/S3ZDD8GRPVNTPV/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 GROUP 01 🇺🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇺🇸 🌍🌐
-https://streamer1.nexgen.bz/TBN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
-http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
-
-#EXTINF:-1,CARTOONITO *HD | DUAL-AUDIO
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29524.ts
-#EXTINF:-1,CARTOON NETWORK *HD | DUAL-AUDIO
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29516.ts
-
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOON NETWORK [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130213.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOONITO [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130212.ts
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOON NETWORK [FHD]
-http://pfsv.io:80/6181288/27664/126.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOON NETWORK [FHD][H265]
-http://pfsv.io:80/6181288/27664/30268.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOON NETWORK [HD]
-http://pfsv.io:80/6181288/27664/139.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOON NETWORK [SD]
-http://pfsv.io:80/6181288/27664/151.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOONITO [FHD]
-http://pfsv.io:80/6181288/27664/125.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOONITO [FHD][H265]
-http://pfsv.io:80/6181288/27664/30267.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOONITO [HD]
-http://pfsv.io:80/6181288/27664/138.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 CARTOONITO [SD]
-http://pfsv.io:80/6181288/27664/150.ts
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICK JR [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130219.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICKELODEON [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130218.ts
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICK JR [FHD]
-http://pfsv.io:80/6181288/27664/130.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICK JR [FHD][H265]
-http://pfsv.io:80/6181288/27664/30263.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICK JR [HD]
-http://pfsv.io:80/6181288/27664/144.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICK JR [SD]
-http://pfsv.io:80/6181288/27664/158.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICKELODEON [FHD]
-http://pfsv.io:80/6181288/27664/131.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICKELODEON [FHD][H265]
-http://pfsv.io:80/6181288/27664/30264.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICKELODEON [HD]
-http://pfsv.io:80/6181288/27664/145.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 NICKELODEON [SD]
-http://pfsv.io:80/6181288/27664/159.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 TOONCAST [HD]
-http://pfsv.io:80/6181288/27664/48756.ts
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇧🇷 TOONCAST [SD]
-http://pfsv.io:80/6181288/27664/160.ts
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 A 🇺🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇺🇸 🌍🌐
 https://streamer1.nexgen.bz/TBN/index.m3u8
@@ -7803,19 +7535,19 @@ http://23.237.104.106:8080/USA_BOOMERANG/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² BOOMERANG
 http://41.205.93.154/BOOMERANG/index.m3u8
 
-#EXTINF:-1,BABY TV *LQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* BABY TV *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29585.ts
-#EXTINF:-1,BABY FIRST *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* BABY FIRST *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27595.ts
-#EXTINF:-1,BABY FIRST *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* BABY FIRST *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67235.ts
-#EXTINF:-1,BABY FIRST *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* BABY FIRST *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1069.ts
-#EXTINF:-1,BABY TV *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* BABY TV *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1055.ts
-#EXTINF:-1,BABY TV *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* BABY TV *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1081.ts
-#EXTINF:-1,BABY TV *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* BABY TV *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1100.ts
 
 
@@ -7875,28 +7607,34 @@ https://tvpass.org/live/CartoonNetworkEast/sd
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Cartoon Network Eastern (hd)
 https://tvpass.org/live/CartoonNetworkEast/hd
 
-#EXTINF:-1,CARTOONITO *LQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CARTOONITO *HD | DUAL-AUDIO
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29524.ts
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CARTOON NETWORK *HD | DUAL-AUDIO
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29516.ts
+
+
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CARTOONITO *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29586.ts
-#EXTINF:-1,CARTOON NETWORK *LQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CARTOON NETWORK *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29575.ts
-#EXTINF:-1,CARTOON NETWORK *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CARTOON NETWORK *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1053.ts
-#EXTINF:-1,CARTOON NETWORK *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CARTOON NETWORK *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1079.ts
-#EXTINF:-1,CARTOON NETWORK *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CARTOON NETWORK *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1096.ts
-#EXTINF:-1,CARTOONITO *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CARTOONITO *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1054.ts
-#EXTINF:-1,CARTOONITO *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CARTOONITO *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1080.ts
-#EXTINF:-1,CARTOONITO *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CARTOONITO *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1068.ts
 
-#EXTINF:-1,CLAN *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CLAN *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/83474.ts
-#EXTINF:-1,CLAN *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CLAN *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/83473.ts
-#EXTINF:-1,CLAN *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* CLAN *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/83472.ts
 
 
@@ -7987,35 +7725,35 @@ http://23.237.104.106:8080/USA_DISNEY_JUNIOR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² DISNEY JUNIOR (opt1)
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/mono.m3u8
 
-#EXTINF:-1,DISNEY CHANNEL *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DISNEY CHANNEL *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29529.ts
-#EXTINF:-1,DISNEY JR *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DISNEY JR *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29530.ts
-#EXTINF:-1,DISCOVERY KIDS *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DISCOVERY KIDS *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1052.ts
-#EXTINF:-1,DISCOVERY KIDS *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DISCOVERY KIDS *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1083.ts
-#EXTINF:-1,DISCOVERY KIDS *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DISCOVERY KIDS *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1066.ts
 
-#EXTINF:-1,DISNEY CHANNEL *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DISNEY CHANNEL *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1051.ts
-#EXTINF:-1,DISNEY CHANNEL *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DISNEY CHANNEL *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1078.ts
-#EXTINF:-1,DISNEY CHANNEL *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DISNEY CHANNEL *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1065.ts
-#EXTINF:-1,DISNEY JR *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DISNEY JR *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1050.ts
-#EXTINF:-1,DISNEY JR *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DISNEY JR *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1077.ts
-#EXTINF:-1,DISNEY JR *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DISNEY JR *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1064.ts
 
-#EXTINF:-1,DREAMWORKS *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DREAMWORKS *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/92779.ts
-#EXTINF:-1,DREAMWORKS *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DREAMWORKS *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/92777.ts
-#EXTINF:-1,DREAMWORKS *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* DREAMWORKS *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/92778.ts
 
 
@@ -8391,27 +8129,27 @@ http://23.237.104.106:8080/USA_NICKELODEON/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸Ⓜ² NICKELODEON | NICK NITE (opt1)
 http://23.237.104.106:8080/USA_NICKELODEON/mono.m3u8
 
-#EXTINF:-1,NICK *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* NICK *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29570.ts
-#EXTINF:-1,NICK *LQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* NICK *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29667.ts
-#EXTINF:-1,NICK JR *LQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* NICK JR *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29639.ts
-#EXTINF:-1,NICK JR *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* NICK JR *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1046.ts
-#EXTINF:-1,NICK JR *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* NICK JR *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1073.ts
-#EXTINF:-1,NICK JR *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* NICK JR *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1059.ts
-#EXTINF:-1,NICKELODEON *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* NICKELODEON *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1044.ts
-#EXTINF:-1,NICKELODEON *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* NICKELODEON *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1074.ts
-#EXTINF:-1,NICKELODEON *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* NICKELODEON *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1094.ts
-#EXTINF:-1,NICKTOONS *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* NICKTOONS *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1043.ts
-#EXTINF:-1,NICKTOONS *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* NICKTOONS *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1058.ts
 
 
@@ -8550,17 +8288,17 @@ https://tvpass.org/live/TeenNickEast/sd
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ TeenNick Eastern (hd)
 https://tvpass.org/live/TeenNickEast/hd
 
-#EXTINF:-1,TEENNICK *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* TEENNICK *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1047.ts
-#EXTINF:-1,TEENNICK *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* TEENNICK *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1087.ts
-#EXTINF:-1,TEENNICK *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* TEENNICK *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1060.ts
-#EXTINF:-1,TOONCAST *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* TOONCAST *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1041.ts
-#EXTINF:-1,TOONCAST *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* TOONCAST *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1072.ts
-#EXTINF:-1,TOONCAST *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* TOONCAST *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1056.ts
 
 #EXTINF:-1 tvg-id="TomAndJerry.us@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Tom And Jerry | Kids (720p)
@@ -8596,11 +8334,11 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ✝    ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,ZOOMOO *FHD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* ZOOMOO *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53889.ts
-#EXTINF:-1,ZOOMOO *HD
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* ZOOMOO *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53888.ts
-#EXTINF:-1,ZOOMOO *HQ
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸* ZOOMOO *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53887.ts
 
 
@@ -8639,63 +8377,63 @@ https://tvpass.org/live/UnivisionEast/sd
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ UNIVISION HD | WNJU-DT1 (1080p)
 https://tvpass.org/live/UnivisionEast/hd
 
-#EXTINF:-1,Telemundo Atlanta
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Atlanta
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27592.ts
-#EXTINF:-1,Telemundo Boston
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Boston
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/357.ts
-#EXTINF:-1,Telemundo Chicago
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Chicago
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/356.ts
-#EXTINF:-1,Telemundo Dallas
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Dallas
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/355.ts
-#EXTINF:-1,Telemundo Denver
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Denver
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/354.ts
-#EXTINF:-1,Telemundo Fresno
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Fresno
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/353.ts
-#EXTINF:-1,Telemundo Houston
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Houston
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/351.ts
-#EXTINF:-1,Telemundo Internacional *FHD
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28949.ts
-#EXTINF:-1,Telemundo Internacional *FHD | op2
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *FHD | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27842.ts
-#EXTINF:-1,Telemundo Internacional *HD
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67649.ts
-#EXTINF:-1,Telemundo Internacional *HQ
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67650.ts
-#EXTINF:-1,Telemundo Las Vegas
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Las Vegas
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/350.ts
-#EXTINF:-1,Telemundo Los Angeles
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Los Angeles
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/349.ts
-#EXTINF:-1,Telemundo Miami
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/348.ts
-#EXTINF:-1,Telemundo Miami | op2
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60698.ts
-#EXTINF:-1,Telemundo Nebraska
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Nebraska
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82801.ts
-#EXTINF:-1,Telemundo New York
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/347.ts
-#EXTINF:-1,Telemundo New York op2
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41774.ts
-#EXTINF:-1,Telemundo Oklahoma City
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Oklahoma City
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82806.ts
-#EXTINF:-1,Telemundo Orlando
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Orlando
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27185.ts
-#EXTINF:-1,Telemundo Philadelphia
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Philadelphia
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/346.ts
-#EXTINF:-1,Telemundo Phoenix
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Phoenix
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/345.ts
-#EXTINF:-1,Telemundo Sacramento
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Sacramento
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82814.ts
-#EXTINF:-1,Telemundo San Antonio
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San Antonio
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/344.ts
-#EXTINF:-1,Telemundo San Diego
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San Diego
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82810.ts
-#EXTINF:-1,Telemundo San francisco
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San francisco
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/343.ts
-#EXTINF:-1,Telemundo Tucson
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Tucson
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/342.ts
-#EXTINF:-1,Telemundo Washington
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Washington
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/19133.ts
-#EXTINF:-1,Telemundo Salt Lake City
+group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Salt Lake City
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97724.ts
 
 
@@ -9071,43 +8809,30 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸☑ NBCLX HOME | E!
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
-#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/index.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC 6 (opt1)
 https://streamer1.nexgen.bz/NBC/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC 6 (opt2)
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC 6 (opt3)
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/mono.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo West (720p)
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
-#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Corpus Christi | E!
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC 6 (opt1)
+https://streamer1.nexgen.bz/NBC/playlist.mpd
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC 6 (opt2)
+https://streamer1.nexgen.bz/NBC/index.mpd
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC 6 (opt3)
+https://streamer1.nexgen.bz/NBC/mono.mpd
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",NBC 6 (opt3)
+https://streamer1.nexgen.bz/NBC/mono.ts
+
+
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Telenovelas Clásicas | Series
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ NBCU Telemundo 51 Florida
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ NBCU Telemundo 51 Florida
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ NBCU Telemundo 52 West
-https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ NBCU Telemundo 52 West
-https://nbcu-telemundowest-firetv.amagi.tv/playlist.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ NBCU Telemundo 47 North East
-https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ NBCU Telemundo 47 North East
-https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ NBCU Telemundo 40 HOUSTON Texas
-https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ NBCU Telemundo 40 HOUSTON Texas
-https://nbcu-telemundotexas-firetv.amagi.tv/playlist.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸☑ NBC Chicago News
-https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸☑ NBC Chicago News
-https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.ts
 
 
 
@@ -14589,36 +14314,6 @@ http://mains.vip:2086/3003556325/2772007/88675
 
 
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [FHD]
-http://pfsv.io:80/6181288/27664/295.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [FHD][H265]
-http://pfsv.io:80/6181288/27664/30206.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [HD]
-http://pfsv.io:80/6181288/27664/301.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [SD]
-http://pfsv.io:80/6181288/27664/326.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [FHD] LEG
-http://pfsv.io:80/6181288/27664/122939.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130186.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [HD] LEG
-http://pfsv.io:80/6181288/27664/122933.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AXN [SD] LEG
-http://pfsv.io:80/6181288/27664/122934.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [FHD]
-http://pfsv.io:80/6181288/27664/294.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [FHD][H265]
-http://pfsv.io:80/6181288/27664/30228.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [HD]
-http://pfsv.io:80/6181288/27664/300.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [SD]
-http://pfsv.io:80/6181288/27664/325.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130185.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  AMC [FHD] LEG
-http://pfsv.io:80/6181288/27664/331695.ts
 
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² AMC
@@ -14692,20 +14387,6 @@ http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7032.m3u8
 http://alfa.7057460.xyz:2095/live/ameca01/1989/7032.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt5)
 http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7032
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  A&E [FHD]
-http://pfsv.io:80/6181288/27664/293.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  A&E [FHD][H265]
-http://pfsv.io:80/6181288/27664/30227.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  A&E [HD]
-http://pfsv.io:80/6181288/27664/299.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  A&E [SD]
-http://pfsv.io:80/6181288/27664/324.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  A&E [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130184.ts
-
-
-
 
 
 
@@ -15585,15 +15266,6 @@ https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  MEGAPIX [FHD]
-http://pfsv.io:80/6181288/27664/281.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  MEGAPIX [FHD][H265]
-http://pfsv.io:80/6181288/27664/30218.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  MEGAPIX [HD]
-http://pfsv.io:80/6181288/27664/310.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  MEGAPIX [SD]
-http://pfsv.io:80/6181288/27664/335.ts
-
 
 
 
@@ -15665,21 +15337,6 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2257
 #EXTINF:-1 tvg-id=“Paramount.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ PARAMOUNT NETWORK CO (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2258
 
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  Paramount Channel [FHD]
-http://pfsv.io:80/6181288/27664/300930.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  Paramount Channel [HD]
-http://pfsv.io:80/6181288/27664/300931.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  Paramount Channel [SD]
-http://pfsv.io:80/6181288/27664/300932.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  PARAMOUNT NETWORK [FHD]
-http://pfsv.io:80/6181288/27664/296.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  PARAMOUNT NETWORK [FHD][H265]
-http://pfsv.io:80/6181288/27664/30213.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  PARAMOUNT NETWORK [HD]
-http://pfsv.io:80/6181288/27664/311.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  PARAMOUNT NETWORK [SD]
-http://pfsv.io:80/6181288/27664/336.ts
 
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ PIXL US (opt1)
@@ -15795,149 +15452,90 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29520.ts
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STUDIO UNIVERSAL *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29560.ts
 
-#EXTINF:-1,SHOWTIME BEYOND *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SHOWTIME BEYOND *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/837.ts
-#EXTINF:-1,SONY CHANNEL *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SONY CHANNEL *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/773.ts
-#EXTINF:-1,SONY CHANNEL MX *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SONY CHANNEL MX *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96013.ts
-#EXTINF:-1,SONY MOVIES *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SONY MOVIES *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88353.ts
-#EXTINF:-1,SPACE *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SPACE *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/767.ts
-#EXTINF:-1,STAR CHANNEL *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STAR CHANNEL *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/792.ts
-#EXTINF:-1,STAR TVE *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STAR TVE *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/83469.ts
-#EXTINF:-1,STARZ *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/820.ts
-#EXTINF:-1,STARZ CINEMA *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ CINEMA *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/832.ts
-#EXTINF:-1,STARZ EAST *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ EAST *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/830.ts
-#EXTINF:-1,STARZ EDGE *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ EDGE *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/829.ts
-#EXTINF:-1,STARZ ENCORE *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ ENCORE *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91695.ts
-#EXTINF:-1,STARZ ENCORE ACTION *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ ENCORE ACTION *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/828.ts
-#EXTINF:-1,STARZ ENCORE BLACK *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ ENCORE BLACK *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91696.ts
-#EXTINF:-1,STARZ ENCORE CLASSICS *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ ENCORE CLASSICS *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/826.ts
-#EXTINF:-1,STARZ ENCORE FAMILY *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ ENCORE FAMILY *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/825.ts
-#EXTINF:-1,STARZ ENCORE SUSPENSO *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ ENCORE SUSPENSO *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/823.ts
-#EXTINF:-1,STARZ ENCORE WESTER *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ ENCORE WESTER *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/822.ts
-#EXTINF:-1,STARZ IN BLACK *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ IN BLACK *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91698.ts
-#EXTINF:-1,STARZ KIDS & FAMILY *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STARZ KIDS & FAMILY *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/819.ts
-#EXTINF:-1,STUDIO UNIVERSAL *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STUDIO UNIVERSAL *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/768.ts
-#EXTINF:-1,SYFY *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SYFY *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/769.ts
 
-#EXTINF:-1,SONY CHANNEL *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SONY CHANNEL *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/923.ts
-#EXTINF:-1,SONY CHANNEL *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SONY CHANNEL *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/860.ts
-#EXTINF:-1,SONY CHANNEL MX *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SONY CHANNEL MX *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96014.ts
-#EXTINF:-1,SONY CHANNEL MX *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SONY CHANNEL MX *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96015.ts
-#EXTINF:-1,SONY CINE *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SONY CINE *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67348.ts
-#EXTINF:-1,SONY CINE *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SONY CINE *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67349.ts
-#EXTINF:-1,SONY MOVIES *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SONY MOVIES *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88351.ts
-#EXTINF:-1,SONY MOVIES *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SONY MOVIES *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88352.ts
-#EXTINF:-1,SPACE *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SPACE *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/922.ts
-#EXTINF:-1,SPACE *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SPACE *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/859.ts
-#EXTINF:-1,STAR CHANNEL *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STAR CHANNEL *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/938.ts
-#EXTINF:-1,STAR CHANNEL *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STAR CHANNEL *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/874.ts
-#EXTINF:-1,STAR TVE *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STAR TVE *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/83470.ts
-#EXTINF:-1,STAR TVE *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STAR TVE *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/83471.ts
-#EXTINF:-1,STUDIO UNIVERSAL *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STUDIO UNIVERSAL *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/921.ts
-#EXTINF:-1,STUDIO UNIVERSAL *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STUDIO UNIVERSAL *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/920.ts
-#EXTINF:-1,SYFY *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SYFY *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/952.ts
-#EXTINF:-1,SYFY *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* SYFY *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/888.ts
 
-#EXTINF:-1,STAR CHANNEL *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STAR CHANNEL *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29519.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [FHD]
-http://pfsv.io:80/6181288/27664/274.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [FHD][H265]
-http://pfsv.io:80/6181288/27664/30216.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [HD]
-http://pfsv.io:80/6181288/27664/302.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [SD]
-http://pfsv.io:80/6181288/27664/327.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [FHD]
-http://pfsv.io:80/6181288/27664/282.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [FHD][H265]
-http://pfsv.io:80/6181288/27664/30214.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [HD]
-http://pfsv.io:80/6181288/27664/313.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [SD]
-http://pfsv.io:80/6181288/27664/338.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [FHD] LEG
-http://pfsv.io:80/6181288/27664/130685.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130187.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [HD] LEG
-http://pfsv.io:80/6181288/27664/123518.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SONY CHANNEL [SD] LEG
-http://pfsv.io:80/6181288/27664/123519.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [FHD] [LEG]
-http://pfsv.io:80/6181288/27664/169116.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130194.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [HD] LEG
-http://pfsv.io:80/6181288/27664/123512.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SPACE [SD] LEG
-http://pfsv.io:80/6181288/27664/123513.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [FHD]
-http://pfsv.io:80/6181288/27664/283.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [FHD][H265]
-http://pfsv.io:80/6181288/27664/30221.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [HD]
-http://pfsv.io:80/6181288/27664/320.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [SD]
-http://pfsv.io:80/6181288/27664/346.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130196.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 STUDIO UNIVERSAL [HD] LEG
-http://pfsv.io:80/6181288/27664/331690.ts
-
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SYFY [FHD]
-http://pfsv.io:80/6181288/27664/284.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SYFY [FHD][H265]
-http://pfsv.io:80/6181288/27664/30222.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SYFY [HD]
-http://pfsv.io:80/6181288/27664/312.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 SYFY [SD]
-http://pfsv.io:80/6181288/27664/337.ts
 
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SHORTS TV US (opt1)
@@ -16173,56 +15771,56 @@ http://41.205.93.154/TBS/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² TBS |E! (opt3)
 http://41.205.93.154/TBS/playlist.m3u8
 
-#EXTINF:-1,TBS *LQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TBS *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29643.ts
-#EXTINF:-1,TCM *LQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TCM *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29644.ts
 
-#EXTINF:-1,TNT *LQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29668.ts
-#EXTINF:-1,TNT SERIES *LQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT SERIES *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29613.ts
 
-#EXTINF:-1,TNT *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29571.ts
-#EXTINF:-1,TNT SERIES *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT SERIES *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29544.ts
-#EXTINF:-1,TRUTV *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TRUTV *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29518.ts
 
-#EXTINF:-1,TNT *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/765.ts
-#EXTINF:-1,TNT MX *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT MX *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96022.ts
-#EXTINF:-1,TNT SERIES *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT SERIES *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/766.ts
-#EXTINF:-1,TNT SERIES MX *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT SERIES MX *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96025.ts
 
 
-#EXTINF:-1,TBS *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TBS *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/951.ts
-#EXTINF:-1,TBS *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TBS *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/857.ts
-#EXTINF:-1,TCM *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TCM *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/950.ts
-#EXTINF:-1,TCM *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TCM *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/886.ts
-#EXTINF:-1,TNT *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/885.ts
-#EXTINF:-1,TNT *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/855.ts
-#EXTINF:-1,TNT MX *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT MX *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96023.ts
-#EXTINF:-1,TNT MX *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT MX *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96024.ts
-#EXTINF:-1,TNT SERIES *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT SERIES *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/854.ts
-#EXTINF:-1,TNT SERIES *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT SERIES *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/884.ts
-#EXTINF:-1,TNT SERIES MX *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT SERIES MX *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96026.ts
-#EXTINF:-1,TNT SERIES MX *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TNT SERIES MX *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96027.ts
 
 
@@ -16243,47 +15841,6 @@ http://pfsv.io:80/6181288/27664/130198.ts
 http://pfsv.io:80/6181288/27664/331406.ts
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸 TCM [FHD]
 http://pfsv.io:80/6181288/27664/331447.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT NOVELAS [HD]
-http://pfsv.io:80/6181288/27664/148422.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT NOVELAS [SD]
-http://pfsv.io:80/6181288/27664/148423.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [FHD]
-http://pfsv.io:80/6181288/27664/288.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [FHD][H265]
-http://pfsv.io:80/6181288/27664/30225.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [HD]
-http://pfsv.io:80/6181288/27664/316.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [SD]
-http://pfsv.io:80/6181288/27664/342.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [FHD]
-http://pfsv.io:80/6181288/27664/287.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [FHD][H265]
-http://pfsv.io:80/6181288/27664/30224.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [HD]
-http://pfsv.io:80/6181288/27664/315.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [SD]
-http://pfsv.io:80/6181288/27664/341.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [FHD] LEG
-http://pfsv.io:80/6181288/27664/330665.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT Series [FHD][HDR]
-http://pfsv.io:80/6181288/27664/331687.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT NOVELAS [FHD]
-http://pfsv.io:80/6181288/27664/148424.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [HD] LEG
-http://pfsv.io:80/6181288/27664/123514.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT SERIES [SD] LEG
-http://pfsv.io:80/6181288/27664/123515.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130200.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [HD] LEG
-http://pfsv.io:80/6181288/27664/123504.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT [SD] LEG
-http://pfsv.io:80/6181288/27664/123505.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TNT Series [FHD] LEG
-http://pfsv.io:80/6181288/27664/330666.ts
 
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ TNT | NBA TNT SPORTS FHD (opt1) 
@@ -16336,106 +15893,8 @@ http://mains.best:2086/3003556325/2772007/301
 http://mains.services:2086/640939802963/IDC01478!/301
 
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [FHD]
-http://pfsv.io:80/6181288/27664/562.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [FHD][H265]
-http://pfsv.io:80/6181288/27664/30242.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [HD]
-http://pfsv.io:80/6181288/27664/568.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [SD]
-http://pfsv.io:80/6181288/27664/574.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [FHD]
-http://pfsv.io:80/6181288/27664/567.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [FHD][H265]
-http://pfsv.io:80/6181288/27664/30243.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [HD]
-http://pfsv.io:80/6181288/27664/569.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [SD]
-http://pfsv.io:80/6181288/27664/575.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [FHD]
-http://pfsv.io:80/6181288/27664/563.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [FHD][H265]
-http://pfsv.io:80/6181288/27664/30244.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [HD]
-http://pfsv.io:80/6181288/27664/570.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [SD]
-http://pfsv.io:80/6181288/27664/576.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [FHD]
-http://pfsv.io:80/6181288/27664/564.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [FHD][H265]
-http://pfsv.io:80/6181288/27664/30245.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [HD]
-http://pfsv.io:80/6181288/27664/572.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [SD]
-http://pfsv.io:80/6181288/27664/578.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [FHD]
-http://pfsv.io:80/6181288/27664/565.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [FHD][H265]
-http://pfsv.io:80/6181288/27664/30246.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [HD]
-http://pfsv.io:80/6181288/27664/573.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [SD]
-http://pfsv.io:80/6181288/27664/579.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [FHD]
-http://pfsv.io:80/6181288/27664/566.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [FHD][H265]
-http://pfsv.io:80/6181288/27664/30247.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [HD]
-http://pfsv.io:80/6181288/27664/571.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [SD]
-http://pfsv.io:80/6181288/27664/577.ts
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [FHD] LEG
-http://pfsv.io:80/6181288/27664/123550.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130244.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [HD] LEG
-http://pfsv.io:80/6181288/27664/123494.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE ACTION [SD] LEG
-http://pfsv.io:80/6181288/27664/123495.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [FHD] LEG
-http://pfsv.io:80/6181288/27664/123553.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130245.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [HD] LEG
-http://pfsv.io:80/6181288/27664/123542.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE CULT [SD] LEG
-http://pfsv.io:80/6181288/27664/123541.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [FHD] LEG
-http://pfsv.io:80/6181288/27664/123552.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130247.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [HD] LEG
-http://pfsv.io:80/6181288/27664/123496.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE FUN [SD] LEG
-http://pfsv.io:80/6181288/27664/123497.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [FHD] LEG
-http://pfsv.io:80/6181288/27664/123548.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130248.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [HD] LEG
-http://pfsv.io:80/6181288/27664/123498.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PIPOCA [SD] LEG
-http://pfsv.io:80/6181288/27664/123499.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [FHD] LEG
-http://pfsv.io:80/6181288/27664/123549.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130249.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [HD] LEG
-http://pfsv.io:80/6181288/27664/123500.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE PREMIUM [SD] LEG
-http://pfsv.io:80/6181288/27664/123501.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [FHD] LEG
-http://pfsv.io:80/6181288/27664/123551.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130250.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [HD] LEG
-http://pfsv.io:80/6181288/27664/123502.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 TELECINE TOUCH [SD] LEG
-http://pfsv.io:80/6181288/27664/123503.ts
-
-
-#EXTINF:-1,TELEMUNDO *LQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* TELEMUNDO *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29669.ts
 
 
@@ -16495,80 +15954,80 @@ https://tvpass.org/live/usa-network-east-feed/sd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ USA Network East (hd)
 https://tvpass.org/live/usa-network-east-feed/hd
 
-#EXTINF:-1,UNIVERSAL CHANNEL *LQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CHANNEL *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29647.ts
 
-#EXTINF:-1,UNIVERSAL CRIME *LQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CRIME *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29599.ts
-#EXTINF:-1,UNIVERSAL CINEMA *LQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CINEMA *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29600.ts
-#EXTINF:-1,UNIVERSAL PREMIERE *LQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL PREMIERE *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29598.ts
 
-#EXTINF:-1,UNIVERSAL CHANNEL *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CHANNEL *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29563.ts
 
-#EXTINF:-1,UNIVERSAL CRIME *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CRIME *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29534.ts
-#EXTINF:-1,UNIVERSAL CINEMA *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CINEMA *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29535.ts
-#EXTINF:-1,UNIVERSAL PREMIERE *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL PREMIERE *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29533.ts
 
-#EXTINF:-1,UNIVERSAL CHANNEL *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CHANNEL *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/816.ts
-#EXTINF:-1,UNIVERSAL CHANNEL MX *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CHANNEL MX *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96019.ts
-#EXTINF:-1,UNIVERSAL CINEMA *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CINEMA *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/785.ts
-#EXTINF:-1,UNIVERSAL CINEMA OESTE *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CINEMA OESTE *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/95803.ts
-#EXTINF:-1,UNIVERSAL COMEDY *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL COMEDY *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/58276.ts
-#EXTINF:-1,UNIVERSAL CRIME *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CRIME *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/784.ts
-#EXTINF:-1,UNIVERSAL PREMIERE *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL PREMIERE *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/788.ts
-#EXTINF:-1,UNIVERSAL PREMIERE OESTE *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL PREMIERE OESTE *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/95806.ts
-#EXTINF:-1,UNIVERSAL REALITY *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL REALITY *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/58289.ts
 
-#EXTINF:-1,UNIVERSAL CHANNEL *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CHANNEL *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/883.ts
-#EXTINF:-1,UNIVERSAL CHANNEL *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CHANNEL *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/853.ts
-#EXTINF:-1,UNIVERSAL CHANNEL MX *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CHANNEL MX *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96020.ts
-#EXTINF:-1,UNIVERSAL CHANNEL MX *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CHANNEL MX *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96021.ts
-#EXTINF:-1,UNIVERSAL CINEMA *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CINEMA *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/936.ts
-#EXTINF:-1,UNIVERSAL CINEMA *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CINEMA *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/873.ts
-#EXTINF:-1,UNIVERSAL CINEMA OESTE *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CINEMA OESTE *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/95802.ts
-#EXTINF:-1,UNIVERSAL CINEMA OESTE *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CINEMA OESTE *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/95801.ts
-#EXTINF:-1,UNIVERSAL COMEDY *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL COMEDY *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/58278.ts
-#EXTINF:-1,UNIVERSAL COMEDY *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL COMEDY *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/58277.ts
-#EXTINF:-1,UNIVERSAL CRIME *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CRIME *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/910.ts
-#EXTINF:-1,UNIVERSAL CRIME *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL CRIME *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/875.ts
-#EXTINF:-1,UNIVERSAL PREMIERE *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL PREMIERE *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/932.ts
-#EXTINF:-1,UNIVERSAL PREMIERE *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL PREMIERE *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/869.ts
-#EXTINF:-1,UNIVERSAL PREMIERE OESTE *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL PREMIERE OESTE *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/95805.ts
-#EXTINF:-1,UNIVERSAL PREMIERE OESTE *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL PREMIERE OESTE *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/95804.ts
-#EXTINF:-1,UNIVERSAL REALITY *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL REALITY *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/58288.ts
-#EXTINF:-1,UNIVERSAL REALITY *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* UNIVERSAL REALITY *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/58290.ts
 
 
@@ -16647,33 +16106,6 @@ https://tvpass.org/live/espn-deportes/hd
 
 
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 USA [FHD]
-http://pfsv.io:80/6181288/27664/316227.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 USA [FHD][H265]
-http://pfsv.io:80/6181288/27664/316230.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 USA [FHD][HDR]
-http://pfsv.io:80/6181288/27664/316231.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 USA [HD]
-http://pfsv.io:80/6181288/27664/316228.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 USA [SD]
-http://pfsv.io:80/6181288/27664/316229.ts
-
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL CHANNEL [FHD]
-http://pfsv.io:80/6181288/27664/290.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL CHANNEL [FHD][H265]
-http://pfsv.io:80/6181288/27664/30230.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL CHANNEL [HD]
-http://pfsv.io:80/6181288/27664/317.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL CHANNEL [SD]
-http://pfsv.io:80/6181288/27664/343.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL CHANNEL [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130202.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL TV [FHD] LEG
-http://pfsv.io:80/6181288/27664/331688.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 UNIVERSAL TV [HD] LEG
-http://pfsv.io:80/6181288/27664/331689.ts
 
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ USA NETWORK FHD (opt1)
@@ -16764,44 +16196,25 @@ http://fortv.cc:8080/Boobear/Boobear/21895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1,WARNER CHANNEL *LQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* WARNER CHANNEL *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29609.ts
 
-#EXTINF:-1,WARNER CHANNEL *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* WARNER CHANNEL *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/764.ts
-#EXTINF:-1,WARNER CHANNEL MX *FHD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* WARNER CHANNEL MX *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96016.ts
 
-#EXTINF:-1,WARNER CHANNEL *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* WARNER CHANNEL *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/949.ts
-#EXTINF:-1,WARNER CHANNEL *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* WARNER CHANNEL *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/852.ts
-#EXTINF:-1,WARNER CHANNEL MX *HD
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* WARNER CHANNEL MX *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96017.ts
-#EXTINF:-1,WARNER CHANNEL MX *HQ
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* WARNER CHANNEL MX *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96018.ts
 
-#EXTINF:-1,WARNER CHANNEL *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* WARNER CHANNEL *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29540.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER CHANNEL [FHD]
-http://pfsv.io:80/6181288/27664/297.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER CHANNEL [FHD][H265]
-http://pfsv.io:80/6181288/27664/30226.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER CHANNEL [HD]
-http://pfsv.io:80/6181288/27664/319.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER CHANNEL [SD]
-http://pfsv.io:80/6181288/27664/345.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 Warner Channel [FHD] LEG
-http://pfsv.io:80/6181288/27664/330669.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER CHANNEL [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130203.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER [HD] LEG
-http://pfsv.io:80/6181288/27664/123516.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷 WARNER [SD] LEG
-http://pfsv.io:80/6181288/27664/123517.ts
 
 
 
@@ -16827,286 +16240,286 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1,🇺🇸* PPV CINEMA 01
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 01
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6077.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 02
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 02
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6076.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 03
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 03
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6075.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 04
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 04
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6074.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 05
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 05
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6073.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 06
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 06
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6072.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 07
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 07
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6071.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 08
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 08
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6070.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 09
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 09
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6069.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 10
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 10
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6068.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 11
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 11
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6067.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 12
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 12
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6066.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 13
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 13
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6065.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 14
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 14
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6064.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 15
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 15
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6063.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 16
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 16
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6062.ts
-#EXTINF:-1,🇺🇸* PPV CINEMA 17
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 17
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6061.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 18
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 18
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6060.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 19
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 19
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6059.ts
-#EXTINF:-1,🇺🇸* PPV CINEMA 20
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 20
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6058.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 21
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 21
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6057.ts
-#EXTINF:-1,🇺🇸* PPV CINEMA 22
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 22
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6056.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 23
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 23
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6055.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 24
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 24
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6054.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 25
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 25
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6053.ts
-#EXTINF:-1,🇺🇸* PPV CINEMA 26
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 26
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6052.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 27
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 27
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6051.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 28
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 28
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6050.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 29
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 29
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6049.ts
-#EXTINF:-1,🇺🇸* PPV CINEMA 30
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 30
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6048.ts
-#EXTINF:-1,🇺🇸* PPV CINEMA 31
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 31
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6047.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 32
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 32
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6046.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 33
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 33
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6045.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 34
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 34
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6044.ts
-#EXTINF:-1,🇪🇸* PPV CINEMA 35
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇪🇸* PPV CINEMA 35
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6043.ts
 
 
 
 
-#EXTINF:-1,USA | Cinema 01 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 01 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25671.ts
-#EXTINF:-1,USA | Cinema 02 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 02 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25670.ts
-#EXTINF:-1,USA | Cinema 03 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 03 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25669.ts
-#EXTINF:-1,USA | Cinema 04 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 04 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25668.ts
-#EXTINF:-1,USA | Cinema 05 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 05 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25667.ts
-#EXTINF:-1,USA | Cinema 06 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 06 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25666.ts
-#EXTINF:-1,USA | Cinema 07 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 07 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25665.ts
-#EXTINF:-1,USA | Cinema 08 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 08 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25664.ts
-#EXTINF:-1,USA | Cinema 09 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 09 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25663.ts
-#EXTINF:-1,USA | Cinema 10 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 10 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25662.ts
-#EXTINF:-1,USA | Cinema 11 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 11 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25661.ts
-#EXTINF:-1,USA | Cinema 12 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 12 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25660.ts
-#EXTINF:-1,USA | Cinema 13 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 13 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25659.ts
-#EXTINF:-1,USA | Cinema 14 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 14 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25658.ts
-#EXTINF:-1,USA | Cinema 15 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 15 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25657.ts
-#EXTINF:-1,USA | Cinema 16 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 16 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25656.ts
-#EXTINF:-1,USA | Cinema 17 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 17 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25655.ts
-#EXTINF:-1,USA | Cinema 18 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 18 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25654.ts
-#EXTINF:-1,USA | Cinema 19 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 19 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25653.ts
-#EXTINF:-1,USA | Cinema 20 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 20 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25652.ts
-#EXTINF:-1,USA | Cinema 21 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 21 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25651.ts
-#EXTINF:-1,USA | Cinema 22 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 22 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25650.ts
-#EXTINF:-1,USA | Cinema 23 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 23 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25649.ts
-#EXTINF:-1,USA | Cinema 24 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 24 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25648.ts
-#EXTINF:-1,USA | Cinema 25 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 25 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25647.ts
-#EXTINF:-1,USA | Cinema 26 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 26 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25646.ts
-#EXTINF:-1,USA | Cinema 27 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 27 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25645.ts
-#EXTINF:-1,USA | Cinema 28 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 28 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25644.ts
-#EXTINF:-1,USA | Cinema 29 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 29 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25643.ts
-#EXTINF:-1,USA | Cinema 30 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 30 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25642.ts
-#EXTINF:-1,USA | Cinema 31 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 31 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25641.ts
-#EXTINF:-1,USA | Cinema 32 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 32 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25640.ts
-#EXTINF:-1,USA | Cinema 33 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 33 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25639.ts
-#EXTINF:-1,USA | Cinema 34 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 34 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25638.ts
-#EXTINF:-1,USA | Cinema 35 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 35 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25637.ts
-#EXTINF:-1,USA | Cinema 36 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 36 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25636.ts
-#EXTINF:-1,USA | Cinema 37 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 37 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25635.ts
-#EXTINF:-1,USA | Cinema 38 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 38 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25634.ts
-#EXTINF:-1,USA | Cinema 39 PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* USA | Cinema 39 PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25633.ts
 
 
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1,24 HORAS | 31 MINUTOS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | 31 MINUTOS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30223.ts
-#EXTINF:-1,24 HORAS | ALF
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | ALF
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23910.ts
-#EXTINF:-1,24 HORAS | BATMAN LA SERIE ANIMADA
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | BATMAN LA SERIE ANIMADA
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23869.ts
-#EXTINF:-1,24 HORAS | BEN 10 
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | BEN 10 
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23908.ts
-#EXTINF:-1,24 HORAS | BOB ESPONJA
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | BOB ESPONJA
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23815.ts
-#EXTINF:-1,24 HORAS | CANDY CANDY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | CANDY CANDY
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25784.ts
-#EXTINF:-1,24 HORAS | CASO CERRADO
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | CASO CERRADO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27612.ts
-#EXTINF:-1,24 HORAS | CHAPULIN COLORADO 
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | CHAPULIN COLORADO 
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23849.ts
-#EXTINF:-1,24 HORAS | CHESPIRITO
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | CHESPIRITO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23818.ts
-#EXTINF:-1,24 HORAS | CORAJE EL PERRO COBARDE
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | CORAJE EL PERRO COBARDE
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23819.ts
-#EXTINF:-1,24 HORAS | DBZ Saga de Babidi y Majin Bu
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | DBZ Saga de Babidi y Majin Bu
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29065.ts
-#EXTINF:-1,24 HORAS | DBZ Saga De Cell
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | DBZ Saga De Cell
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29063.ts
-#EXTINF:-1,24 HORAS | DBZ Saga De Freezer
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | DBZ Saga De Freezer
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28912.ts
-#EXTINF:-1,24 HORAS | DBZ Saga De Garlick Junior
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | DBZ Saga De Garlick Junior
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29040.ts
-#EXTINF:-1,24 HORAS | DBZ Saga de La Fusion y Kid Bu
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | DBZ Saga de La Fusion y Kid Bu
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29066.ts
-#EXTINF:-1,24 HORAS | DBZ Saga De Los Androides
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | DBZ Saga De Los Androides
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29042.ts
-#EXTINF:-1,24 HORAS | DBZ Saga de los Saiyajin
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | DBZ Saga de los Saiyajin
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28560.ts
-#EXTINF:-1,24 HORAS | DBZ Saga De Namekusei
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | DBZ Saga De Namekusei
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28911.ts
-#EXTINF:-1,24 HORAS | DBZ Saga Del Torneo Del Otro Mundo y Saiyaman
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | DBZ Saga Del Torneo Del Otro Mundo y Saiyaman
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29064.ts
-#EXTINF:-1,24 HORAS | DINOSAURIOS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | DINOSAURIOS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23820.ts
-#EXTINF:-1,24 HORAS | EL CHAVO DEL 8 
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | EL CHAVO DEL 8 
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23850.ts
-#EXTINF:-1,24 HORAS | EL PRINCIPE DEL RAP
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | EL PRINCIPE DEL RAP
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23825.ts
-#EXTINF:-1,24 HORAS | FAMILY GUY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | FAMILY GUY
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23844.ts
-#EXTINF:-1,24 HORAS | FIESTAMIX 1
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | FIESTAMIX 1
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28909.ts
-#EXTINF:-1,24 HORAS | FIESTAMIX 2
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | FIESTAMIX 2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28910.ts
-#EXTINF:-1,24 HORAS | FIESTAMIX 3
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | FIESTAMIX 3
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29041.ts
-#EXTINF:-1,24 HORAS | HALCONES GALACTICOS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | HALCONES GALACTICOS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30249.ts
-#EXTINF:-1,24 HORAS | HEY ARNOLD
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | HEY ARNOLD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23823.ts
-#EXTINF:-1,24 HORAS | LOS CABALLEROS DEL SODIACO
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | LOS CABALLEROS DEL SODIACO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23901.ts
-#EXTINF:-1,24 HORAS | LOS PICAPIEDRAS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | LOS PICAPIEDRAS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23828.ts
-#EXTINF:-1,24 HORAS | LOS SIMPSONS 
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | LOS SIMPSONS 
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23829.ts
-#EXTINF:-1,24 HORAS | LOS SUPERSONICOS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | LOS SUPERSONICOS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30248.ts
-#EXTINF:-1,24 HORAS | MI BELLA GENIO 
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | MI BELLA GENIO 
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23898.ts
-#EXTINF:-1,24 HORAS | NARUTO
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | NARUTO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23827.ts
-#EXTINF:-1,24 HORAS | NARUTO SHIPPUDEN
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | NARUTO SHIPPUDEN
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23937.ts
-#EXTINF:-1,24 HORAS | ONE PUNCH MAN
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | ONE PUNCH MAN
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23830.ts
-#EXTINF:-1,24 HORAS | RANMA 1/2
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | RANMA 1/2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23912.ts
-#EXTINF:-1,24 HORAS | MALCOLM
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | MALCOLM
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23900.ts
-#EXTINF:-1,24 HORAS | PAW PATROL
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | PAW PATROL
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30222.ts
-#EXTINF:-1,24 HORAS | PINKY Y CEREBRO
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | PINKY Y CEREBRO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23927.ts
-#EXTINF:-1,24 HORAS | POKEMON
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | POKEMON
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23832.ts
-#EXTINF:-1,24 HORAS | ROBOTECH
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | ROBOTECH
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23867.ts
-#EXTINF:-1,24 HORAS | SAKURA
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | SAKURA
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23847.ts
-#EXTINF:-1,24 HORAS | SAMURAI X
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | SAMURAI X
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23833.ts
-#EXTINF:-1,24 HORAS | SCOOBY DOO
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | SCOOBY DOO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23834.ts
-#EXTINF:-1,24 HORAS | SMALLVILLE
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | SMALLVILLE
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23835.ts
-#EXTINF:-1,24 HORAS | SUPER CAMPEONES
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | SUPER CAMPEONES
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23837.ts
-#EXTINF:-1,24 HORAS | THUNDERCATS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | THUNDERCATS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23863.ts
-#EXTINF:-1,24 HORAS | TOM Y JERRY
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | TOM Y JERRY
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23839.ts
-#EXTINF:-1,24 HORAS | UFC PPV
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UFC PPV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25806.ts
 
-#EXTINF:-1,24 HORAS | UN SHOW MAS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UN SHOW MAS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23938.ts
-#EXTINF:-1,24 HORAS | UNIVERSO AMERICAN PIE
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UNIVERSO AMERICAN PIE
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41047.ts
-#EXTINF:-1,24 HORAS | UNIVERSO DC
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UNIVERSO DC
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23941.ts
-#EXTINF:-1,24 HORAS | UNIVERSO EL CONJURO
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UNIVERSO EL CONJURO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41045.ts
-#EXTINF:-1,24 HORAS | UNIVERSO HARRY POTTER
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UNIVERSO HARRY POTTER
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23947.ts
-#EXTINF:-1,24 HORAS | UNIVERSO MARVEL
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UNIVERSO MARVEL
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23939.ts
-#EXTINF:-1,24 HORAS | UNIVERSO MISION IMPOSIBLE
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UNIVERSO MISION IMPOSIBLE
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41046.ts
-#EXTINF:-1,24 HORAS | UNIVERSO PIXAR
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UNIVERSO PIXAR
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30266.ts
-#EXTINF:-1,24 HORAS | UNIVERSO RAPIDOS Y FURIOSOS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UNIVERSO RAPIDOS Y FURIOSOS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41048.ts
-#EXTINF:-1,24 HORAS | UNIVERSO STAR WARS
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UNIVERSO STAR WARS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41218.ts
-#EXTINF:-1,24 HORAS | UNIVERSO X-MEN
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | UNIVERSO X-MEN
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41080.ts
-#EXTINF:-1,24 HORAS | YU-GI-OH
+#EXTINF:-1 group-title="🇺🇸MOVIES24/7🎦SERIES24/7🇪🇸",🇺🇸* 24 HORAS | YU-GI-OH
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23840.ts
 
 
