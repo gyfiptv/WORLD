@@ -106,12 +106,10 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸 TVᴾᵃˢˢ 🇺🇸  🌐🌎⭐ 02ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",✝️BibleMoviesᵀᵛ²🇺🇸  TVᴾᵃˢˢ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
 
 
 #EXTINF:-1 tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ A&E Eastern (sd)
@@ -288,6 +286,12 @@ https://tvpass.org/live/DisneyJuniorEast/hd
 https://tvpass.org/live/DisneyXDEast/sd
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Disney XD Eastern (hd)
 https://tvpass.org/live/DisneyXDEast/hd
+
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ E! Entertainment East (sd)
+https://tvpass.org/live/EEast/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ E! Entertainment East (hd)
+https://tvpass.org/live/EEast/sd
 
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ ESPN Deportes (sd)
@@ -468,6 +472,16 @@ https://tvpass.org/live/GolfChannel/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Golf Channel USA (hd)
 https://tvpass.org/live/GolfChannel/hd
 
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Hallmark Family | Drama (sd)
+https://tvpass.org/live/HallmarkDrama/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Hallmark Family | Drama (hd)
+https://tvpass.org/live/HallmarkDrama/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Hallmark Movies & Mysteries East (sd)
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Hallmark Movies & Mysteries East (hd)
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ HBO Eastern (sd)
 https://tvpass.org/live/HBOEast/sd
@@ -549,10 +563,6 @@ https://tvpass.org/live/midatlantic-sports-network/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Midatlantic Sports Network (hd)
 https://tvpass.org/live/midatlantic-sports-network/hd
 
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ MLB Network (sd)
-https://tvpass.org/live/MLBNetwork/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ MLB Network (hd)
-https://tvpass.org/live/MLBNetwork/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Monumental Sports Network (sd)
 https://tvpass.org/live/monumental-sports-network/sd
@@ -599,6 +609,37 @@ https://tvpass.org/live/MTVEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ MTV USA Eastern (hd)
 https://tvpass.org/live/MTVEast/hd
 
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ MLB Network (sd)
+https://tvpass.org/live/MLBNetwork/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ MLB Network (hd)
+https://tvpass.org/live/MLBNetwork/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NBA TV (sd)
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NBA TV (hd)
+https://tvpass.org/live/NBATV/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NFL Network (sd)
+https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NFL Network (hd)
+https://tvpass.org/live/NFLNetwork/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NFL RedZone (sd)
+https://tvpass.org/live/NFLRedZone/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NFL RedZone (hd)
+https://tvpass.org/live/NFLRedZone/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NHL Network (sd)
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NHL Network (hd)
+https://tvpass.org/live/NHLNetwork/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NESN | New England Sports Network (sd)
+https://tvpass.org/live/new-england-sports-network/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NESN | New England Sports Network (hd)
+https://tvpass.org/live/new-england-sports-network/hd
+
+
 #EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ National Geographic Eastern (sd)
 https://tvpass.org/live/NationalGeographicEast/sd
 #EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ National Geographic Eastern (hd)
@@ -609,12 +650,6 @@ https://tvpass.org/live/NationalGeographicWildEast/sd
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ National Geographic Wild (hd)
 https://tvpass.org/live/NationalGeographicWildEast/hd
 
-
-
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NBA TV (sd)
-https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NBA TV (hd)
-https://tvpass.org/live/NBATV/hd
 
 #EXTINF:-1 tvg-id="KNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NBC KNBC Los Angeles (sd)
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
@@ -646,30 +681,10 @@ https://tvpass.org/live/nbc-sports-philadelphia/sd
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NBC Sports Philadelphia (hd)
 https://tvpass.org/live/nbc-sports-philadelphia/hd
 
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NESN | New England Sports Network (sd)
-https://tvpass.org/live/new-england-sports-network/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NESN | New England Sports Network (hd)
-https://tvpass.org/live/new-england-sports-network/hd
-
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NewsMax TV (sd)
 https://tvpass.org/live/NewsmaxTV/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NewsMax TV (hd)
 https://tvpass.org/live/NewsmaxTV/hd
-
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NFL Network (sd)
-https://tvpass.org/live/NFLNetwork/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NFL Network (hd)
-https://tvpass.org/live/NFLNetwork/hd
-
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NFL RedZone (sd)
-https://tvpass.org/live/NFLRedZone/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NFL RedZone (hd)
-https://tvpass.org/live/NFLRedZone/hd
-
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NHL Network (sd)
-https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ NHL Network (hd)
-https://tvpass.org/live/NHLNetwork/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Nick Jr East (sd) 
 https://tvpass.org/live/NickJrEast/sd
@@ -806,11 +821,6 @@ https://tvpass.org/live/TeenNickEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TeenNick Eastern (hd)
 https://tvpass.org/live/TeenNickEast/hd
 
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ Telemundo Eastern (sd)
-https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ Telemundo Eastern (hd)
-https://tvpass.org/live/TelemundoEast/hd
-
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ The Cooking Channel (sd) 
 https://tvpass.org/live/CookingChannel/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ The Cooking Channel (hd)
@@ -881,6 +891,11 @@ https://tvpass.org/live/TVOne/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TV One (hd)
 https://tvpass.org/live/TVOne/hd
 
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ Telemundo Eastern (sd)
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ Telemundo Eastern (hd)
+https://tvpass.org/live/TelemundoEast/hd
+
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ Univision Eastern (sd)
 https://tvpass.org/live/UnivisionEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ Univision Eastern (hd)
@@ -905,8 +920,6 @@ https://tvpass.org/live/vice/hd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Yes Network (hd)
 https://tvpass.org/live/yes-network/hd
-
-
 
 
 
@@ -1055,13 +1068,13 @@ https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/univi
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/unimas.network.east.us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ UniMas Network East (opt2)
 https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/unimas.network.east.us.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ UniMas Network East (opt3) x
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ UniMas Network East (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/unimas.network.east.us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ UniMas Network East (opt4)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/unimas.network.east.us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ UniMas Network East (opt5)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/unimas.network.east.us.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ UniMas Network East (opt6) x
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ UniMas Network East (opt6) 
 https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/unimas.network.east.us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ UniMas Network East (opt7) 
 https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/unimas.network.east.us.m3u8
@@ -1070,13 +1083,13 @@ https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/unima
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tudn.mx.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ TUDN MX (opt2)
 https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ TUDN MX (opt3) x
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ TUDN MX (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tudn.mx.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ TUDN MX (opt4)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tudn.mx.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ TUDN MX (opt5)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ TUDN MX (opt6) x
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tudn.mx.m3u8tudn.mx.m3u8
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ TUDN MX (opt6)
 https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/tudn.mx.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ TUDN MX (opt7)
 https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/tudn.mx.m3u8
@@ -1223,6 +1236,10 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/402.ts
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/402.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸* PASIONES (opt3)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/402
+
+
+
+
 
 
 
@@ -8377,63 +8394,93 @@ https://tvpass.org/live/UnivisionEast/sd
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ UNIVISION HD | WNJU-DT1 (1080p)
 https://tvpass.org/live/UnivisionEast/hd
 
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Atlanta
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27592.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Boston
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/357.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Chicago
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/356.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Dallas
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/355.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Denver
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/354.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Fresno
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/353.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Houston
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/351.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28949.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *FHD | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27842.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67649.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67650.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Las Vegas
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/350.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Los Angeles
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/349.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/348.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60698.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Nebraska
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82801.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/347.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York op2
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/348.m3u8
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/348.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/348
+
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/60698.m3u8
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/60698.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60698
+
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Orlando
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/27185.m3u8
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Orlando
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/27185.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Orlando
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27185
+
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/347.m3u8
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/347.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/347
+
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/41774.m3u8
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/41774.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41774.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Oklahoma City
+
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Los Angeles
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/349.m3u8
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Los Angeles
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/349.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Los Angeles
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/349
+
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Atlanta
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27592.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Boston
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/357.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Chicago
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/356.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Dallas
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/355.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Denver
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/354.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Fresno
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/353.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Houston
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/351.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28949.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *FHD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27842.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67649.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67650.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Las Vegas
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/350.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Nebraska
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82801.ts
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Oklahoma City
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82806.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Orlando
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27185.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Philadelphia
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Philadelphia
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/346.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Phoenix
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Phoenix
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/345.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Sacramento
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Sacramento
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82814.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San Antonio
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San Antonio
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/344.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San Diego
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San Diego
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82810.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San francisco
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San francisco
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/343.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Tucson
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Tucson
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/342.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Washington
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Washington
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/19133.ts
-group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Salt Lake City
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Salt Lake City
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97724.ts
 
 
