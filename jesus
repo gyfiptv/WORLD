@@ -846,9 +846,9 @@ https://tvpass.org/live/TNTEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TNT Eastern (hd)
 https://tvpass.org/live/TNTEast/hd
 
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ truTV Eastern (sd)
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/trutv.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ truTV Eastern (sd)
 https://tvpass.org/live/truTVEast/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ truTV Eastern (hd)
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/trutv.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ truTV Eastern (hd)
 https://tvpass.org/live/truTVEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TSN 1 (sd)
