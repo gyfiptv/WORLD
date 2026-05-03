@@ -2936,6 +2936,210 @@ https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/tnt.e
 
 
 
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸 CINEMAX 🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 CINE-MAX 🇺🇸  ⭐🌎 🇺🇸 CINEMAX 🇪🇸 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸 CINEMAX 🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinemax Eastern (sd)
+https://tvpass.org/live/CinemaxEast/sd
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinemax Eastern (hd)
+https://tvpass.org/live/CinemaxEast/hd
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MoreMax Eastern (sd)
+https://tvpass.org/live/MoreMaxEast/sd
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MoreMax Eastern (hd)
+https://tvpass.org/live/MoreMaxEast/hd
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MovieMax (Max 6) East (sd)
+https://tvpass.org/live/MovieMaxEast/sd
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MovieMax (Max 6) East (hd)
+https://tvpass.org/live/MovieMaxEast/hd
+
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinecanal.mx.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINEMAX MX (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/cinemax.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINEMAX MX (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINEMAX MX (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINEMAX MX (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinemax.mx.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX EASTERN US (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX EASTERN US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX EASTERN US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX EASTERN US (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinemax.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | ACTIONMAX US (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/actionmax.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | ACTIONMAX US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/actionmax.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | ACTIONMAX US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/actionmax.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | ACTIONMAX US (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/actionmax.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | MOREMAX US (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/moremax.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | MOREMAX US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/moremax.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | MOREMAX US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/moremax.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | MOREMAX US (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/moremax.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ INDIEPLEX EASTERN US (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/indieplex.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ INDIEPLEX EASTERN US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/indieplex.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ INDIEPLEX EASTERN US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/indieplex.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ INDIEPLEX EASTERN US (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/indieplex.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ RETROPLEX EASTERN US (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/retroplex.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ RETROPLEX EASTERN US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/retroplex.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ RETROPLEX EASTERN US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/retroplex.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ RETROPLEX EASTERN US (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/retroplex.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ MOVIEPLEX EASTERN US (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/movieplex.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ MOVIEPLEX EASTERN US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/movieplex.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ MOVIEPLEX EASTERN US (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/movieplex.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ MOVIEPLEX EASTERN US (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/movieplex.eastern.us.m3u8
+
+
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX (opt1)
+http://mains.best:2086/3003556325/2772007/13560
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX (opt2)
+http://mains.services:2086/4523074511/3178768/13560
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX (opt3)
+http://mains.services:2086/640939802963/IDC01478!/13560
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST (opt1)
+http://mains.best:2086/3003556325/2772007/64136
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST (opt2)
+http://mains.services:2086/4523074511/3178768/64136
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST (opt3)
+http://mains.services:2086/640939802963/IDC01478!/64136
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt1)
+http://mains.services:2086/640939802963/IDC01478!/14944
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt2)
+http://mains.services:2086/4523074511/3178768/14944
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt3)
+http://mains.best:2086/3003556325/2772007/14944
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/92613
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt2) 
+http://mains.services:2086/4523074511/3178768/92613
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt3) 
+http://mains.best:2086/3003556325/2772007/92613
+
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt1)
+http://mains.services:2086/640939802963/IDC01478!/92560
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt2)
+http://mains.services:2086/4523074511/3178768/92560
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt3)
+http://mains.best:2086/3003556325/2772007/92560
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinemax.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt3)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinemax.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD]
+http://pfsv.io:80/6181288/27664/275.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD][H265]
+http://pfsv.io:80/6181288/27664/30215.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [HD]
+http://pfsv.io:80/6181288/27664/303.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [SD]
+http://pfsv.io:80/6181288/27664/328.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD][HDR]
+http://pfsv.io:80/6181288/27664/130188.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD] LEG
+http://pfsv.io:80/6181288/27664/331685.ts
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [HD] LEG
+http://pfsv.io:80/6181288/27664/331686.ts
+
+
+
+#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Classic Cinema | Cinema (240p) 
+https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-logo="https://i.imgur.com/K1W137J.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinevault Westerns | Classic (540p) [Geo-blocked]
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinevault 80s | Cinema (540p) [Geo-blocked]
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ CineLife | Lifestyle
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Made in Hollywood | Cinema
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Maverick Black Cinema | Cinema (1080p)
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SamsungMovieSphere.us" tvg-logo="" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MovieSphere | Cinema (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MyTime Movie Network | Cinema
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸 HBO 🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 HBO 🇺🇸  ⭐🌎 🇺🇸 HBO 🇪🇸 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
@@ -3516,201 +3720,178 @@ http://pfsv.io:80/6181288/27664/330707.ts
 
 
 
+
+
+
+
+
+
+
+
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸 CINEMAX 🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 CINE-MAX 🇺🇸  ⭐🌎 🇺🇸 CINEMAX 🇪🇸 🌎⭐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸 SHOWTIME 🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 SHOWTIME 🇺🇸  ⭐🌎 🇺🇸 SHOWTIME 🇪🇸 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸 CINEMAX 🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸 SHOWTIME 🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinemax Eastern (sd)
-https://tvpass.org/live/CinemaxEast/sd
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinemax Eastern (hd)
-https://tvpass.org/live/CinemaxEast/hd
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ Showtime Eastern (sd)
+https://tvpass.org/live/ShowtimeEast/sd
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ Showtime Eastern (hd)
+https://tvpass.org/live/ShowtimeEast/hd
 
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MoreMax Eastern (sd)
-https://tvpass.org/live/MoreMaxEast/sd
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MoreMax Eastern (hd)
-https://tvpass.org/live/MoreMaxEast/hd
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MovieMax (Max 6) East (sd)
-https://tvpass.org/live/MovieMaxEast/sd
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MovieMax (Max 6) East (hd)
-https://tvpass.org/live/MovieMaxEast/hd
-
-
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/cinecanal.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinecanal.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinecanal.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINECANAL MX (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinecanal.mx.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINEMAX MX (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/cinemax.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINEMAX MX (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINEMAX MX (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸⚽ CINEMAX MX (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinemax.mx.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX EASTERN US (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/cinemax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX EASTERN US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX EASTERN US (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX EASTERN US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinemax.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | ACTIONMAX US (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/actionmax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | ACTIONMAX US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/actionmax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | ACTIONMAX US (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/actionmax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | ACTIONMAX US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/actionmax.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | MOREMAX US (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/moremax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | MOREMAX US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/moremax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | MOREMAX US (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/moremax.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ CINEMAX | MOREMAX US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/moremax.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ INDIEPLEX EASTERN US (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/indieplex.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ INDIEPLEX EASTERN US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/indieplex.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ INDIEPLEX EASTERN US (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/indieplex.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ INDIEPLEX EASTERN US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/indieplex.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ RETROPLEX EASTERN US (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/retroplex.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ RETROPLEX EASTERN US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/retroplex.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ RETROPLEX EASTERN US (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/retroplex.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ RETROPLEX EASTERN US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/retroplex.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ MOVIEPLEX EASTERN US (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/movieplex.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ MOVIEPLEX EASTERN US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/movieplex.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ MOVIEPLEX EASTERN US (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/movieplex.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸⚽ MOVIEPLEX EASTERN US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/movieplex.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ Showtime 2 Eastern (sd)
+https://tvpass.org/live/Showtime2East/sd
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ Showtime 2 Eastern (hd)
+https://tvpass.org/live/Showtime2East/hd
 
 
 
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX (opt1)
-http://mains.best:2086/3003556325/2772007/13560
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX (opt2)
-http://mains.services:2086/4523074511/3178768/13560
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX (opt3)
-http://mains.services:2086/640939802963/IDC01478!/13560
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EXTREME | PBC PAY-PER-VIEW (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EXTREME | PBC PAY-PER-VIEW (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EXTREME | PBC PAY-PER-VIEW (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EXTREME | PBC PAY-PER-VIEW (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.extreme.eastern.us.m3u8
 
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST (opt1)
-http://mains.best:2086/3003556325/2772007/64136
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST (opt2)
-http://mains.services:2086/4523074511/3178768/64136
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☆ CINEMAX EAST (opt3)
-http://mains.services:2086/640939802963/IDC01478!/64136
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EAST (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EAST (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EAST (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EAST (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.eastern.us.m3u8
 
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt1)
-http://mains.services:2086/640939802963/IDC01478!/14944
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt2)
-http://mains.services:2086/4523074511/3178768/14944
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX MOREMAX ES (opt3)
-http://mains.best:2086/3003556325/2772007/14944
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/92613
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt2) 
-http://mains.services:2086/4523074511/3178768/92613
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☆ CINEMAX : LATINO (opt3) 
-http://mains.best:2086/3003556325/2772007/92613
-
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt1)
-http://mains.services:2086/640939802963/IDC01478!/92560
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt2)
-http://mains.services:2086/4523074511/3178768/92560
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt3)
-http://mains.best:2086/3003556325/2772007/92560
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinemax.br.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt3)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cinemax.br.m3u8
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷⚽ CINEMAX BR (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinemax.br.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD]
-http://pfsv.io:80/6181288/27664/275.ts
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD][H265]
-http://pfsv.io:80/6181288/27664/30215.ts
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [HD]
-http://pfsv.io:80/6181288/27664/303.ts
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [SD]
-http://pfsv.io:80/6181288/27664/328.ts
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD][HDR]
-http://pfsv.io:80/6181288/27664/130188.ts
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [FHD] LEG
-http://pfsv.io:80/6181288/27664/331685.ts
-#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷 CINEMAX [HD] LEG
-http://pfsv.io:80/6181288/27664/331686.ts
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WEST (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WEST (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WEST (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.west.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WEST (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.west.us.m3u8
 
 
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME 2 US (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME 2 US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME 2 US (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.2.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME 2 US (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.2.eastern.us.m3u8
 
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME FAMILY ZONE US (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.family.zone.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME FAMILY ZONE US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.family.zone.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME FAMILY ZONE US (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.family.zone.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME FAMILY ZONE US (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.family.zone.eastern.us.m3u8
 
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME NEXT US (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.next.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME NEXT US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.next.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME NEXT US (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.next.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME NEXT US (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.next.eastern.us.m3u8
 
-#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Classic Cinema | Cinema (240p) 
-https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
-#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-logo="https://i.imgur.com/K1W137J.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinevault Westerns | Classic (540p) [Geo-blocked]
-https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinevault 80s | Cinema (540p) [Geo-blocked]
-https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ CineLife | Lifestyle
-https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Made in Hollywood | Cinema
-https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Maverick Black Cinema | Cinema (1080p)
-https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SamsungMovieSphere.us" tvg-logo="" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MovieSphere | Cinema (1080p)
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MyTime Movie Network | Cinema
-https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME SHOWCASE US (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.showcase.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME SHOWCASE US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.showcase.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME SHOWCASE US (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.showcase.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME SHOWCASE US (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.showcase.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WOMEN US (opt1)
+https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.women.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WOMEN US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.women.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WOMEN US (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.women.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WOMEN US (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.women.eastern.us.m3u8
 
 
 
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME LATINO (opt1)
+http://mains.services:2086/640939802963/IDC01478!/92537
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME LATINO (opt2)
+http://mains.services:2086/4523074511/3178768/92537
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME LATINO (opt3)
+http://mains.best:2086/3003556325/2772007/92537
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt1)
+http://mains.services:2086/640939802963/IDC01478!/92535
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt2)
+http://mains.services:2086/4523074511/3178768/92535
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt3)
+http://mains.best:2086/3003556325/2772007/92535
 
 
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHO X BET (opt1)
+http://mains.services:2086/640939802963/IDC01478!/1603
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHO X BET (opt2)
+http://mains.services:2086/4523074511/3178768/1603
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME  NEXT (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56137
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME  NEXT (opt2)
+http://mains.services:2086/4523074511/3178768/56137
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/331
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 (opt2)
+http://mains.services:2086/4523074511/3178768/331
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64040
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 FHD (opt2)
+http://mains.services:2086/4523074511/3178768/64040
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST (opt1)
+http://mains.services:2086/640939802963/IDC01478!/332
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST (opt2)
+http://mains.services:2086/4523074511/3178768/332
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64043
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST FHD (opt2)
+http://mains.services:2086/4523074511/3178768/64043
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EXTREME (opt1)
+http://mains.services:2086/640939802963/IDC01478!/8843
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EXTREME (opt2)
+http://mains.services:2086/4523074511/3178768/8843
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56136
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt2)
+http://mains.services:2086/4523074511/3178768/56136
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64041
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FHD (opt2)
+http://mains.services:2086/4523074511/3178768/64041
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE (opt1)
+http://mains.services:2086/640939802963/IDC01478!/1604
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE (opt2)
+http://mains.services:2086/4523074511/3178768/1604
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64171
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE FHD (opt2)
+http://mains.services:2086/4523074511/3178768/64171
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST (opt1)
+http://mains.services:2086/640939802963/IDC01478!/8842
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST (opt2)
+http://mains.services:2086/4523074511/3178768/8842
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64042
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST FHD (opt2)
+http://mains.services:2086/4523074511/3178768/64042
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55613
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt2)
+http://mains.services:2086/4523074511/3178768/55613
 
 
 
@@ -3969,182 +4150,6 @@ http://mains.best:2086/3003556325/2772007/64048
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸 SHOWTIME 🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 SHOWTIME 🇺🇸  ⭐🌎 🇺🇸 SHOWTIME 🇪🇸 🌎⭐
-https://streamer1.nexgen.bz/TBN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸 SHOWTIME 🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ Showtime Eastern (sd)
-https://tvpass.org/live/ShowtimeEast/sd
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ Showtime Eastern (hd)
-https://tvpass.org/live/ShowtimeEast/hd
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ Showtime 2 Eastern (sd)
-https://tvpass.org/live/Showtime2East/sd
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ Showtime 2 Eastern (hd)
-https://tvpass.org/live/Showtime2East/hd
-
-
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EXTREME | PBC PAY-PER-VIEW (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EXTREME | PBC PAY-PER-VIEW (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EXTREME | PBC PAY-PER-VIEW (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EXTREME | PBC PAY-PER-VIEW (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.extreme.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EAST (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EAST (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EAST (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME EAST (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WEST (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.west.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WEST (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.west.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WEST (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.west.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WEST (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.west.us.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME 2 US (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.2.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME 2 US (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.2.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME 2 US (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.2.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME 2 US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.2.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME FAMILY ZONE US (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.family.zone.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME FAMILY ZONE US (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.family.zone.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME FAMILY ZONE US (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.family.zone.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME FAMILY ZONE US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.family.zone.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME NEXT US (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.next.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME NEXT US (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.next.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME NEXT US (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.next.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME NEXT US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.next.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME SHOWCASE US (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.showcase.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME SHOWCASE US (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.showcase.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME SHOWCASE US (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.showcase.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME SHOWCASE US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.showcase.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WOMEN US (opt1)
-https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/showtime.women.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WOMEN US (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/showtime.women.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WOMEN US (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/showtime.women.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸⚽ SHOWTIME WOMEN US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/showtime.women.eastern.us.m3u8
-
-
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME LATINO (opt1)
-http://mains.services:2086/640939802963/IDC01478!/92537
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME LATINO (opt2)
-http://mains.services:2086/4523074511/3178768/92537
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME LATINO (opt3)
-http://mains.best:2086/3003556325/2772007/92537
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt1)
-http://mains.services:2086/640939802963/IDC01478!/92535
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt2)
-http://mains.services:2086/4523074511/3178768/92535
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt3)
-http://mains.best:2086/3003556325/2772007/92535
-
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHO X BET (opt1)
-http://mains.services:2086/640939802963/IDC01478!/1603
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHO X BET (opt2)
-http://mains.services:2086/4523074511/3178768/1603
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME  NEXT (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56137
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME  NEXT (opt2)
-http://mains.services:2086/4523074511/3178768/56137
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/331
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 (opt2)
-http://mains.services:2086/4523074511/3178768/331
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 FHD (opt1)
-http://mains.services:2086/640939802963/IDC01478!/64040
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64040
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST (opt1)
-http://mains.services:2086/640939802963/IDC01478!/332
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST (opt2)
-http://mains.services:2086/4523074511/3178768/332
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST FHD (opt1)
-http://mains.services:2086/640939802963/IDC01478!/64043
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64043
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EXTREME (opt1)
-http://mains.services:2086/640939802963/IDC01478!/8843
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EXTREME (opt2)
-http://mains.services:2086/4523074511/3178768/8843
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56136
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt2)
-http://mains.services:2086/4523074511/3178768/56136
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FHD (opt1)
-http://mains.services:2086/640939802963/IDC01478!/64041
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64041
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE (opt1)
-http://mains.services:2086/640939802963/IDC01478!/1604
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE (opt2)
-http://mains.services:2086/4523074511/3178768/1604
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE FHD (opt1)
-http://mains.services:2086/640939802963/IDC01478!/64171
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64171
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST (opt1)
-http://mains.services:2086/640939802963/IDC01478!/8842
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST (opt2)
-http://mains.services:2086/4523074511/3178768/8842
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST FHD (opt1)
-http://mains.services:2086/640939802963/IDC01478!/64042
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64042
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt1)
-http://mains.services:2086/640939802963/IDC01478!/55613
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt2)
-http://mains.services:2086/4523074511/3178768/55613
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -4167,9 +4172,9 @@ https://tvpass.org/live/AnimalPlanetEast/sd
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Animal Planet East (hd)
 https://tvpass.org/live/AnimalPlanetEast/hd
 
-#EXTINF:-1,ANIMAL PLANET *LQ
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* ANIMAL PLANET *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29616.ts
-#EXTINF:-1,ANIMAL PLANET *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* ANIMAL PLANET *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29547.ts
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* ANIMAL PLANET *FHD
@@ -7056,12 +7061,21 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
+
+#EXTINF:-1 tvg-id="TomAndJerry.us@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.us@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/index.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.us@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/mono.m3u8
+
+#EXTINF:-1 tvg-id="ToonamiAftermath.us@East" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Toonami Aftermath East | Animation (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ31 KIDS Baby
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
-#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Toon Goggles | Kids (720p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
-#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Toon Goggles | Kids (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ33 KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ34 KIDS TG
@@ -7070,8 +7084,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ36 KIDS 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ37 KIDS
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ37 Toon Goggles (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ37 Toon Goggles (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ38 Games Arcade
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=38
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ39 Games Arcade
@@ -7218,17 +7234,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2360
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ2361 KIDS TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2361
 
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸ⓕ2364 KIDS ZAZ TV Geek
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2364 KIDS ZAZ TV Geek
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2364
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ2365 KIDS Sonic
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2365 KIDS ZAZ TV Geek
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2365
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸ⓕ2366 KIDS Sonic
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2366 KIDS SONIC TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2366
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ2367 KIDS TV
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2367 KIDS SONIC TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2367
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸ⓕ2368 KIDS TV
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2368 KIDS TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2368
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸ⓕ2369 KIDS SPACE TV
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2369 KIDS SPACE TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
 
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸ⓕ2376 KIDS TV
@@ -7241,7 +7257,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2492
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ2494 KIDS BABY TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2494
 
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ2541 KIDS TV 
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ2541 KIDS TOONS TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2541
 
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸ⓕ2586 TV Kids | 
@@ -7298,34 +7314,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12138
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸ⓕ12139 TV |KIDS (opt1)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12139
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱᴺᴸᴬᶜᴱ ᵀᵛ✝   🇪🇸 KIDS 🇪🇸  🌐🌎 🇺🇸🧒KIDS📺ɪᴘᴛv👧🇪🇸 🌍🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ✝    ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2364 KIDS ZAZ TV Geek
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2364
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2365 KIDS ZAZ TV Geek
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2365
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2366 KIDS SONIC TV (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2366
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2367 KIDS SONIC TV (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2367
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2368 KIDS TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2368
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸 2369 KIDS SPACE TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2491 KIDS TOONS | EN (opt1) 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2491
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2492 KIDS GAME | EN (opt1) 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2492
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2494 KIDS TV | EN (opt1) 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2494
-
-#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸 2541 KIDS TOONS | EN (opt1) 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2541
 
 
 
@@ -7513,6 +7501,15 @@ https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/pop.uk.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🧒KIDS👧🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬ ᵀᵛ✝    ⭐🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻⭐
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TomAndJerry.us@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.us@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/index.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.us@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/mono.m3u8
+
+
 
 #EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇺🇸☑ TeenNick Eastern (sd) 
 https://tvpass.org/live/TeenNickEast/sd
