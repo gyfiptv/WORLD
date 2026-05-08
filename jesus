@@ -1484,7 +1484,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="La2Canarias.es" tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ La 2 Canarias | Documentary (720p)
 https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="📺IPTVworld🌐",🇪🇸☑ La 2 Catalunya | Documentary (720p)
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ La 2 Catalunya | Documentary (720p)
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ La 1 (720p)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -1502,7 +1502,7 @@ https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 #EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Aragón TV INT. (720p) [Not 24/7]
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="📺IPTVworld🌐",🇪🇸☑ Activa TV ES (Music)
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Activa TV ES (Music)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ CGTN Español | News (1080p)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
@@ -1511,10 +1511,10 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ MyTime Movie Network Spain | Movies
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="Deportivos" tvg-name="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Real Madrid TV
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="Deportivos" tvg-name="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Real Madrid TV EN
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Real Madrid TV EN
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Señal Perú TV (404p) [Not 24/7]
 https://livestream.perucast.com/hls/stream.m3u8
