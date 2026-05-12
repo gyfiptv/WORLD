@@ -1241,7 +1241,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/402
 
 
 
-
 #EXTM3U
 #EXTINF:-1 tvg-name="📺KlowdTV🌐world🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺KlowdTV🌐world🇺🇸", ##########  ♥ GROUP 01 📺KlowdTV🌐world🇺🇸 ♥  ##########
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -1290,7 +1289,10 @@ https://bozztv.com/gusa/gusa-camerasmile/playlist.m3u8
 #EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Camera Smile | Comedy
 https://bozztv.com/gusa/gusa-camerasmile/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Chef Champion | Cooking
+https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vhVnAzE.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Chef Roc Show | Cooking
+https://bozztv.com/gusa/gusa-chefrock/index.m3u8
 
 #EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
@@ -1587,12 +1589,48 @@ http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵀᵛ 🇺🇸  🌐🌎⭐ 04ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ CDN Deportes (720p)
+#EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ WKAQ-DT1 (Telemundo PR) (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ WKAQ-DT2 (Telemundo PR) PUNTO 2 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ WKAQ-DT1 (Telemundo PR) (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ WKAQ-DT2 (Telemundo PR Punto 2) (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="https://i.imgur.com/MGJaxFO.png" group-title="📺KlowdTV🌐world🇺🇸",🇵🇷☑ WIPR (1080p)
+https://cprdp.pr/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="https://i.imgur.com/MGJaxFO.png" group-title="📺KlowdTV🌐world🇺🇸",🇵🇷☑ WIPR (1080p)
+https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
+
+
+#EXTINF:-1 tvg-id="WWXYDT1.pr" tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="📺KlowdTV🌐world🇺🇸",🇵🇷☑ BORICUA TV | WWXY-DT1 (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
+#EXTINF:-1 tvg-id="WWXYDT1.pr" tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="📺KlowdTV🌐world🇺🇸",🇵🇷☑ BORICUA TV | WWXY-DT1 (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="WRUADT1.pr" tvg-logo="https://i.imgur.com/YtTlZq3.png" group-title="📺KlowdTV🌐world🇺🇸",🇵🇷☑ TIVA TV | WRUA-DT1 | E! (720p)
+https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
+
+#EXTINF:-1 tvg-id="WWXYDT3.pr" tvg-logo="https://i.imgur.com/lAhIGsI.png" group-title="📺KlowdTV🌐world🇺🇸",🇵🇷☑ MARANATHA | WWXY-DT3 (Maranatha Radio Ministries) | Religious (720p) [Not 24/7]
+https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
+
+#EXTINF:-1 tvg-id="WXWZLD1.pr" tvg-logo="https://i.imgur.com/rjmGc9p.png" group-title="📺KlowdTV🌐world🇺🇸",🇵🇷☑ MAS TV Canal 23 | WXWZ-LD1 (720p)
+https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="📺KlowdTV🌐world🇺🇸",🇵🇷☑ CDN Deportes (720p)
 http://200.125.170.122:8000/play/a03j/index.m3u8
 
 
@@ -1604,7 +1642,6 @@ https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Filmex Clásico MX | | Movies (1080p)
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ MEXIQUENSE AMX Noticias | News (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Estrella TV | E! (1080p)
@@ -1612,9 +1649,9 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ ✝Extrema TV (720p)
 https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ExtremaTV.us" tvg-logo="https://i.imgur.com/Z1QVkqu.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ ✝Extrema TV (720p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Canal 24 Horas | News (720p)
@@ -1650,9 +1687,9 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Real Madrid TV EN
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Señal Perú TV (404p) [Not 24/7]
 https://livestream.perucast.com/hls/stream.m3u8
 
@@ -1663,8 +1700,8 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="NuevoMundoTV.gt" tvg-logo="https://i.imgur.com/j3OGO3V.png" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Nuevo Mundo TV | News (720p)
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
 
 
 
@@ -1912,8 +1949,8 @@ https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ywAN923.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Stingray The Spa | Music
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
-
-
+#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Music4 TV Granada 
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
 
 
 
