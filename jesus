@@ -1490,14 +1490,45 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ A&E
+http://41.205.93.154/AandE/index.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AMC
+http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ABC
 http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ANIMAL PLANET
+http://41.205.93.154/ANIMALPLANET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ BET
+http://41.205.93.154/BET/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ BRAVO
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ BLOOMBERG
+http://41.205.93.154/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ BOOMERANG
+http://41.205.93.154/BOOMERANG/index.m3u8
+
+#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ CNBC WORLD (opt2)
+http://41.205.93.154/CNBC/index.m3u8
 
 #EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ DISCOVERY CHANNEL (opt1)
 http://41.205.93.154/DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Fox Business
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ESPNU
+http://41.205.93.154/ESPNU/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ESPN NEWS 
+http://41.205.93.154/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ FOX BUSINESS Prime
 http://41.205.93.154/FOXBUSINESS/index.m3u8
+
+#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ LIFETIME
+http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ LMN | LIFETIME MOVIE NETWORK
+http://41.205.93.154/LMN/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ MSNBC
 http://41.205.93.154/MSNBC/index.m3u8
@@ -1510,6 +1541,20 @@ http://41.205.93.154/MSNBC/mono.m3u8
 http://41.205.93.154/MSNBC/index.mpd
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ MSNBC
 http://41.205.93.154/MSNBC/playlist.mpd
+
+#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ NBC
+http://41.205.93.154/NBC/index.m3u8
+
+#EXTINF:-1,group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ SCIFY CINE
+http://41.205.93.154/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ TBS
+http://41.205.93.154/TBS/index.m3u8
+#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ TLC 
+http://41.205.93.154/TLC/index.m3u8
+#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ TMC 
+http://41.205.93.154/TMC/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ NBC 6 South FL
