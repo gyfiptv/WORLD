@@ -8126,10 +8126,6 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ HGTV East (sd)
-https://tvpass.org/live/HGTVEast/sd
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ HGTV East (hd)
-https://tvpass.org/live/HGTVEast/hd
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ History Channel East (sd)
 https://tvpass.org/live/HistoryEast/sd
@@ -8141,41 +8137,92 @@ https://tvpass.org/live/HLN/sd
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ HLN (hd)
 https://tvpass.org/live/HLN/hd
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ HGTV East (sd)
+https://tvpass.org/live/HGTVEast/sd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ HGTV East (hd)
+https://tvpass.org/live/HGTVEast/hd
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/40084.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/40084.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40084
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/40085.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/40085.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40085
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/40086.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/40086.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40086
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/100223.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/100223.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100223
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/100224.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/100224.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100224
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/100225.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/100225.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100225
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/81106.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/81106.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/81106
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/81104.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/81104.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/81104
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/81105.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/81105.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/81105
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOLA TV *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/967.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOLA TV *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/67648.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOLA TV *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/992
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOLA TV *LQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29660.ts
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/29660.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOLA TV *LQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/29660.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOLA TV *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29660
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HISTORY *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29612.ts
-
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HISTORY *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29543.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 *LQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29631.ts
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1036.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* ,H2 *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/985.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1009.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 MX *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100220.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 MX *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100221.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 MX *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100222.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40084.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40085.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40086.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100223.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100224.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HGTV MX *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100225.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HISTORY *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/968.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HISTORY *HD
@@ -8188,18 +8235,22 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100227.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100226.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HISTORY MX *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100228.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/81106.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/81104.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOGAR HGTV *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/81105.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOLA TV *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/967.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOLA TV *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67648.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* HOLA TV *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/992.ts
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29631.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1036.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* ,H2 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/985.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1009.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 MX *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100220.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 MX *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100221.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* H2 MX *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100222.ts
+
 
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7443 HGTV (opt1)
@@ -8537,11 +8588,25 @@ https://tvpass.org/live/Motortrend/hd
 
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MAS CHIC *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45256.ts
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/45256.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MAS CHIC *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/45256.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MAS CHIC *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45256
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MAS CHIC *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28432.ts
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/28432.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MAS CHIC *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/28432.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MAS CHIC *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28432
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MAS CHIC *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28433.ts
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/28433.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MAS CHIC *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/28433.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* MAS CHIC *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28433
 
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7528 MEGA | DOC (opt1)
@@ -8857,9 +8922,9 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7527.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7527 NOVA | DOC (opt3)
 http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7527
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ⚽ NAT GEO UK (opt1)
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ⚽ NAT GEO UK (opt1) x
 https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/nat.geo.uk.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ⚽ NAT GEO UK (opt2)
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ⚽ NAT GEO UK (opt2) x
 https://tvnow.best/api/stream/dgolfnut44@ca.rr.com/500232/livetv.epg/nat.geo.uk.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ⚽ NAT GEO UK (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nat.geo.uk.m3u8
