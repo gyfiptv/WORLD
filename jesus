@@ -25,9 +25,14 @@ https://tvpass.org/live/UnivisionEast/hd
 
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ TELEMUNDO hd
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ TELEMUNDO sd
+http://190.11.225.124:5000/live/universo_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ NBC UNIVERSO hd
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ UNIVERSAL TV hd
+http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -126,6 +131,13 @@ https://tvpass.org/live/AMCEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ AMC Eastern (hd)
 https://tvpass.org/live/AMCEast/hd
 
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᵛᶦᵖ AMC hd
+http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ AXN hd
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᵛᶦᵖ ABC miami hd
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ ABC KABC Los Angeles (sd)
 https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="KABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ ABC KABC Los Angeles (hd)
@@ -155,6 +167,11 @@ https://tvpass.org/live/AmericanHeroesChannel/hd
 https://tvpass.org/live/AnimalPlanetEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Animal Planet East (hd)
 https://tvpass.org/live/AnimalPlanetEast/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᵛᶦᵖ ANIMAL PLANET Discovery hd
+http://190.11.225.124:5000/live/animal_planet_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᵛᶦᵖ ANIMAL PLANET Discovery sd
+http://190.11.225.124:5000/live/animal_planet_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ BBC America East (sd)
 https://tvpass.org/live/BBCAmericaEast/sd
@@ -204,6 +221,9 @@ https://tvpass.org/live/CSPAN2/sd
 #EXTINF:-1 tvg-id="CSPAN2.us" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ C-SPAN 2 (hd)
 https://tvpass.org/live/CSPAN2/hd
 
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᵛᶦᵖ CBS hd
+http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ CBS KCBS Los Angeles (sd)
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ CBS KCBS Los Angeles (hd)
@@ -233,6 +253,9 @@ https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
 https://tvpass.org/live/CinemaxEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Cinemax Eastern (hd)
 https://tvpass.org/live/CinemaxEast/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ CINE CANAL hd
+http://190.11.225.124:5000/live/cine_canal_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S7DOpdY.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ CMT Eastern (sd)
 https://tvpass.org/live/CMTEast/sd
@@ -274,6 +297,18 @@ https://tvpass.org/live/DestinationAmerica/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Destination America (hd)
 https://tvpass.org/live/DestinationAmerica/hd
 
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ DISTRITO COMEDIA hd
+http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ DHE hd
+http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ DISCOVERY CHANNEL hd
+http://190.11.225.124:5000/live/discovery_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ DISCOVERY WORLD hd
+http://190.11.225.124:5000/live/discovery_world_hd/playlist.m3u8
+
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Discovery Channel Eastern (sd)
 https://tvpass.org/live/DiscoveryChannelEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Discovery Channel Eastern (hd)
@@ -293,6 +328,12 @@ https://tvpass.org/live/DiscoveryLife/hd
 https://tvpass.org/live/DisneyChannelEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Disney Channel Eastern (hd)
 https://tvpass.org/live/DisneyChannelEast/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ DISNEY CHANNEL hd
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ DISNEY JR hd
+http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Disney Junior Eastern (sd)
 https://tvpass.org/live/DisneyJuniorEast/sd
@@ -452,16 +493,21 @@ https://tvpass.org/live/FoodNetworkEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Food Network East (hd)
 https://tvpass.org/live/FoodNetworkEast/hd
 
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Freeform East (sd)
-https://tvpass.org/live/FreeformEast/sd
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Freeform East (hd)
-https://tvpass.org/live/FreeformEast/hd
-
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ FUSE TV East (sd)
 https://tvpass.org/live/FuseEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ FUSE TV East (hd)
 https://tvpass.org/live/FuseEast/hd
 
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Freeform East (sd)
+https://tvpass.org/live/FreeformEast/sd
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Freeform East (hd)
+https://tvpass.org/live/FreeformEast/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ FREEFORM hd
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ FX hd
+http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ FXM Movie Channel (sd)
 https://tvpass.org/live/FXMovieChannel/sd
@@ -496,6 +542,12 @@ https://tvpass.org/live/GolfChannel/hd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᵛᶦᵖ GOLF Channel USA
 http://23.237.104.106:8080/USA_GOLF/index.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ GOLDEN EDGE hd
+http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ HALLMARK hd
+http://190.11.225.124:5000/live/hallmark_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Hallmark Family | Drama (sd)
 https://tvpass.org/live/HallmarkDrama/sd
@@ -538,15 +590,30 @@ https://tvpass.org/live/HBOZoneEast/sd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ HBO Zone East (hd)
 https://tvpass.org/live/HBOZoneEast/hd
 
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ HGTV East (sd)
-https://tvpass.org/live/HGTVEast/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ HGTV East (hd)
-https://tvpass.org/live/HGTVEast/hd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ HBO XTREME hd
+http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ HBO FAMILY hd
+http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ HBO+ PLUS hd
+http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ HBO SIGNATURE hd
+http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ HISTORY hd
+http://190.11.225.124:5000/live/history_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ History Channel East (sd)
 https://tvpass.org/live/HistoryEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ History Channel East (hd)
 https://tvpass.org/live/HistoryEast/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ HGTV East (sd)
+https://tvpass.org/live/HGTVEast/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ HGTV East (hd)
+https://tvpass.org/live/HGTVEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ HLN (sd)
 https://tvpass.org/live/HLN/sd
@@ -753,6 +820,10 @@ https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-logo="https://i.imgur.com/U9CYaok.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ PBS Antiques Roadshow | Series
 https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ PARAMOUNT hd
+http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
+
+
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ ReelzChannel (sd) 
 https://tvpass.org/live/Reelz/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ ReelzChannel (hd)
@@ -823,6 +894,9 @@ https://tvpass.org/live/sportsnet-west/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Sportsnet West (hd)
 https://tvpass.org/live/sportsnet-west/hd
 
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ SONY CHANNEL hd
+http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
+
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ SundanceTV East (sd)
 https://tvpass.org/live/SundanceTVEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ SundanceTV East (hd)
@@ -847,6 +921,35 @@ https://tvpass.org/live/Showtime2East/hd
 https://tvpass.org/live/StarzEast/sd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Starz Eastern (hd)
 https://tvpass.org/live/StarzEast/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ SHOWTIME hd
+http://190.11.225.124:5000/live/showtime_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ STARZ hd
+http://190.11.225.124:5000/live/starz_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ SPACE hd
+http://190.11.225.124:5000/live/space_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ SONY CHANNEL hd
+http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ TELEMUNDO hd
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ TELEMUNDO sd
+http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ TNT hd
+http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ USA NETWORK hd
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ NBC UNIVERSO West hd
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ UNIVERSAL TV hd
+http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ TeenNick Eastern (sd) 
 https://tvpass.org/live/TeenNickEast/sd
@@ -960,6 +1063,9 @@ https://tvpass.org/live/VH1East/hd
 https://tvpass.org/live/vice/hd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ VICE (hd)
 https://tvpass.org/live/vice/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ WARNER CHANNEL hd
+http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Yes Network (sd)
 https://tvpass.org/live/yes-network/sd
