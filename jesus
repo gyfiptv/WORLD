@@ -8,6 +8,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  TVᴾᵃˢˢ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ ESPN Deportes (sd)
 https://tvpass.org/live/espn-deportes/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ ESPN Deportes (hd)
@@ -1596,23 +1597,6 @@ https://bozztv.com/1gbw5/tintv2/tintv2/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Sony Movies (Sony Movie Channel)
-http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8 
-#EXTINF:-1 tvg-id="AWE.us" tvg-country="US" tvg-language="English" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/awe/wp-content/uploads/2015/09/AWELogoBlk.jpg" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AWE (720p)
-http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wj9GYfu.jpeg" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Legend Films | movies
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/legendfilms_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Always Funny Videos | Comedy
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="PopTV.us" tvg-logo="https://i.imgur.com/XySNnh0.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Pop TV | E! (720p) [Not 24/7]
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/pop_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Cine Sony | Movies (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺KlowdTV🌐world🇺🇸",🇪🇸☑ Zapping Music
-https://zapping.04.cl.cdnz.cl/zappingtvmusic/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
-
 
 
 
@@ -2083,6 +2067,7 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Vzwqts.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Pursuit Up | Sports
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PBS.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/NJ_PBS_logo.png/512px-NJ_PBS_logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ PBS National East | Education
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ World Channel pbs | Education (1080p)
