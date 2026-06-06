@@ -12,21 +12,6 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ Love Nature en Espanol (1080p)
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ ESPN Deportes (sd)
-https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ ESPN Deportes (hd)
-https://tvpass.org/live/espn-deportes/hd
-
-#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ UNIVISION Eastern (sd)
-https://tvpass.org/live/UnivisionEast/sd
-#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ UNIVISION Eastern (hd)
-https://tvpass.org/live/UnivisionEast/hd
-
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ TELEMUNDO Eastern (sd)
-https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ TELEMUNDO Eastern (hd)
-https://tvpass.org/live/TelemundoEast/hd
-
 
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᵛᶦᵖ TELEMUNDO hd
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
@@ -125,6 +110,24 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.mpd
 
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ ESPN Deportes (sd)
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ ESPN Deportes (hd)
+https://tvpass.org/live/espn-deportes/hd
+
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ UNIVISION Eastern (sd)
+https://tvpass.org/live/UnivisionEast/sd
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ UNIVISION Eastern (hd)
+https://tvpass.org/live/UnivisionEast/hd
+
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ TELEMUNDO Eastern (sd)
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ TELEMUNDO Eastern (hd)
+https://tvpass.org/live/TelemundoEast/hd
+
 
 
 
@@ -3424,30 +3427,6 @@ https://circle-klowdtv.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Camera Smile | Comedy
-https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
-#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Camera Smile | Comedy
-https://bozztv.com/gusa/gusa-camerasmile/playlist.m3u8
-#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Camera Smile | Comedy
-https://bozztv.com/gusa/gusa-camerasmile/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Chef Champion | Cooking
-https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vhVnAzE.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Chef Roc Show | Cooking
-https://bozztv.com/gusa/gusa-chefrock/index.m3u8
-
-#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
-https://bozztv.com/1gbw5/tintv2/tintv2/indest.m3u8
-#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
-https://bozztv.com/1gbw5/tintv2/tintv2/mono.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵀᵛ 🇺🇸  🌐🌎⭐ 02ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
@@ -3992,14 +3971,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
-https://bozztv.com/1gbw5/tintv2/tintv2/master.m3u8
-#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
-#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
-https://bozztv.com/1gbw5/tintv2/tintv2/main.m3u8
-#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
-https://bozztv.com/1gbw5/tintv2/tintv2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AMC.af" tvg-logo="https://i.imgur.com/yj8RNnG.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AMC AF | Music (1080p)
 https://amchls.wns.live/hls/stream.m3u8
@@ -4045,6 +4016,44 @@ https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Music4 TV Granada 
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵀᵛ 🇺🇸  🌐🌎⭐ 07ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Camera Smile | Comedy
+https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
+#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Camera Smile | Comedy
+https://bozztv.com/gusa/gusa-camerasmile/playlist.m3u8
+#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Camera Smile | Comedy
+https://bozztv.com/gusa/gusa-camerasmile/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Chef Champion | Cooking
+https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vhVnAzE.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Chef Roc Show | Cooking
+https://bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
+https://bozztv.com/1gbw5/tintv2/tintv2/indest.m3u8
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
+https://bozztv.com/1gbw5/tintv2/tintv2/mono.m3u8
+
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
+https://bozztv.com/1gbw5/tintv2/tintv2/master.m3u8
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
+https://bozztv.com/1gbw5/tintv2/tintv2/main.m3u8
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AFN TV | Music (720p)
+https://bozztv.com/1gbw5/tintv2/tintv2/chunks.m3u8
+
+
+
 
 
 
