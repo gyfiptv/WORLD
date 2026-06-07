@@ -110,8 +110,8 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.mpd
 
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-
-
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ ESPN Deportes (sd)
 https://tvpass.org/live/espn-deportes/sd
@@ -143,9 +143,19 @@ https://tvpass.org/live/AEEast/sd
 https://tvpass.org/live/AEEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ AMC Eastern (sd)
-https://tvpass.org/live/AMCEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ AMC Eastern (hd)
-https://tvpass.org/live/AMCEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/amc.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ AMC MX (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.mx.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ AMC MX (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/amc.mx.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ AXN MX (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.mx.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ AXN MX (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/axn.mx.m3u8
 
 #EXTINF:-1 tvg-id="KABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ ABC KABC Los Angeles (sd)
 https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
@@ -173,9 +183,9 @@ https://tvpass.org/live/AmericanHeroesChannel/sd
 https://tvpass.org/live/AmericanHeroesChannel/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Animal Planet East (sd)
-https://tvpass.org/live/AnimalPlanetEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.uk.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Animal Planet East (hd)
-https://tvpass.org/live/AnimalPlanetEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/animal.planet.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ BBC America East (sd)
 https://tvpass.org/live/BBCAmericaEast/sd
@@ -183,14 +193,14 @@ https://tvpass.org/live/BBCAmericaEast/sd
 https://tvpass.org/live/BBCAmericaEast/hd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/copIbc9.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ BET Eastern (sd)
-https://tvpass.org/live/BETEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bet.eastern.us.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/copIbc9.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ BET Eastern (hd)
-https://tvpass.org/live/BETEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bet.eastern.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ BET Her (sd)
-https://tvpass.org/live/BETHerEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bet.her.us.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oafsrlo.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ BET Her (hd)
-https://tvpass.org/live/BETHerEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bet.her.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Bloomberg TV (sd)
 https://tvpass.org/live/BloombergTV/sd
@@ -203,17 +213,24 @@ https://tvpass.org/live/BravoEast/sd
 https://tvpass.org/live/BravoEast/sd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Boomerang (sd)
-https://tvpass.org/live/Boomerang/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/boomerang.us.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Boomerang (hd)
-https://tvpass.org/live/Boomerang/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/boomerang.us.m3u8
 
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ BeIN SPORTS XTRA en Espanol
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ BeIN SPORTS XTRA en Espanol
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Cartoon Network Eastern (sd)
-https://tvpass.org/live/CartoonNetworkEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cartoon.network.uk.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Cartoon Network Eastern (hd)
-https://tvpass.org/live/CartoonNetworkEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cartoon.network.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ CARTO^ONITO UK (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cartoonito.uk.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ CARTO^ONITO UK (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cartoonito.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ C-SPAN (sd)
 https://tvpass.org/live/CSPAN/sd
@@ -273,14 +290,14 @@ https://tvpass.org/live/CNN/sd
 https://tvpass.org/live/CNN/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Comedy Central Eastern (sd)
-https://tvpass.org/live/ComedyCentralEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/comedy.central.uk.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Comedy Central Eastern (hd)
-https://tvpass.org/live/ComedyCentralEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/comedy.central.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Crime + Investigation Network (sd)
-https://tvpass.org/live/CrimePlusInvestigation/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/crime.investigation.uk.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Crime + Investigation Network (hd)
-https://tvpass.org/live/CrimePlusInvestigation/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/crime.investigation.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ CW KFMB San Diego (sd) 
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
@@ -298,9 +315,34 @@ https://tvpass.org/live/DestinationAmerica/sd
 https://tvpass.org/live/DestinationAmerica/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Discovery Channel Eastern (sd)
-https://tvpass.org/live/DiscoveryChannelEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.uk.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Discovery Channel Eastern (hd)
-https://tvpass.org/live/DiscoveryChannelEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ DISCOVERY HISTORY UK (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.history.uk.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ DISCOVERY HISTORY UK (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.history.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ DISCOVERY SCIENCE UK (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.science.uk.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ DISCOVERY SCIENCE UK (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.science.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ DISCOVERY TURBO CO (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.turbo.co.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ DISCOVERY TURBO CO (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.turbo.co.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ DISCOVERY WORLD CO (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.world.co.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ DISCOVERY WORLD CO (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.world.co.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ DISCOVERY FAMILIA US (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.familia.us.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸ᴾᵃˢˢ DISCOVERY FAMILIA US (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.familia.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Discovery Family Channel (sd)
 https://tvpass.org/live/DiscoveryFamily/sd
@@ -318,9 +360,9 @@ https://tvpass.org/live/DisneyChannelEast/sd
 https://tvpass.org/live/DisneyChannelEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Disney Junior Eastern (sd)
-https://tvpass.org/live/DisneyJuniorEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/disney.jr.co.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Disney Junior Eastern (hd)
-https://tvpass.org/live/DisneyJuniorEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/disney.jr.co.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Disney XD Eastern (sd)
 https://tvpass.org/live/DisneyXDEast/sd
@@ -536,15 +578,20 @@ https://tvpass.org/live/GolfChannel/sd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Golf Channel USA (hd)
 https://tvpass.org/live/GolfChannel/hd
 
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ HALLMARK CHANNEL US (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hallmark.channel.eastern.us.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ HALLMARK CHANNEL US (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hallmark.channel.eastern.us.m3u8
+
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Hallmark Family | Drama (sd)
-https://tvpass.org/live/HallmarkDrama/sd
-#EXTINF:-1 groupp-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Hallmark Family | Drama (hd)
-https://tvpass.org/live/HallmarkDrama/hd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hallmark.drama.us.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Hallmark Family | Drama (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hallmark.drama.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPRGA9C.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Hallmark Movies & Mysteries East (sd)
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPRGA9C.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Hallmark Movies & Mysteries East (hd)
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ HBO Eastern (sd)
 https://tvpass.org/live/HBOEast/sd
@@ -601,15 +648,25 @@ https://tvpass.org/live/InvestigationDiscoveryEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Investigation Discovery Eastern (hd)
 https://tvpass.org/live/InvestigationDiscoveryEast/hd
 
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ LMN Lifetime Movies Network East (sd)
-https://tvpass.org/live/LifetimeMoviesEast/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ LMN Lifetime Movies Network East (hd)
-https://tvpass.org/live/LifetimeMoviesEast/hd
-
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Lifetime Network Eastern (sd)
-https://tvpass.org/live/LifetimeEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/lifetime.network.us.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Lifetime Network Eastern (hd)
-https://tvpass.org/live/LifetimeEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/lifetime.network.us.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ LMN Lifetime Movies Network East (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/lifetime.movies.east.us.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ LMN Lifetime Movies Network East (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/lifetime.movies.east.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ LOVE NATURE US (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/love.nature.ca.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ LOVE NATURE US (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/love.nature.ca.m3u8
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ MAGNOLIA NETWORK US (sd)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ MAGNOLIA NETWORK US (hd)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Marquee Sports Network (sd)
 https://tvpass.org/live/marquee-sports-network/sd
@@ -642,9 +699,9 @@ https://tvpass.org/live/MovieMaxEast/sd
 https://tvpass.org/live/MovieMaxEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Motor Trend | Discovery TURBO (sd)
-https://tvpass.org/live/Motortrend/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/motor.trend.us.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ Motor Trend | Discovery TURBO (hd)
-https://tvpass.org/live/Motortrend/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/motor.trend.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ MSG Madison Square Gardens (sd)
 https://tvpass.org/live/msg-madison-square-gardens/sd
@@ -667,9 +724,9 @@ https://tvpass.org/live/mtv-2-east/sd
 https://tvpass.org/live/mtv-2-east/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ MTV USA Eastern (sd)
-https://tvpass.org/live/MTVEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mtv.music.uk.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ MTV USA Eastern (hd)
-https://tvpass.org/live/MTVEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mtv.music.uk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ MLB Network (sd)
 https://tvpass.org/live/MLBNetwork/sd
@@ -705,14 +762,14 @@ https://tvpass.org/live/new-england-sports-network/sd
 https://tvpass.org/live/new-england-sports-network/hd
 
 #EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ National Geographic Eastern (sd)
-https://tvpass.org/live/NationalGeographicEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg//nat.geo.uk.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ National Geographic Eastern (hd)
-https://tvpass.org/live/NationalGeographicEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nat.geo.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ National Geographic Wild (sd)
-https://tvpass.org/live/NationalGeographicWildEast/sd
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/national.geographic.wild.us.m3u8
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ National Geographic Wild (hd)
-https://tvpass.org/live/NationalGeographicWildEast/hd
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/national.geographic.wild.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸ᴾᵃˢˢ NBC KNBC Los Angeles (sd)
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
