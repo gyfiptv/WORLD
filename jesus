@@ -12852,19 +12852,18 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
-http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸 TELEMUNDO INTERNACIONAL (opt1)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/2125.m3u8
 #EXTINF:-1 group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸 TELEMUNDO INTERNACIONAL (opt1)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/2125.ts
 #EXTINF:-1 group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸 TELEMUNDO INTERNACIONAL (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2125
+
+
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
+http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸★7593 TELEMUNDO INTERNACIONAL (opt1) 
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7593.m3u8
@@ -13200,93 +13199,93 @@ http://mains.best:2086/live/3003556325/2772007/92500.ts
 http://mains.services:2086/507Vej3h3S/4632273/92500
 
 
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Miami
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/348.m3u8
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Miami
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/348.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Miami
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/348
 
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami | op2
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Miami | op2
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/60698.m3u8
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami | op2
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Miami | op2
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/60698.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Miami | op2
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Miami | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60698
 
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Orlando
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Orlando
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/27185.m3u8
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Orlando
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Orlando
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/27185.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Orlando
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Orlando
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27185
 
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo New York
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/347.m3u8
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo New York
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/347.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo New York
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/347
 
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York op2
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo New York op2
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/41774.m3u8
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York op2
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo New York op2
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/41774.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo New York op2
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo New York op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41774.ts
 
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Los Angeles
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Los Angeles
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/349.m3u8
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Los Angeles
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Los Angeles
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/349.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Los Angeles
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Los Angeles
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/349
 
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Atlanta
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Atlanta
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27592.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Boston
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Boston
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/357.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Chicago
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Chicago
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/356.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Dallas
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Dallas
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/355.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Denver
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Denver
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/354.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Fresno
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Fresno
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/353.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Houston
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Houston
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/351.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *FHD
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Internacional *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28949.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *FHD | op2
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Internacional *FHD | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27842.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *HD
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Internacional *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67649.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Internacional *HQ
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Internacional *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67650.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Las Vegas
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Las Vegas
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/350.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Nebraska
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Nebraska
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82801.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Oklahoma City
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Oklahoma City
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82806.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Philadelphia
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Philadelphia
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/346.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Phoenix
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Phoenix
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/345.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Sacramento
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Sacramento
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82814.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San Antonio
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo San Antonio
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/344.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San Diego
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo San Diego
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82810.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo San francisco
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo San francisco
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/343.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Tucson
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Tucson
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/342.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Washington
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Washington
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/19133.ts
-#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Salt Lake City
+#EXTINF:-1 grou-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸* Telemundo Salt Lake City
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97724.ts
 
 
@@ -13309,8 +13308,6 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemundo.w
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇺🇸☑ NBCLX HOME | E!
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-
-
 
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-logo="https://i.imgur.com/9bPcYIN.png" group-title="🆕🇸 TELEMUNDO 🇪🇸",🇪🇸☑ Telemundo Telenovelas Clásicas | Series
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
