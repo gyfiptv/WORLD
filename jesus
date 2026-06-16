@@ -980,7 +980,15 @@ https://tvpass.org/live/OxygenEast/sd
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/pakapaka.ar.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸⚽ PAKAPAKA AR (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/pakapaka.ar.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸⚽ PAKAPAKA AR (opt03) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/pakapaka.ar.m3u8
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ PIXL TV US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/pixl.tv.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ PIXL TV US (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/pixl.tv.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ PIXL TV US (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/pixl.tv.us.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸPBS National East | Education
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
@@ -2026,6 +2034,13 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/axn.white.e
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/axn.white.es.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ AXN BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ AXN BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/axn.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ AXN BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/axn.br.m3u8
+
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AMC MX (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AMC MX (opt2)
@@ -2040,6 +2055,12 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/amc.eastern
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ AMC EASTERN US (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/amc.eastern.us.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINECANAL AR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinecanal.ar.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINECANAL AR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinecanal.ar.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINECANAL AR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinecanal.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINECANAL MX (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinecanal.mx.m3u8
@@ -2054,6 +2075,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.mx.
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinemax.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINEMAX MX (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinemax.mx.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ CINEMAX BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ CINEMAX BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ CINEMAX BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinemax.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HBO CO (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.co.m3u8
@@ -2080,10 +2108,20 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HBO 18+ BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.br.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ HBO BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ HBO BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.br.m3u8
+
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ HBO 2 BR (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ HBO 2 BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.br.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ HBO MUNDI BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.plus.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ HBO MUNDI BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.plus.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ HBO Family BR (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.br.m3u8
@@ -2095,8 +2133,10 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signatu
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ HBO Signature BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.signature.br.m3u8
 
-
-
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ MEGAPIX BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/megapix.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ MEGAPIX BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/megapix.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SONY CINE US (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cine.sony.us.m3u8
@@ -2119,12 +2159,61 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/space.ar.m3
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SPACE AR (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/space.ar.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SPACE BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/space.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SPACE BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/space.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SPACE BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/space.br.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SYFY | USA BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SYFY | USA BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/syfy.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SYFY | USA BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/syfy.br.m3u8
+
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ STUDIO UNIVERSAL CO (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/studio.universal.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ STUDIO UNIVERSAL CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/studio.universal.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ STUDIO UNIVERSAL CO (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/studio.universal.co.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TLC BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tlc.pt.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TLC BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tlc.pt.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TLC BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tlc.pt.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TNT BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tnt.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TNT BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tnt.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TNT BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tnt.br.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE ACTION BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.action.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE ACTION BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telecine.action.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE ACTION BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telecine.action.br.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE FUN BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.fun.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE FUN BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telecine.fun.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE FUN BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telecine.fun.br.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE PREMIUM BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecine.premium.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE PREMIUM BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telecine.premium.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE PREMIUM BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telecine.premium.br.m3u8
 
 
 #EXTINF:-1 tvg-name="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸ᴸᵒᵛᵉ ᴺᴬᵀᵘᴿᵉ ##########  ♥ GROUP 02 📺ᴛvᵛᶦᵖ🇺🇸ᴘʀᴇmɪᴜm☑🇪🇸 ♥  ##########
@@ -2170,6 +2259,8 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/azteca.cora
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/azteca.corazon.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ AZTECA CORAZON MX (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/azteca.corazon.mx.m3u8
+
+
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇴⚽ ATB BO (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/atb.bo.m3u8
@@ -2333,18 +2424,32 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/do.it.yours
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ MAGNOLIA NETWORK US (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ MEGA A3MEDIA.ES (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ METRO AR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/metro.ar.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ METRO AR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/metro.ar.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ METRO AR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/metro.ar.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇷⚽ MEGA TV PR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mega.pr.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇷⚽ MEGA TV PR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mega.pr.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇷⚽ MEGA TV PR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/mega.pr.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ MEGA A3MEDIA.ES (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mega.es.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ MEGA A3MEDIA.ES (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ MEGA A3MEDIA.ES (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mega.es.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ MEGA A3MEDIA.ES US (opt3)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ MEGA A3MEDIA.ES US (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/mega.es.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ MEGA TV US (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇨🇱⚽ MEGA CL (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mega.cl.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ MEGA TV US (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇨🇱⚽ MEGA CL (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mega.cl.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ MEGA TV US (opt3)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇨🇱⚽ MEGA CL (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/mega.cl.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ MILENIO TV MX (opt1)
@@ -2353,6 +2458,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/milenio.tv.
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/milenio.tv.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ MILENIO TV MX (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/milenio.tv.mx.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ MULTISHOW BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/multishow.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ MULTISHOW BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/multishow.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ MULTISHOW BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/multishow.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NAT GEO UK (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg//nat.geo.uk.m3u8
@@ -2447,12 +2559,47 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/pakapaka.ar
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ PAKAPAKA | Kids AR (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/pakapaka.ar.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/record.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/record.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/record.br.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD NEWS BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/record.news.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD NEWS BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/record.news.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD NEWS BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/record.news.br.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SBT | Sistema Brasileno de Television BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sbt.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SBT | Sistema Brasileno de Television BR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/sbt.br.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SBT | Sistema Brasileno de Television BR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/sbt.br.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SUPER CANAL DO | CAR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/super.canal.car.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SUPER CANAL DO | CAR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/super.canal.car.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SUPER CANAL DO | CAR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/super.canal.car.m3u8
+
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELECINCO ES ʜᴅ (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecinco.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELECINCO ES ʜᴅ (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telecinco.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELECINCO ES ʜᴅ (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telecinco.es.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELEANTIOQUIA CO ʜᴅ (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleantioquia.co.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELEANTIOQUIA CO ʜᴅ (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/teleantioquia.co.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELEANTIOQUIA CO ʜᴅ (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/teleantioquia.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇨⚽ Teleamazonas EC ʜᴅ (opt1) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleamazonas.lat.m3u8
@@ -2461,11 +2608,11 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/teleamazona
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇨⚽ Teleamazonas EC ʜᴅ (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleamazonas.lat.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELEFE AR ʜᴅ (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELEFE AR ʜᴅ (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELEFE AR ʜᴅ (opt2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELEFE AR ʜᴅ (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telefe.ar.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELEFE AR ʜᴅ (opt3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELEFE AR ʜᴅ (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telefe.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELENUEVE C9 AR (opt1)
@@ -3116,6 +3263,20 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/alibi.uk.m3
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ALIBI UK (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/alibi.uk.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ACCUWEATHER NW US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/accuweather.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ACCUWEATHER NW US (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/accuweather.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ACCUWEATHER NW US (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/accuweather.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bloomberg.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bloomberg.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bloomberg.uk.m3u8
+
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* US (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bet.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* US (opt2)
@@ -3157,6 +3318,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cbeebies.uk
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cbeebies.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BBC FOUR | cbeebies UK (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cbeebies.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bloomberg.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bloomberg.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bloomberg.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLAZE UK (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/blaze.uk.m3u8
@@ -3207,12 +3375,12 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tudn.us.m3u
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CTV UK (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tudn.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/the.cooking.channel.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/the.cooking.channel.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/the.cooking.channel.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ C-SPAN US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cspan.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ C-SPAN US (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cspan.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ C-SPAN US (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cspan.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COOKING CHANNEL CA  (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cooking.channel.canada.ca.m3u8
@@ -3220,6 +3388,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cooking.cha
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cooking.channel.canada.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COOKING CHANNEL CA  (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cooking.channel.canada.ca.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/the.cooking.channel.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/the.cooking.channel.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/the.cooking.channel.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COMEDY CENTRAL UK (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/comedy.central.uk.m3u8
@@ -3242,12 +3417,40 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cornerstone
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝CORNERSTONE TELEVISION US (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cornerstone.television.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISNEY JUNIOR CO (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/disney.jr.co.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISNEY JUNIOR CO (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/disney.jr.co.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISNEY JUNIOR CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/disney.jr.co.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnbc.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnbc.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnbc.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnn.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN UK (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnn.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN UK (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnn.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN CA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnn.ca.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN CA (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnn.ca.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN CA (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnn.ca.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnn.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN US (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnn.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN US (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnn.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN INT NA US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnn.international.north.america.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN INT NA US (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnn.international.north.america.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN INT NA US (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnn.international.north.america.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DW Deutsche Welle English US (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/dw.english.us.m3u8
@@ -3255,6 +3458,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/dw.english.
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/dw.english.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DW Deutsche Welle English US (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/dw.english.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISNEY JUNIOR CO (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/disney.jr.co.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISNEY JUNIOR CO (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/disney.jr.co.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISNEY JUNIOR CO (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/disney.jr.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY CHANNEL UK (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.uk.m3u8
@@ -3297,6 +3507,34 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.f
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.familia.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ DISCOVERY FAMILIA US (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.familia.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ EURONEWS UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/euronews.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ EURONEWS UK (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/euronews.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ EURONEWS UK (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/euronews.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.news.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL US (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.news.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL US (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.news.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL CA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.news.ca.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL CA (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.news.ca.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL CA (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.news.ca.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX BUSINESS US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.business.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX BUSINESS US (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.business.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX BUSINESS US (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.business.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HISTORY CO (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/history.co.m3u8
@@ -3409,6 +3647,34 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mtv.uk.m3u8
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mtv.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MTV UK (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/mtv.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MSNBC USA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/msnbc.usa.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MSNBC USA (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/msnbc.usa.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MSNBC USA (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/msnbc.usa.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnbc.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnbc.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnbc.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Chicago Plus (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/nbc.sports.chicago.plus.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Chicago Plus (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nbc.sports.chicago.plus.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Chicago Plus (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nbc.sports.chicago.plus.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Bay Area Plus US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/nbc.sports.bay.area.plus.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Bay Area Plus US (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nbc.sports.bay.area.plus.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Bay Area Plus US (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nbc.sports.bay.area.plus.us.m
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NAT GEO UK (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg//nat.geo.uk.m3u8
@@ -3650,6 +3916,19 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nfl.red.zon
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NFL Red Zone US (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nfl.red.zone.us.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Chicago Plus (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/nbc.sports.chicago.plus.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Chicago Plus (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nbc.sports.chicago.plus.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Chicago Plus (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nbc.sports.chicago.plus.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Bay Area Plus US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/nbc.sports.bay.area.plus.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Bay Area Plus US (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nbc.sports.bay.area.plus.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Bay Area Plus US (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nbc.sports.bay.area.plus.us.m
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ Peachtree TV (WPCHTV) Atlanta | CW Sports  (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/peachtree.tv.wpch.tv.atlanta.ga.us.m3u8
@@ -3657,6 +3936,20 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/peachtree.t
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/peachtree.tv.wpch.tv.atlanta.ga.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ Peachtree TV (WPCHTV) Atlanta | CW Sports (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/peachtree.tv.wpch.tv.atlanta.ga.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ RTE NEWS UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/rte.news.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ RTE NEWS UK (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/rte.news.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ RTE NEWS UK (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/rte.news.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇯🇲⚽ TVJ JAMAICA CAR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tvj.car.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇯🇲⚽ TVJ JAMAICA CAR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tvj.car.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇯🇲⚽ TVJ JAMAICA CAR (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tvj.car.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE TENNIS CHANNEL US (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/the.tennis.channel.us.m3u8
@@ -3696,6 +3989,12 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ PPV NEWS USA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ PPV NEWS USA (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ PPV NEWS USA (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 10 (WPLG) Miami FL (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.wplg.miami.fl.us.m3u8
@@ -3739,27 +4038,12 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.ktrk.ho
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 13 (KTRK) Houston TX (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.ktrk.houston.tx.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ACCUWEATHER NW US (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/accuweather.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ACCUWEATHER NW US (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/accuweather.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ACCUWEATHER NW US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/accuweather.us.m3u8
-
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bloomberg.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bloomberg.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bloomberg.uk.m3u8
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ C-SPAN US (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cspan.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ C-SPAN US (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cspan.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ C-SPAN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cspan.us.m3u8
-
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CBS 4 (WFOR) Miami FL | NFL Dolphins  (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cbs.wfor.miami.fl.us.m3u8
@@ -3950,12 +4234,6 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cbs.wcsc.ch
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CBS 5 (WCSC) Charleston SC (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cbs.wcsc.charleston.sc.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnbc.uk.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnbc.uk.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnbc.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN UK (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnn.uk.m3u8
@@ -3985,19 +4263,21 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnn.interna
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN INT NA US (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnn.international.north.america.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DW Deutsche Welle English US (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/dw.english.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DW Deutsche Welle English US (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/dw.english.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DW Deutsche Welle English US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/dw.english.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ EURONEWS UK (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/euronews.uk.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ EURONEWS UK (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/euronews.uk.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ EURONEWS UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/euronews.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnbc.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnbc.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnbc.uk.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MSNBC USA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/msnbc.usa.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MSNBC USA (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/msnbc.usa.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MSNBC USA (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/msnbc.usa.us.m3u8
+
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL US (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.news.us.m3u8
@@ -4019,6 +4299,7 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.busines
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.business.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX BUSINESS US (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.business.us.m3u8
+
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX (KSAZ) Phoenix AZ | NFL Cardinals (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ksaz.phoenix.az.us.m3u8
@@ -4121,6 +4402,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/msnbc.usa.u
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/msnbc.usa.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MSNBC USA (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/msnbc.usa.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnbc.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnbc.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnbc.uk.m3u8
 
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Chicago Plus (opt1)
@@ -4361,40 +4649,12 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nbc.kcwy.ca
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC (KCWY) Casper WY (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nbc.kcwy.casper.wy.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NEWS PPV USA (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NEWS PPV USA (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NEWS PPV USA (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ Peachtree TV (WPCHTV) Atlanta | CW Sports  (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/peachtree.tv.wpch.tv.atlanta.ga.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ Peachtree TV (WPCHTV) Atlanta | CW Sports (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/peachtree.tv.wpch.tv.atlanta.ga.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ Peachtree TV (WPCHTV) Atlanta | CW Sports (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/peachtree.tv.wpch.tv.atlanta.ga.us.m3u8
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ RTE NEWS UK (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/rte.news.uk.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ RTE NEWS UK (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/rte.news.uk.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ RTE NEWS UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/rte.news.uk.m3u8
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇯🇲⚽ TVJ JAMAICA CAR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tvj.car.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇯🇲⚽ TVJ JAMAICA CAR (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tvj.car.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇯🇲⚽ TVJ JAMAICA CAR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tvj.car.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ PPV NEWS USA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bt.sport.4.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ PPV NEWS USA (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bt.sport.4.uk.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ PPV NEWS USA (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bt.sport.4.uk.m3u8
 
 
 
