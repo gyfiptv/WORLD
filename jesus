@@ -195,7 +195,7 @@ https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸCBS SPORTS HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸCBSNews
+#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸCBSNews
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸCBS News Miami
@@ -239,29 +239,6 @@ http://41.205.93.154/CNBC/index.m3u8
 http://41.205.93.154/CNBC/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² CNBC WORLD (03)
 http://41.205.93.154/CNBC/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ CBS KCBS Los Angeles (01) x
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ CBS WCBS New York (01) x
-https://tvpass.org/live/WCBSDT1/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Chicago Sports Network (01) x
-https://tvpass.org/live/chicago-sports-network/sd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S7DOpdY.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ CMT Eastern (01) x
-https://tvpass.org/live/CMTEast/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ CW KFMB San Diego (01) x
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ CW WDCW District of Columbia (01) x
-https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-
-
-
 
 
 
@@ -356,11 +333,10 @@ http://23.237.104.106:8080/USA_DISNEY_XD/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ DISNEY XD (03)
 http://23.237.104.106:8080/USA_DISNEY_XD/mono.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Disney Channel Eastern (01) x
-https://tvpass.org/live/DisneyChannelEast/sd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ E! Entertainment East (01) x
-https://tvpass.org/live/EEast/sd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ESPN US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.us.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ESPN US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/espn.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ESPN 2 US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn2.us.m3u8
@@ -402,9 +378,6 @@ http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ FS2 FOX Sports 2 (01) x
 https://tvpass.org/live/FoxSports2/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ FOX KTTV Los Angeles (01) x
-https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FUSE TV Eastern US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fuse.tv.eastern.us.m3u8
@@ -461,75 +434,13 @@ https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸFubo Sports Network (1080p)
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Indiana (01) x
-https://tvpass.org/live/fanduel-sports-indiana/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Network Detroit (01) x
-https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Network Florida (01) x
-https://tvpass.org/live/fanduel-sports-network-florida/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Network Great Lakes (01) x
-https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Network North (01) x
-https://tvpass.org/live/fanduel-sports-network-north/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Network Ohio Cleveland (01) x
-https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Network Oklahoma (01) x
-https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Network Socal (01) x
-https://tvpass.org/live/fanduel-sports-network-socal/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Network South Tennessee (01)  x
-https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Network West (01) x
-https://tvpass.org/live/fanduel-sports-network-west/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Network Wisconsin (01) x
-https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Southeast Georgia (01) x
-https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Southeast North Carolina (01) x
-https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Southeast South Carolina (01) x
-https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Southeast Tennessee Nashville (01) x
-https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Sun (01) x
-https://tvpass.org/live/fanduel-sports-sun/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Fanduel Sports Tennessee East (01) x
-https://tvpass.org/live/fanduel-sports-tennessee-east/sd
 
 #EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Freeform East (01) x
 https://tvpass.org/live/FreeformEast/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ FXM Movie Channel (01) x
-https://tvpass.org/live/FXMovieChannel/sd
-
 #EXTINF:-1 vg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ FX Network East Coast (01) x
 https://tvpass.org/live/FXEast/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ FXX Eastern (01) x
-https://tvpass.org/live/FXXEast/sd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ FYI Eastern (01) x
 https://tvpass.org/live/FYIEast/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Game Show Network East (01) x
-https://tvpass.org/live/game-show-network-east/sd
-
 
 #EXTINF:-1 tvg-id=“Hbo_Family.us" tvg-logo="" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ GOLF Channel USA (01)
 http://23.237.104.106:8080/USA_GOLF/index.m3u8
@@ -573,6 +484,11 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.eastern
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.eastern.us.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ HBO 2 Eastern US (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ HBO COMEDY East US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.comedy.east.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ HBO COMEDY East US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.comedy.east.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ HBO Family Eastern US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.eastern.us.m3u8
@@ -651,11 +567,6 @@ http://23.237.104.106:8080/USA_HBO_FAMILY/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ HBO Zone East (01) x
 https://tvpass.org/live/HBOZoneEast/sd
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ HGTV East (01) x
-https://tvpass.org/live/HGTVEast/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ History Channel East (01) x
-https://tvpass.org/live/HistoryEast/sd
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸⚽ History CO (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/history.co.m3u8
@@ -684,8 +595,6 @@ http://23.237.104.106:8080/USA_IFC/playlist.m3u8
 #EXTINF:-1 tvg-id=“Hbo_Family.us" tvg-logo="" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ IFC (03)
 http://23.237.104.106:8080/USA_IFC/mono.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Investigation Discovery Eastern (01) x
-https://tvpass.org/live/InvestigationDiscoveryEast/sd
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ Lifetime Network Eastern US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/lifetime.network.us.eastern.us.m3u8
@@ -784,29 +693,9 @@ http://23.237.104.106:8080/USA_MSG/playlist.m3u8
 http://23.237.104.106:8080/USA_MSG/mono.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Marquee Sports Network (01) x
-https://tvpass.org/live/marquee-sports-network/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ MeTV Wjlp New Jersey New York (01) x
-https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Midatlantic Sports Network (01) x
-https://tvpass.org/live/midatlantic-sports-network/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Monumental Sports Network (01) x
-https://tvpass.org/live/monumental-sports-network/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ MovieMax (Max 6) East (01) x
-https://tvpass.org/live/MovieMaxEast/sd
 
 #EXTINF:-1 tvg-id="MSGPlus.us" tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ MSG Plus (01) x
 https://tvpass.org/live/msg-plus/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ MSNBC USA (01) x
-https://tvpass.org/live/MSNBC/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ MTV 2 East (01) x
-https://tvpass.org/live/mtv-2-east/sd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ MLB Network (01)
 https://tvpass.org/live/MLBNetwork/sd
@@ -938,42 +827,16 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lPqQj5.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ NFL RedZone (01) x
 https://tvpass.org/live/NFLRedZone/sd
-
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ NHL Network (01) x
 https://tvpass.org/live/NHLNetwork/sd
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/zO2IQHNsszQEwBR_WkdlGo--3qbOfBIDTxNH4CNDpu8jtuASA6CvL7Aw_wcmPFItMSBy" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ NESN | New England Sports Network (01) x
 https://tvpass.org/live/new-england-sports-network/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ NBC KNBC Los Angeles (01) x
-https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ NBC WNBC New York (01) x
-https://tvpass.org/live/nbc-wnbc-new-york-ny/sd
-
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ NBC Sports Bay Area (01) x
 https://tvpass.org/live/nbc-sports-bay-area/sd
-
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ NBC Sports Boston (01) x
 https://tvpass.org/live/nbc-sports-boston/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ NBC Sports California (01) x
-https://tvpass.org/live/nbc-sports-california/sd
-
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ NBC Sports Philadelphia (01) x
 https://tvpass.org/live/nbc-sports-philadelphia/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ NewsMax TV (01) x
-https://tvpass.org/live/NewsmaxTV/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ OWN Oprah Winfrey Network Eastern (01) x
-https://tvpass.org/live/OWNEast/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Outdoor Channel (01) x
-https://tvpass.org/live/OutdoorChannel/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Oxygen Eastern (01) x
-https://tvpass.org/live/OxygenEast/sd
 
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸⚽ PAKAPAKA AR (opt01) 
@@ -1041,44 +904,6 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/science.us.
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ Science (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/science.us.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ SEC Network (01) x
-https://tvpass.org/live/SECN/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ SNY Sportsnet New York Comcast (01) x
-https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Space City Home Network (01) x
-https://tvpass.org/live/space-city-home-network/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Spectrum SportsNet LA (01) x
-https://tvpass.org/live/spectrum-sportsnet-la/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Spectrum SportsNet Lakers (01) x
-https://tvpass.org/live/spectrum-sportsnet/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Sportsnet East (01) x
-https://tvpass.org/live/sportsnet-east/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Sportsnet 360 (01) x
-https://tvpass.org/live/sportsnet-360/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Sportsnet One (01) x
-https://tvpass.org/live/sportsnet-one/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Sportsnet Ontario (01) x
-https://tvpass.org/live/sportsnet-ontario/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Sportsnet Pacific (01) x
-https://tvpass.org/live/sportsnet-pacific/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Sportsnet Pittsburgh (01) x
-https://tvpass.org/live/sportsnet-pittsburgh/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Sportsnet West (01) x
-https://tvpass.org/live/sportsnet-west/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ SundanceTV East (01) x
-https://tvpass.org/live/SundanceTVEast/sd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ SYFY (01)
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
@@ -1194,26 +1019,9 @@ http://41.205.93.154/TBS/mono.m3u8
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ TruTV (02)
 http://23.237.104.106:8080/USA_TRUTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ TruTV (03)
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/trutv.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ TruTV (03)
 http://23.237.104.106:8080/USA_TRUTV/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/trutv.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ truTV Eastern (01) x
-https://tvpass.org/live/truTVEast/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ TSN 1 (01) x
-https://tvpass.org/live/tsn1/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ TSN 2 (01) x
-https://tvpass.org/live/tsn2/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ TSN 3 (01) x
-https://tvpass.org/live/tsn3/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ TSN 4 (01) x
-https://tvpass.org/live/tsn4/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ TSN 5 (01) x
-https://tvpass.org/live/tsn5/sd
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ The Cooking Channel (opt01) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/the.cooking.channel.us.m3u8
@@ -1229,6 +1037,18 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/the.weather
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/the.tennis.channel.us.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ The Tennis Channel (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/the.tennis.channel.us.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ TV LAND Eastern US (opt01) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tv.land.eastern.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ TV LAND Eastern US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tv.land.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ TV ONE US (opt01) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tv.one.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ TV ONE US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tv.one.us.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ TENNIS CHANNEL (01)
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
@@ -1256,14 +1076,6 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7154.m3u8
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7154.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TCM Turner Classic Movies USA (opt03)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7154.mpd
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ TV Land Eastern (01) x
-https://tvpass.org/live/tv-land-eastern/sd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ TV One (01) x
-https://tvpass.org/live/TVOne/sd
-
 
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ¹ TELEMUNDO sd (01)
 http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
@@ -1387,8 +1199,17 @@ http://23.237.104.106:8080/USA_VH1/playlist.m3u8
 #EXTINF:-1 tvg-id=“Fox_Deportes.us" tvg-logo="" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ VH1 Eastern (03)
 http://23.237.104.106:8080/USA_VH1/mono.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ VICE (01) x
-https://tvpass.org/live/vice/hd
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ VICE US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/vice.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ VICE US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/vice.us.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ YES NETWORK US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/yes.network.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ YES NETWORK US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/yes.network.us.m3u8
+
+
 
 #EXTINF:-1 tvg-id=“Fox_Deportes.us" tvg-logo="" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ YES_NETWORK (01)
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
@@ -1492,10 +1313,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.mpd
 
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴾᵃˢˢ ESPN Deportes (sd)
-https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴾᵃˢˢ ESPN Deportes (hd)
-https://tvpass.org/live/espn-deportes/hd
 
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴾᵃˢˢ UNIVISION | WNJU-DT1 (sd)
 https://tvpass.org/live/UnivisionEast/sd
@@ -1519,15 +1336,15 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 
 
 
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ TELEMUNDO hd
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ TELEMUNDO sd
 http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ TELEMUNDO hd
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ NBC UNIVERSO hd
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ NBC UNIVERSO hd
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ NBC UNIVERSO sd
+http://190.11.225.124:5000/live/universo_sd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ TUDN MX (opt1)
@@ -1535,21 +1352,21 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tudn.mx.m3u
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ TUDN MX (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tudn.mx.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ TUDN MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tudn.mx.m3u8
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tudn.mx.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/san-antonio/univision-41-tx.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/univision.eastern.us.m3u8
 #EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/san-antonio/univision-41-tx.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt2) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/univision.eastern.us.m3u8
 #EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/san-antonio/univision-41-tx.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/univision.eastern.us.m3u8
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/univision.eastern.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ UniMas Network East (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/unimas.network.east.us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ UniMas Network East (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/unimas.network.east.us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸⚽ UniMas Network East (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/unimas.network.east.us.m3u8
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/unimas.network.east.us.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ América TeVé 2 USA (01)
 https://live.gideo.video/americateve2/master.m3u8
@@ -1804,63 +1621,63 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ AMC hd
 http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ AMC hd
-http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ AMC sd
+http://190.11.225.124:5000/live/amc_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ AXN hd
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ AXN hd
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ AXN sd
+http://190.11.225.124:5000/live/axn_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ ABC miami hd
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ ABC miami hd
-http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ ABC miami sd
+http://190.11.225.124:5000/live/abc_sd/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ ANIMAL PLANET Discovery hd
-http://190.11.225.124:5000/live/animal_planet_hd/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ ANIMAL PLANET Discovery sd
 http://190.11.225.124:5000/live/animal_planet_sd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ ANIMAL PLANET Discovery hd
+http://190.11.225.124:5000/live/animal_planet_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ CBS hd
 http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ CBS hd 
-http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ CBS sd 
+http://190.11.225.124:5000/live/cbs_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ CINE CANAL hd
 http://190.11.225.124:5000/live/cine_canal_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ CINE CANAL hd
-http://190.11.225.124:5000/live/cine_canal_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ CINE CANAL sd
+http://190.11.225.124:5000/live/cine_canal_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISTRITO COMEDIA hd
 http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISTRITO COMEDIA hd
-http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISTRITO COMEDIA sd
+http://190.11.225.124:5000/live/distrito_comedia_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DHE hd
 http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DHE hd
-http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DHE sd
+http://190.11.225.124:5000/live/dhe_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISCOVERY CHANNEL hd
 http://190.11.225.124:5000/live/discovery_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISCOVERY CHANNEL hd 
-http://190.11.225.124:5000/live/discovery_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISCOVERY CHANNEL sd 
+http://190.11.225.124:5000/live/discovery_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISCOVERY WORLD hd
 http://190.11.225.124:5000/live/discovery_world_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISCOVERY WORLD hd 
-http://190.11.225.124:5000/live/discovery_world_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISCOVERY WORLD sd 
+http://190.11.225.124:5000/live/discovery_world_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISNEY CHANNEL hd
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISNEY CHANNEL hd
-http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISNEY CHANNEL sd
+http://190.11.225.124:5000/live/disney_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISNEY JR hd
 http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISNEY JR hd
-http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ DISNEY JR sd
+http://190.11.225.124:5000/live/disney_jr_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id=“Fox_Deportes.us" tvg-logo="" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FOX DEPORTES (01)
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
@@ -1877,13 +1694,13 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/playlist.mpd
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FS1 FOX SPORTS 1 hd
 http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FS1 FOX SPORTS 1 hd
-http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FS1 FOX SPORTS 1 sd
+http://190.11.225.124:5000/live/fs1_sd/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FREEFORM hd
-http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FREEFORM sd
 http://190.11.225.124:5000/live/freeform_sd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FREEFORM hd
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FX hd
 http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
@@ -1892,8 +1709,8 @@ http://190.11.225.124:5000/live/fx_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ GOLF hd
 http://190.11.225.124:5000/live/golf_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ GOLF hd
-http://190.11.225.124:5000/live/golf_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ GOLF sd
+http://190.11.225.124:5000/live/golf_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ GOLF Channel USA (01)
 http://23.237.104.106:8080/USA_GOLF/index.m3u8
@@ -1902,95 +1719,95 @@ http://23.237.104.106:8080/USA_GOLF/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ GOLF Channel USA (03)
 http://23.237.104.106:8080/USA_GOLF/mono.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ GOLDEN EDGE hd
-http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ GOLDEN EDGE sd
 http://190.11.225.124:5000/live/golden_sd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ GOLDEN EDGE hd
+http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HALLMARK hd
 http://190.11.225.124:5000/live/hallmark_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HALLMARK hd
-http://190.11.225.124:5000/live/hallmark_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HALLMARK sd
+http://190.11.225.124:5000/live/hallmark_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO XTREME hd
 http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO XTREME hd
-http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO XTREME sd
+http://190.11.225.124:5000/live/hbo_xtreme_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO FAMILY hd
 http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO FAMILY hd
-http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO FAMILY sd
+http://190.11.225.124:5000/live/hbo_family_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO+ PLUS hd
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO+ PLUS hd
-http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO+ PLUS sd
+http://190.11.225.124:5000/live/hbo_plus_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO SIGNATURE hd
 http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO SIGNATURE hd
-http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO SIGNATURE sd
+http://190.11.225.124:5000/live/hbo_signature_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HISTORY hd
 http://190.11.225.124:5000/live/history_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HISTORY hd
-http://190.11.225.124:5000/live/history_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HISTORY sd
+http://190.11.225.124:5000/live/history_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ PARAMOUNT hd
 http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ PARAMOUNT hd
-http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ PARAMOUNT sd
+http://190.11.225.124:5000/live/paramount_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SHOWTIME hd
 http://190.11.225.124:5000/live/showtime_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SHOWTIME hd
-http://190.11.225.124:5000/live/showtime_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SHOWTIME sd
+http://190.11.225.124:5000/live/showtime_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ STARZ hd
 http://190.11.225.124:5000/live/starz_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ STARZ hd
-http://190.11.225.124:5000/live/starz_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ STARZ sd
+http://190.11.225.124:5000/live/starz_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SPACE hd
 http://190.11.225.124:5000/live/space_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SPACE hd
-http://190.11.225.124:5000/live/space_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SPACE sd
+http://190.11.225.124:5000/live/space_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SONY CHANNEL hd
 http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SONY CHANNEL hd
-http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SONY CHANNEL sd
+http://190.11.225.124:5000/live/sony_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ TNT hd
 http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ TNT hd
-http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ TNT sd
+http://190.11.225.124:5000/live/tnt_sd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ TELEMUNDO hd
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ TELEMUNDO sd
 http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ TELEMUNDO hd
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ NBC UNIVERSO West hd
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ NBC UNIVERSO West hd
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ NBC UNIVERSO West sd
+http://190.11.225.124:5000/live/universo_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ UNIVERSAL TV hd
 http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ UNIVERSAL TV hd
-http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ UNIVERSAL TV sd
+http://190.11.225.124:5000/live/universal_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ USA NETWORK hd
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ USA NETWORK hd
-http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ USA NETWORK sd
+http://190.11.225.124:5000/live/usa_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ WARNER CHANNEL hd
 http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ WARNER CHANNEL hd
-http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ WARNER CHANNEL sd
+http://190.11.225.124:5000/live/warner_sd/playlist.m3u8
 
 
 
@@ -2308,6 +2125,12 @@ https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/comedy.centra
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/distrito.comedia.mx.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISTRITO COMEDIA MX (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/distrito.comedia.mx.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DE PELICULA MX (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/de.pelicula.mx.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DE PELICULA MX (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/de.pelicula.mx.m3u8
+
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ Destination America US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/destination.america.us.m3u8
@@ -5356,13 +5179,135 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 #EXTINF:-1 tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ A&E Eastern (sd)
 https://tvpass.org/live/AEEast/sd
-#EXTINF:-1 tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ A&E Eastern (hd)
-https://tvpass.org/live/AEEast/hd
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ AMC Eastern (sd)
-https://tvpass.org/live/AMCEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ AMC Eastern (hd)
-https://tvpass.org/live/AMCEast/hd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ ActionMax Eastern US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/actionmax.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ ActionMax Eastern US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/actionmax.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ AMC Eastern US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ AMC Eastern US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/amc.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AMC MX (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AMC MX (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/amc.mx.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AXN MX (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AXN MX (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/axn.mx.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.white.es.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt2) 
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/axn.white.es.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt3) 
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/axn.white.es.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ ALIBI | CRIME INVESTIGATION UK (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/alibi.uk.m3u8
+#EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ ALIBI | CRIME INVESTIGATION UK (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/alibi.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ ALIBI | CRIME INVESTIGATION UK (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/alibi.uk.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ AMC US (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ AMC US (opt2) 
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/amc.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ AMC US (opt3) 
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/amc.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7032.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt2)
+http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7032.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt3)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7032.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt4)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7032.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt5)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7032
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7029.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt2)
+http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7029.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt3)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7029.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt4)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7029.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt5)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7029
+
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7031.ts
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt2)
+http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7031.m3u8
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt3)
+http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7031.m3u8
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt4)
+http://alfa.7057460.xyz:2095/live/ameca01/1989/7031.m3u8
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt5)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7031
+
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : LATINO | 92627 (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/92627
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : LATINO | 92627 (opt2) 
+http://mains.vip:2086/3003556325/2772007/92627
+
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : ES | 88675 (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/88675
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : ES | 88675 (opt2) 
+http://mains.vip:2086/3003556325/2772007/88675
+
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² AMC
+http://41.205.93.154/AMC/index.m3u8
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : LATINO | 98772 (opt1) 
+http://mains.best:2086/3003556325/2772007/98772
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : LATINO | 98772 (opt2) 
+http://mains.services:2086/640939802963/IDC01478!/98772
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : ES | 88671 (opt1) 
+http://mains.best:2086/3003556325/2772007/88671
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : ES | 88671 (opt2) 
+http://mains.services:2086/640939802963/IDC01478!/88671
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/95377
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC (opt2) 
+http://mains.best:2086/3003556325/2772007/95377 
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC HD (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/562
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC HD (opt2)  
+http://mains.best:2086/3003556325/2772007/562 
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC FHD (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/64158
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC FHD (opt2) 
+http://mains.best:2086/3003556325/2772007/64158 
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ A&E : LATINO | 98773 (opt1) 
+http://mains.best:2086/3003556325/2772007/98773
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ A&E : LATINO | 98773 (opt2) 
+http://mains.services:2086/640939802963/IDC01478!/98773
+
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² A&E | AandE
+http://41.205.93.154/AandE/index.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* AMC SERIES *LQ
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/29634.m3u8
@@ -5441,119 +5386,8 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29523.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ AFV | Comedy
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ ALIBI | CRIME INVESTIGATION UK (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/alibi.uk.m3u8
-#EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ ALIBI | CRIME INVESTIGATION UK (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/alibi.uk.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ ALIBI | CRIME INVESTIGATION UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/alibi.uk.m3u8
 
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.white.es.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt2) 
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/axn.white.es.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt3) 
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/axn.white.es.m3u8
-
-
-
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7031.ts
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt2)
-http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7031.m3u8
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt3)
-http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7031.m3u8
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt4)
-http://alfa.7057460.xyz:2095/live/ameca01/1989/7031.m3u8
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AXN ES (opt5)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7031
-
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : LATINO | 92627 (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/92627
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : LATINO | 92627 (opt2) 
-http://mains.vip:2086/3003556325/2772007/92627
-
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : ES | 88675 (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/88675
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AXN : ES | 88675 (opt2) 
-http://mains.vip:2086/3003556325/2772007/88675
-
-
-
-
-
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² AMC
-http://41.205.93.154/AMC/index.m3u8
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ AMC US (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ AMC US (opt2) 
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/amc.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ AMC US (opt3) 
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/amc.eastern.us.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7029.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt2)
-http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7029.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt3)
-http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7029.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt4)
-http://alfa.7057460.xyz:2095/live/ameca01/1989/7029.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt5)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7029
-
-
-
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : LATINO | 98772 (opt1) 
-http://mains.best:2086/3003556325/2772007/98772
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : LATINO | 98772 (opt2) 
-http://mains.services:2086/640939802963/IDC01478!/98772
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : ES | 88671 (opt1) 
-http://mains.best:2086/3003556325/2772007/88671
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ AMC : ES | 88671 (opt2) 
-http://mains.services:2086/640939802963/IDC01478!/88671
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/95377
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC (opt2) 
-http://mains.best:2086/3003556325/2772007/95377 
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC HD (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/562
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC HD (opt2)  
-http://mains.best:2086/3003556325/2772007/562 
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC FHD (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/64158
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ AMC FHD (opt2) 
-http://mains.best:2086/3003556325/2772007/64158 
-
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ A&E : LATINO | 98773 (opt1) 
-http://mains.best:2086/3003556325/2772007/98773
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☆ A&E : LATINO | 98773 (opt2) 
-http://mains.services:2086/640939802963/IDC01478!/98773
-
-
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² A&E | AandE
-http://41.205.93.154/AandE/index.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7032.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt2)
-http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7032.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt3)
-http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7032.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt4)
-http://alfa.7057460.xyz:2095/live/ameca01/1989/7032.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt5)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7032
 
 
 
@@ -5564,8 +5398,6 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Bravo USA Eastern (sd)
-https://tvpass.org/live/BravoEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Bravo USA Eastern (hd)
 https://tvpass.org/live/BravoEast/sd
 
 
@@ -5634,18 +5466,55 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Cinemax Eastern (sd)
-https://tvpass.org/live/CinemaxEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Cinemax Eastern (hd)
-https://tvpass.org/live/CinemaxEast/hd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINEMAX MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINEMAX MX (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinemax.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINEMAX MX (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinemax.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINEMAX MX (opt3)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinemax.mx.m3u8
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ CMT Eastern (sd)
-https://tvpass.org/live/CMTEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ CMT Eastern (hd)
-https://tvpass.org/live/CMTEast/hd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINECANAL MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINECANAL MX (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINECANAL MX (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinecanal.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINECANAL MX (opt4)
+https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinecanal.mx.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ CINEMAX BR (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.br.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ CINEMAX BR (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinemax.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ Cinemax Eastern US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ Cinemax Eastern US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinemax.eastern.us.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINEMAX MX (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2210
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINEMAX AR (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2211
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINECANAL MX (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2206
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINECANAL AR (opt1)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2205
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  CINE SKY 01 [FHD]
+http://pfsv.io:80/6181288/27664/50858.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  CINE SKY 2 [FHD]
+http://pfsv.io:80/6181288/27664/50859.ts
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  CINE SKY 3 [FHD]
+http://pfsv.io:80/6181288/27664/50860.ts
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* CINECANAL *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29587.ts
@@ -5717,44 +5586,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29525.ts
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* COMEDY CENTRAL *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29526.ts
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINEMAX MX (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinemax.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINEMAX MX (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinemax.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINEMAX MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinemax.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINEMAX MX (opt3)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinemax.mx.m3u8
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINECANAL MX (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cinecanal.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINECANAL MX (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinecanal.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINECANAL MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinecanal.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ CINECANAL MX (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/cinecanal.mx.m3u8
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINEMAX MX (opt1)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2210
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINEMAX AR (opt1)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2211
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINECANAL MX (opt1)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2206
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ CINECANAL AR (opt1)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2205
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  CINE SKY 01 [FHD]
-http://pfsv.io:80/6181288/27664/50858.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  CINE SKY 2 [FHD]
-http://pfsv.io:80/6181288/27664/50859.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷  CINE SKY 3 [FHD]
-http://pfsv.io:80/6181288/27664/50860.ts
-
-
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸ⓕ291 Canela.tv | Kids Movies TG (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=291
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸ⓕ291 Canela.tv | Kids Movies TG (opt2)
@@ -5767,6 +5598,10 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ DE PELICULA MX (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/de.pelicula.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ DE PELICULA MX (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/de.pelicula.mx.m3u8
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ D PELICULA MX (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2213
@@ -5914,36 +5749,6 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Freeform East | Family (sd)
-https://tvpass.org/live/FreeformEast/sd
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Freeform East | Family (hd)
-https://tvpass.org/live/FreeformEast/hd
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ FUSE TV East (sd)
-https://tvpass.org/live/FuseEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ FUSE TV East (hd)
-https://tvpass.org/live/FuseEast/hd
-
-
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ FX Movie Channel (sd)
-https://tvpass.org/live/FXMovieChannel/sd
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ FX Movie Channel (hd)
-https://tvpass.org/live/FXMovieChannel/hd
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ FX Network East Coast (sd)
-https://tvpass.org/live/FXEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ FX Network East Coast (hd)
-https://tvpass.org/live/FXEast/hd
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ FXX Eastern (sd)
-https://tvpass.org/live/FXXEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ FXX Eastern (hd)
-https://tvpass.org/live/FXXEast/hd
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ FYI Eastern (sd)
-https://tvpass.org/live/GolfChannel/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ FYI Eastern (hd)
-https://tvpass.org/live/GolfChannel/hd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* FILM ARTS *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29628.ts
@@ -6053,15 +5858,16 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Game Show Network East (sd)
-https://tvpass.org/live/game-show-network-east/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Game Show Network East (hd)
-https://tvpass.org/live/game-show-network-east/hd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GET TV (opt1)
+http://mains.best:2086/3003556325/2772007/62322
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GET TV (opt2)
+http://mains.services:2086/640939802963/IDC01478!/62322
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Golf Channel USA (sd)
-https://tvpass.org/live/GolfChannel/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Golf Channel USA (hd)
-https://tvpass.org/live/GolfChannel/hd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GRIT FHD (opt1)
+http://mains.best:2086/3003556325/2772007/15371
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GRIT FHD (opt2)
+http://mains.services:2086/640939802963/IDC01478!/15371
+
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* GOLDEN *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/778.ts
@@ -6097,17 +5903,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41591.ts
 
 
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GET TV (opt1)
-http://mains.best:2086/3003556325/2772007/62322
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GET TV (opt2)
-http://mains.services:2086/640939802963/IDC01478!/62322
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GRIT FHD (opt1)
-http://mains.best:2086/3003556325/2772007/15371
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GRIT FHD (opt2)
-http://mains.services:2086/640939802963/IDC01478!/15371
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 H 🇺🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
@@ -6115,56 +5910,81 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO Eastern (sd)
-https://tvpass.org/live/HBOEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO Eastern (hd)
-https://tvpass.org/live/HBOEast/hd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇨🇦⚽ HBO CA (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.ca.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇨🇦⚽ HBO CA (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.ca.m3u8
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO 2 Eastern (sd)
-https://tvpass.org/live/HBO2East/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO 2 Eastern (hd)
-https://tvpass.org/live/HBO2East/hd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HBO WEST US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HBO WEST US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.west.us.m3u8
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO Comedy East (sd)
-https://tvpass.org/live/HBOComedyEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO Comedy East (hd)
-https://tvpass.org/live/HBOComedyEast/hd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HBO Eastern US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HBO Eastern US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.eastern.us.m3u8
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO Family Eastern (sd)
-https://tvpass.org/live/HBOFamilyEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO Family Eastern (hd)
-https://tvpass.org/live/HBOFamilyEast/hd
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO Signature HBO 3 Eastern (sd)
-https://tvpass.org/live/HBOSignatureEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO Signature HBO 3 Eastern (hd)
-https://tvpass.org/live/HBOSignatureEast/hd
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO Zone East (sd)
-https://tvpass.org/live/HBOZoneEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HBO Zone East (hd)
-https://tvpass.org/live/HBOZoneEast/hd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HBO 2 Eastern US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HBO 2 Eastern US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.eastern.us.m3u8
 
 
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HLN (sd)
-https://tvpass.org/live/HLN/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ HLN (hd)
-https://tvpass.org/live/HLN/hd
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Hallmark Family | Drama (sd)
-https://tvpass.org/live/HallmarkDrama/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Hallmark Family | Drama (hd)
-https://tvpass.org/live/HallmarkDrama/hd
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Hallmark Movies & Mysteries East (sd)
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Hallmark Movies & Mysteries East (hd)
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HBO COMEDY East US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.comedy.east.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HBO COMEDY East US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.comedy.east.us.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Hard Knocks | Sports
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HBO Family Eastern US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.eastern.us.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HBO Family Eastern US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ HBO CO (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.co.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ HBO CO (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.co.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ HBO 2 CO (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.co.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ HBO 2 CO (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.co.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ HBO Family CO (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.co.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ HBO Family CO (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.co.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ HBO Signature CO (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signature.co.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ HBO Signature CO (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.signature.co.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ HBO 18+ BR Subt (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.br.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ HBO 18+ BR Subt (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ HBO 2 BR (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.br.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ HBO 2 BR (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ HBO Family BR (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.br.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ HBO Family BR (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ HBO Signature BR (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signature.br.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ HBO Signature BR (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.signature.br.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HALLMARK CHANNEL (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hallmark.channel.eastern.us.m3u8
@@ -6187,6 +6007,11 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hallmark.mo
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ HALLMARK MYSTERY (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Hard Knocks | Sports
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK CHANNEL(opt1)
