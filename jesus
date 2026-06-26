@@ -392,14 +392,16 @@ http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ¹ FS1 | FOX Sports 1 hd (02)
 http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ FS2 FOX Sports 2 (01) x
-https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ¹ FS2 | FOX Sports 2 hd (01)
+http://190.11.225.124:5000/live/fs2_hd/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ¹ FS2 | FOX Sports 2 hd (02)
+http://190.11.225.124:5000/live/fs2_hd/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FUSE TV Eastern US (opt01)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fuse.tv.eastern.us.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FUSE TV Eastern US (opt02)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fuse.tv.eastern.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FOX Business US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.business.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FOX Business US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.business.us.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FOX Business US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.business.us.m3u8
@@ -532,18 +534,27 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸFrance 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
+
+
+#EXTINF:-1 vg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ FX Network East Coast (01) x
+https://tvpass.org/live/FXEast/sd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ FYI Eastern (01) x
+https://tvpass.org/live/FYIEast/sd
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸFubo Sports Network (1080p) 
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸFubo Sports Network (1080p)
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FUBO Sports US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fubo.sports.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FUBO Sports US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fubo.sports.us.m3u8
 
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ Freeform East (01) x
-https://tvpass.org/live/FreeformEast/sd
-#EXTINF:-1 vg-logo="https://i.imgur.com/ZScwrpi.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ FX Network East Coast (01) x
-https://tvpass.org/live/FXEast/sd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ FYI Eastern (01) x
-https://tvpass.org/live/FYIEast/sd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FREEFORM East US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/reeform.east.us.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FREEFORM East US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/reeform.east.us.m3u8
 
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ HALLMARK CHANNEL US (opt01)
@@ -591,6 +602,11 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ HBO Family Eastern US (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.eastern.us.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ HBO ZONE East US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.zone.east.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ HBO ZONE East US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.zone.east.us.m3u8
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸⚽ HBO CO (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.co.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸⚽ HBO CO (opt02)
@@ -630,9 +646,6 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signature.br.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇧🇷⚽ HBO Signature BR (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.signature.br.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ HBO Zone East (01) x
-https://tvpass.org/live/HBOZoneEast/sd
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸⚽ History CO (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/history.co.m3u8
@@ -3342,93 +3355,79 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinecanal.m
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ CINECANAL MX (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinecanal.mx.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO CA (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇨🇦⚽ HBO CA (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.ca.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO CA (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇨🇦⚽ HBO CA (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.ca.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO CA (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.ca.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO WEST US (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO WEST US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO WEST US (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO WEST US (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO WEST US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.west.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO EASTERN US (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO Eastern US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO EASTERN US (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO Eastern US (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.eastern.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO 2 EASTERN US (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO 2 Eastern US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO 2 EASTERN US (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO 2 Eastern US (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO 2 EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.2.eastern.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO COMEDY EAST US (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO COMEDY East US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.comedy.east.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO COMEDY EAST US (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO COMEDY East US (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.comedy.east.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO COMEDY EAST US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.comedy.east.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt1)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO Family Eastern US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt2)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",,🇺🇸⚽ HBO Family Eastern US (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.family.eastern.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO ZONE EAST US (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO ZONE East US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.zone.east.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO ZONE EAST US (opt2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO ZONE East US (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.zone.east.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HBO ZONE EAST US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.zone.east.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO CO (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO CO (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.co.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO CO (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO CO (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.co.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO 2 CO (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO 2 CO (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.co.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO 2 CO (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO 2 CO (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.co.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO Family CO (opt1)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO Family CO (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.co.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO Family CO (opt2)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO Family CO (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.co.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO Signature CO (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO Signature CO (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signature.co.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO Signature CO (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO Signature CO (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.signature.co.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO 18+ BR (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO 18+ BR Subt (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HBO 18+ BR (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO 18+ BR Subt (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.br.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO 2 BR (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO 2 BR (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.br.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO 2 BR (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO 2 BR (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.br.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO Family BR (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO Family BR (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.br.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO Family BR (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO Family BR (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.br.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO Signature BR (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO Signature BR (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signature.br.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO Signature BR (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ HBO Signature BR (opt02)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.signature.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ INDIEPLEX EASTERN US (opt1)
@@ -9662,51 +9661,80 @@ http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id=“Hbo_Zone.us" tvg-logo="" group-title="🇺🇸 HBO 🇪🇸",🇺🇸☑ HBO_ZONE_USA
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.west.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/hbo.west.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO EASTERN US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/hbo.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 EASTERN US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/hbo.2.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO FAMILY EASTERN US (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/hbo.family.eastern.us.m3u8
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.ca.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt2)
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇨🇦⚽ HBO CA (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.ca.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hbo.ca.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO CA (opt4)
-https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/hbo.ca.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇨🇦⚽ HBO CA (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.ca.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.west.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO WEST US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.west.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO Eastern US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO Eastern US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 Eastern US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.eastern.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO 2 Eastern US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.eastern.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO COMEDY East US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.comedy.east.us.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO COMEDY East US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.comedy.east.us.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO Family Eastern US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.eastern.us.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO Family Eastern US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.eastern.us.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO ZONE East US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.zone.east.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="🇺🇸 HBO 🇪🇸",🇺🇸⚽ HBO ZONE East US (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.zone.east.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO CO (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.co.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO CO (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.co.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO 2 CO (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.co.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO 2 CO (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.co.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO Family CO (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.co.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/2/23/HBO_Family_1996.png" group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO Family CO (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.co.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO Signature CO (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signature.co.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸⚽ HBO Signature CO (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.signature.co.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO 18+ BR Subt (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO 18+ BR Subt (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO 2 BR (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.2.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO 2 BR (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.2.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO Family BR (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.family.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO Family BR (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.family.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO Signature BR (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/hbo.signature.br.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇧🇷⚽ HBO Signature BR (opt02)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.signature.br.m3u8
 
 
 
