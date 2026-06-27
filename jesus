@@ -45,13 +45,20 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.wplg.mi
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ABC 10 (WPLG) Miami FL (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.wplg.miami.fl.us.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.wabc.new.york.ny.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.wabc.new.york.ny.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.wabc.new.york.ny.us.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.mxl-iptv.tv/logos_tv/4b830b5eecfd1994f39549ba1bac193f.jpg" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² A&E Eastern (01) 
-http://41.205.93.154/AandE/index.m3u8
-#EXTINF:-1 tvg-logo="https://app.mxl-iptv.tv/logos_tv/4b830b5eecfd1994f39549ba1bac193f.jpg" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² A&E Eastern (02) 
-http://41.205.93.154/AandE/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² A&E Eastern (03)
-http://41.205.93.154/AandE/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ABC 7 (KABC) Los Angeles CA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ABC 7 (KABC) Los Angeles CA (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ABC 7 (KABC) Los Angeles CA (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
+
 
 #EXTINF:-1 tvg-id="KABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² ABC KABC Los Angeles (01)
 http://41.205.93.154/ABC/index.m3u8
@@ -60,8 +67,14 @@ http://41.205.93.154/ABC/playlist.m3u8
 #EXTINF:-1 tvg-id="KABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² ABC KABC Los Angeles (03)
 http://41.205.93.154/ABC/mono.m3u8
 
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸ᴾᴿᵒ ABC WABC New York (01) x
-https://tvpass.org/live/WABCDT1/sd
+#EXTINF:-1 tvg-logo="https://app.mxl-iptv.tv/logos_tv/4b830b5eecfd1994f39549ba1bac193f.jpg" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² A&E Eastern (01) 
+http://41.205.93.154/AandE/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.mxl-iptv.tv/logos_tv/4b830b5eecfd1994f39549ba1bac193f.jpg" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² A&E Eastern (02) 
+http://41.205.93.154/AandE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² A&E Eastern (03)
+http://41.205.93.154/AandE/mono.m3u8
+
+
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ BLAZE UK (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/blaze.uk.m3u8
@@ -4451,18 +4464,25 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.wftv.or
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 9 (WFTV) Orlando FL (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.wftv.orlando.fl.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.wabc.new.york.ny.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.wabc.new.york.ny.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.wabc.new.york.ny.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 KGO San Fco. CA (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (KABC) Los Angeles CA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (KABC) Los Angeles CA (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (KABC) Los Angeles CA (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (KGO) San Francisco CA (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.kgo.san.francisco.ca.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 KGO San Fco. CA (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (KGO) San Francisco CA (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.kgo.san.francisco.ca.us.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 KGO San Fco. CA (opt3)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 7 (KGO) San Francisco CA (opt3)
 https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.kgo.san.francisco.ca.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ABC 30 (KFSN) Fresno CA (opt1)
@@ -17597,25 +17617,41 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 10 (WPLG) Miami FL (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.wplg.miami.fl.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 10 (WPLG) Miami FL (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.wplg.miami.fl.us.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.wplg.miami.fl.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 10 (WPLG) Miami FL (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/abc.wplg.miami.fl.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 10 (WPLG) Miami FL (opt4)
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/abc.wplg.miami.fl.us.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="🆕🇸 ABC 🇺🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.wabc.new.york.ny.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="🆕🇸 ABC 🇺🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.wabc.new.york.ny.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="🆕🇸 ABC 🇺🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.wabc.new.york.ny.us.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="🆕🇸 ABC 🇺🇸",🇺🇸⚽ ABC 7 (KABC) Los Angeles CA (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="🆕🇸 ABC 🇺🇸",🇺🇸⚽ ABC 7 (KABC) Los Angeles CA (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="🆕🇸 ABC 🇺🇸",🇺🇸⚽ ABC 7 (KABC) Los Angeles CA (opt3)
+https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
+
+
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 7 KGO San Fco. CA | NBA PLAYOFFS (opt1) 
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.kgo.san.francisco.ca.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 7 KGO San Fco. CA | NBA PLAYOFFS (opt2) 
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.kgo.san.francisco.ca.us.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.kgo.san.francisco.ca.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 7 KGO San Fco. CA | NBA PLAYOFFS (opt3) 
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/abc.kgo.san.francisco.ca.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 7 KGO San Fco. CA | NBA PLAYOFFS (opt4) 
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/abc.kgo.san.francisco.ca.us.m3u8
 
+
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 30 (KFSN) Fresno CA (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.kfsn.fresno.ca.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 30 (KFSN) Fresno CA (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.kfsn.fresno.ca.us.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.kfsn.fresno.ca.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 30 (KFSN) Fresno CA (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/abc.kfsn.fresno.ca.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 30 (KFSN) Fresno CA (opt4)
@@ -17624,7 +17660,7 @@ https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/abc.kfsn.fre
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 9 (WFTV) Orlando FL (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.wftv.orlando.fl.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 9 (WFTV) Orlando FL (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.wftv.orlando.fl.us.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.wftv.orlando.fl.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 9 (WFTV) Orlando FL (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/abc.wftv.orlando.fl.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 9 (WFTV) Orlando FL (opt4)
@@ -17633,7 +17669,7 @@ https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/abc.wftv.orl
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 7 (WABC) New York NY (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.wabc.new.york.ny.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 7 (WABC) New York NY (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.wabc.new.york.ny.us.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.wabc.new.york.ny.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 7 (WABC) New York NY (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/abc.wabc.new.york.ny.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 7 (WABC) New York NY (opt4)
@@ -17642,7 +17678,7 @@ https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/abc.wabc.new
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 13 (KTRK) Houston TX (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.ktrk.houston.tx.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 13 (KTRK) Houston TX (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/abc.ktrk.houston.tx.us.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/abc.ktrk.houston.tx.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 13 (KTRK) Houston TX (opt3)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/abc.ktrk.houston.tx.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 ABC 🇺🇸",⚽ ABC 13 (KTRK) Houston TX (opt4)
@@ -18356,128 +18392,131 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX NEWS Channel US (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.news.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX NEWS Channel US (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.news.us.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.news.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX NEWS Channel US (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.news.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX NEWS Channel US (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.news.us.m3u8
 
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX NEWS Channel CA (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX NEWS Channel CA (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.news.ca.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX NEWS Channel CA (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.news.ca.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX NEWS Channel CA (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.news.ca.m3u8
 
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX BUSINESS US (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.business.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX BUSINESS US (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.business.us.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.business.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX BUSINESS US (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.business.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX BUSINESS US (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.business.us.m3u8
 
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVU) San Francisco CA | NFL 49ers (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVU) San Francisco CA | NFL 49ers (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVU) San Francisco CA | NFL 49ers (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVU) San Francisco CA | NFL 49ers (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
 
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 32 (WFLD) Chicago IL | NFL Bears (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.wfld.chicago.il.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 32 (WFLD) Chicago IL | NFL Bears (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.wfld.chicago.il.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 32 (WFLD) Chicago IL | NFL Bears (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wfld.chicago.il.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 32 (WFLD) Chicago IL | NFL Bears (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.wfld.chicago.il.us.m3u8
+
 
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KSAZ) Phoenix AZ | NFL Cardinals (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.ksaz.phoenix.az.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KSAZ) Phoenix AZ | NFL Cardinals (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.ksaz.phoenix.az.us.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ksaz.phoenix.az.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KSAZ) Phoenix AZ | NFL Cardinals (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ksaz.phoenix.az.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KSAZ) Phoenix AZ | NFL Cardinals (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.ksaz.phoenix.az.us.m3u8
-
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 4 (KDFW) Dallas TX | NFL Cowboys (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.kdfw.dallas.tx.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 4 (KDFW) Dallas TX | NFL Cowboys (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.kdfw.dallas.tx.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 4 (KDFW) Dallas TX | NFL Cowboys (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.kdfw.dallas.tx.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 4 (KDFW) Dallas TX | NFL Cowboys (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.kdfw.dallas.tx.us.m3u8
-
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 26 (KRIV) Houston TX | NFL Cowboys (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.kriv.houston.tx.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 26 (KRIV) Houston TX | NFL Cowboys (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.kriv.houston.tx.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 26 (KRIV) Houston TX | NFL Cowboys (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.kriv.houston.tx.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 26 (KRIV) Houston TX | NFL Cowboys (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.kriv.houston.tx.us.m3u8
-
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WSVN) Miami FL | NFL Dolphins (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.wsvn.miami.fl.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WSVN) Miami FL | NFL Dolphins (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.wsvn.miami.fl.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WSVN) Miami FL | NFL Dolphins (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wsvn.miami.fl.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WSVN) Miami FL | NFL Dolphins (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.wsvn.miami.fl.us.m3u8
-
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 29 (WTXF) Philadelphia PA | NFL Eagles (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.wtxf.philadelphia.pa.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 29 (WTXF) Philadelphia PA | NFL Eagles (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.wtxf.philadelphia.pa.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 29 (WTXF) Philadelphia PA | NFL Eagles (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wtxf.philadelphia.pa.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 29 (WTXF) Philadelphia PA | NFL Eagles (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.wtxf.philadelphia.pa.us.m3u8
-
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 5 (WAGA) Atlanta GA | NFL Falcons (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.waga.atlanta.ga.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 5 (WAGA) Atlanta GA | NFL Falcons (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.waga.atlanta.ga.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 5 (WAGA) Atlanta GA | NFL Falcons (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.waga.atlanta.ga.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 5 (WAGA) Atlanta GA | NFL Falcons (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.waga.atlanta.ga.us.m3u8
-
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 2 (WJBK) Detroit MI | NFL Lions (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.wjbk.detroit.mi.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 2 (WJBK) Detroit MI | NFL Lions (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.wjbk.detroit.mi.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 2 (WJBK) Detroit MI | NFL Lions (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wjbk.detroit.mi.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 2 (WJBK) Detroit MI | NFL Lions (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.wjbk.detroit.mi.us.m3u8
-
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVI) St. Louis MO | NFL Packers (opt1)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.ktvi.st.louis.mo.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVI) St. Louis MO | NFL Packers (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.ktvi.st.louis.mo.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVI) St. Louis MO | NFL Packers (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ktvi.st.louis.mo.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVI) St. Louis MO | NFL Packers (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.ktvi.st.louis.mo.us.m3u8
 
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTXL) Sacramento CA | NFL Rams (opt1)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.ktxl.sacramento.ca.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTXL) Sacramento CA | NFL Rams (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.ktxl.sacramento.ca.us.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ktxl.sacramento.ca.us.m3u8
 #EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTXL) Sacramento CA | NFL Rams (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ktxl.sacramento.ca.us.m3u8
-#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTXL) Sacramento CA | NFL Rams (opt4)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.ktxl.sacramento.ca.us.m3u8
+
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVU) San Francisco CA | NFL 49ers (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVU) San Francisco CA | NFL 49ers (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVU) San Francisco CA | NFL 49ers (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WTIC) Hartford CT (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.wtic.hartford.ct.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WTIC) Hartford CT (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wtic.hartford.ct.us.m3u8
+
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WSVN) Miami FL | NFL Dolphins (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.wsvn.miami.fl.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WSVN) Miami FL | NFL Dolphins (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wsvn.miami.fl.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WSVN) Miami FL | NFL Dolphins (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wsvn.miami.fl.us.m3u8
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WOFL) Orlando FL (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.wofl.orlando.fl.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WOFL) Orlando FL (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wofl.orlando.fl.us.m3u8
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 5 (WAGA) Atlanta GA | NFL Falcons (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.waga.atlanta.ga.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 5 (WAGA) Atlanta GA | NFL Falcons (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.waga.atlanta.ga.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 5 (WAGA) Atlanta GA | NFL Falcons (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.waga.atlanta.ga.us.m3u8
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 32 (WFLD) Chicago IL | NFL Bears (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.wfld.chicago.il.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 32 (WFLD) Chicago IL | NFL Bears (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wfld.chicago.il.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 32 (WFLD) Chicago IL | NFL Bears (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wfld.chicago.il.us.m3u8
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 2 (WJBK) Detroit MI | NFL Lions (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.wjbk.detroit.mi.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 2 (WJBK) Detroit MI | NFL Lions (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wjbk.detroit.mi.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 2 (WJBK) Detroit MI | NFL Lions (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wjbk.detroit.mi.us.m3u8
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVI) St. Louis MO | NFL Packers (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.ktvi.st.louis.mo.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVI) St. Louis MO | NFL Packers (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ktvi.st.louis.mo.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KTVI) St. Louis MO | NFL Packers (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ktvi.st.louis.mo.us.m3u8
+
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 29 (WTXF) Philadelphia PA | NFL Eagles (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.wtxf.philadelphia.pa.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 29 (WTXF) Philadelphia PA | NFL Eagles (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wtxf.philadelphia.pa.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 29 (WTXF) Philadelphia PA | NFL Eagles (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wtxf.philadelphia.pa.us.m3u8
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WPGH)Pittsburgh PA (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.wpgh.pittsburgh.pa.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (WPGH)Pittsburgh PA (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.wpgh.pittsburgh.pa.us.m3u8
+
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KABB) San Antonio TX (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.kabb.san.antonio.tx.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX (KABB) San Antonio TX (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.kabb.san.antonio.tx.us.m3u8
+
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 4 (KDFW) Dallas TX | NFL Cowboys (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.kdfw.dallas.tx.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 4 (KDFW) Dallas TX | NFL Cowboys (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.kdfw.dallas.tx.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 4 (KDFW) Dallas TX | NFL Cowboys (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.kdfw.dallas.tx.us.m3u8
+
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 26 (KRIV) Houston TX | NFL Cowboys (opt1)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.kriv.houston.tx.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 26 (KRIV) Houston TX | NFL Cowboys (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.kriv.houston.tx.us.m3u8
+#EXTINF:-1 group-title="🆕🇸 FOX 🇺🇸",⚽ FOX 26 (KRIV) Houston TX | NFL Cowboys (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.kriv.houston.tx.us.m3u8
+
+
+
 
 
 
@@ -18496,7 +18535,7 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="🆕🇸 FOX 🇺🇸",🇺🇸☑ Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 FOX 🇺🇸",🇺🇸☑ FOX Sports AmazonNews [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🆕🇸 FOX 🇺🇸",🇺🇸☑ FOX Sports Amazon News [Geo-blocked]
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="🆕🇸 FOX 🇺🇸",🇺🇸☑ Fox News Radio (720p)
