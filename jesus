@@ -3320,6 +3320,14 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/canal.9.ar.
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELENUEVE C9 AR (opt3)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/canal.9.ar.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ EL TRECE AR (opt1)
+https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/el.trece.ar.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ EL TRECE AR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/el.trece.ar.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ EL TRECE AR (opt3)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/el.trece.ar.m3u8
+
+
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELEPAIS HN (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/teleprogreso.hon.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELEPAIS HN (opt2)
@@ -4094,6 +4102,13 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/comedy.cent
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COMEDY CENTRAL US (opt3)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/comedy.central.eastern.us.m3u8
 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CTV CA (opt1)
+https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/yes.network.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CTV CA (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/yes.network.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CTV CA (opt3)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/yes.network.us.m3u8
+
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝CORNERSTONE TELEVISION US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cornerstone.television.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝CORNERSTONE TELEVISION US (opt2)
@@ -4220,19 +4235,12 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.busines
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX BUSINESS US (opt3)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/fox.business.us.m3u8
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HISTORY CO (opt1)
-https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/history.co.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HISTORY CO (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/history.co.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HISTORY CO (opt3)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/history.co.m3u8
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HISTORIA CA FR (opt1)
-https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/historia.ca.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HISTORIA CA FR (opt2)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/historia.ca.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HISTORIA CA FR (opt3)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/historia.ca.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FREEFORM East US (opt1)
+https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/freeform.east.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FREEFORM East US (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/freeform.east.us.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FREEFORM East US (opt3)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/freeform.east.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HALLMARK CHANNEL US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/hallmark.channel.eastern.us.m3u8
@@ -4254,6 +4262,20 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/hallmark.m
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HALLMARK MYSTERY US (opt3)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HISTORY CO (opt1)
+https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/history.co.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HISTORY CO (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/history.co.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HISTORY CO (opt3)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/history.co.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HISTORIA CA FR (opt1)
+https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/historia.ca.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HISTORIA CA FR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/historia.ca.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HISTORIA CA FR (opt3)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/historia.ca.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ IFC Independent Film Channel US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/ifc.us.m3u8
