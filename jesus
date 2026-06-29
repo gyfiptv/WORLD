@@ -2531,9 +2531,9 @@ http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ ABC miami sd
 http://190.11.225.124:5000/live/abc_sd/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ ANIMAL PLANET Discovery sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ ANIMAL PLANET Discovery sd
 http://190.11.225.124:5000/live/animal_planet_sd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ ANIMAL PLANET Discovery hd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ ANIMAL PLANET Discovery hd
 http://190.11.225.124:5000/live/animal_planet_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ CBS hd
@@ -2577,14 +2577,14 @@ http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
 http://190.11.225.124:5000/live/disney_jr_sd/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FS1 FOX SPORTS 1 hd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ FS1 FOX SPORTS 1 hd
 http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FS1 FOX SPORTS 1 sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ FS1 FOX SPORTS 1 sd
 http://190.11.225.124:5000/live/fs1_sd/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FREEFORM sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ FREEFORM sd
 http://190.11.225.124:5000/live/freeform_sd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FREEFORM hd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ FREEFORM hd
 http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FX hd
@@ -2592,9 +2592,9 @@ http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ FX sd
 http://190.11.225.124:5000/live/fx_sd/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ GOLF hd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ GOLF hd
 http://190.11.225.124:5000/live/golf_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ GOLF sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ GOLF sd
 http://190.11.225.124:5000/live/golf_sd/playlist.m3u8
 
 
@@ -2603,9 +2603,9 @@ http://190.11.225.124:5000/live/golden_sd/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ GOLDEN EDGE hd
 http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HALLMARK hd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ HALLMARK hd
 http://190.11.225.124:5000/live/hallmark_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HALLMARK sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ HALLMARK sd
 http://190.11.225.124:5000/live/hallmark_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO XTREME hd
@@ -2628,9 +2628,9 @@ http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HBO SIGNATURE sd
 http://190.11.225.124:5000/live/hbo_signature_sd/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HISTORY hd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ HISTORY hd
 http://190.11.225.124:5000/live/history_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ HISTORY sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ HISTORY sd
 http://190.11.225.124:5000/live/history_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ PARAMOUNT hd
@@ -2638,14 +2638,14 @@ http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ PARAMOUNT sd
 http://190.11.225.124:5000/live/paramount_sd/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SHOWTIME hd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ SHOWTIME hd
 http://190.11.225.124:5000/live/showtime_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SHOWTIME sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸tᵛᶦᵖ SHOWTIME sd
 http://190.11.225.124:5000/live/showtime_sd/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ STARZ hd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ STARZ hd
 http://190.11.225.124:5000/live/starz_hd/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ STARZ sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸ᵛᶦᵖ STARZ sd
 http://190.11.225.124:5000/live/starz_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᵛᶦᵖ SPACE hd
@@ -2712,63 +2712,63 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/axn.mx.m3u
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AXN MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/axn.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AXN MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/axn.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/axn.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/axn.white.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/axn.white.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/axn.white.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/axn.white.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ AXN BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/axn.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ AXN BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/axn.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ AXN BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/axn.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/axn.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AMC MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/amc.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AMC MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/amc.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AMC MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/amc.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/amc.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ AMC EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/amc.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ AMC EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/amc.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ AMC EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/amc.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/amc.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINECANAL AR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cinecanal.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINECANAL AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinecanal.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINECANAL AR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinecanal.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cinecanal.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINECANAL MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cinecanal.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINECANAL MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinecanal.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINECANAL MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinecanal.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cinecanal.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINEMAX MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cinemax.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINEMAX MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinemax.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CINEMAX MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinemax.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cinemax.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ CINEMAX BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cinemax.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ CINEMAX BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinemax.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ CINEMAX BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinemax.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cinemax.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HBO CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/hbo.co.m3u8
@@ -2830,77 +2830,77 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cine.sony.
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SONY CINE US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cine.sony.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SONY CINE US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cine.sony.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cine.sony.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ SONY MOVIES US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/sony.movies.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ SONY MOVIES US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/sony.movies.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ SONY MOVIES US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/sony.movies.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/sony.movies.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SPACE AR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/space.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SPACE AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/space.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SPACE AR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/space.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/space.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SPACE BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/space.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SPACE BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/space.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SPACE BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/space.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/space.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SYFY | USA BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/syfy.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SYFY | USA BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/syfy.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SYFY | USA BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/syfy.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/syfy.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ STUDIO UNIVERSAL CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/studio.universal.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ STUDIO UNIVERSAL CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/studio.universal.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ STUDIO UNIVERSAL CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/studio.universal.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/studio.universal.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TLC BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tlc.pt.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TLC BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tlc.pt.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TLC BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tlc.pt.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tlc.pt.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TNT BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tnt.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TNT BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tnt.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TNT BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tnt.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tnt.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE ACTION BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/telecine.action.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE ACTION BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telecine.action.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE ACTION BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telecine.action.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/telecine.action.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE FUN BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/telecine.fun.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE FUN BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telecine.fun.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE FUN BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telecine.fun.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/telecine.fun.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE PREMIUM BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/telecine.premium.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE PREMIUM BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telecine.premium.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ TELECINE PREMIUM BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telecine.premium.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/telecine.premium.br.m3u8
 
 
 #EXTINF:-1 tvg-name="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸ᴸᵒᵛᵉ ᴺᴬᵀᵘᴿᵉ ##########  ♥ GROUP 02 📺ᴛvᵛᶦᵖ🇺🇸ᴘʀᴇmɪᴜm☑🇪🇸 ♥  ##########
@@ -2917,36 +2917,35 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/america.24
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ AMERICA24 | A24 AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/america.24.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ AMERICA24 | A24 AR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/america.24.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/america.24.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇪⚽ AMERICA TELEVISION PE (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/america.television.pe.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇪⚽ AMERICA TELEVISION PE (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/america.television.pe.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇪⚽ AMERICA TELEVISION PE (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/america.television.pe.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/america.television.pe.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ AZTECA 7 MX ʜᴅ (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/azteca.7.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ AZTECA 7 MX ʜᴅ (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/azteca.7.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ AZTECA 7 MX ʜᴅ (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/azteca.7.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/azteca.7.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/azteca.uno.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/azteca.uno.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/azteca.uno.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/azteca.uno.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ AZTECA CORAZON MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/azteca.corazon.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ AZTECA CORAZON MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/azteca.corazon.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ AZTECA CORAZON MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/azteca.corazon.mx.m3u8
-
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/azteca.corazon.mx.m3u8
 
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇴⚽ ATB BO (opt1)
@@ -2954,42 +2953,42 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/atb.bo.m3u
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇴⚽ ATB BO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/atb.bo.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇴⚽ ATB BO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/atb.bo.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/atb.bo.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇴⚽ BOLIVISION BO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/bolivision.bo.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇴⚽ BOLIVISION BO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bolivision.bo.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇴⚽ BOLIVISION BO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bolivision.bo.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/bolivision.bo.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ BANDAMAX MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/bandamax.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ BANDAMAX MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bandamax.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ BANDAMAX MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bandamax.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/bandamax.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CNN ESPANOL CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cnn.espanol.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CNN ESPANOL CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnn.espanol.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CNN ESPANOL CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnn.espanol.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cnn.espanol.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ C5N AR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/c5n.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ C5N AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/c5n.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ C5N AR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/c5n.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/c5n.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ COMEDY CENTRAL MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/comedy.central.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ COMEDY CENTRAL MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/comedy.central.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ COMEDY CENTRAL MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/comedy.central.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/comedy.central.mx.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISTRITO COMEDIA MX (opt01)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/distrito.comedia.mx.m3u8
@@ -3009,31 +3008,31 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/destination
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt1) 
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.es.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.es.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt3) 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt2) 
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.es.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt3)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY WORLD CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.world.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY WORLD CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.world.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY WORLD CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.world.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.world.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY TURBO CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.turbo.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY TURBO CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.turbo.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY TURBO CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.turbo.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.turbo.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY FAMILIA US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.familia.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY FAMILIA US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.familia.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY FAMILIA US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.familia.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.familia.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ Discovery Family Channel US (opt01)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.family.channel.us.m3u8
@@ -3050,21 +3049,21 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ DISCOVERY HISTORY UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.history.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ DISCOVERY HISTORY UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.history.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ DISCOVERY HISTORY UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.history.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.history.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ DISCOVERY SCIENCE UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.science.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ DISCOVERY SCIENCE UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.science.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ DISCOVERY SCIENCE UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.science.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.science.uk.m3u8
 
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISNEY Junior CO (opt1)
@@ -3072,7 +3071,7 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/disney.jr.
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISNEY Junior CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/disney.jr.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISNEY Junior CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/disney.jr.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/disney.jr.co.m3u8
 
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ ENCUENTRO AR (opt1)
@@ -3080,162 +3079,161 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/encuentro.
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ ENCUENTRO AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/encuentro.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ ENCUENTRO AR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/encuentro.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/encuentro.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HTV AR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/htv.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HTV AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/htv.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HTV AR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/htv.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/htv.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HISTORY CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/history.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HISTORY CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/history.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HISTORY CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/history.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/history.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ HISTORIA CA FR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/historia.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ HISTORIA CA FR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/historia.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ HISTORIA CA FR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/historia.ca.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/historia.ca.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ LOVE NATURE US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/love.nature.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ LOVE NATURE US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/love.nature.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ LOVE NATURE US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/love.nature.ca.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/love.nature.ca.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ MAGNOLIA NETWORK US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ MAGNOLIA NETWORK US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ MAGNOLIA NETWORK US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ METRO AR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/metro.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ METRO AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/metro.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ METRO AR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/metro.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/metro.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇷⚽ MEGA TV PR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/mega.pr.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇷⚽ MEGA TV PR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mega.pr.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇷⚽ MEGA TV PR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/mega.pr.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mega.pr.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ MEGA A3MEDIA.ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/mega.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ MEGA A3MEDIA.ES (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mega.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ MEGA A3MEDIA.ES US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/mega.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mega.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇨🇱⚽ MEGA CL (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/mega.cl.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇨🇱⚽ MEGA CL (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mega.cl.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇨🇱⚽ MEGA CL (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/mega.cl.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mega.cl.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ MILENIO TV MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/milenio.tv.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ MILENIO TV MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/milenio.tv.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ MILENIO TV MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/milenio.tv.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/milenio.tv.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ MULTISHOW BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/multishow.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ MULTISHOW BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/multishow.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ MULTISHOW BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/multishow.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/multishow.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NAT GEO UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nat.geo.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NAT GEO UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nat.geo.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NAT GEO UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nat.geo.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nat.geo.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NAT GEO WILD UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nat.geo.wild.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NAT GEO WILD UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nat.geo.wild.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NAT GEO WILD UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nat.geo.wild.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nat.geo.wild.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/national.geographic.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/national.geographic.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/national.geographic.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/national.geographic.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC WILD US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/national.geographic.wild.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC WILD US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/national.geographic.wild.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC WILD US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/national.geographic.wild.us.m3u8
-
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/national.geographic.wild.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nat.geo.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nat.geo.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nat.geo.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nat.geo.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nat.geo.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nat.geo.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nat.geo.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nat.geo.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ NATIONAL GEOGRAPHIC BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/national.geographic.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ NATIONAL GEOGRAPHIC BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/national.geographic.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ NATIONAL GEOGRAPHIC BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/national.geographic.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/national.geographic.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇹⚽ NATIONAL GEOGRAPHIC PT (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/national.geographic.pt.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇹⚽ NATIONAL GEOGRAPHIC PT (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/national.geographic.pt.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇵🇹⚽ NATIONAL GEOGRAPHIC PT (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/national.geographic.pt.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/national.geographic.pt.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NICK JR | Kids US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nick.jr.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NICK JR | Kids US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nick.jr.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NICK JR | Kids US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nick.jr.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nick.jr.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NICK JR | Kids UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nick.jr.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NICK JR | Kids UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nick.jr.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NICK JR | Kids UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nick.jr.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nick.jr.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NICKTOONS UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nicktoons.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NICKTOONS UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nicktoons.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇺🇸⚽ NICKTOONS UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nicktoons.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nicktoons.uk.m3u8
 
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NICKELODEON | Kids CO (opt1)
@@ -3243,91 +3241,91 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nickelodeo
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NICKELODEON | Kids CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nickelodeon.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NICKELODEON | Kids CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nickelodeon.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nickelodeon.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ PAKAPAKA | Kids AR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/pakapaka.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ PAKAPAKA | Kids AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/pakapaka.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ PAKAPAKA | Kids AR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/pakapaka.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/pakapaka.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/record.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/record.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/record.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/record.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD NEWS BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/record.news.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD NEWS BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/record.news.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ RECORD NEWS BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/record.news.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/record.news.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SBT | Sistema Brasileno de Television BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/sbt.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SBT | Sistema Brasileno de Television BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/sbt.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇧🇷⚽ SBT | Sistema Brasileno de Television BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/sbt.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/sbt.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SUPER CANAL DO | CAR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/super.canal.car.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SUPER CANAL DO | CAR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/super.canal.car.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SUPER CANAL DO | CAR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/super.canal.car.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/super.canal.car.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELECINCO ES ʜᴅ (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/telecinco.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELECINCO ES ʜᴅ (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telecinco.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELECINCO ES ʜᴅ (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telecinco.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/telecinco.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELEANTIOQUIA CO ʜᴅ (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/teleantioquia.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELEANTIOQUIA CO ʜᴅ (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/teleantioquia.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELEANTIOQUIA CO ʜᴅ (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/teleantioquia.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/teleantioquia.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇨⚽ Teleamazonas EC ʜᴅ (opt1) 
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/teleamazonas.lat.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇨⚽ Teleamazonas EC ʜᴅ (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/teleamazonas.lat.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇨⚽ Teleamazonas EC ʜᴅ (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleamazonas.lat.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/teleamazonas.lat.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELEFE AR ʜᴅ (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/telefe.ar.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELEFE AR ʜᴅ (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telefe.ar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELEFE AR ʜᴅ (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telefe.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/telefe.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELENUEVE C9 AR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/canal.9.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELENUEVE C9 AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/canal.9.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ TELENUEVE C9 AR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/canal.9.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/canal.9.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELEPAIS HN (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/teleprogreso.hon.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELEPAIS HN (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/teleprogreso.hon.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELEPAIS HN (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/teleprogreso.hon.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/teleprogreso.hon.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ TUDN | VIX MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tudn.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ TUDN | VIX MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tudn.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ TUDN | VIX MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tudn.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tudn.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇲🇽⚽ TUDN | VIX MX (opt4)
 https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/tudn.mx.m3u8
 
@@ -3336,7 +3334,7 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/univision.
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/univision.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/univision.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/univision.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt4)
 https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/univision.eastern.us.m3u8
 
@@ -3345,7 +3343,7 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/unimas.net
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ UNIMAS Network East  (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/unimas.network.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ UNIMAS Network East  (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/unimas.network.east.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/unimas.network.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ UNIMAS Network East  (opt4)
 https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/unimas.network.east.us.m3u8
 
@@ -3354,14 +3352,14 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/volver.ar.
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ VOLVER AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/volver.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇦🇷⚽ VOLVER AR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/volver.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/volver.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ WAPA+ PR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/afizzionados.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ WAPA+ PR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/afizzionados.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ WAPA+ PR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/afizzionados.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/afizzionados.mx.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",✝️ᴛʙɴᵀᵛ 🇪🇸 ESPANAᵀᵛ 🇺🇸  🌐🌎⭐ 🇪🇸01ᵀᵛ🌐world🇺🇸 ⭐🌎🌐
@@ -3372,161 +3370,161 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/24.horas.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/24.horas.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/24.horas.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ 24h 24HORAS RTVE.ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/24.horas.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ LA 1 RTVE.ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/la.1.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ LA 1 RTVE.ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/la.1.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/la.1.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ LA 1 RTVE.ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/la.1.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ LA 2 RTVE.ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/la.2.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ LA 2 RTVE.ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/la.2.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/la.2.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ LA 2 RTVE.ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/la.2.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/antena.3.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/antena.3.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/antena.3.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/antena.3.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ A3S A3MEDIA ES (opt1) Syfy
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/atresseries.es.m3u8 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ A3S A3MEDIA ES (opt2) Syfy
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/atresseries.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/atresseries.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ A3S A3MEDIA ES (opt3) Syfy
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/atresseries.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SERIES 2 | por M+ ES (opt1) 
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/movistar.series.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SERIES 2 | por M+ ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/movistar.series.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/movistar.series.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ SERIES 2 | por M+ ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/movistar.series.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CUATRO MEDIASET.ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cuatro.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CUATRO MEDIASET.ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cuatro.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cuatro.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CUATRO MEDIASET.ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cuatro.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELECINCO MEDIASET.ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/telecinco.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELECINCO MEDIASET.ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telecinco.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/telecinco.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TELECINCO MEDIASET.ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telecinco.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/lasexta.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/lasexta.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/lasexta.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/lasexta.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/axn.white.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/axn.white.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/axn.white.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/axn.white.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ BABYTV | Kids ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/babytv.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ BABYTV | Kids ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/babytv.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/babytv.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ BABYTV | Kids ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/babytv.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ BE MAD ES (opt1) 
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/be.mad.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ BE MAD ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/be.mad.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/be.mad.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ BE MAD ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/be.mad.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CALLE 13 ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/calle.13.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CALLE 13 ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/calle.13.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/calle.13.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ CALLE 13 ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/calle.13.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DKISS ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/dkiss.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DKISS ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/dkiss.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/dkiss.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DKISS ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/dkiss.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt1) 
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt3) 
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY World CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.world.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY World CO (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.world.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.world.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DISCOVERY World CO (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.world.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DMAX ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/dmax.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DMAX ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/dmax.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/dmax.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ DMAX ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/dmax.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HISTORIA ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/historia.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HISTORIA ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/historia.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/historia.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ HISTORIA ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/historia.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ MEGA A3MEDIA.ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/mega.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ MEGA A3MEDIA.ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/mega.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mega.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ MEGA A3MEDIA.ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mega.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NEOX A3MEDIA.ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/neox.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NEOX A3MEDIA.ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/neox.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/neox.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NEOX A3MEDIA.ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/neox.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nat.geo.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nat.geo.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nat.geo.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nat.geo.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ OD!SEA ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/odisea.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ OD!SEA ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/odisea.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/odisea.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ OD!SEA ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/odisea.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ PARAMOUNT Network ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/paramount.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ PARAMOUNT Network ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/paramount.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/paramount.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ PARAMOUNT Network ES (opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/paramount.es.m3u8
 
@@ -3540,7 +3538,7 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/syfy.es.m3u
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TCM ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tcm.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TCM ES (opt2)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tcm.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tcm.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸⚽ TCM ES(opt3)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tcm.es.m3u8
 
@@ -3570,28 +3568,28 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/actionmax.
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ACTIONMAX EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/actionmax.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ACTIONMAX EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/actionmax.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/actionmax.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CINEMAX EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cinemax.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CINEMAX EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinemax.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CINEMAX EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinemax.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cinemax.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ CINEMAX MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cinemax.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ CINEMAX MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinemax.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ CINEMAX MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinemax.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cinemax.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ CINECANAL MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cinecanal.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ CINECANAL MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cinecanal.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ CINECANAL MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cinecanal.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cinecanal.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇨🇦⚽ HBO CA (opt01)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/hbo.ca.m3u8
@@ -3673,224 +3671,224 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/indieplex.
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ INDIEPLEX EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/indieplex.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ INDIEPLEX EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/indieplex.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/indieplex.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MOVIEPLEX EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/movieplex.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MOVIEPLEX EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/movieplex.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MOVIEPLEX EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/movieplex.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/movieplex.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MOREMAX EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/moremax.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MOREMAX EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/moremax.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MOREMAX EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/moremax.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/moremax.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ RETROPLEX EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/retroplex.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ RETROPLEX EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/retroplex.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ RETROPLEX EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/retroplex.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/retroplex.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ PIXL TV US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/pixl.tv.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ PIXL TV US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/pixl.tv.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ PIXL TV US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/pixl.tv.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/pixl.tv.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SYFY US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/syfy.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SYFY US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/syfy.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SYFY US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/syfy.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/syfy.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SYFY UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/syfy.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SYFY UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/syfy.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SYFY UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/syfy.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/syfy.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SONY MOVIES US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/sony.movies.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SONY MOVIES US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/sony.movies.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SONY MOVIES US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/sony.movies.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/sony.movies.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ SONY CINE US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cine.sony.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ SONY CINE US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cine.sony.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ SONY CINE US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cine.sony.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cine.sony.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ SPACE AR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/space.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ SPACE AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/space.ar.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ SPACE AR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/space.ar.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/space.ar.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ STUDIO UNIVERSAL CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/studio.universal.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ STUDIO UNIVERSAL CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/studio.universal.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ STUDIO UNIVERSAL CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/studio.universal.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/studio.universal.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ CINEMA EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.cinema.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ CINEMA EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.cinema.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ CINEMA EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.cinema.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.cinema.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ COMEDY EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.comedy.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ COMEDY EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.comedy.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ COMEDY EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.comedy.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.comedy.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ EDGE EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.edge.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ EDGE EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.edge.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ EDGE EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.EDGE.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.EDGE.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ IN BLACK EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.in.black.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ IN BLACK EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.in.black.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ IN BLACK EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.in.black.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.in.black.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ KIDS & FAMILY EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.kids.family.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ KIDS & FAMILY EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.kids.family.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ KIDS & FAMILY EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.kids.family.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.kids.family.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.encore.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.encore.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.encore.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.encore.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE ACTION EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.encore.action.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE ACTION EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.encore.action.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE ACTION EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.encore.action.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.encore.action.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE BLACK EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.encore.black.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE BLACK EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.encore.black.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE BLACK EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.encore.black.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.encore.black.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE CLASSIC EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.encore.classic.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE CLASSIC EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.encore.classic.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE CLASSIC EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.encore.classic.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.encore.classic.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE FAMILY EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.encore.family.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE FAMILY EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.encore.family.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE FAMILY EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.encore.family.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.encore.family.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE SUSPENSE EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.encore.suspense.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE SUSPENSE EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.encore.suspense.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE SUSPENSE EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.encore.suspense.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.encore.suspense.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE WESTERNS EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/starz.encore.westerns.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE WESTERNS EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/starz.encore.westerns.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ STARZ ENCORE WESTERNS EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/starz.encore.westerns.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/starz.encore.westerns.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/showtime.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/showtime.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/showtime.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME 2 EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/showtime.2.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME 2 EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/showtime.2.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME 2 EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/showtime.2.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.2.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME EXTREME EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/showtime.extreme.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME EXTREME EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/showtime.extreme.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME EXTREME EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/showtime.extreme.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.extreme.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME FAMILY ZONE EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/showtime.family.zone.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME FAMILY ZONE EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/showtime.family.zone.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME FAMILY ZONE EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/showtime.family.zone.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.family.zone.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME NEXT EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/showtime.next.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME NEXT EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/showtime.next.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME NEXT EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/showtime.next.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.next.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME SHOWCASE EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/showtime.showcase.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME SHOWCASE EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/showtime.showcase.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME SHOWCASE EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/showtime.showcase.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.showcase.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME WOMEN EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/showtime.women.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME WOMEN EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/showtime.women.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SHOWTIME WOMEN EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/showtime.women.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.women.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TNT US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tnt.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TNT US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tnt.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TNT US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tnt.east.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tnt.east.us.m3u8
 
 
 
@@ -3905,483 +3903,483 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/amc.easter
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ AMC EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/amc.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ AMC EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/amc.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/amc.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ AMC MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/amc.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ AMC MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/amc.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ AMC MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/amc.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/amc.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ AXN MX (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/axn.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ AXN MX (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/axn.mx.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ AXN MX (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/axn.mx.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/axn.mx.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ AHC AMERICAN HEROES CHANNEL US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/american.heroes.channel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ AHC AMERICAN HEROES CHANNEL US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/american.heroes.channel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ AHC AMERICAN HEROES CHANNEL US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/american.heroes.channel.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/american.heroes.channel.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ANIMAL PLANET UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/animal.planet.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ANIMAL PLANET UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/animal.planet.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ANIMAL PLANET UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/animal.planet.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/animal.planet.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ALIBI UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/alibi.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ALIBI UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/alibi.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ALIBI UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/alibi.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/alibi.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ACCUWEATHER NW US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/accuweather.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ACCUWEATHER NW US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/accuweather.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ACCUWEATHER NW US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/accuweather.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/accuweather.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/bloomberg.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bloomberg.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bloomberg.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/bloomberg.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/bet.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bet.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bet.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/bet.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* HER US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/bet.her.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* HER US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bet.her.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* HER US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bet.her.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/bet.her.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* JAMS US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/bet.jams.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* JAMS US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bet.jams.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* JAMS US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bet.jams.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/bet.jams.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* SOUL US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/bet.soul.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* SOUL US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bet.soul.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BET* SOUL US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bet.soul.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/bet.soul.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝BET* Gospel US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/bet.gospel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝BET* Gospel US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bet.gospel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝BET* Gospel US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bet.gospel.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/bet.gospel.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BBC FOUR | cbeebies UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cbeebies.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BBC FOUR | cbeebies UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cbeebies.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BBC FOUR | cbeebies UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cbeebies.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cbeebies.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/bloomberg.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/bloomberg.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLOOMBERG UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/bloomberg.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/bloomberg.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLAZE UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/blaze.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLAZE UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/blaze.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BLAZE UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/blaze.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/blaze.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BOOMERANG | Kids US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/boomerang.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BOOMERANG | Kids US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/boomerang.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ BOOMERANG | Kids US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/boomerang.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/boomerang.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CARTOON NETWORK | Kids UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cartoon.network.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CARTOON NETWORK | Kids UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cartoon.network.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CARTOON NETWORK | Kids UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cartoon.network.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cartoon.network.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CARTO^ONITO | Kids UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cartoonito.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CARTO^ONITO | Kids UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cartoonito.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CARTO^ONITO | Kids UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cartoonito.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cartoonito.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CHALLENGE UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/challenge.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CHALLENGE UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/challenge.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CHALLENGE UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/challenge.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/challenge.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CRIME + INVESTIGATION UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/crime.investigation.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CRIME + INVESTIGATION UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/crime.investigation.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CRIME + INVESTIGATION UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/crime.investigation.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/crime.investigation.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CTV UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tudn.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CTV UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tudn.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CTV UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tudn.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tudn.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ C-SPAN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cspan.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ C-SPAN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cspan.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ C-SPAN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cspan.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cspan.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COOKING CHANNEL CA  (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cooking.channel.canada.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COOKING CHANNEL CA  (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cooking.channel.canada.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COOKING CHANNEL CA  (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cooking.channel.canada.ca.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cooking.channel.canada.ca.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/the.cooking.channel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/the.cooking.channel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/the.cooking.channel.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/the.cooking.channel.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COMEDY CENTRAL UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/comedy.central.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COMEDY CENTRAL UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/comedy.central.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COMEDY CENTRAL UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/comedy.central.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/comedy.central.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COMEDY CENTRAL US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/comedy.central.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COMEDY CENTRAL US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/comedy.central.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ COMEDY CENTRAL US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/comedy.central.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/comedy.central.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝CORNERSTONE TELEVISION US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cornerstone.television.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝CORNERSTONE TELEVISION US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cornerstone.television.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝CORNERSTONE TELEVISION US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cornerstone.television.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cornerstone.television.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cnbc.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnbc.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnbc.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cnbc.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cnn.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnn.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnn.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cnn.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN CA (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cnn.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN CA (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnn.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN CA (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnn.ca.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cnn.ca.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cnn.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnn.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnn.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cnn.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN INT NA US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cnn.international.north.america.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN INT NA US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnn.international.north.america.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNN INT NA US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnn.international.north.america.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cnn.international.north.america.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DW Deutsche Welle English US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/dw.english.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DW Deutsche Welle English US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/dw.english.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DW Deutsche Welle English US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/dw.english.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/dw.english.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISNEY JUNIOR CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/disney.jr.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISNEY JUNIOR CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/disney.jr.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISNEY JUNIOR CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/disney.jr.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/disney.jr.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY CHANNEL UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY CHANNEL UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY CHANNEL UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY HISTORY UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.history.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY HISTORY UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.history.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY HISTORY UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.history.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.history.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY SCIENCE UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.science.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY SCIENCE UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.science.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY SCIENCE UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.science.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.science.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY TURBO CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.turbo.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY TURBO CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.turbo.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ DISCOVERY TURBO CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.turbo.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.turbo.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ DISCOVERY WORLD CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.world.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ DISCOVERY WORLD CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.world.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ DISCOVERY WORLD CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.world.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.world.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ DISCOVERY FAMILIA US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/discovery.familia.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ DISCOVERY FAMILIA US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/discovery.familia.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ DISCOVERY FAMILIA US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/discovery.familia.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/discovery.familia.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ EURONEWS UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/euronews.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ EURONEWS UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/euronews.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ EURONEWS UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/euronews.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/euronews.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/fox.news.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.news.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.news.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/fox.news.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL CA (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL CA (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX NEWS CHANNEL CA (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.news.ca.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/fox.news.ca.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX BUSINESS US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/fox.business.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX BUSINESS US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fox.business.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ FOX BUSINESS US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/fox.business.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/fox.business.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HISTORY CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/history.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HISTORY CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/history.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ HISTORY CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/history.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/history.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HISTORIA CA FR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/historia.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HISTORIA CA FR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/historia.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HISTORIA CA FR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/historia.ca.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/historia.ca.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HALLMARK CHANNEL US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/hallmark.channel.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HALLMARK CHANNEL US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hallmark.channel.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HALLMARK CHANNEL US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hallmark.channel.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hallmark.channel.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HALLMARK FAMILY US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/hallmark.drama.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HALLMARK FAMILY US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hallmark.drama.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HALLMARK FAMILY US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hallmark.drama.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hallmark.drama.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HALLMARK MYSTERY US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HALLMARK MYSTERY US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ HALLMARK MYSTERY US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ IFC Independent Film Channel US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/ifc.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ IFC Independent Film Channel US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/ifc.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ IFC Independent Film Channel US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/ifc.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/ifc.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LIFETIME CA (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/lifetime.tv.canada.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LIFETIME CA (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/lifetime.tv.canada.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LIFETIME CA (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/lifetime.tv.canada.ca.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/lifetime.tv.canada.ca.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LIFETIME NETWORK US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/lifetime.network.us.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LIFETIME NETWORK US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/lifetime.network.us.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LIFETIME NETWORK US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/lifetime.network.us.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/lifetime.network.us.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LIFETIME MOVIES NETWORK US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/lifetime.movies.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LIFETIME MOVIES NETWORK US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/lifetime.movies.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LIFETIME MOVIES NETWORK US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/lifetime.movies.east.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/lifetime.movies.east.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LOVE NATURE US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/love.nature.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LOVE NATURE US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/love.nature.ca.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ LOVE NATURE US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/love.nature.ca.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/love.nature.ca.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MAGNOLIA NETWORK US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MAGNOLIA NETWORK US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MAGNOLIA NETWORK US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/do.it.yourself.network.usa.east.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MILITARY HISTORY US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/military.history.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MILITARY HISTORY US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/military.history.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MILITARY HISTORY US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/military.history.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/military.history.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MOTOR TREND US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/motor.trend.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MOTOR TREND US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/motor.trend.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MOTOR TREND US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/motor.trend.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/motor.trend.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MTV MUSIC UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/mtv.music.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MTV MUSIC UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mtv.music.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MTV MUSIC UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/mtv.music.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mtv.music.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MTV HITS UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/mtv.hits.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MTV HITS UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mtv.hits.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MTV HITS UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/mtv.hits.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mtv.hits.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MTV UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/mtv.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MTV UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/mtv.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MTV UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/mtv.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mtv.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MSNBC USA (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/msnbc.usa.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MSNBC USA (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/msnbc.usa.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ MSNBC USA (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/msnbc.usa.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/msnbc.usa.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/cnbc.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/cnbc.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ CNBC UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/cnbc.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/cnbc.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Chicago Plus (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nbc.sports.chicago.plus.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Chicago Plus (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nbc.sports.chicago.plus.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Chicago Plus (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nbc.sports.chicago.plus.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nbc.sports.chicago.plus.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Bay Area Plus US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nbc.sports.bay.area.plus.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Bay Area Plus US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nbc.sports.bay.area.plus.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NBC Sports Bay Area Plus US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nbc.sports.bay.area.plus.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nbc.sports.bay.area.plus.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NAT GEO UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nat.geo.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NAT GEO UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nat.geo.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NAT GEO UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nat.geo.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nat.geo.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NAT GEO WILD UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nat.geo.wild.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NAT GEO WILD UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nat.geo.wild.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NAT GEO WILD UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nat.geo.wild.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nat.geo.wild.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/national.geographic.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/national.geographic.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/national.geographic.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/national.geographic.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC WILD US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/national.geographic.wild.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC WILD US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/national.geographic.wild.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NATIONAL GEOGRAPHIC WILD US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/national.geographic.wild.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/national.geographic.wild.us.m3u8
 
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC CO (opt1)
@@ -4389,182 +4387,182 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nat.geo.co
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nat.geo.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nat.geo.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nat.geo.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nat.geo.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nat.geo.es.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ NATIONAL GEOGRAPHIC ES (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nat.geo.es.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nat.geo.es.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ NATIONAL GEOGRAPHIC BR (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/national.geographic.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ NATIONAL GEOGRAPHIC BR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/national.geographic.br.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇧🇷⚽ NATIONAL GEOGRAPHIC BR (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/national.geographic.br.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/national.geographic.br.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇵🇹⚽ NATIONAL GEOGRAPHIC PT (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/national.geographic.pt.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇵🇹⚽ NATIONAL GEOGRAPHIC PT (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/national.geographic.pt.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇵🇹⚽ NATIONAL GEOGRAPHIC PT (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/national.geographic.pt.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/national.geographic.pt.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NICK JR US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nick.jr.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NICK JR US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nick.jr.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NICK JR US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nick.jr.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nick.jr.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NICK JR UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nick.jr.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NICK JR UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nick.jr.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NICK JR UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nick.jr.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nick.jr.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NICKTOONS UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nicktoons.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NICKTOONS UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nicktoons.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ NICKTOONS UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nicktoons.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nicktoons.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ NICKELODEON CO (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/nickelodeon.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ NICKELODEON CO (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/nickelodeon.co.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇪🇸⚽ NICKELODEON CO (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/nickelodeon.co.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/nickelodeon.co.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ OXYGEN TRUE CRIME US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/oxygen.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ OXYGEN TRUE CRIME US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/oxygen.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ OXYGEN TRUE CRIME US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/oxygen.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/oxygen.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ POP | Kids UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/pop.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ POP | Kids UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/pop.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ POP | Kids UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/pop.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/pop.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ Peachtree TV (WPCHTV) Atlanta | CW Sports  (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/peachtree.tv.wpch.tv.atlanta.ga.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ Peachtree TV (WPCHTV) Atlanta | CW Sports (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/peachtree.tv.wpch.tv.atlanta.ga.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ Peachtree TV (WPCHTV) Atlanta | CW Sports (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/peachtree.tv.wpch.tv.atlanta.ga.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/peachtree.tv.wpch.tv.atlanta.ga.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SCIENCE US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/science.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SCIENCE US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/science.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ SCIENCE US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/science.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/science.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TEEN NICK US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/teen.nick.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TEEN NICK US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/teen.nick.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TEEN NICK US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/teen.nick.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/teen.nick.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝TBN Trinity Broadcasting Network US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tbn.trinity.broadcasting.network.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝TBN Trinity Broadcasting Network US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tbn.trinity.broadcasting.network.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ ✝TBN Trinity Broadcasting Network US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tbn.trinity.broadcasting.network.east.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tbn.trinity.broadcasting.network.east.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/the.cooking.channel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/the.cooking.channel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE COOKING CHANNEL US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/the.cooking.channel.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/the.cooking.channel.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE WEATHER CHANNEL US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/the.weather.channel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE WEATHER CHANNEL US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/the.weather.channel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE WEATHER CHANNEL US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/the.weather.channel.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/the.weather.channel.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE TENNIS CHANNEL US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/the.tennis.channel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE TENNIS CHANNEL US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/the.tennis.channel.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ THE TENNIS CHANNEL US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/the.tennis.channel.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/the.tennis.channel.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TNT East US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tnt.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TNT East US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tnt.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TNT East US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tnt.east.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tnt.east.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TBS US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tbs.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TBS US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tbs.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TBS US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tbs.east.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tbs.east.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TRAVEL CHANNEL UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/travel.channel.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TRAVEL CHANNEL UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/travel.channel.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TRAVEL CHANNEL UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/travel.channel.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/travel.channel.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TLC UK (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tlc.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TLC UK (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tlc.uk.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TLC UK (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tlc.uk.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tlc.uk.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TLC EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tlc.usa.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TLC EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tlc.usa.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TLC EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tlc.usa.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tlc.usa.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TV LAND EASTERN US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tv.land.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TV LAND EASTERN US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tv.land.eastern.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TV LAND EASTERN US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tv.land.eastern.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tv.land.eastern.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TV ONE US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/tv.one.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TV ONE US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/tv.one.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ TV ONE US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/tv.one.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/tv.one.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ USA NETWORK US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/usa.network.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ USA NETWORK US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/usa.network.east.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ USA NETWORK US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/usa.network.east.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/usa.network.east.us.m3u8
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ VICE US (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/vice.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ VICE US (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/vice.us.m3u8
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",🇺🇸⚽ VICE US (opt3)
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/vice.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/vice.us.m3u8
 
 
 
