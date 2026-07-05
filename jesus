@@ -889,6 +889,11 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.zone.ea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ HBO ZONE East US (opt03)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.zone.east.us.m3u8
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸9264 HBO MAX ES
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/9264.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸9293 HBO MAX ES
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/9293.ts
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸⚽ HBO CO (opt01)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/livetv.epg/hbo.co.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸⚽ HBO CO (opt02)
@@ -1500,6 +1505,10 @@ https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/showtime.w
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/showtime.women.eastern.us.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ SHOWTIME WOMEN EASTERN US (opt3)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/showtime.women.eastern.us.m3u8
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸9312 STARZ EDGE ES
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/9312.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ STARZ EASTERN US (opt1)
@@ -2277,6 +2286,33 @@ http://mains.services:2086/live/640939802963/IDC01478!/92500.m3u8
 http://mains.best:2086/live/3003556325/2772007/92500.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO ARIZONA (opt3)  
 http://mains.services:2086/507Vej3h3S/4632273/92500
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9309 UNIMAS (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9309.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9309 UNIMAS (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9309.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9309 UNIMAS (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9309
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9309 UNIMAS (opt4)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9309.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9309 UNIMAS (opt5)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9309.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9309 UNIMAS (opt6)
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/9309
+
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9308.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9308.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9308
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt4)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9308.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt5)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9308.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt6)
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/9308
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7595 TELEMUNDO 47 NEW YORK (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7595.m3u8
