@@ -100,6 +100,7 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/abc.wplg.mi
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ABC 10 (WPLG) Miami FL (opt3)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/abc.wplg.miami.fl.us.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt1)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/abc.wabc.new.york.ny.us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ABC 7 (WABC) New York NY (opt2)
@@ -7593,7 +7594,345 @@ http://pfsv.io:80/6181288/27664/130227.ts
 #EXTINF:-1 tvg-name="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸", ##########  ♥ GROUP 01 📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸 ♥  ##########
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 KlowdTV 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  alfa. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7034 AZTECA CINEMA MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7034.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7034 AZTECA CINEMA MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7034.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7034 AZTECA CINEMA MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7034
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7035 AZTECA CLIC MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7035.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7035 AZTECA CLIC MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7035.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7035 AZTECA CLIC MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7035
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7038 AZTECA 7 MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7038.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7038 AZTECA 7 MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7038.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7038 AZTECA 7 MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7038
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7038 AZTECA 7 MX (opt4)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7038.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7038 AZTECA 7 MX (opt5)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7038.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7038 AZTECA 7 MX (opt6)
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7038
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7039 AZTECA UNO MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7039.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7039 AZTECA UNO MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7039.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7039 AZTECA UNO MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7039
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7040 BANDAMAX MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7040.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7040 BANDAMAX MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7040.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7040 BANDAMAX MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7040
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7042 CANAL 5* MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7042.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7042 CANAL 5* MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7042.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7042 CANAL 5* MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7042
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7042 CANAL 5* MX (opt4)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7042.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7042 CANAL 5* MX (opt5)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7042.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7042 CANAL 5* MX (opt6)
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7042
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7043 ENTERTAINMENT! ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7043.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7043 ENTERTAINMENT! ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7043.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7043 ENTERTAINMENT! ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7043
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7149 TELEHIT MUSICA ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7149.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7149 TELEHIT MUSICA ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7149.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7149 TELEHIT MUSICA ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7149
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7154 TCM ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7154.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7154 TCM ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7154.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7154 TCM ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7154
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7155 FORMULA MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7155.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7155 FORMULA MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7155.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7155 FORMULA MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7155
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7156 TELEHIT MUSICA ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7156.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7156 TELEHIT MUSICA ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7156.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7156 TELEHIT MUSICA ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7156
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7159 TNT SERIES ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7159.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7159 TNT SERIES ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7159.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7159 TNT SERIES ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7159
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7160 TOONCAST ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7160.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7160 TOONCAST ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7160.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7160 TOONCAST ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7160
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7161 [ADULT SWIM] ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7161.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7161 [ADULT SWIM] ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7161.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7161 [ADULT SWIM] ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7161
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7164 UNIVERSAL TV ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7164.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7164 UNIVERSAL TV ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7164.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7164 UNIVERSAL TV ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7164
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7167 WB TV ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7167.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7167 WB TV ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7167.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7167 WB TV ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7167
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7168 WOBI TV ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7168.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7168 WOBI TV ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7168.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7168 WOBI TV ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7168
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7169 MEGANOTICIAS MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7169.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7169 MEGANOTICIAS MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7169.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7169 MEGANOTICIAS MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7169
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7170 TVC Deportes MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7170.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7170 TVC Deportes MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7170.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7170 TVC Deportes MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7170
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7171 FS PREMIUM ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7171.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7171 FS PREMIUM ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7171.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7171 FS PREMIUM ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7171
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7172 FOOD NETWORK ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7172.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7172 FOOD NETWORK ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7172.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7172 FOOD NETWORK ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7172
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7173 CANAL 6 MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7173.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7173 CANAL 6 MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7173.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7173 CANAL 6 MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7173
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7174 GOLDEN ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7174.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7174 GOLDEN ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7174.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7174 GOLDEN ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7174
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7175 LAS ESTRELLAS Televisa MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7175.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7175 LAS ESTRELLAS Televisa MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7175.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7175 LAS ESTRELLAS Televisa MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7175
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7176 FOX SPORTS 3 MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7176.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7176 FOX SPORTS 3 MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7176.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7176 FOX SPORTS 3 MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7176
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7177 GOLF CHANNEL Latinoamerica ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7177.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7177 GOLF CHANNEL Latinoamerica ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7177.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7177 GOLF CHANNEL Latinoamerica ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7177
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸★7178 CNN US (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7178.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸★7178 CNN US (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7178.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸★7178 CNN US (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7178
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸★7179 FOX BUSINESS PRIME US (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7179.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸★7179 FOX BUSINESS PRIME US (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7179.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸★7179 FOX BUSINESS PRIME US (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7179
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7181 BABYFIRST ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7181.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7181 BABYFIRST ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7181.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7181 BABYFIRST ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7181
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7182 N+ LAS NOTICIAS TELEVISA MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7182.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7182 N+ LAS NOTICIAS TELEVISA MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7182.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7182 N+ LAS NOTICIAS TELEVISA MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7182
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7183 TV+ TV MAS MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7183.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7183 TV+ TV MAS MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7183.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7183 TV+ TV MAS MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7183
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7186 IMAGEN MX (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7186.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7186 IMAGEN MX (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7186.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7186 IMAGEN MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7186
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7187 AMC ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7187.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7187 AMC ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7187.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7187 AMC ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7187
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7188 EXTREMA TV CR (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7188.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7188 EXTREMA TV CR (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7188.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7188 EXTREMA TV CR (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7188
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7189 BABY TV ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7189.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7189 BABY TV ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7189.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7189 BABY TV ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7189
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7190 europa&EUROPA AR (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7190.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7190 europa&EUROPA AR (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7190.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7190 europa&EUROPA AR (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7190
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7253 NATIONAL GEOGRAPHIC ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7253.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7253 NATIONAL GEOGRAPHIC ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7253.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7253 NATIONAL GEOGRAPHIC ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7253
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7255 NICKELODEON ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7255.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7255 NICKELODEON ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7255.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7255 NICKELODEON ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7255
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7275 ESPN ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7275.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7275 ESPN ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7275.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7275 ESPN ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7275
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7276 TUDN ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7276.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7276 TUDN ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7276.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7276 TUDN ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7276
+
+
+
+
+
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7304 HBO MUNDI ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7304.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7304 HBO MUNDI ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7304.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7304 HBO MUNDI ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7304
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7305 HBO POP ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7305.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7305 HBO POP ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7305.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7305 HBO POP ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7305
+
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7603 TELEMUNDO COLORADO US (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7603.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7603 TELEMUNDO COLORADO US (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7603.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7603 TELEMUNDO COLORADO US (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7603
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7603 TELEMUNDO COLORADO US (opt4)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7603.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7603 TELEMUNDO COLORADO US (opt5)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7603.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸★7603 TELEMUNDO COLORADO US (opt6)
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7603
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -7670,7 +8009,7 @@ http://41.205.93.154/TMC/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵀᵛ 🇺🇸  🌐🌎⭐ 02ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 02ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -7741,7 +8080,7 @@ https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵀᵛ 🇺🇸  🌐🌎⭐ 03ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 03ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
