@@ -889,9 +889,10 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/hbo.zone.ea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ HBO ZONE East US (opt03)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.zone.east.us.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸9264 HBO MAX ES
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★9264 HBO LATINO MAX ES (opt1)
 http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/9264.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸9293 HBO MAX ES
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★9293 HBO LATINO MAX ES (opt1)
 http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/9293.ts
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸⚽ HBO CO (opt01)
@@ -7589,6 +7590,193 @@ http://pfsv.io:80/6181288/27664/130227.ts
 
 
 #EXTM3U
+#EXTINF:-1 tvg-name="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸", ##########  ♥ GROUP 01 📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸 ♥  ##########
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 KlowdTV 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ A&E
+http://41.205.93.154/AandE/index.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ AMC
+http://41.205.93.154/AMC/index.m3u8
+#EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ ABC
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ ANIMAL PLANET SD
+http://41.205.93.154/ANIMALPLANET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ BET
+http://41.205.93.154/BET/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ BRAVO
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ BLOOMBERG
+http://41.205.93.154/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ BOOMERANG
+http://41.205.93.154/BOOMERANG/index.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ CNBC WORLD (opt2)
+http://41.205.93.154/CNBC/index.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ DISCOVERY CHANNEL (opt1)
+http://41.205.93.154/DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ ESPNU
+http://41.205.93.154/ESPNU/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ ESPN NEWS 
+http://41.205.93.154/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ FOX BUSINESS Prime
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ LIFETIME SD
+http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ LMN | LIFETIME MOVIE NETWORK
+http://41.205.93.154/LMN/index.m3u8
+
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ MSNBC
+http://41.205.93.154/MSNBC/playlist.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ MSNBC
+http://41.205.93.154/MSNBC/mono.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ MSNBC
+http://41.205.93.154/MSNBC/index.mpd
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ MSNBC
+http://41.205.93.154/MSNBC/playlist.mpd
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ NBC
+http://41.205.93.154/NBC/index.m3u8
+
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ SCIFY CINE
+http://41.205.93.154/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ TBS
+http://41.205.93.154/TBS/index.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ TLC 
+http://41.205.93.154/TLC/index.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ TMC 
+http://41.205.93.154/TMC/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵀᵛ 🇺🇸  🌐🌎⭐ 02ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="WWXYDT1.pr" tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇵🇷☑ BORICUA TV | WWXY-DT1 (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
+#EXTINF:-1 tvg-id="WWXYDT1.pr" tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇵🇷☑ BORICUA TV | WWXY-DT1 (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇵🇷☑ CDN Deportes (720p)
+http://200.125.170.122:8000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-id="LacrosseTV.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ Lacrosse TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ ✝Logos TV | Religious
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 tvg-id="LogosTVEstudio.es" tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ ✝Logos TV Estudio | Religious
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+#EXTINF:-1 tvg-id="LogosTVKids.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ ✝Logos TV Kids | Religious
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ ✝Logos TV Salud | Religious
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ QVC UK | Shopping
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ QVC UK Beauty | Shopping
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ QVC UK Extra | Shopping
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ QVC UK Style | Shopping
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/11/QVC-Symbol.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ QVC West | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edswdOO.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ QVC 3 | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/shop-lc-logo-0E9EF31B18-seeklogo.com.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ Shop LC | Shopping
+https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Shopping_Channel_logo.svg/2560px-The_Shopping_Channel_logo.svg.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFlNhjV.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ TJC | Shopping
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ Red Bull TV | Sports
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/512px-Rev%27n_logo.jpg" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ Rev'n | Sports
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ Strongman Champions League | Sports
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.fetchtv.com.au/marketing/img/features-and-packages/included-channels/the-wicked-tuna-channel.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ The Wicked Tuna Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2023/02/we-love-cars-tv-1024x576.jpg" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ We Love Cars TV | Sports
+https://30a-tv.com/feeds/vidaa/cars.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ World Poker Tour | Sports
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ WildEarth | Documentary
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ Wonder | Documentary
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KCKSLD6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ WeatherNation | E!
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ Xplore | Documentary (Opt-2)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵀᵛ 🇺🇸  🌐🌎⭐ 03ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ TELEMUNDO
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ COZI
+https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ OUTLAW
+https://cdn.igocast.com/wkrp_channel3_hls/wkrp_channel3_master.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ JTV
+https://cdn.igocast.com/wkrp_channel4_hls/wkrp_channel4_master.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ TV
+https://cdn.igocast.com/wkrp_channel5_hls/wkrp_channel5_master.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ SBN
+https://cdn.igocast.com/wkrp_channel6_hls/wkrp_channel6_master.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ HSN
+https://cdn.igocast.com/wkrp_channel7_hls/wkrp_channel7_master.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ HSN
+https://cdn.igocast.com/wkrp_channel8_hls/wkrp_channel8_master.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ TVMOVIE
+https://cdn.igocast.com/wkrp_channel9_hls/wkrp_channel9_master.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸☑ H&I
+https://cdn.igocast.com/wkrp_channel10_hls/wkrp_channel10_master.m3u8
+
+
+
+
+
+
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-name="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸", ##########  ♥ GROUP 01 📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸 ♥  ##########
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
@@ -8006,186 +8194,6 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 
 
 
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺KlowdTV🌐world🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺KlowdTV🌐world🇺🇸", ##########  ♥ GROUP 01 📺KlowdTV🌐world🇺🇸 ♥  ##########
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 KlowdTV 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ A&E
-http://41.205.93.154/AandE/index.m3u8
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ AMC
-http://41.205.93.154/AMC/index.m3u8
-#EXTINF:-1 tvg-id="ABC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ABC
-http://41.205.93.154/ABC/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ANIMAL PLANET SD
-http://41.205.93.154/ANIMALPLANET/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ BET
-http://41.205.93.154/BET/index.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ BRAVO
-http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ BLOOMBERG
-http://41.205.93.154/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ BOOMERANG
-http://41.205.93.154/BOOMERANG/index.m3u8
-
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ CNBC WORLD (opt2)
-http://41.205.93.154/CNBC/index.m3u8
-
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ DISCOVERY CHANNEL (opt1)
-http://41.205.93.154/DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ESPN
-http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ESPNU
-http://41.205.93.154/ESPNU/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ESPN NEWS 
-http://41.205.93.154/ESPNNEWS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ FOX BUSINESS Prime
-http://41.205.93.154/FOXBUSINESS/index.m3u8
-
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ LIFETIME SD
-http://41.205.93.154/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ LMN | LIFETIME MOVIE NETWORK
-http://41.205.93.154/LMN/index.m3u8
-
-
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ MSNBC
-http://41.205.93.154/MSNBC/playlist.m3u8
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ MSNBC
-http://41.205.93.154/MSNBC/mono.m3u8
-
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ MSNBC
-http://41.205.93.154/MSNBC/index.mpd
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ MSNBC
-http://41.205.93.154/MSNBC/playlist.mpd
-
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ NBC
-http://41.205.93.154/NBC/index.m3u8
-
-#EXTINF:-1,group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ SCIFY CINE
-http://41.205.93.154/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ TBS
-http://41.205.93.154/TBS/index.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ TLC 
-http://41.205.93.154/TLC/index.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ TMC 
-http://41.205.93.154/TMC/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵀᵛ 🇺🇸  🌐🌎⭐ 02ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="WWXYDT1.pr" tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="📺KlowdTV🌐world🇺🇸",🇵🇷☑ BORICUA TV | WWXY-DT1 (1080p)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:-1 tvg-id="WWXYDT1.pr" tvg-logo="https://i.imgur.com/Qs4szHD.png" group-title="📺KlowdTV🌐world🇺🇸",🇵🇷☑ BORICUA TV | WWXY-DT1 (1080p)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="📺KlowdTV🌐world🇺🇸",🇵🇷☑ CDN Deportes (720p)
-http://200.125.170.122:8000/play/a03j/index.m3u8
-
-#EXTINF:-1 tvg-id="LacrosseTV.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Lacrosse TV (720p)
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 tvg-id="LogosTV.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ✝Logos TV | Religious
-https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:-1 tvg-id="LogosTVEstudio.es" tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ✝Logos TV Estudio | Religious
-https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
-#EXTINF:-1 tvg-id="LogosTVKids.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ✝Logos TV Kids | Religious
-https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ ✝Logos TV Salud | Religious
-https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ QVC UK | Shopping
-https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ QVC UK Beauty | Shopping
-https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ QVC UK Extra | Shopping
-https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ QVC UK Style | Shopping
-https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/11/QVC-Symbol.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ QVC West | Shopping
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/edswdOO.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ QVC 3 | Shopping
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/shop-lc-logo-0E9EF31B18-seeklogo.com.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Shop LC | Shopping
-https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Shopping_Channel_logo.svg/2560px-The_Shopping_Channel_logo.svg.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cFlNhjV.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ TJC | Shopping
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Red Bull TV | Sports
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/512px-Rev%27n_logo.jpg" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Rev'n | Sports
-https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Strongman Champions League | Sports
-https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.fetchtv.com.au/marketing/img/features-and-packages/included-channels/the-wicked-tuna-channel.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ The Wicked Tuna Channel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2023/02/we-love-cars-tv-1024x576.jpg" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ We Love Cars TV | Sports
-https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ World Poker Tour | Sports
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ WildEarth | Documentary
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Wonder | Documentary
-https://lds-wonder-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KCKSLD6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ WeatherNation | E!
-https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ Xplore | Documentary (Opt-2)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵀᵛ 🇺🇸  🌐🌎⭐ 03ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺KlowdTV🌐world🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ TELEMUNDO
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ COZI
-https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ OUTLAW
-https://cdn.igocast.com/wkrp_channel3_hls/wkrp_channel3_master.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ JTV
-https://cdn.igocast.com/wkrp_channel4_hls/wkrp_channel4_master.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ TV
-https://cdn.igocast.com/wkrp_channel5_hls/wkrp_channel5_master.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ SBN
-https://cdn.igocast.com/wkrp_channel6_hls/wkrp_channel6_master.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ HSN
-https://cdn.igocast.com/wkrp_channel7_hls/wkrp_channel7_master.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ HSN
-https://cdn.igocast.com/wkrp_channel8_hls/wkrp_channel8_master.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ TVMOVIE
-https://cdn.igocast.com/wkrp_channel9_hls/wkrp_channel9_master.m3u8
-#EXTINF:-1 group-title="📺KlowdTV🌐world🇺🇸",🇺🇸☑ H&I
-https://cdn.igocast.com/wkrp_channel10_hls/wkrp_channel10_master.m3u8
 
 
 
