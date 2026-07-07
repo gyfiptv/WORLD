@@ -8,6 +8,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ActionMax Eastern US (opt01)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/actionmax.eastern.us.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ ActionMax Eastern US (opt02)
@@ -814,11 +815,11 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/fubo.sports
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/fubo.sports.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FREEFORM East US (opt01)
-https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/reeform.east.us.m3u8
+https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/freeform.east.us.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FREEFORM East US (opt02)
-https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/reeform.east.us.m3u8
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/freeform.east.us.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ FREEFORM East US (opt03)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/reeform.east.us.m3u8
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/freeform.east.us.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸⚽ HALLMARK CHANNEL US (opt01)
 https://tvnow.best/api/stream/adamcristo@icloud.com/126481/livetv.epg/hallmark.channel.eastern.us.m3u8
@@ -8549,7 +8550,371 @@ http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9333
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 02ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 6 | Bundesliga (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/102329.m3u8
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 6 | Bundesliga (opt2)
+http://mains.services/live/3003556325/2772007/102329.ts
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 6 | Bundesliga (opt3)
+http://mains.services:2086/640939802963/IDC01478!/102329
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 6 | Bundesliga (opt4)
+http://mains.services:2086/live/507Vej3h3S/4632273/102329.mpd
+
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 5 | Bundesliga (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/102328.m3u8
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 5 | Bundesliga (opt2)
+http://mains.services/live/3003556325/2772007/102328.ts
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 5 | Bundesliga (opt3)
+http://mains.services:2086/640939802963/IDC01478!/102328
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 5 | Bundesliga (opt4)
+http://mains.services:2086/live/507Vej3h3S/4632273/102328.mpd
+
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 4 | Bundesliga (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/102327.m3u8
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 4 | Bundesliga (opt2)
+http://mains.services/live/3003556325/2772007/102327.ts
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 4 | Bundesliga (opt3)
+http://mains.services:2086/640939802963/IDC01478!/102327
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 4 | Bundesliga (opt4)
+http://mains.services:2086/live/507Vej3h3S/4632273/102327.mpd
+
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/102326.m3u8
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt2)
+http://mains.services/live/3003556325/2772007/102326.ts
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt3)
+http://mains.services:2086/640939802963/IDC01478!/102326
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt4)
+http://mains.services:2086/live/507Vej3h3S/4632273/102326.mpd
+
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/102325.m3u8
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt2)
+http://mains.services/live/3003556325/2772007/102325.ts
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt3)
+http://mains.services:2086/640939802963/IDC01478!/102325
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt4)
+http://mains.services:2086/live/507Vej3h3S/4632273/102325.mpd
+
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/102324.m3u8
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt2)
+http://mains.services/live/3003556325/2772007/102324.ts
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt3)
+http://mains.services:2086/640939802963/IDC01478!/102324
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt4)
+http://mains.services:2086/live/507Vej3h3S/4632273/102324.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt1) 
+http://mains.services/live/640939802963/IDC01478!/96709.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt2) 
+http://mains.services/live/3003556325/2772007/96709.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt3) 
+http://mains.services:2086/live/507Vej3h3S/4632273/96709.mpd
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt4)
+http://mains.services:2086/640939802963/IDC01478!/96709
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt1) 
+http://mains.services/live/640939802963/IDC01478!/92500.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt2) 
+http://mains.services/live/3003556325/2772007/92500.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt3) 
+http://mains.services:2086/live/507Vej3h3S/4632273/92500.mpd
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt4)
+http://mains.services:2086/640939802963/IDC01478!/92500
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (opt1)
+http://mains.services/live/640939802963/IDC01478!/101211.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (opt2)
+http://mains.services/live/3003556325/2772007/101211.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (opt3)
+http://mains.services:2086/live/507Vej3h3S/4632273/101211.mpd
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (opt4)
+http://mains.services:2086/640939802963/IDC01478!/101211
+
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WSCV) FORT LAUDERDALE FLORIDA (opt1) 
+http://mains.services:2086/live/640939802963/IDC01478!/96707.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WSCV) FORT LAUDERDALE FLORIDA (opt2)  
+http://mains.services:2086/live/3003556325/2772007/96707.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WSCV) FORT LAUDERDALE FLORIDA (opt3)  
+http://mains.services:2086/507Vej3h3S/4632273/96707
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WRMD) TAMPA FLORIDA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96708.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WRMD) TAMPA FLORIDA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96708.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WRMD) TAMPA FLORIDA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96708
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WTMO) ORLANDO FLORIDA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96705.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WTMO) ORLANDO FLORIDA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96705.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WTMO) ORLANDO FLORIDA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96705
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WWDT) NAPLES FLORIDA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96704.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WWDT) NAPLES FLORIDA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96704.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WWDT) NAPLES FLORIDA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96704
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KASA) SANTA FE NEW MEXICO (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96734.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KASA) SANTA FE NEW MEXICO (opt2)
+http://mains.services:2086/live/3003556325/2772007/96734.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KASA) SANTA FE NEW MEXICO (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96734
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KBLR) PARADISE NEVADA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96733.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KBLR) PARADISE NEVADA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96733
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KBLR) PARADISE NEVADA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96733
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KCSO) SACRAMENTO CALIFORNIA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96732.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KCSO) SACRAMENTO CALIFORNIA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96732.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KCSO) SACRAMENTO CALIFORNIA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96732
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KDEN) LONGMONT COLORADO (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96731.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KDEN) LONGMONT COLORADO (opt2)
+http://mains.services:2086/live/3003556325/2772007/96731.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KDEN) LONGMONT COLORADO (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96731
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KFBI) MEDFORD OREGON (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96729.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KFBI) MEDFORD OREGON (opt2)
+http://mains.services:2086/live/3003556325/2772007/96729.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KFBI) MEDFORD OREGON (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96729
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KFDY) LINCOLN NEBRASKA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96730.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KFDY) LINCOLN NEBRASKA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96730.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KFDY) LINCOLN NEBRASKA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96730
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KGLA) HAMMOND LOUISIANA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96728.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KGLA) HAMMOND LOUISIANA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96728.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KGLA) HAMMOND LOUISIANA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96728
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KHRR) TUCSON ARIZONA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96727.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KHRR) TUCSON ARIZONA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96727.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KHRR) TUCSON ARIZONA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96727
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KNSO) MERCED CALIFORNIA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96726.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KNSO) MERCED CALIFORNIA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96726.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KNSO) MERCED CALIFORNIA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96726
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KSTS) SAN JOSE CALIFORNIA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96725.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KSTS) SAN JOSE CALIFORNIA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96725.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KSTS) SAN JOSE CALIFORNIA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96725
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTAZ) PHOENIX ARIZONA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96724.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTAZ) PHOENIX ARIZONA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96724.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTAZ) PHOENIX ARIZONA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96724
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96722.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS (opt2)
+http://mains.services:2086/live/3003556325/2772007/96722.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96722
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTMD) GALVESTON TEXAS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96723.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTMD) GALVESTON TEXAS (opt2)
+http://mains.services:2086/live/3003556325/2772007/96723.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTMD) GALVESTON TEXAS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96723
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTMW) SALT LAKE CITY UTAH (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96721.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTMW) SALT LAKE CITY UTAH (opt2)
+http://mains.services:2086/live/3003556325/2772007/96721.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTMW) SALT LAKE CITY UTAH (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96721
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTUZ) SHAWNEE OKLAHOMA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96718.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTUZ) SHAWNEE OKLAHOMA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96718.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KTUZ) SHAWNEE OKLAHOMA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96718
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KUTU) TULSA OKLAHOMA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96717.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KUTU) TULSA OKLAHOMA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96717.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KUTU) TULSA OKLAHOMA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96717
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KVDA) SAN ANTONIO TEXAS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96715.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KVDA) SAN ANTONIO TEXAS (opt2)
+http://mains.services:2086/live/3003556325/2772007/96715.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KVDA) SAN ANTONIO TEXAS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96715
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KVEA) CORONA CALIFORNIA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96716.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KVEA) CORONA CALIFORNIA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96716.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KVEA) CORONA CALIFORNIA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96716
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KXTQ) LUBBOCK TEXAS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96713.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KXTQ) LUBBOCK TEXAS (opt2)
+http://mains.services:2086/live/3003556325/2772007/96713.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KXTQ) LUBBOCK TEXAS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96713
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KXTX) DALLAS TEXAS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96714.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KXTX) DALLAS TEXAS (opt2)
+http://mains.services:2086/live/3003556325/2772007/96714.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (KXTX) DALLAS TEXAS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96714
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WKTB) NORCROSS GEORGIA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96712.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WKTB) NORCROSS GEORGIA (opt2)
+http://mains.services:2086/live/3003556325/2772007/96712.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WKTB) NORCROSS GEORGIA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96712
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WNEU) MERRIMACK NEW HAMPSHIRE (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96710.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WNEU) MERRIMACK NEW HAMPSHIRE (opt2)
+http://mains.services:2086/live/3003556325/2772007/96710.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WNEU) MERRIMACK NEW HAMPSHIRE (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96710
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WNJU) 47 NEW YORK (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/100157.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WNJU) 47 NEW YORK (opt2)
+http://mains.services:2086/live/3003556325/2772007/100157.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WNJU) 47 NEW YORK (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/100157
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WNJU) LINDEN NEW JERSEY (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96711.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WNJU) LINDEN NEW JERSEY (opt2)
+http://mains.services:2086/live/3003556325/2772007/96711.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WNJU) LINDEN NEW JERSEY (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96711
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WRDM) HARTFORD CONNECTICUT (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96709.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WRDM) HARTFORD CONNECTICUT (opt2)
+http://mains.services:2086/live/3003556325/2772007/96709.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WRDM) HARTFORD CONNECTICUT (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96709
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WSNS) CHICAGO ILLINOIS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96706.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WSNS) CHICAGO ILLINOIS (opt2)
+http://mains.best:2086/live/3003556325/2772007/96706.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WSNS) CHICAGO ILLINOIS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96706
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WWSI) MOUNT LAUREL PENNSYLVANIA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96703.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WWSI) MOUNT LAUREL PENNSYLVANIA (opt2)
+http://mains.best:2086/live/3003556325/2772007/96703.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WWSI) MOUNT LAUREL PENNSYLVANIA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96703
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WZDC) WASHINGTON DC (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/96702.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WZDC) WASHINGTON DC (opt2)
+http://mains.best:2086/live/3003556325/2772007/96702.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (WZDC) WASHINGTON DC (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/96702
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO 47 (KTMD) HOUSTON TEXAS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/101211.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO 47 (KTMD) HOUSTON TEXAS (opt2)
+http://mains.best:2086/live/3003556325/2772007/101211.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO 47 (KTMD) HOUSTON TEXAS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/101211
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO Arizona (opt1) 
+http://mains.services:2086/live/640939802963/IDC01478!/92508.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO Arizona (opt2) 
+http://mains.best:2086/live/3003556325/2772007/92508.ts 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO Arizona (opt3) 
+http://mains.services:2086/507Vej3h3S/4632273//92508 
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO AZ WEST (opt1) 
+http://mains.services:2086/live/640939802963/IDC01478!/92492.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO AZ WEST (opt2) 
+http://mains.best:2086/live/3003556325/2772007/92492.ts 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO AZ WEST (opt3) 
+http://mains.services:2086/507Vej3h3S/4632273/92492 
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO ARIZONA (opt1) 
+http://mains.services:2086/live/640939802963/IDC01478!/92500.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO ARIZONA (opt2)  
+http://mains.best:2086/live/3003556325/2772007/92500.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO ARIZONA (opt3)  
+http://mains.services:2086/507Vej3h3S/4632273/92500
+
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 09 (TELEMUNDO) ESP
+http://mains.services/live/640939802963/IDC01478!/360b5429-b424-4887-ab8c-03e629d55cd3.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 09 (TELEMUNDO) ESP
+http://mains.services/live/3003556325/2772007/360b5429-b424-4887-ab8c-03e629d55cd3.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 09 (TELEMUNDO) ESP
+http://mains.services/live/507Vej3h3S/4632273/360b5429-b424-4887-ab8c-03e629d55cd3.mpd
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 07 (UNIVERSO) ESP
+http://mains.services/live/640939802963/IDC01478!/d3e9d186-d304-43a3-8631-2ab2510fc7eb.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 07 (UNIVERSO) ESP
+http://mains.services/live/3003556325/2772007/d3e9d186-d304-43a3-8631-2ab2510fc7eb.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 07 (UNIVERSO) ESP
+http://mains.services/live/507Vej3h3S/4632273/d3e9d186-d304-43a3-8631-2ab2510fc7eb.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 03ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -8626,7 +8991,7 @@ http://41.205.93.154/TMC/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 02ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 04ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -8697,7 +9062,7 @@ https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 03ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 05ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
