@@ -5945,6 +5945,51 @@ http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7807.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name=“🇪🇸ESPAÑA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA", ▂ ▄ ▅ ▆ 🌐  🇪🇸ESPAÑA  🌐 ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸03🇪🇸  🌐🌎⭐ 03 📺 ESPAÑA  ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  xdplay📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ Aragón TV INT. (720p) [Not 24/7]
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ Activa TV ES (Music)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ Canal 24 Horas | News (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La1Canarias.es" tvg-logo="https://i.imgur.com/RqUJ4oj.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ La 1 Canarias (720p)
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ La 1 Catalunya (720p)
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+
+#EXTINF:-1 tvg-id="La2Canarias.es" tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ La 2 Canarias | Documentary (720p)
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ La 2 Catalunya | Documentary (720p)
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+
+#EXTINF:-1 tvg-id="12tv.es" tvg-logo="https://i.imgur.com/VSTgXsh.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ 12tv | doce tv ES
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
+
+#EXTINF:-1 tvg-id="EsTuTele.es" tvg-logo="https://i.imgur.com/bsAbcmC.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ EsTuTele ES (720p)
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+
+#EXTINF:-1 tvg-id="GuadaTV.es" tvg-logo="https://i.imgur.com/YaDNsYN.png" group-title="🇪🇸ESPAÑA",🇪🇸☑ Guada TV (720p)
+https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
+
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="🇪🇸ESPAÑA",🇪🇸☑ El Toro TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+
 
 
 
@@ -5953,7 +5998,7 @@ http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7807.m3u8
 #EXTINF:-1 tvg-name=“🇪🇸ESPAÑA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA", ▂ ▄ ▅ ▆ 🌐  🇪🇸ESPAÑA  🌐 ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸03🇪🇸  🌐🌎⭐ 03 📺 ESPAÑA  ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸04🇪🇸  🌐🌎⭐ 04 📺 ESPAÑA  ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  xdplay📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -8623,7 +8668,9 @@ http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9333
 
 
 
-
+#EXTM3U
+#EXTINF:-1 tvg-name="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸", ##########  ♥ GROUP 01 📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸 ♥  ##########
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 02ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
@@ -8668,36 +8715,25 @@ http://mains.services:2086/640939802963/IDC01478!/102326
 #EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt4)
 http://mains.services:2086/live/507Vej3h3S/4632273/102326.mpd
 
-#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt1)
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 2 | Bundesliga (opt1)
 http://mains.services:2086/live/507Vej3h3S/4632273/102325.m3u8
-#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt2)
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 2 | Bundesliga (opt2)
 http://mains.services/live/3003556325/2772007/102325.ts
-#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt3)
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 2 | Bundesliga (opt3)
 http://mains.services:2086/640939802963/IDC01478!/102325
-#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt4)
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 2 | Bundesliga (opt4)
 http://mains.services:2086/live/507Vej3h3S/4632273/102325.mpd
 
-#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt1)
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 1 | Bundesliga (opt1)
 http://mains.services:2086/live/507Vej3h3S/4632273/102324.m3u8
-#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt2)
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 1 | Bundesliga (opt2)
 http://mains.services/live/3003556325/2772007/102324.ts
-#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt3)
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 1 | Bundesliga (opt3)
 http://mains.services:2086/640939802963/IDC01478!/102324
-#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 3 | Bundesliga (opt4)
+#EXTINF:-1,group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",☆ SK 1 | Bundesliga (opt4)
 http://mains.services:2086/live/507Vej3h3S/4632273/102324.mpd
 
 
-
-
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt1) 
-http://mains.services/live/640939802963/IDC01478!/96709.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt2) 
-http://mains.services/live/3003556325/2772007/96709.ts
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt3) 
-http://mains.services:2086/live/507Vej3h3S/4632273/96709.mpd
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt4)
-http://mains.services:2086/640939802963/IDC01478!/96709
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt1) 
 http://mains.services/live/640939802963/IDC01478!/92500.m3u8
@@ -8708,13 +8744,22 @@ http://mains.services:2086/live/507Vej3h3S/4632273/92500.mpd
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO (opt4)
 http://mains.services:2086/640939802963/IDC01478!/92500
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (opt1)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NUEVA INGLATERRA (opt1) 
+http://mains.services/live/640939802963/IDC01478!/96709.m3u8
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NUEVA INGLATERRA (opt2) 
+http://mains.services/live/3003556325/2772007/96709.ts
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NUEVA INGLATERRA (opt3) 
+http://mains.services:2086/live/507Vej3h3S/4632273/96709.mpd
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NUEVA INGLATERRA (opt4)
+http://mains.services:2086/640939802963/IDC01478!/96709
+
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO HOUSTON (opt1)
 http://mains.services/live/640939802963/IDC01478!/101211.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (opt2)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO HOUSTON (opt2)
 http://mains.services/live/3003556325/2772007/101211.ts
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (opt3)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO HOUSTON (opt3)
 http://mains.services:2086/live/507Vej3h3S/4632273/101211.mpd
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO (opt4)
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO HOUSTON (opt4)
 http://mains.services:2086/640939802963/IDC01478!/101211
 
 
@@ -8949,18 +8994,18 @@ http://mains.best:2086/live/3003556325/2772007/101211.ts
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO 47 (KTMD) HOUSTON TEXAS (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/101211
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO Arizona (opt1) 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO ARIZONA (opt1) 
 http://mains.services:2086/live/640939802963/IDC01478!/92508.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO Arizona (opt2) 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO ARIZONA (opt2) 
 http://mains.best:2086/live/3003556325/2772007/92508.ts 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO Arizona (opt3) 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO ARIZONA (opt3) 
 http://mains.services:2086/507Vej3h3S/4632273//92508 
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO AZ WEST (opt1) 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO Arizona WEST (opt1) 
 http://mains.services:2086/live/640939802963/IDC01478!/92492.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO AZ WEST (opt2) 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO Arizona WEST (opt2) 
 http://mains.best:2086/live/3003556325/2772007/92492.ts 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO AZ WEST (opt3) 
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO Arizona WEST (opt3) 
 http://mains.services:2086/507Vej3h3S/4632273/92492 
 
 #EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO ARIZONA (opt1) 
@@ -8971,18 +9016,18 @@ http://mains.best:2086/live/3003556325/2772007/92500.ts
 http://mains.services:2086/507Vej3h3S/4632273/92500
 
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 09 (TELEMUNDO) ESP
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO USA FIFA 01
 http://mains.services/live/640939802963/IDC01478!/360b5429-b424-4887-ab8c-03e629d55cd3.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 09 (TELEMUNDO) ESP
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO USA FIFA 01
 http://mains.services/live/3003556325/2772007/360b5429-b424-4887-ab8c-03e629d55cd3.ts
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 09 (TELEMUNDO) ESP
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ TELEMUNDO USA FIFA 01
 http://mains.services/live/507Vej3h3S/4632273/360b5429-b424-4887-ab8c-03e629d55cd3.mpd
 
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 07 (UNIVERSO) ESP
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ UNIVERSO NBC USA FIFA 02
 http://mains.services/live/640939802963/IDC01478!/d3e9d186-d304-43a3-8631-2ab2510fc7eb.m3u8
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 07 (UNIVERSO) ESP
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ UNIVERSO NBC USA FIFA 02
 http://mains.services/live/3003556325/2772007/d3e9d186-d304-43a3-8631-2ab2510fc7eb.ts
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ USA FIFA 07 (UNIVERSO) ESP
+#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸☆ UNIVERSO NBC USA FIFA 02
 http://mains.services/live/507Vej3h3S/4632273/d3e9d186-d304-43a3-8631-2ab2510fc7eb.mpd
 
 
@@ -9168,13 +9213,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m
 #EXTINF:-1 group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇧🇷 Cazé TV FHD (1080p)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-
-#EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Aragón TV INT. (720p) [Not 24/7]
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
-#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Activa TV ES (Music)
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
@@ -9183,16 +9221,43 @@ https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ CGTN Español | News (1080p)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Aragón TV INT. (720p) [Not 24/7]
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Activa TV ES (Music)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Canal 24 Horas | News (720p)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La1Canarias.es" tvg-logo="https://i.imgur.com/RqUJ4oj.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ La 1 Canarias (720p)
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ La 1 Catalunya (720p)
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+
+#EXTINF:-1 tvg-id="La2Canarias.es" tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ La 2 Canarias | Documentary (720p)
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ La 2 Catalunya | Documentary (720p)
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+
+#EXTINF:-1 tvg-id="12tv.es" tvg-logo="https://i.imgur.com/VSTgXsh.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ 12tv | doce tv ES
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
+
 #EXTINF:-1 tvg-id="EsTuTele.es" tvg-logo="https://i.imgur.com/bsAbcmC.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ EsTuTele ES (720p)
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+
+#EXTINF:-1 tvg-id="GuadaTV.es" tvg-logo="https://i.imgur.com/YaDNsYN.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Guada TV (720p)
+https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ✝Extrema TV (720p)
 https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -9212,8 +9277,16 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Filmex Clásico MX | | Movies (1080p)
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GuadaTV.es" tvg-logo="https://i.imgur.com/YaDNsYN.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Guada TV (720p)
-https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ Sony Movies (Sony Movie Channel)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ Sony Movies (Sony Movie Channel)
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Love Nature en Espanol [Geo-blocked]
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
@@ -9245,17 +9318,6 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Señal Perú TV (404p) [Not 24/7]
 https://livestream.perucast.com/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ Sony Movies (Sony Movie Channel)
-https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ Sony Movies (Sony Movie Channel)
-https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
-
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Tastemade en Espanol | Cooking [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Tastemade en Espanol | Cooking [Geo-blocked]
@@ -9283,27 +9345,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 https://cprdp.pr/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="https://i.imgur.com/MGJaxFO.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇵🇷☑ WIPR 6 (1080p)
 https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
-
-
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ La 1 (720p)
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La1Canarias.es" tvg-logo="https://i.imgur.com/RqUJ4oj.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ La 1 Canarias (720p)
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ La 1 Catalunya (720p)
-https://ztnr.rtve.es/ztnr/3293681.m3u8
-
-#EXTINF:-1 tvg-id="La2Canarias.es" tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ La 2 Canarias | Documentary (720p)
-https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ La 2 Catalunya | Documentary (720p)
-https://ztnr.rtve.es/ztnr/3987218.m3u8
-
-#EXTINF:-1 tvg-id="12tv.es" tvg-logo="https://i.imgur.com/VSTgXsh.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ 12tv | doce tv ES
-https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
-
-
-
-
-
 
 
 
