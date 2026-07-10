@@ -9317,6 +9317,29 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Señal Perú TV (404p) [Not 24/7]
 https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Turbo Mix Radio TV PE (360p) [Music]
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 tvg-id="TVUNO.pe" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ TVUNO PE | Music (720p)
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Televisa Telenovelas | Las Estrellas TV
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TuUniversoTV.co" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Tu Universo TV CO | Religious (720p)
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ TV Brasil Oeste | Rede Brasil (720p)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ TVE RS BR (1080p)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ TVE RS BR EDU (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCentro272HD.hn" tvg-logo="https://i.imgur.com/Wo2scQf.jpg" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ TV Centro 27.2 HD E! (720p)
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-logo="https://i.imgur.com/bcfmqHb.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ TV Centro HD (720p)
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Tastemade en Espanol | Cooking [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
@@ -9330,6 +9353,8 @@ https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/pl
 
 #EXTINF:-1 tvg-id="WRUADT1.pr" tvg-logo="https://i.imgur.com/YtTlZq3.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇵🇷☑ TIVA TV | WRUA-DT1 | E! (720p)
 https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
+#EXTINF:-1 tvg-id="WRUADT1.pr" tvg-logo="https://i.imgur.com/YtTlZq3.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇵🇷☑ WRUA-DT1 (Tiva TV) (720p)
+https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT1.us" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ WKAQ-DT1 (Telemundo PR) (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -9341,10 +9366,23 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ WKAQ-DT2 (Telemundo PR Punto 2) (720p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Venevisión Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
 #EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="https://i.imgur.com/MGJaxFO.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇵🇷☑ WIPR 6 (1080p)
 https://cprdp.pr/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="https://i.imgur.com/MGJaxFO.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇵🇷☑ WIPR 6 (1080p)
 https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
+
+
+
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Xtrema Cartoons | Kids
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCineClasico.ar" tvg-logo="https://i.imgur.com/j91M4Yf.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Xtrema Cine Clasico | Movies
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+
+
+
 
 
 
@@ -9580,6 +9618,10 @@ https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Sony Movies (Sony Movie Channel)
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="TelesurEnglish.ve" tvg-logo="https://comteco.com.bo/img/upload/canales/1yD2hc.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TeleSUR English (1080p) [News]
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+
+
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Tennis Channel (01)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Tennis Channel (02)
@@ -9589,6 +9631,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Tennis Channel (04)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/master.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+
 #EXTINF:-1 tvg-id="TrueCrimeNow.us@SD" tvg-logo="https://i.imgur.com/Y6Hix17.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ True Crime Now (1080p)
 https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Tastemade Travel | Cooking [Geo-blocked]
@@ -9596,17 +9643,99 @@ https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/pl
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ Tastemade en Espanol | Cooking [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Travel XP
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://i.imgur.com/F4hEPMK.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ The Pet Collective | Family
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Trace Sports Stars FR
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/xRJDVR3.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Trace Urban (Music) FR
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Bowling Network | Sports (720p)
+https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Boxing | Sports (360p)
+https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-id="TVSCipherNetwork.us" tvg-logo="https://i.imgur.com/yyz1S2W.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Cipher Network | Classic (360p)
+https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-logo="https://i.imgur.com/st1xMsw.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Classic Movies (288p)
+https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-logo="https://i.imgur.com/auR0Mi6.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Classic Sports (360p)
+https://bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us" tvg-logo="https://i.imgur.com/rXORbti.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Comedy Network (720p)
+https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/OR9APjb.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Drive In Movie | Movies (360p)
+https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-logo="https://i.imgur.com/Y3EV3DL.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Family Channel (360p)
+https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us" tvg-logo="https://i.imgur.com/A4yWhQw.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Film Noir Network | Movies (720p)
+https://bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8 x
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Flashback Network (360p)
+https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Frontier Network (360p)
+https://bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Hi Tops | Kids (720p)
+https://bozztv.com/gusa/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Hollywood History | Classic (582p)
+https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-id="TVSMainstreet.us" tvg-logo="https://i.imgur.com/N9nQpnP.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Mainstreet | Classic (360p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-id="TVSMusicNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Music Network (720p)
+https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgia.us" tvg-logo="https://i.imgur.com/q72FCCQ.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Nostalgia | Classic (472p)
+https://bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-logo="https://i.imgur.com/w4fxiKi.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Nostalgia Movies | Classic (480p)
+https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSPetParadeNetwork.us" tvg-logo="https://i.imgur.com/oGE1MOP.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Pet Parade Network | Classic (360p)
+https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us" tvg-logo="https://i.imgur.com/HHmc14i.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Pinball Network | Kids (480p)
+https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="TVSQuizShowNetwork.us" tvg-logo="https://i.imgur.com/5ljQwx2.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Quiz Show Network | Classic (720p)
+https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+#EXTINF:-1 tvg-id="TVSSelectNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Select Network (720p)
+https://bozztv.com/gusa/gusa-tvsselect/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Sports (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Sports Bureau (720p)
+https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSTalkNetwork.us" tvg-logo="https://i.imgur.com/WsaVAhx.png" group-title="Classic",TVS Talk Network | Classic (360p)
+https://bozztv.com/gusa/gusa-TVStalk/index.m3u8
+#EXTINF:-1 tvg-id="TVSTallyHo.us" tvg-logo="https://i.imgur.com/JlFwnDD.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Tally Ho | Classic (360p)
+https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 tvg-id="TVSTavern.us" tvg-logo="https://i.imgur.com/3GTIs4j.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Tavern | Classic (480p)
+https://bozztv.com/gusa/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Television Network (480p)
+https://bozztv.com/gusa/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-id="TVSTravelNetwork.us" tvg-logo="https://i.imgur.com/vSFf5Ce.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Travel Network (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Turbo | Sports (360p)
+https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Vintage Network (360p)
+https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
+#EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Western Movie | Classic (270p)
+https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TVS Women Sports (720p)
+https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Unbeaten | Sports
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KCKSLD6.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Weather Nation (KCKS-LD6) (480p) [Not 24/7]
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ World Channel | Education (1080p)
+https://world.lls.pbs.org/index.m3u8
 
+#EXTINF:-1 tvg-id="WorldHarvestTV.us" tvg-logo="https://i.imgur.com/xtbkDDN.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ World Harvest TV (360p)
+https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="WTSPDT1.us" tvg-logo="https://i.imgur.com/A00pGOV.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ WTSP CBS 10 | TRUE CRIME NETWORK (1080p)
+https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
 
 
 
