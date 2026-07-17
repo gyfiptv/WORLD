@@ -2707,6 +2707,8 @@ http://181.224.255.210:8001/play/a0sg/index.m3u8?hls
 http://181.224.255.210:8001/play/a0sh/index.m3u8?hls
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0sm EXITOSA
 http://181.224.255.210:8001/play/a0sm/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0sn ATV Sur
+http://181.224.255.210:8001/play/a0sn/index.m3u8?hls
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0so EXITOSA
 http://181.224.255.210:8001/play/a0so/index.m3u8?hls
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0sp WILLAX
@@ -2723,8 +2725,12 @@ http://181.224.255.210:8001/play/a0st/index.m3u8?hls
 http://181.224.255.210:8001/play/a0su/index.m3u8?hls
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0sv HBO 2
 http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
-
-
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0sx Karibena
+http://181.224.255.210:8001/play/a0sx/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0sy ATV+
+http://181.224.255.210:8001/play/a0sy/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0sz Golden
+http://181.224.255.210:8001/play/a0sz/index.m3u8?hls
 
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0yq ESPN 6
