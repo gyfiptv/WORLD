@@ -5647,6 +5647,12 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bt.sport.4.
 
 
 
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-name="🇪🇸ESPAÑA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA", ##########  ♥ GROUP 01 📺TVᵛᶦᵖ🌐SPAIN🇪🇸 ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
@@ -5854,7 +5860,7 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸02🇪🇸  🌐🌎⭐ 02 📺 ESPAÑA  ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  xdplay📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  alfa📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7745 ARAGON TV (opt1)
@@ -5970,11 +5976,538 @@ http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7807.m3u8
 
 
 
+
 #EXTM3U
 #EXTINF:-1 tvg-name=“🇪🇸ESPAÑA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA", ▂ ▄ ▅ ▆ 🌐  🇪🇸ESPAÑA  🌐 ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸03🇪🇸  🌐🌎⭐ 03 📺 ESPAÑA  ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸03🇪🇸  🌐🌎⭐ 02 📺 ESPAÑA  ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  00322.xyz📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 ᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126299
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 ᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126299.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 ᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126299.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 Fᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126301
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 Fᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126301.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 Fᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126301.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126264
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126264.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126264.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 HEVC ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126265
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 HEVC ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126265.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 1 HEVC ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126265.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TVE LA 1 ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126212
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TVE LA 1 ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126212.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TVE LA 1 ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126212.ts
+
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 2 ᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126302
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 2 ᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126302.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 2 ᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S//126302.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 2 Fᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126303
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 2 Fᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126303.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 2 Fᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126303.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TVE LA 2 ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126213
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TVE LA 2 ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126213.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TVE LA 2 ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126213.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 2 ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126263
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 2 ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126263.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA 2 ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126263.ts
+
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 ᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126304
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 ᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126304.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 ᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126304.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 Fᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126306
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 Fᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126306.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 Fᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126306.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126214
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126214.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126214.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126262
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126262.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ANTENA 3 ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126262.ts
+
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO ᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126307
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO ᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126307.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO ᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126307.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO Fᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126309
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO Fᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126309.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO Fᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126309.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126261
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126261.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126261.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126215
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126215.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CUATRO ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126215.ts
+
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TELECINCO ᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126310
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TELECINCO ᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126310.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TELECINCO ᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126310.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TELECINCO Fᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126312
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TELECINCO Fᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126312.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TELECINCO Fᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126312.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TELECINCO ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126260
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TELECINCO ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126260.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TELECINCO ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126260.ts
+
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA SEXTA ᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126313
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA SEXTA ᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126313.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA SEXTA ᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126313.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA SEXTA Fᴴᴰ |ES ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126315
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA SEXTA Fᴴᴰ |ES ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126315.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA SEXTA Fᴴᴰ |ES ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126315.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA SEXTA ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126216
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA SEXTA ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126216.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LA SEXTA ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126216.ts
+
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® 24H ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126170
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® 24H ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126170.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® 24H ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126170.ts
+
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® 24H ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126170
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® 24H ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126170.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® 24H ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126170.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TVE 24H ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126193
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TVE 24H ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126193.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® TVE 24H ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126193.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® I24 NEWS ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126270
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® I24 NEWS ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126270.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® I24 NEWS ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126270.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® A3 SERIES ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126171
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® A3 SERIES ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126171.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® A3 SERIES ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126171.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® COSMO HEVC ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126278
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® COSMO HEVC ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126278.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® COSMO HEVC ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126278.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® COSMO ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126253
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® COSMO ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126253.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® COSMO ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126253.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CALLE 13 ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126211
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CALLE 13 ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126211.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CALLE 13 ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126211.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CALLE 13 ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126252
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CALLE 13 ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126252.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® CALLE 13 ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126252.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ENERGY ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126257
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ENERGY ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126257.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ENERGY ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126257.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® Deportes HQ | por M+ ES
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4337
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® Deportes HD | por M+ ES
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4339.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® Deportes | por M+ ES
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4335.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® NEOX ᴴᴰ | ESP ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126256
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® NEOX ᴴᴰ | ESP ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126256.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® NEOX ᴴᴰ | ESP ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126256.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ODISEA ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126277
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ODISEA ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126277.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® ODISEA ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S//126277.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® STAR TVE |SUR ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4865
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® STAR TVE |SUR ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4865.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® STAR TVE |SUR ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4865.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® STAR TVE ES SUR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4784
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® STAR TVE ES SUR (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4784.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® STAR TVE ES SUR (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4784.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® STAR TVE ᴴᴰ |SPAIN ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/126259
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® STAR TVE ᴴᴰ |SPAIN ® (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126259.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® STAR TVE ᴴᴰ |SPAIN ® (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/126259.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® BARCA TV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4296
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® BARCA TV (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4296.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® BARCA TV (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4296.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® DAZN Formula 1 GP (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/151641
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® DAZN Formula 1 GP (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/151641.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® DAZN Formula 1 GP (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/151641.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M. | DAZN F1 HD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4354
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M. | DAZN F1 HD (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4354.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M. | DAZN F1 HD (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4354.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M. | FORMULA 1 FHD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4355
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M. | FORMULA 1 FHD (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4355.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M. | FORMULA 1 FHD (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4355.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | ESPORT 3
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4352.m3u8
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *EUROSPORT (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4348
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *EUROSPORT (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4348.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *EUROSPORT (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4348.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *EUROSPORT HD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4349
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *EUROSPORT HD (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4349.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *EUROSPORT HD (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4349.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *EUROSPORT FULL FHD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4350
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *EUROSPORT FULL FHD (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4350.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *EUROSPORT FULL FHD (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4350.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *Eurosport 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4351
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *Eurosport 2 (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4351.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® *Eurosport 2 (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4351.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | GOLF FHD | por M+
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4356
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | GOLF | por M+
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4333
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | GOLF HD | por M+
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4334
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | GOL PLAY TV FHD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4338
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | GOL PLAY TV FHD (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4338.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | GOL PLAY TV FHD (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4338.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® M | liga de Campeones | por M+ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4347
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® M | liga de Campeones | por M+ (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4347.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® M | liga de Campeones | por M+ (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4347.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® M | Liga de Campeones (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4341
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® Liga de Campeones | por M+ (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4342
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® MOVISTAR | Liga de Campeones
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4320
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LIGA DE CAMPEONES | por M+
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4321
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® MOVISTAR | LIGA DE CAMPEONES FHD
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4322
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LIGA DE CAMPEONES 1 | por M+ (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4323
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LIGA CAMPEONES 1 HD | por M+ (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4324
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® MOVISTAR | LIGA DE CAMPEONES 2
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4325
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® MOVISTAR | LIGA DE CAMPEONES 2 FHD (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4326
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® MOVISTAR | LIGA DE CAMPEONES 3  (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4327
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LIGA DE CAMPEONES 4 | por M+ (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4328
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LIGA DE CAMPEONES 5 | por M+ (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4329
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® MOVISTAR | LIGA DE CAMPEONES 6 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4330
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® MOVISTAR | LIGA DE CAMPEONES 7 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4331
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® MOVISTAR | LIGA DE CAMPEONES 8 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4332
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LaLiga | VAMOS | por M+ (Solo Eventos) (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4346
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LaLiga | VAMOS | por M+ (Solo Eventos) (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4346.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® LaLiga | VAMOS | por M+ (Solo Eventos) (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4346.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | LaLiga TV BAR | por M+ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4297
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | LaLiga TV BAR | por M+ (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4297.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | LaLiga TV BAR | por M+ (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4297.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M | LaLiga TV BAR HD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4298
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M | LaLiga TV BAR HD (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4298.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M | LaLiga TV BAR HD (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4298.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M | LaLiga TV BAR FHD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4299
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M | LaLiga TV BAR FHD (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4299.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M | LaLiga TV BAR FHD (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4299.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M | LaLiga TV BAR 2 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4300
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M | LaLiga TV BAR 3 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4301
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | M | LaLiga TV BAR 4 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4302
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR | LaLiga 1 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4307
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | LaLiga 1 FHD | por M+ (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4308
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR | LaLiga 2 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4309
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR | LaLiga 2 FHD (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4310
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR |  Liga de Campeones 3 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4311
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR |  Liga de Campeones 4 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4312
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR |  Liga de Campeones 5 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4313
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR |  Liga de Campeones 6 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4319
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR | LaLiga 6 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4314
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR | LaLiga 7 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4315
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR | LaLiga 10 (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4316
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | LaLiga TV FHD | por M+ (Solo Eventos)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4317
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | LA LIGA 9 | por M+ (Solo Eventos) x
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4318
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® SPORTS | MOVISTAR DEPORTE HD PE X
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4336
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® SPORTS | MOVISTAR DEPORTE 4 (Solo Eventos) X
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4343
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® SPORTS | MOVISTAR DEPORTE 5 (Solo Eventos) X
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4344
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | Deportes 2 FHD | por M+ (Solo Eventos) (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4345
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | Deportes 2 FHD | por M+ (Solo Eventos) (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4345.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | Deportes 2 FHD | por M+ (Solo Eventos) (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4345.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR DEPORTE 1 PE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4340
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR DEPORTE 1 PE (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4340.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | MOVISTAR DEPORTE 1 PE (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4340.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS FHD | por M+ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4295
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS FHD | por M+ (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4295.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS FHD | por M+ (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4295.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS HD | por M+ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4304
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS HD | por M+ (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4304.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS HD | por M+ (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4304.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS SD | por M+ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4305
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS SD | por M+ (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4305.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS SD | por M+ (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4305.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS BAR HD | por M+ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4306
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS BAR HD | por M+ (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4306.m3u8
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | VAMOS BAR HD | por M+ (opt3)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4306.ts
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® | ONETORO TV | MOVISTAR TOROS FHD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4362
+
+#EXTINF:-1,group-title="🇪🇸ESPAÑA",® SPORTS | tdp | TELEDEPORTE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4357
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name=“🇪🇸ESPAÑA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA", ▂ ▄ ▅ ▆ 🌐  🇪🇸ESPAÑA  🌐 ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸04🇪🇸  🌐🌎⭐ 03 📺 ESPAÑA  ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  xdplay📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -6023,7 +6556,7 @@ https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-name=“🇪🇸ESPAÑA" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA", ▂ ▄ ▅ ▆ 🌐  🇪🇸ESPAÑA  🌐 ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸04🇪🇸  🌐🌎⭐ 04 📺 ESPAÑA  ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇪🇸ESPAÑA",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸05🇪🇸  🌐🌎⭐ 04 📺 ESPAÑA  ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇪🇸ESPAÑA",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  xdplay📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
