@@ -16008,14 +16008,6 @@ https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
 https://acentotv01.streamprolive.com/hls/live.m3u8
 
 
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="🆕🇸Usa-Latino🌎",🇵🇪☑ ATV PE
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="🆕🇸Usa-Latino🌎",🇵🇪☑ ATV+ PE
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="🆕🇸Usa-Latino🌎",🇵🇪☑ ATV Sur PE
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="🆕🇸Usa-Latino🌎",🇵🇪☑ Auténtica Televisión PE
-https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 group-title="🆕🇸Usa-Latino🌎",🇵🇪★ AMERICA TELEVISION PE (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7441.ts
