@@ -1901,39 +1901,459 @@ http://190.11.225.124:5000/live/warner_sd/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
 #EXTM3U
-#EXTINF:-1 tvg-name="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸", ##########  ♥ 📺TVᵛᶦᵖ🌐ESPANOL🇪🇸 ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-name="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",🇪🇸ᴸᵒᵛᵉ ᴺᴬᵀᵘᴿᵉ ##########  ♥ GROUP 01 📺ᴛvᵛᶦᵖ🇺🇸ᴘʀᴇmɪᴜm☑🇪🇸 ♥  ##########
-https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",✝️Daystarᵀᵛ 🇪🇸 PREMIUMᵀᵛ 🇺🇸  🌐🌎⭐ 🇪🇸01ᵀᵛ🌐world🇺🇸 ⭐🌎🌐
-https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🌐ESPANOL🇪🇸",✝️BibleMoviesᵀᵛ tvnow. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-name="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸", ##########  ♥ GROUP 01 📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸 ♥  ##########
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸", ##########  ♥ GROUP 01 📺TVᵛᶦᵖ🌐ENGLISH🇺🇸 ♥  ##########
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 PREMIUMᵀᵛ 🇺🇸  🌐🌎⭐ 📺TVᵛᶦᵖ🌐ENGLISH🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴿᴱᴹᴵᵁᴹ® 🇺🇸  🌐🌎⭐ 00ᵀᵛ📺IPTVᴾᴿᴱᴹᴵᵁᴹ®🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🌐ENGLISH🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  alfa. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TVN 24horas CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3306
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TVN 24horas CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3307
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® MEGA TV CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3308
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® D SPORTS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3309
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® MEGA TV CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3310
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELETRECE T13 CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3311
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ESPN 6 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3312
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® FOX SPORTS 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3313
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ESPN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3526
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ESPN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3527
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TNT SPORTS CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3528
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® LA RED CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3529
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TNT SPORTS CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3530
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CLUB HIPICO CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3531
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TVN CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3532
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TVN CL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3533
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TVP TV PUBLICA AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3534
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® RADIO REAL POLITIK AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3535
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELEFE AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3536
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® LN+ AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3538
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® EL NUEVE AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3539
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® DEPORTV AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3540
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CRONICA AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3541
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® EL NUEVE AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3542
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 26 AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3543
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® VOLVER AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3544
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELESUR AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3545
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® QUANTICA MEDIOS AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3546
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® LATINO | EL CANAL DE LA MUSICA AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3548
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® GARAGE TV AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3549
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CIUDAD MAGAZINE AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3550
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CINE AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3551
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® MAS MUSICA | XTREMA TV AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3552
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 13 SANTA FE AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3553
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® V TV AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3554
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TVP TV PUBLICA AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3555
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TN AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3556
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELESUR AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3557
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELEVISION PUBLICA PAMPEANA AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3558
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELEFE AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3559
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TA TELE ANGOL AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3560
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CIUDAD TELEVISION AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3562
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® METRO TV CANAL 12 AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3563
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TV AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3564
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® C5N AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3565
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ARGENTINISIMA AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3566
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® AMERICA TV AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3567
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® EL TRECE INTERNACIONAL AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3568
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 1 CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3570
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CARACOL CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3571
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CARACOL CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3572
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CARACOL INTERNACIONAL CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3573
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CARACOL INTERNACIONAL CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3574
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® RCN MAS CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® RCN CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® RCN NOVELAS CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELEANTIOQUIA CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3578
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELECAFE CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3580
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELECARIBE CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3581
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELECARIBE PLAY CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3582
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELEMICRO 5 INTERNACIONAL RD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3583
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELEMICRO 5 INTERNACIONAL RD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3584
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELEMEDELLIN CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3585
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TV AGRO CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3586
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CABLE NOTICIAS CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3587
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CABLE NOTICIAS CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3588
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELEMEDELLIN CO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3590
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TC TELEVISION EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3591
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ANTENA UNO RADIO EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3592
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® OROMAR TV EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3593
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ECUADOR TV 7 EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3594
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® RADIO EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3595
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® AXN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3602
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® DISCOVERY ID (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3605
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® DISCOVERY WORLD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3606
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® LAS ESTRELLAS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3607
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® STAR CHANNEL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3642
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TNT SERIES (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3644
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® FX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3645
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® FX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3646
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® GOLDEN EDGE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3647
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® GOLDEN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3648
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® A MAS+ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3654
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELEVISION MEXIQUENSE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3657
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® NATIONAL GEOGRAPHIC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3659
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® PARAMOUNT NETWORK (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3667
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3668
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELEHIT MUSICA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3669
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® AYM SPORTS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3670
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® STUDIO UNIVERSAL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3674
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TODO NOVELAS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3678
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CORAZON AZTECA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3679
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® A MAS+ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3697
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® A3S (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3698
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ADN NOTICIAS TV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3699
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® HBO MUNDI (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3702
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® AXN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3704
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® AYM SPORTS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3705
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CINEMA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3706
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CORAZON AZTECA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3707
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® AZTECA INTERNACIONAL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3708
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® BANDAMAX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3711
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® DISCOVERY SCIENCE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3713
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL ONCE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3718
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 5* MX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3719
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 8 Multimedios CR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3720
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® UNISON TV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3722
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL ONCE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3723
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CINECANAL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3724
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CINEMAX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3725
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® D PELICULA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3729
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® D PELICULA PLUS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3730
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TLC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3741
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® FILM & ARTS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3745
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® FOOD NETWORK (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3746
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELE FORMULA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3747
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® N+FORO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3748
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® UNIVERSAL REALITY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3750
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® SMITHSONIAN CHANNEL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3751
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® STAR CHANNEL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3752
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® LIFETIME (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3753
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® UNIVERSAL PREMIERE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3754
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® UNIVERSAL TV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3756
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® UNIVERSAL CINEMA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3757
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® UNIVERSAL CRIME (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3758
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® GOLDEN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3761
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® GOLDEN EDGE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3762
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® GOLDEN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3763
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® HISTORY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3764
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® IMAGEN TV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3767
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® HISTORY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3768
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TV MOVIES (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3769
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® MEXIQUENSE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3772
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® MTV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3774
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 6 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3775
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® HISTORY 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3778
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® NTN24 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3785
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELEHIT MUSICA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3787
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® STUDIO UNIVERSAL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3793
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TCM (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3795
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TLN TLNOVELAS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3798
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 6 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3799
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® AZTECA UNO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3801
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® QUIERO TV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3802
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® MTV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3812
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CUMBIA MIX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3816
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3817
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 10 UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3818
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL ONCE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3819
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TELE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3820
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® LA RED (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3821
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 4 UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3822
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 5 TELEVISA MX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3823
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® LA RED (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3824
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 4 UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3825
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CANAL 10 UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3826
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® D SPORTS UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3827
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® VTV PLUS UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3828
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® VTV UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3829
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® VTV PLUS UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3830
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® A&E (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3839
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® AXN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3840
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CARTOONITO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3841
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CARTOON NETWORK (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3842
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CINECANAL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3843
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CINEMAX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3844
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® COMEDY CENTRAL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3845
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® DISCOVERY WORLD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3846
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® DISCOVERY H&H (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3847
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® DISCOVERY TURBO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3848
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® DISNEY JR. (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3849
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® CARTOONITO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3850
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ESPN PREMIUM (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3851
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ESPN 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3852
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ESPN 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3853
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® dc DISTRITO COMEDIA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3854
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® STAR CHANNEL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3855
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® STAR CHANNEL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3856
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® LIFETIME (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3857
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® STAR CHANNEL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3858
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® STAR CHANNEL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3859
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® TNT SERIES (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3860
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® FOX SPORTS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3861
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® FOX SPORTS 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3862
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® FOX SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3863
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® HISTORY 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3865
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® HBO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3866
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® HBO 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3867
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® HBO FAMILY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3868
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® LAS ESTRELLAS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3869
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES1 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3870
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3871
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3872
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES4 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3873
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES5 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3874
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES6 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3875
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES7 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3876
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES8 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3879
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES9 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3882
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES10 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3884
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES11 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3885
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES12 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3886
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES13 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3887
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES14 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3888
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES15 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3889
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES16 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3890
+
+
+
+
+
+
+
+
 
 
 
@@ -2890,457 +3310,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5439.ts
 #EXTM3U
 #EXTINF:-1 tvg-name="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸", ##########  ♥ GROUP 01 📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸 ♥  ##########
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 00ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  alfa. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TVN 24horas CL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3306
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TVN 24horas CL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3307
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® MEGA TV CL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3308
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® D SPORTS (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3309
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® MEGA TV CL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3310
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELETRECE T13 CL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3311
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® ESPN 6 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3312
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® FOX SPORTS 2 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3313
-
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® ESPN (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3526
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® ESPN (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3527
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TNT SPORTS CL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3528
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® LA RED CL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3529
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TNT SPORTS CL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3530
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CLUB HIPICO CL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3531
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TVN CL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3532
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TVN CL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3533
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TVP TV PUBLICA AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3534
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® RADIO REAL POLITIK AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3535
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELEFE AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3536
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® LN+ AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3538
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® EL NUEVE AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3539
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® DEPORTV AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3540
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CRONICA AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3541
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® EL NUEVE AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3542
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL 26 AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3543
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® VOLVER AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3544
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELESUR AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3545
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® QUANTICA MEDIOS AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3546
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® LATINO | EL CANAL DE LA MUSICA AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3548
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® GARAGE TV AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3549
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CIUDAD MAGAZINE AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3550
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CINE AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3551
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® MAS MUSICA | XTREMA TV AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3552
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL 13 SANTA FE AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3553
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® V TV AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3554
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TVP TV PUBLICA AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3555
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TN AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3556
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELESUR AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3557
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELEVISION PUBLICA PAMPEANA AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3558
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELEFE AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3559
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TA TELE ANGOL AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3560
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CIUDAD TELEVISION AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3562
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® METRO TV CANAL 12 AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3563
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3564
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® C5N AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3565
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® ARGENTINISIMA AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3566
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® AMERICA TV AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3567
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® EL TRECE INTERNACIONAL AR (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3568
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL 1 CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3570
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CARACOL CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3571
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CARACOL CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3572
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CARACOL INTERNACIONAL CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3573
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CARACOL INTERNACIONAL CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3574
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® RCN MAS CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3575
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® RCN CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3576
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® RCN NOVELAS CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3577
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELEANTIOQUIA CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3578
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELECAFE CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3580
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELECARIBE CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3581
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELECARIBE PLAY CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3582
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELEMICRO 5 INTERNACIONAL RD (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3583
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELEMICRO 5 INTERNACIONAL RD (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3584
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELEMEDELLIN CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3585
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV AGRO CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3586
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CABLE NOTICIAS CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3587
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CABLE NOTICIAS CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3588
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELEMEDELLIN CO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3590
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TC TELEVISION EC (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3591
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV EC (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3592
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® OROMAR TV EC (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3593
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® ECUADOR TV 7 EC (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3594
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV EC (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3595
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® AXN (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3602
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® DISCOVERY ID (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3605
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® DISCOVERY WORLD (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3606
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® LAS ESTRELLAS (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3607
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® STAR CHANNEL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3642
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TNT SERIES (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3644
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® FX (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3645
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® FX (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3646
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® GOLDEN EDGE (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3647
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® GOLDEN (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3648
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® A MAS+ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3654
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELEVISION MEXIQUENSE (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3657
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® NATIONAL GEOGRAPHIC (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3659
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® PARAMOUNT NETWORK (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3667
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3668
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELEHIT MUSICA (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3669
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® AYM SPORTS (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3670
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® STUDIO UNIVERSAL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3674
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TODO NOVELAS (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3678
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CORAZON AZTECA (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3679
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® A MAS+ (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3697
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® A3S (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3698
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® ADN NOTICIAS TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3699
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® HBO MUNDI (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3702
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® AXN (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3704
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® AYM SPORTS (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3705
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CINEMA (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3706
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CORAZON AZTECA (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3707
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® AZTECA INTERNACIONAL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3708
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® BANDAMAX (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3711
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® DISCOVERY SCIENCE (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3713
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL ONCE (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3718
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3719
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3720
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® UNISON TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3722
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL ONCE (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3723
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CINECANAL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3724
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CINEMAX (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3725
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® D PELICULA (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3729
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® D PELICULA PLUS (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3730
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TLC (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3741
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® FILM & ARTS (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3745
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® FOOD NETWORK (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3746
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELE FORMULA (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3747
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® N+FORO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3748
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® UNIVERSAL REALITY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3750
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇺🇸® SMITHSONIAN CHANNEL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3751
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® STAR CHANNEL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3752
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® LIFETIME (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3753
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® UNIVERSAL PREMIERE (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3754
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® UNIVERSAL TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3756
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® UNIVERSAL CINEMA (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3757
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® UNIVERSAL CRIME (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3758
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® GOLDEN (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3761
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® GOLDEN EDGE (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3762
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® GOLDEN (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3763
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® HISTORY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3764
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3767
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® HISTORY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3768
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3769
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® MEXIQUENSE (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3772
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® MTV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3774
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL 6 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3775
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® HISTORY 2 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3778
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® NTN24 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3785
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELEHIT MUSICA (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3787
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® STUDIO UNIVERSAL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3793
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TCM (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3795
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TLN TLNOVELAS (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3798
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL 6 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3799
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3801
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® QUIERO TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3802
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® MTV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3812
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CUMBIA MIX (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3816
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELE (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3817
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL 10 UY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3818
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL ONCE (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3819
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TELE (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3820
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® LA RED (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3821
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL 4 UY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3822
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3823
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® LA RED (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3824
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL 4 UY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3825
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CANAL 10 UY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3826
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® D SPORTS UY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3827
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® VTV PLUS UY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3828
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® VTV UY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3829
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® VTV PLUS UY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3830
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® A&E (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3839
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® AXN (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3840
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CARTOONITO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3841
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CARTOON NETWORK (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3842
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CINECANAL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3843
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CINEMAX (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3844
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® COMEDY CENTRAL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3845
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® DISCOVERY WORLD (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3846
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® DISCOVERY H&H (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3847
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® DISCOVERY TURBO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3848
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® DISNEY JR. (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3849
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® CARTOONITO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3850
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® ESPN PREMIUM (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3851
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® ESPN 2 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3852
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® ESPN 3 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3853
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® dc DISTRITO COMEDIA (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3854
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® STAR CHANNEL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3855
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® STAR CHANNEL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3856
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® LIFETIME (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3857
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® STAR CHANNEL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3858
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® STAR CHANNEL (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3859
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TNT SERIES (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3860
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® FOX SPORTS (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3861
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® FOX SPORTS 2 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3862
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® FOX SPORTS 3 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3863
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® HISTORY 2 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3865
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® HBO (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3866
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® HBO 2 (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3867
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® HBO FAMILY (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3868
-
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3869
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3870
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3871
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3872
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3873
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3874
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3875
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3876
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3879
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3882
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3884
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3885
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3886
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3887
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3888
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3889
-#EXTINF:-1 group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",🇪🇸® TV (opt1)
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3890
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᵛᶦᵖ🇺🇸WORLD🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 TVᵛᶦᵖ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
