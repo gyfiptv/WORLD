@@ -1911,6 +1911,13 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  alfa. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® FOX CHANNEL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/2693
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® HBO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/2790
+
 
 
 
@@ -2332,7 +2339,7 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3876
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3879
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES9 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3882
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES10 (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES10 | PPV | StarMax HD_1080P (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3884
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇺🇸® TV MOVIES11 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3885
