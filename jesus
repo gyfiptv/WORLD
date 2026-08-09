@@ -1934,6 +1934,9 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3312
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® FOX SPORTS 2 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3313
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Family Guy" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® 24/7 | Family Guy http://00322.xyz:8000/plus10031/HEPGK6N/3406 
+
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ESPN (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3526
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ESPN (opt1)
@@ -2075,7 +2078,7 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3595
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3602
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® DISCOVERY ID (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3605
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® DISCOVERY WORLD (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® DISCOVERY CHANNEL (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3606
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® LAS ESTRELLAS (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3607
@@ -2360,6 +2363,22 @@ http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/4844.ts
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://app.mxl-iptv.tv/logos_tv/44f634e9752f4bc75d0b652f2b6f1379.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® Los Simpsons http://00322.xyz:8000/plus10031/HEPGK6N/129313 
+#EXTINF:-1 tvg-id="" tvg-name="Chavo del 8" tvg-logo="https://app.mxl-iptv.tv/logos_tv/22540ab533182c247c6ca26b13dd01bd.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® ESPN http://00322.xyz:8000/plus10031/HEPGK6N/129315
+#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="https://image.tmdb.org/t/p/w185/k9czYcK98MYAPA8U6hZA1vDK9D0.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® South Park http://00322.xyz:8000/plus10031/HEPGK6N/129318
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://seeklogo.com/images/B/Bob_Esponja-logo-0D3F3F01DD-seeklogo.com.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® Bob Esponja http://00322.xyz:8000/plus10031/HEPGK6N/129332 
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="http://www.animeado.net/wp-content/uploads/2016/08/VHS-DRAGON-BALL-GT-MANGA-FILMS-1-compressor.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® Dragon Ball GT http://00322.xyz:8000/plus10031/HEPGK6N/129334 
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon" tvg-logo="https://4.bp.blogspot.com/-qYYXEdb9DVw/WR7mVx6YBsI/AAAAAAAANzM/744GdyLkzGwo4oWau89sApIGMh_CuHseQCLcB/s1600/w-Series%2BExtreno.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® Doraemon http://00322.xyz:8000/plus10031/HEPGK6N/129335 
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://image.tmdb.org/t/p/w185/lTVhwFcSHqN0Xv8HLxDHILtrwfX.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® Naruto http://00322.xyz:8000/plus10031/HEPGK6N/129339
+#EXTINF:-1 tvg-id="" tvg-name="Trollhunters" tvg-logo="https://image.tmdb.org/t/p/w185/iHbeVwW6q38SSZZ6BnOg4T35wiL.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® MAFALDA http://00322.xyz:8000/plus10031/HEPGK6N/129343 
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra" tvg-logo="https://image.tmdb.org/t/p/w185/ktzefGtGUwMGAmN1Bna1oTeLSnX.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® Los Picapiedra http://00322.xyz:8000/plus10031/HEPGK6N/129349 
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="https://image.tmdb.org/t/p/w185/2d0ESa56OesIFAOAl8ZZi0mHlxC.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🇺🇸wᴏʀʟd🇪🇸",🇪🇸® La casa de papel http://00322.xyz:8000/plus10031/HEPGK6N/129350 
+
+
+
+
+
+
 
 
 #EXTM3U
@@ -2419,10 +2438,21 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® A&E (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3839
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® A&E (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3839.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® A&E (opt2)
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/3839.ts
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® AXN (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3840
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® AXN (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3602
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® AXN (opt2)
+http://00322.xyz:8000/LIVE/carlosquiroz52/MQPM675V4S/3602.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® AXN (opt3)
+http://00322.xyz:8000/LIVE/carlosquiroz52/MQPM675V4S/3602.ts
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® AXN (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3704
 
@@ -2475,7 +2505,7 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3847
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3848
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® DISCOVERY ID (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3605
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® DISCOVERY WORLD (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® DISCOVERY CHANNEL (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3606
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ®🌐sᴘᴀɴɪsh🇪🇸",🇪🇸® DISCOVERY SCIENCE (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3713
