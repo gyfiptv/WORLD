@@ -2003,16 +2003,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u
 #EXTINF:-1 tvg-id="WLTVDT.us@SD" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/miami/univision-23-fl.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ23 ɴᴏw Miami WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.mpd
 
-#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Los Angeles KMEX-DT1 West [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Los Angeles KMEX-DT1 West [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.mpd
-
-#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ14 ɴᴏw San Francisco KDTV-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8
-#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ14 ɴᴏw San Francisco KDTV-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.mpd
-
 #EXTINF:-1 tvg-id="WXTVDT.us@SD" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/san-antonio/univision-41-tx.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ41 ɴᴏw New York WXTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:-1 tvg-id="WXTVDT.us@SD" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/san-antonio/univision-41-tx.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ41 ɴᴏw New York WXTV-DT1 [Geo-blocked]
@@ -2037,6 +2027,16 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.mpd
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
 #EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ45 ɴᴏw Houston KXLN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.mpd
+
+#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ14 ɴᴏw San Francisco KDTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8
+#EXTINF:-1 tvg-id="KDTVDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ14 ɴᴏw San Francisco KDTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.mpd
+
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Los Angeles KMEX-DT1 West [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸ᴺᵒᵛᵛ N+ ᴜɴɪvɪsɪᴏɴ34 ɴᴏw Los Angeles KMEX-DT1 West [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.mpd
 
 
 
