@@ -1740,6 +1740,9 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7313.ts
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7313 CANAL SUR ES (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7313
 
+
+
+
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7511 LA 1 RTVE ES (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7511.m3u8
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7511 LA 1 RTVE ES (opt2)
@@ -1768,12 +1771,18 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7514.ts
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7514 CUATRO MEDIASET ES (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7514
 
-#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO 5 MEDIASET ES (opt1)
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 MEDIASET ES (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7515.m3u8
-#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO 5 MEDIASET ES (opt2)
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 MEDIASET ES (opt2)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7515.ts
-#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO 5 MEDIASET ES (opt3)
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 MEDIASET ES (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7515
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 MEDIASET ES (opt4)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7515.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 MEDIASET ES (opt5)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7515.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 MEDIASET ES (opt6)
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7515
 
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7516 LA SEXTA 6  A3MEDIA ES (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7516.m3u8
@@ -1782,18 +1791,96 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7516.ts
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7516 LA SEXTA 6  A3MEDIA ES (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7516
 
-#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7515.m3u8
-#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7515.ts
-#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7515
-#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7515.m3u8
-#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 (opt5)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7515.ts
-#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7515 TELECINCO .5 (opt6)
-http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7515
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7518 PPV ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7518.m3u8
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7519 PPV CINE ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7519.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7519 PPV CINE ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7519.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7519 PPV CINE ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7519
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7521 ACCION | por M+ ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7521.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7521 ACCION | por M+ ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7521.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7521 ACCION | por M+ ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7521
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7522 CANAL+ | EXTRA 1 ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7522.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7522 CANAL+ | EXTRA 1 ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7522.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7522 CANAL+ | EXTRA 1 ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7522
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7523 WB TV ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7523.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7523 WB TV ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7523.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7523 WB TV ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7523
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7525 NAT GEO WILD ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7525.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7525 NAT GEO WILD ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7525.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7525 NAT GEO WILD ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7525
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7526 NE OX ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7526.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7526 NE OX ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7526.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7526 NE OX ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7526
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7527 NOVA ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7527.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7527 NOVA ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7527.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7527 NOVA ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7527
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7528 MEGA ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7528.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7528 MEGA ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7528.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7528 MEGA ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7528
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7529 BE MAD. ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7529.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7529 BE MAD. ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7529.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7529 BE MAD. ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7529
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7530 A3S ANTENA 3 SERIES ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7530.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7530 A3S ANTENA 3 SERIES ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7530.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7530 A3S ANTENA 3 SERIES ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7530
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7531 A3CINE ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7531.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7531 A3CINE ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7531.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7531 A3CINE ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7531
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7533 CRIME+INVESTIGATION ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7533.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7533 CRIME+INVESTIGATION ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7533.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7533 CRIME+INVESTIGATION ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7533
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7535 OD!SEA ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7535.m3u8
 
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7536 ENERGY. (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7536.m3u8
@@ -1807,6 +1894,77 @@ http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7536.m3u8
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7536.ts
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7536 ENERGY. (opt6)
 http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7536
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7537 DMAX ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7537.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7537 DMAX ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7537.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7537 DMAX ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7537
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7539 d. DIVINITY ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7539.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7539 d. DIVINITY ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7539.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7539 d. DIVINITY ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7539
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7540 F. FDF ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7540.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7540 F. FDF ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7540.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7540 F. FDF ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7540
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7543 AXN MOVIES ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7543.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7543 AXN MOVIES ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7543.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7543 AXN MOVIES ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7543
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7544 CANAL COCINA ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7544.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7544 CANAL COCINA ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7544.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7544 CANAL COCINA ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7544
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7545 HISTORIA ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7545.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7545 HISTORIA ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7545.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7545 HISTORIA ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7545
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7546 ANIMAL PLANET ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7546.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7546 ANIMAL PLANET ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7546.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7546 ANIMAL PLANET ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7546
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7547 DISCOVERY CHANNEL ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7547.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7547 DISCOVERY CHANNEL ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7547.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7547 DISCOVERY CHANNEL ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7547
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7548 SMITHSONIAN CHANNEL ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7548.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7548 SMITHSONIAN CHANNEL ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7548.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7548 SMITHSONIAN CHANNEL ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7548
+
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7549 HERALDO TELEVISION 8 ES (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7549.m3u8
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7549 HERALDO TELEVISION 8 ES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7549.ts
+#EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7549 HERALDO TELEVISION 8 ES (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7549
+
 
 
 #EXTINF:-1 group-title="🇪🇸ESPAÑA",🇪🇸★7746 TRECE (opt1)
