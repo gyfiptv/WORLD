@@ -465,14 +465,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9308.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9308.mpd
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9308
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9308.m3u
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7595 TELEMUNDO 47 NEW YORK (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7595.m3u8
@@ -518,6 +510,15 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7604.mpd
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7604
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★7604 TELEMUNDO 39 Dallas | 40 MCALLEN TX (opt4)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7604.m3u
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt1)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9308.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9308.mpd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9308
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9308 TELEMUNDO (opt4)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9308.m3u
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸★9309 UNIMAS (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9309.m3u8
@@ -6997,6 +6998,19 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AXN MX (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7031.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AXN MX (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7031.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AXN MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7031
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AYM SPORTS MX (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7033.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AYM SPORTS MX (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7033.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AYM SPORTS MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7033
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA CINEMA MX (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7034.m3u8
@@ -7341,6 +7355,13 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7317.m3u8
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7317.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 48 TX (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7317
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CLARO SPORTS (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7378.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CLARO SPORTS (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7378.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CLARO SPORTS (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7378
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AMERICA TELEVISION PE (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7441.m3u8
@@ -8408,6 +8429,14 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9320.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN PREMIUM AR (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9320
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9326 (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9326.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9326 (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9326.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9326 (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9326
+
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 1 CA (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9327.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 1 CA (opt2)
@@ -8456,6 +8485,79 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9333.m3u8
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9333.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SN SPORTSNET CA (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9333
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9334.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9334.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9334
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN 2 (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9335.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN 2 (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9335.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN 2 (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9335
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ACCN ESPN (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9336.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ACCN ESPN (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9336.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ACCN ESPN (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9336
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COMET (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9338.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COMET (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9338.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COMET (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9338
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ONCE+ MX (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9339.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ONCE+ MX (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9339.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ONCE+ MX (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9339
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ID (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9342.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ID (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9342.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ID (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9342
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9343 (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9343.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9343 (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9343.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9343 (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9343
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9344 (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9344.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9344 (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9344.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9344 (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9344
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9345 (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9345.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9345 (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9345.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9345 (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9345
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9346 (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9346.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9346 (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9346.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9346 (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9346
+
+
+
 
 
 
