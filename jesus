@@ -770,6 +770,8 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  ☑ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇧🇷☑ ᶜᴬᴺᴬᴸGospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ América TeVé USA | 1080ᴾ (opt1)
 https://live.gideo.video/americateve2/master.m3u8
@@ -823,6 +825,10 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Estrella TV E! | 1080ᴾ
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Televisa Telenovelas | Las Estrellas TV | 720ᴾ
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Televisa Telenovelas | Las Estrellas TV | 720ᴾ
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Filmex MX | Movies (Xumo) | 1080ᴾ
@@ -863,15 +869,17 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸLove Nature 4K | 1080ᴾ
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network Mexico | 720ᴾ
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network Mexico | 720ᴾ
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network Spain | 1080ᴾ
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network Spain | 1080ᴾ
 https://appletree-mytimespain-rakuten.amagi.tv/master.m3u8
+
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network Mexico | 720ᴾ
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network Mexico | 720ᴾ
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇧🇷☑ ᶜᴬᴺᴬᴸMyTime Movie Network Brazil | Movies | 720ᴾ
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -885,6 +893,8 @@ https://mytimeuk-rakuten-samsung.amagi.tv/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ MEXIQUENSE AMX Noticias | News | 720ᴾ
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ MEXIQUENSE AMX Noticias | News | 720ᴾ
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
@@ -1013,17 +1023,13 @@ https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="WDWLDT1.pr" tvg-logo="https://i.imgur.com/B7lqYZe.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷☑ ✝TELEADORACION | WDWL-DT1 (Teleadoración/Enlace PR) | 720ᴾ
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Televisa Telenovelas | Las Estrellas TV | 720ᴾ
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TuUniversoTV.co" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Tu Universo TV CO | Religious | 720ᴾ
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Venevisión Internacional | 1080ᴾ
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-
-
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ Venevisión Internacional | 1080ᴾ
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 
 
@@ -1049,7 +1055,6 @@ http://190.93.224.42/AXN/index.mpd
 http://190.93.224.42/AMERICA-TV/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① AMERICA-TV PE (02)
 http://190.93.224.42/AMERICA-TV/index.mpd
-
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① ATV PE (01)
 http://190.93.224.42/ATV/index.m3u8
@@ -1096,6 +1101,10 @@ http://190.93.224.42/DISNEY-JR/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① DISNEY-JR (02)
 http://190.93.224.42/DISNEY-JR/index.mpd
 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① ENTERTAINMENT (01)
+http://190.93.224.42/ENTERTAINMENT/index.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① ENTERTAINMENT (02)
+http://190.93.224.42/ENTERTAINMENT/index.mpd
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① EXITOSA (01)
 http://190.93.224.42/EXITOSA/index.m3u8
@@ -1306,7 +1315,6 @@ http://190.93.224.42/TNT-NOVELAS/index.mpd
 http://190.93.224.42/TV-PERU/index.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TV-PERU (02)
 http://190.93.224.42/TV-PERU/index.mpd
-
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL (01)
 http://190.93.224.42/TELEMUNDO/index.m3u8
@@ -10651,6 +10659,9 @@ https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u
 
 
 
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-name="🇺🇸CHANNELS📺Premium🇪🇸" tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",⚽ ##########☆ 🇺🇸CHANNELS📺Premium🇪🇸 ☆##########
 http://tdgu3cz8.rostelekom.xyz/iptv/879U6DUSYNYSWM/6466/index.m3u8
@@ -10660,19 +10671,19 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① AXN (01)
+http://190.93.224.42/AXN/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① AXN (02)
+http://190.93.224.42/AXN/index.mpd
 
 
-#EXTINF:-1 tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ A&E Eastern (sd)
-https://tvpass.org/live/AEEast/sd
-
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7032.ts
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7032.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt3)
 http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7032.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt4)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ A&E ES (opt4)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7032
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸★ AMC NETWORK | Internacional ES (opt1)
@@ -10866,10 +10877,6 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² BET FR
-http://41.205.93.154/BET/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² BRAVO
 http://41.205.93.154/BRAVO/index.m3u8
 
@@ -10894,16 +10901,19 @@ http://mains.services:2086/640939802963/IDC01478!/56109
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ BET SOUL (opt2)
 http://mains.best:2086/3003556325/2772007/56109
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Bravo USA Eastern (sd)
-https://tvpass.org/live/BravoEast/sd
-
-
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² BET FR
+http://41.205.93.154/BET/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 C 🇪🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① COMEDY-CENTRAL (01)
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① COMEDY-CENTRAL (02)
+http://190.93.224.42/COMEDY-CENTRAL/index.mpd
 
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
@@ -11010,11 +11020,24 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISCOVERY-TURBO (01)
+http://190.93.224.42/DISCOVERY-TURBO/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISCOVERY-TURBO (02)
+http://190.93.224.42/DISCOVERY-TURBO/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISCOVERY-KIDS (01)
+http://190.93.224.42/DISCOVERY-KIDS/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISCOVERY-KIDS (02)
+http://190.93.224.42/DISCOVERY-KIDS/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISNEY-JR (01)
+http://190.93.224.42/DISNEY-JR/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISNEY-JR (02)
+http://190.93.224.42/DISNEY-JR/index.mpd
 
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ D PELICULA MX (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2213
-
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᵀᵛ¹ D PELICULA PLUS MX (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2214
 
@@ -11139,8 +11162,20 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Filmex Clásico MX | | Movies (1080p)
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FRANCE-24 (01)
+http://190.93.224.42/FRANCE-24/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FRANCE-24 (02)
+http://190.93.224.42/FRANCE-24/index.mpd
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FILM-AND-ARTS (01)
+http://190.93.224.42/FILM-AND-ARTS/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FILM-AND-ARTS (02)
+http://190.93.224.42/FILM-AND-ARTS/index.mpd
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FX (01)
+http://190.93.224.42/FX/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FX (02)
+http://190.93.224.42/FX/index.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* FILM ARTS *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29628.ts
@@ -11250,6 +11285,12 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① GOLDEN (01)
+http://190.93.224.42/GOLDEN/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① GOLDEN (02)
+http://190.93.224.42/GOLDEN/index.mpd
+
+
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GET TV (opt1)
 http://mains.best:2086/3003556325/2772007/62322
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ GET TV (opt2)
@@ -11306,8 +11347,40 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ Hard Knocks | Sports
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HISTORY (01)
+http://190.93.224.42/HISTORY/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HISTORY (02)
+http://190.93.224.42/HISTORY/index.mpd
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HISTORY-2 (01)
+http://190.93.224.42/HISTORY-2/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HISTORY-2 (02)
+http://190.93.224.42/HISTORY-2/index.mpd
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-XTREME (01)
+http://190.93.224.42/HBO-XTREME/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-XTREME (02)
+http://190.93.224.42/HBO-XTREME/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-2 (01)
+http://190.93.224.42/HBO-2/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-2 (02)
+http://190.93.224.42/HBO-2/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-PLUS+ (01)
+http://190.93.224.42/HBO-PLUS/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-PLUS+ (02)
+http://190.93.224.42/HBO-PLUS/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-FAMILY (01)
+http://190.93.224.42/HBO-FAMILY/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-FAMILY (02)
+http://190.93.224.42/HBO-FAMILY/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-SIGNATURE (01)
+http://190.93.224.42/HBO-SIGNATURE/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-SIGNATURE (02)
+http://190.93.224.42/HBO-SIGNATURE/index.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ HALLMARK CHANNEL(opt1)
 http://mains.best:2086/3003556325/2772007/95427
@@ -11369,15 +11442,23 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 tvg-id="IFC.us@East" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☑ IFC Independent Film Channel (sd)
-https://tvpass.org/live/IFCEast/sd
-
-
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* ISAT *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/926.ts
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* ISAT *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/863.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 K 🇪🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① KANAL-D-DRAMA (01)
+http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① KANAL-D-DRAMA (02)
+http://190.93.224.42/KANAL-D-DRAMA/index.mpd
+
 
 
 
@@ -11388,6 +11469,10 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① LOVE-NATURE (01)
+http://190.93.224.42/LOVE-NATURE/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① LOVE-NATURE (02)
+http://190.93.224.42/LOVE-NATURE/index.mpd
 
 
 
@@ -11397,8 +11482,6 @@ http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² LMN | LIFETIME MOVIE NETWORK
 http://41.205.93.154/LMN/index.m3u8
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* LIFETIME *LQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29629.ts
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LIFETIME (opt1)
 http://mains.best:2086/3003556325/2772007/95382
@@ -11430,6 +11513,8 @@ http://mains.best:2086/3003556325/2772007/64092
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ LMN | LIFETIME MOVIE NETWORK FHD US (opt2)
 http://mains.services:2086/640939802963/IDC01478!/64092
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* LIFETIME *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29629.ts
 
 
 
@@ -11454,10 +11539,21 @@ http://mains.best:2086/3003556325/2772007/64078
 http://mains.services:2086/640939802963/IDC01478!/64078
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 P 🇪🇸  ⭐🌎 CHANNELS📺Premium 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① PASIONES (01)
+http://190.93.224.42/PASIONES/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① PASIONES (02)
+http://190.93.224.42/PASIONES/index.mpd
+
+
 
 
 
@@ -11553,7 +11649,20 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SONY-CHANNEL (01)
+http://190.93.224.42/SONY-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SONY-CHANNEL (02)
+http://190.93.224.42/SONY-CHANNEL/index.mpd
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SPACE (01)
+http://190.93.224.42/SPACE/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SPACE (02)
+http://190.93.224.42/SPACE/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① STUDIO-UNIVERSAL (01)
+http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① STUDIO-UNIVERSAL (02)
+http://190.93.224.42/STUDIO-UNIVERSAL/index.mpd
 
 
 #EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt1)
@@ -11563,25 +11672,6 @@ http://41.205.93.154/SYFY/mono.m3u8
 #EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt3)
 http://41.205.93.154/SYFY/playlist.m3u8
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SHORTS TV US (opt1)
-http://mains.best:2086/3003556325/2772007/95509
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SHORTS TV US (opt2)
-http://mains.services:2086/640939802963/IDC01478!/95509
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SUNDANCE TV
-http://mains.best:2086/3003556325/2772007/95378
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SUNDANCE TV US
-http://mains.best:2086/3003556325/2772007/1284
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SUNDANCE TV FHD US
-http://mains.best:2086/3003556325/2772007/64038
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SYFY
-http://mains.best:2086/3003556325/2772007/95407
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SYFY US
-http://mains.best:2086/3003556325/2772007/245
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SYFY FHD US
-http://mains.best:2086/3003556325/2772007/64037
-
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt1)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite20247152.ts
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt2)
@@ -11590,21 +11680,6 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7152.m3u8
 http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7152
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SYFY HD (opt4)
 http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7152.ts
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SONY MOVIES CHANNEL US (opt1)
-http://mains.best:2086/3003556325/2772007/21949
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SONY MOVIES CHANNEL US (opt2)
-http://mains.services:2086/640939802963/IDC01478!/21949
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : LATINO | 66561 (opt1)
-http://mains.best:2086/3003556325/2772007/66561
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : LATINO | 66561 (opt2)
-http://mains.services:2086/640939802963/IDC01478!/66561
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : ES | 88695 (opt1)
-http://mains.best:2086/3003556325/2772007/88695
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : ES | 88695 (opt2)
-http://mains.services:2086/640939802963/IDC01478!/88695
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SONY Channel ES (opt1)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7150.m3u8
@@ -11641,6 +11716,42 @@ http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7449.ts
 http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7449.ts
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸★ SPACE HD (opt4)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7449.ts
+
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SYFY
+http://mains.best:2086/3003556325/2772007/95407
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SYFY US
+http://mains.best:2086/3003556325/2772007/245
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SYFY FHD US
+http://mains.best:2086/3003556325/2772007/64037
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SHORTS TV US (opt1)
+http://mains.best:2086/3003556325/2772007/95509
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SHORTS TV US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/95509
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SUNDANCE TV
+http://mains.best:2086/3003556325/2772007/95378
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SUNDANCE TV US
+http://mains.best:2086/3003556325/2772007/1284
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SUNDANCE TV FHD US
+http://mains.best:2086/3003556325/2772007/64038
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SONY MOVIES CHANNEL US (opt1)
+http://mains.best:2086/3003556325/2772007/21949
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SONY MOVIES CHANNEL US (opt2)
+http://mains.services:2086/640939802963/IDC01478!/21949
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : LATINO | 66561 (opt1)
+http://mains.best:2086/3003556325/2772007/66561
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : LATINO | 66561 (opt2)
+http://mains.services:2086/640939802963/IDC01478!/66561
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : ES | 88695 (opt1)
+http://mains.best:2086/3003556325/2772007/88695
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ CINE SONY : ES | 88695 (opt2)
+http://mains.services:2086/640939802963/IDC01478!/88695
+
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸* STAR CHANNEL *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29580.ts
@@ -11754,6 +11865,52 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① TNT (01)
+http://190.93.224.42/TNT/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① TNT (02)
+http://190.93.224.42/TNT/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① TNT-SERIES (01)
+http://190.93.224.42/TNT-SERIES/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① TNT-SERIES (02)
+http://190.93.224.42/TNT-SERIES/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① TNT-NOVELAS (01)
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① TNT-NOVELAS (02)
+http://190.93.224.42/TNT-NOVELAS/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL (01)
+http://190.93.224.42/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL (02)
+http://190.93.224.42/TELEMUNDO/index.mpd
+
+
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+
+#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
+#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² TBS |E! (opt1)
 http://41.205.93.154/TBS/index.m3u8
@@ -11858,36 +12015,11 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96027.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29669.ts
 
 
+
+
+
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
 https://tvpass.org/live/TelemundoEast/sd
-
-
-
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Zona TUDN VIX NOW ZONA-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
-
-#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
-#EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
-
 
 
 
@@ -11898,6 +12030,10 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① UNIVISION (01)
+http://190.93.224.42/UNIVISION/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① UNIVISION (02)
+http://190.93.224.42/UNIVISION/index.mpd
 
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸ᴺᵒᵛᵛ UNIMAS46 West LA KFTR-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
@@ -12191,6 +12327,30 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸 HBO 🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸① HBO-XTREME (01)
+http://190.93.224.42/HBO-XTREME/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸① HBO-XTREME (02)
+http://190.93.224.42/HBO-XTREME/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸① HBO-2 (01)
+http://190.93.224.42/HBO-2/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸① HBO-2 (02)
+http://190.93.224.42/HBO-2/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸① HBO-PLUS+ (01)
+http://190.93.224.42/HBO-PLUS/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸① HBO-PLUS+ (02)
+http://190.93.224.42/HBO-PLUS/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸① HBO-FAMILY (01)
+http://190.93.224.42/HBO-FAMILY/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸① HBO-FAMILY (02)
+http://190.93.224.42/HBO-FAMILY/index.mpd
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸① HBO-SIGNATURE (01)
+http://190.93.224.42/HBO-SIGNATURE/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸① HBO-SIGNATURE (02)
+http://190.93.224.42/HBO-SIGNATURE/index.mpd
 
 #EXTINF:-1 tvg-id="Hbo.us" tvg-logo="" group-title="🇺🇸 HBO 🇪🇸",🇺🇸☑ HBO_USA
 http://23.237.104.106:8080/USA_HBO/index.m3u8
@@ -13216,7 +13376,10 @@ http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c573
 #EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Comedy | AFV ALWAYS FUNNY
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① COMEDY-CENTRAL (01)
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① COMEDY-CENTRAL (02)
+http://190.93.224.42/COMEDY-CENTRAL/index.mpd
 
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7307 CRIME (opt1)
@@ -13462,8 +13625,15 @@ http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c573
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Duck Hunting TV | Sports
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① DISCOVERY-TURBO (01)
+http://190.93.224.42/DISCOVERY-TURBO/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① DISCOVERY-TURBO (02)
+http://190.93.224.42/DISCOVERY-TURBO/index.mpd
 
-
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① DISCOVERY-KIDS (01)
+http://190.93.224.42/DISCOVERY-KIDS/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① DISCOVERY-KIDS (02)
+http://190.93.224.42/DISCOVERY-KIDS/index.mpd
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7251 H&H DISCOVERY (opt1)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7251.ts
@@ -13744,6 +13914,11 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① ENTERTAINMENT (01)
+http://190.93.224.42/ENTERTAINMENT/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① ENTERTAINMENT (02)
+http://190.93.224.42/ENTERTAINMENT/index.mpd
+
 #EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7043 ENTERTAINMENT! (opt1)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7043.ts
 #EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/e-entertainment-television-llc-logo-vector.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7043 ENTERTAINMENT! (opt2)
@@ -13854,8 +14029,15 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① HISTORY (01)
+http://190.93.224.42/HISTORY/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① HISTORY (02)
+http://190.93.224.42/HISTORY/index.mpd
 
-
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① HISTORY-2 (01)
+http://190.93.224.42/HISTORY-2/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① HISTORY-2 (02)
+http://190.93.224.42/HISTORY-2/index.mpd
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7443 HGTV (opt1)
 http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7443.ts
@@ -14185,7 +14367,10 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☑ Love Nature en Espanol [Geo-blocked]
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① LOVE-NATURE (01)
+http://190.93.224.42/LOVE-NATURE/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① LOVE-NATURE (02)
+http://190.93.224.42/LOVE-NATURE/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* LOVE NATURE *HD
@@ -14657,6 +14842,12 @@ http://mains.services:2086/640939802963/IDC01478!/64076
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
+
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① PASIONES (01)
+http://190.93.224.42/PASIONES/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① PASIONES (02)
+http://190.93.224.42/PASIONES/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Vzwqts.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ Pursuit Up | Sports
@@ -15145,7 +15336,15 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
 
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸① DISCOVERY-KIDS (01)
+http://190.93.224.42/DISCOVERY-KIDS/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸① DISCOVERY-KIDS (02)
+http://190.93.224.42/DISCOVERY-KIDS/index.mpd
 
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸① DISNEY-JR (01)
+http://190.93.224.42/DISNEY-JR/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🧒KIDS👧🇪🇸",🇪🇸① DISNEY-JR (02)
+http://190.93.224.42/DISNEY-JR/index.mpd
 
 
 
