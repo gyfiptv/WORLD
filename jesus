@@ -1880,6 +1880,9 @@ http://181.224.255.210:8001/play/a0s8/index.m4s
 
 
 
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-name="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸", ##########  ♥ GROUP 01 📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸 ♥  ##########
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -1889,6 +1892,8 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  181.224.a-z 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+
+
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0qn AMC SERIES | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0qn AMC SERIES | 480ᴾ (02)
@@ -1897,6 +1902,15 @@ http://181.224.255.210:8001/play/a0qn/index.m3u
 http://181.224.255.210:8001/play/a0qn/index.mpd
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0qn AMC SERIES | 480ᴾ (04)
 http://181.224.255.210:8001/play/a0qn/index.m4s
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0mk ANIMAL PLANET | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0mk/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0mk ANIMAL PLANET | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0mk/index.m3u
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0mk ANIMAL PLANET | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0mk/index.mpd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0mk ANIMAL PLANET | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0mk/index.m4s
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0pj AMERICA TELEVISION | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0pj/index.m3u8?hls
@@ -2011,10 +2025,14 @@ http://181.224.255.210:8001/play/a0ob/index.mpd
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0ob CINECANAL | 1080ᴾ (04)
 http://181.224.255.210:8001/play/a0ob/index.m4s
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0px CNN (01) x
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0px CNN (01) 
 http://181.224.255.210:8001/play/a0px/index.m3u8?hls
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0px CNN (02)
+http://181.224.255.210:8001/play/a0px/index.m3u
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0px CNN (03) 
 http://181.224.255.210:8001/play/a0px/index.mpd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0px CNN (04)
+http://181.224.255.210:8001/play/a0px/index.m4s
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0rt CR Comunicaciones Radio y TV | 720ᴾ (01)
 http://181.224.255.210:8001/play/a0rt/index.m3u8?hls
@@ -2047,6 +2065,15 @@ http://181.224.255.210:8001/play/a0qj/index.m3u
 http://181.224.255.210:8001/play/a0qj/index.mpd
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0qj DAYSTAR* ESPANOL | 480ᴾ (04)
 http://181.224.255.210:8001/play/a0qj/index.m4s
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nt DHE | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0nt/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nt DHE | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0nt/index.m3u
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nt DHE | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0nt/index.mpd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nt DHE | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0nt/index.m4s
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0rj DW TV | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0rj/index.m3u8?hls
@@ -2124,6 +2151,15 @@ http://181.224.255.210:8001/play/a0oe/index.m3u
 http://181.224.255.210:8001/play/a0oe/index.mpd
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0oe DISNEY CHANNEL | 1080ᴾ (04)
 http://181.224.255.210:8001/play/a0oe/index.m4s
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0ny DISNEY JR. | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0ny/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0ny DISNEY JR. | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0ny/index.m3u
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0ny DISNEY JR. | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0ny/index.mpd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0ny DISNEY JR. | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0ny/index.m4s
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0qy D PELICULA | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0qy/index.m3u8?hls
@@ -2378,6 +2414,15 @@ http://181.224.255.210:8001/play/a0oo/index.mpd
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0oo HBO XTREME | 1080ᴾ (04)
 http://181.224.255.210:8001/play/a0oo/index.m4s
 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nw HBO XTREME | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0nw/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nw HBO XTREME | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0nw/index.m3u
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nw HBO XTREME | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0nw/index.mpd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nw HBO XTREME | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0nw/index.m4s
+
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0sv HBO 2 | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0sv HBO 2 | 1080ᴾ (02)
@@ -2395,6 +2440,15 @@ http://181.224.255.210:8001/play/a0qz/index.m3u
 http://181.224.255.210:8001/play/a0qz/index.mpd
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0qz HBO+ | 480ᴾ (04)
 http://181.224.255.210:8001/play/a0qz/index.m4s
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nv HBO FAMILY | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nv HBO FAMILY | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0nv/index.m3u
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nv HBO FAMILY | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0nv/index.mpd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nv HBO FAMILY | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0nv/index.m4s
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0re HBO SIGNATURE | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0re/index.m3u8?hls
@@ -2576,6 +2630,15 @@ http://181.224.255.210:8001/play/a0sc/index.m3u
 http://181.224.255.210:8001/play/a0sc/index.mpd
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0sc STUDIO UNIVERSAL | 1080ᴾ (04)
 http://181.224.255.210:8001/play/a0sc/index.m4s
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nx SUN | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0nx/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nx SUN | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0nx/index.m3u
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nx SUN | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0nx/index.mpd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0nx SUN | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0nx/index.m4s
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a0rs SUMAC TV PE | 720ᴾ (01)
 http://181.224.255.210:8001/play/a0rs/index.m3u8?hls
