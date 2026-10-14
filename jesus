@@ -13832,17 +13832,6 @@ http://mains.services/507Vej3h3S/4632273/92560
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☆ MAX PRIME LATINO (opt3)
 http://mains.best:2086/3003556325/2772007/92560
 
-
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Sony Movies (Sony Movie Channel)
-https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Sony Movies (Sony Movie Channel)
-https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸① FX (01)
 http://190.93.224.42/FX/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸① FX (02)
@@ -13905,6 +13894,69 @@ http://190.93.224.42/TNT-SERIES/index.mpd
 http://190.93.224.42/TNT-SERIES/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸① TNT-SERIES (04)
 http://190.93.224.42/TNT-SERIES/mono.ts
+
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸMIRAMAX | Movie Channel 216ᴾ (opt1)
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸMIRAMAX | Movie Channel 216ᴾ (opt2)
+https://a70d5913cb70475b8104ec98bf35723a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-798-MIRAMAXMOVIES-TCLTV/mt/tcltv/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸCine Sony ES | Cinema (720ᴾ)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸCine Sony ES | Cinema (720ᴾ)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸSony Movies (Sony Movie Channel)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸSony Movies (Sony Movie Channel)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeEspanol.us" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸRuntime Espanol | Movies
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:-1 tvg-id="RuntimeEspanol.us" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸRuntime Espanol | Movies
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☑ ᶜᴬᴺᴬᴸMyTime Movie Network Brazil | Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇧🇷☑ ᶜᴬᴺᴬᴸMyTime Movie Network Brazil | Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network English | Movies
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network English | Movies
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network | Cinema 1080p
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Classic Cinema | Cinema (240p) 
+https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-logo="https://i.imgur.com/K1W137J.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinevault Westerns | Classic (540p) [Geo-blocked]
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinevault 80s | Cinema (540p) [Geo-blocked]
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ CineLife | Lifestyle
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Made in Hollywood | Cinema
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Maverick Black Cinema | Cinema (1080p)
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SamsungMovieSphere.us" tvg-logo="" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MovieSphere | Cinema (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="🇺🇸 CINEMAX 🇪🇸",🇪🇸a0mk CINEMAX | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0mk/index.m3u8?hls
@@ -14024,26 +14076,6 @@ http://181.224.255.210:8001/play/a0rq/index.mpd
 http://181.224.255.210:8001/play/a0rq/index.m4s
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Classic Cinema | Cinema (240p) 
-https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
-#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-logo="https://i.imgur.com/K1W137J.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinevault Westerns | Classic (540p) [Geo-blocked]
-https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Cinevault 80s | Cinema (540p) [Geo-blocked]
-https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ CineLife | Lifestyle
-https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Made in Hollywood | Cinema
-https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ Maverick Black Cinema | Cinema (1080p)
-https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SamsungMovieSphere.us" tvg-logo="" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MovieSphere | Cinema (1080p)
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="🇺🇸 CINEMAX 🇪🇸",🇺🇸☑ MyTime Movie Network | Cinema
-https://mytime-tcl.amagi.tv/playlist.m3u8
 
 
 
@@ -14256,35 +14288,35 @@ http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7438
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
 http://mains.best:2086/live/3003556325/2772007/92572.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
-http://mains.best:2086/live/3003556325/2772007/92572.ts
+http://mains.best:2086/live/507Vej3h3S/4632273/92572.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
-http://mains.best:2086/3003556325/2772007/92572
+http://mains.best:2086/640939802963/IDC01478!/92572
 
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
-http://mains.services:2086/live/4523074511/3178768/92572.m3u8
+http://mains.services:2086/live/3003556325/2772007/92572.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
-http://mains.services:2086/live/4523074511/3178768/92572.ts
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
-http://mains.services:2086/4523074511/3178768/92572
-
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
-http://mains.services:2086/live/640939802963/IDC01478!/92572.m3u8
-#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
-http://mains.services:2086/live/640939802963/IDC01478!/92572.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/92572.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
 http://mains.services:2086/640939802963/IDC01478!/92572
 
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
-http://mains.services:2086/live/507Vej3h3S/4632273/92572.m3u8
+http://mains.services:2086/live/3003556325/2772007/92572.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
 http://mains.services:2086/live/507Vej3h3S/4632273/92572.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/92572
+http://mains.services:2086/640939802963/IDC01478!/92572
+
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt1)
+http://mains.services:2086/live/3003556325/2772007/92572.m3u8
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt2)
+http://mains.services:2086/live/507Vej3h3S/4632273/92572.ts
+#EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO HD (opt3)
+http://mains.services:2086/640939802963/IDC01478!/92572
 
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt1)
 http://mains.best:2086/live/3003556325/2772007/66579.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt2)
-http://mains.services:2086/live/4523074511/3178768/66579.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/66579.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt3)
 http://mains.services:2086/640939802963/IDC01478!/66579
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO Sub EN (opt4)
@@ -14293,7 +14325,7 @@ http://mains.services:2086/live/507Vej3h3S/4632273/66579.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt1)
 http://mains.best:2086/live/3003556325/2772007/92571.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt2)
-http://mains.services:2086/live/4523074511/3178768/92571.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/92571.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt3)
 http://mains.services:2086/640939802963/IDC01478!/92571
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO 2 LATINO (opt4)
@@ -14303,7 +14335,7 @@ http://mains.services:2086/live/507Vej3h3S/4632273/92571.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt1) 
 http://mains.best:2086/live/3003556325/2772007/66678.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt2)
-http://mains.services:2086/live/4523074511/3178768/66678.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/66678.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt3)
 http://mains.services:2086/640939802963/IDC01478!/66678
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt4)
@@ -14312,7 +14344,7 @@ http://mains.services:2086/live/507Vej3h3S/4632273/66678.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt1)
 http://mains.best:2086/live/3003556325/2772007/64102.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt2)
-http://mains.services:2086/live/4523074511/3178768/64102.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/64102.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt3)
 http://mains.services:2086/640939802963/IDC01478!/64102
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸☆ HBO LATINO FHD (opt4)
@@ -14321,7 +14353,7 @@ http://mains.services:2086/live/507Vej3h3S/4632273/64102.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt1)
 http://mains.best:2086/live/3003556325/2772007/64104.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt2)
-http://mains.services:2086/live/4523074511/3178768/64104.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/64104.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt3)
 http://mains.services:2086/640939802963/IDC01478!/64104
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST FHD (opt4)
@@ -14330,7 +14362,7 @@ http://mains.services:2086/live/507Vej3h3S/4632273/64104.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt1)
 http://mains.best:2086/live/3003556325/2772007/14948.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt2)
-http://mains.services:2086/live/4523074511/3178768/14948.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/14948.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt3)
 http://mains.services:2086/640939802963/IDC01478!/14948
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO EAST (opt4)
@@ -14339,7 +14371,7 @@ http://mains.services:2086/live/507Vej3h3S/4632273/14948.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt1)
 http://mains.best:2086/live/3003556325/2772007/14949.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt2)
-http://mains.services:2086/live/4523074511/3178768/14949.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/14949.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt3)
 http://mains.services:2086/640939802963/IDC01478!/14949
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO 2 (opt4)
@@ -14348,7 +14380,7 @@ http://mains.services:2086/live/507Vej3h3S/4632273/14949.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt1)
 http://mains.best:2086/live/3003556325/2772007/2492.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt2)
-http://mains.services:2086/live/4523074511/3178768/2492.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/2492.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt3)
 http://mains.services:2086/640939802963/IDC01478!/2492
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO SIGNATURE EAST (opt4)
@@ -14357,7 +14389,7 @@ http://mains.services:2086/live/507Vej3h3S/4632273/2492.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt1)
 http://mains.best:2086/live/3003556325/2772007/15469.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt2)
-http://mains.services:2086/live/4523074511/3178768/15469.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/15469.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt3)
 http://mains.services:2086/640939802963/IDC01478!/15469
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO ZONE (opt4)
@@ -14366,11 +14398,14 @@ http://mains.services:2086/live/507Vej3h3S/4632273/15469.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt1)
 http://mains.best:2086/live/3003556325/2772007/15470.m3u8
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt2)
-http://mains.services:2086/live/4523074511/3178768/15470.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/15470.ts
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt3)
 http://mains.services:2086/640939802963/IDC01478!/15470
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇺🇸☆ HBO COMEDY (opt4)
 http://mains.services:2086/live/507Vej3h3S/4632273/15470.m3u8
+
+
+
 
 #EXTINF:-1 group-title="🇺🇸 HBO 🇪🇸",🇪🇸* HBO *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29515.ts
@@ -14551,7 +14586,19 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9346.ts
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸★ Paramount+ With SHOWTIME Network (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9346
 
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56136
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/56136
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt3)
+http://mains.services:2086/3003556325/2772007/56136
 
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt1)
+http://mains.services:2086/640939802963/IDC01478!/55613
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/55613
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt3)
+http://mains.services:2086/3003556325/2772007/55613
 
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHO X BET (opt1)
 http://mains.services:2086/640939802963/IDC01478!/1603
@@ -14567,6 +14614,13 @@ http://mains.services:2086/507Vej3h3S/4632273/56137
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME  NEXT (opt3)
 http://mains.services:2086/3003556325/2772007/56137
 
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EXTREME (opt1)
+http://mains.services:2086/640939802963/IDC01478!/8843
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EXTREME (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/8843
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EXTREME (opt3)
+http://mains.services:2086/3003556325/2772007/8843
+
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ Paramount+ With SHOWTIME LATINO (opt1)
 http://mains.services:2086/640939802963/IDC01478!/92537
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ Paramount+ With SHOWTIME LATINO (opt2)
@@ -14580,6 +14634,27 @@ http://mains.services:2086/640939802963/IDC01478!/92535
 http://mains.services:2086/507Vej3h3S/4632273/92535
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ Paramount+ With SHOWTIME LATINO HD (opt3)
 http://mains.best:2086/3003556325/2772007/92535
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE (opt1)
+http://mains.services:2086/640939802963/IDC01478!/1604
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/1604
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE (opt3)
+http://mains.services:2086/3003556325/2772007/1604
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64171
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE FHD (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/64171
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE FHD (opt3)
+http://mains.services:2086/3003556325/2772007/64171
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME FHD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/64041
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME FHD (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/64041
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME FHD (opt3)
+http://mains.services:2086/3003556325/2772007/64041
 
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME 2 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/331
@@ -14609,41 +14684,6 @@ http://mains.services:2086/507Vej3h3S/4632273/64043
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EAST FHD (opt3)
 http://mains.services:2086/3003556325/2772007/64043
 
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EXTREME (opt1)
-http://mains.services:2086/640939802963/IDC01478!/8843
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EXTREME (opt2)
-http://mains.services:2086/507Vej3h3S/4632273/8843
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EXTREME (opt3)
-http://mains.services:2086/3003556325/2772007/8843
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56136
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt2)
-http://mains.services:2086/507Vej3h3S/4632273/56136
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt3)
-http://mains.services:2086/3003556325/2772007/56136
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME FHD (opt1)
-http://mains.services:2086/640939802963/IDC01478!/64041
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME FHD (opt2)
-http://mains.services:2086/507Vej3h3S/4632273/64041
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME FHD (opt3)
-http://mains.services:2086/3003556325/2772007/64041
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE (opt1)
-http://mains.services:2086/640939802963/IDC01478!/1604
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE (opt2)
-http://mains.services:2086/507Vej3h3S/4632273/1604
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE (opt3)
-http://mains.services:2086/3003556325/2772007/1604
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE FHD (opt1)
-http://mains.services:2086/640939802963/IDC01478!/64171
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE FHD (opt2)
-http://mains.services:2086/507Vej3h3S/4632273/64171
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE FHD (opt3)
-http://mains.services:2086/3003556325/2772007/64171
-
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME WEST (opt1)
 http://mains.services:2086/640939802963/IDC01478!/8842
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME WEST (opt2)
@@ -14657,17 +14697,6 @@ http://mains.services:2086/640939802963/IDC01478!/64042
 http://mains.services:2086/507Vej3h3S/4632273/64042
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME WEST FHD (opt3)
 http://mains.services:2086/3003556325/2772007/64042
-
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt1)
-http://mains.services:2086/640939802963/IDC01478!/55613
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt2)
-http://mains.services:2086/507Vej3h3S/4632273/55613
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt3)
-http://mains.services:2086/3003556325/2772007/55613
-
-
-
-
 
 
 
