@@ -7031,231 +7031,6 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/yes.network
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-name="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸", ##########  ♥ GROUP 01 📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸 ♥  ##########
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴿᵒ 🇺🇸  🌐🌎⭐ 02ᵀᵛ📺ᴛvᴾᴿᵒ🇺🇸sᴘᴀɴɪsh🇪🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  181.224. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0eq ESPN 6
-http://181.224.255.210:8001/play/a0eq/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ew COMEDY CENTRAL
-http://181.224.255.210:8001/play/a0ew/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ex GOURMET
-http://181.224.255.210:8001/play/a0ex/index.m3u8?hls
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0fc Discovery THEATER
-http://181.224.255.210:8001/play/a0fc/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0fm NICKELODEON
-http://181.224.255.210:8001/play/a0fm/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0fv BETHEL TV
-http://181.224.255.210:8001/play/a0fv/index.m3u8?hls
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ge FX
-http://181.224.255.210:8001/play/a0ge/index.m3u8?hls
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lp UNIVERSAL TV
-http://181.224.255.210:8001/play/a0lp/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ls TNT SERIES
-http://181.224.255.210:8001/play/a0ls/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lt Discovery THEATER
-http://181.224.255.210:8001/play/a0lt/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lv TNT NOVELAS
-http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lz Discovery ANIMAL PLANET
-http://181.224.255.210:8001/play/a0lz/index.m3u8?hls
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ma SPACE
-http://181.224.255.210:8001/play/a0ma/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mm NICK JR.
-http://181.224.255.210:8001/play/a0mm/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mn TLC
-http://181.224.255.210:8001/play/a0mn/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mo Discovery SCIENCE
-http://181.224.255.210:8001/play/a0mo/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mp HGTV
-http://181.224.255.210:8001/play/a0mp/index.m3u8?hls
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oa TNT
-http://181.224.255.210:8001/play/a0oa/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ob CINECANAL
-http://181.224.255.210:8001/play/a0ob/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oc SONY CHANNEL
-http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0od WB TV
-http://181.224.255.210:8001/play/a0od/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oe DISNEY CHANNEL
-http://181.224.255.210:8001/play/a0oe/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0og ESPN 4
-http://181.224.255.210:8001/play/a0og/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oh STAR CHANNEL
-http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oj ESPN 2
-http://181.224.255.210:8001/play/a0oj/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ol NICKELODEON
-http://181.224.255.210:8001/play/a0ol/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0om FOOD NETWORK
-http://181.224.255.210:8001/play/a0om/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0on HBO POP
-http://181.224.255.210:8001/play/a0on/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oo HBO XTREME
-http://181.224.255.210:8001/play/a0oo/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ot TELEMUNDO INTERNACIONAL
-http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ou TOONCAST
-http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ow EWTN
-http://181.224.255.210:8001/play/a0ow/index.m3u8?hls
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pj AMERICA TELEVISION
-http://181.224.255.210:8001/play/a0pj/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pk LATINA TV
-http://181.224.255.210:8001/play/a0pk/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pr ESPN 5
-http://181.224.255.210:8001/play/a0pr/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ps ESPN 3
-http://181.224.255.210:8001/play/a0ps/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pt ESPN PREMIUM
-http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pu STINGRAY CONCERTS
-http://181.224.255.210:8001/play/a0pu/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pv Discovery KIDS 
-http://181.224.255.210:8001/play/a0pv/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0px CNN
-http://181.224.255.210:8001/play/a0px/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0py CARTOON NETWORK
-http://181.224.255.210:8001/play/a0py/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pz BABY TV
-http://181.224.255.210:8001/play/a0pz/index.m3u8?hls
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qg GOLDEN
-http://181.224.255.210:8001/play/a0qg/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qh HISTORY 2
-http://181.224.255.210:8001/play/a0qh/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qi RCN
-http://181.224.255.210:8001/play/a0qi/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qj DAYSTAR* ESPANOL
-http://181.224.255.210:8001/play/a0qj/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qk CGTN ESPANOL
-http://181.224.255.210:8001/play/a0qk/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ql Film & Arts
-http://181.224.255.210:8001/play/a0ql/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qm TLNOVELAS tln
-http://181.224.255.210:8001/play/a0qm/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qn AMC SERIES
-http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qo H TV
-http://181.224.255.210:8001/play/a0qo/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qp NTN 24
-http://181.224.255.210:8001/play/a0qp/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qs X ESPORTS
-http://181.224.255.210:8001/play/a0qs/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qt USA
-http://181.224.255.210:8001/play/a0qt/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qu GOLDEN EDGE
-http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qv GOLDEN
-http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qw TCM
-http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qx eE EUROPAeuropa
-http://181.224.255.210:8001/play/a0qx/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qy D PELICULA
-http://181.224.255.210:8001/play/a0qy/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qz HBO+
-http://181.224.255.210:8001/play/a0qz/index.m3u8?hls
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ra BBC NEWS
-http://181.224.255.210:8001/play/a0ra/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rc ANTENA 3 ATRESPLAYER
-http://181.224.255.210:8001/play/a0rc/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0re HBO SIGNATURE
-http://181.224.255.210:8001/play/a0re/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rf HBO MUNDI
-http://181.224.255.210:8001/play/a0rf/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rh FRANCE 24
-http://181.224.255.210:8001/play/a0rh/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rj DW TV
-http://181.224.255.210:8001/play/a0rj/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rm A3S A3Series Int.
-http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rp TELELIMA
-http://181.224.255.210:8001/play/a0rp/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rq WEST TV Western
-http://181.224.255.210:8001/play/a0rq/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rs SUMAC TV PE
-http://181.224.255.210:8001/play/a0rs/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rt CR Comunicaciones Radio y TV
-http://181.224.255.210:8001/play/a0rt/index.m3u8?hls
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sa ESPN Disney+
-http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sc ESTUDIO UNIVERSAL
-http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sd ESPN vivo
-http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0se LAS ESTRELLAS
-http://181.224.255.210:8001/play/a0se/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sf L1 Max
-http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sg HEi Now
-http://181.224.255.210:8001/play/a0sg/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sh PO PU TV
-http://181.224.255.210:8001/play/a0sh/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sm EXITOSA
-http://181.224.255.210:8001/play/a0sm/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sn ATV Sur
-http://181.224.255.210:8001/play/a0sn/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0so EXITOSA
-http://181.224.255.210:8001/play/a0so/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sp WILLAX
-http://181.224.255.210:8001/play/a0sp/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sq KANAL D DRAMA
-http://181.224.255.210:8001/play/a0sq/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sr LOVE NATURE
-http://181.224.255.210:8001/play/a0sr/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ss TV PERU
-http://181.224.255.210:8001/play/a0ss/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0st Discovery H&H
-http://181.224.255.210:8001/play/a0st/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0su CARTOONITO
-http://181.224.255.210:8001/play/a0su/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sv HBO 2
-http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sx Karibena
-http://181.224.255.210:8001/play/a0sx/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sy ATV+
-http://181.224.255.210:8001/play/a0sy/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sz Golden
-http://181.224.255.210:8001/play/a0sz/index.m3u8?hls
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0yq ESPN 6
-http://181.224.255.210:8001/play/a0yq/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0yw COMEDY CENTRAL
-http://181.224.255.210:8001/play/a0yw/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0yx GOURMET
-http://181.224.255.210:8001/play/a0yx/index.m3u8?hls
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0zc Discovery THEATER
-http://181.224.255.210:8001/play/a0zc/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0zm NICKELODEON
-http://181.224.255.210:8001/play/a0zm/index.m3u8?hls
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0zv BETHEL TV
-http://181.224.255.210:8001/play/a0zv/index.m3u8?hls
-
-
-
-
-
-
 
 
 
@@ -7648,6 +7423,230 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇧🇷☑ Cazé TV SD 360p BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/360p-vtt/index.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸", ##########  ♥ GROUP 01 📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸 ♥  ##########
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴿᵒ 🇺🇸  🌐🌎⭐ 02ᵀᵛ📺ᴛvᴾᴿᵒ🇺🇸sᴘᴀɴɪsh🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  181.224. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0eq ESPN 6
+http://181.224.255.210:8001/play/a0eq/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ew COMEDY CENTRAL
+http://181.224.255.210:8001/play/a0ew/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ex GOURMET
+http://181.224.255.210:8001/play/a0ex/index.m3u8?hls
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0fc Discovery THEATER
+http://181.224.255.210:8001/play/a0fc/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0fm NICKELODEON
+http://181.224.255.210:8001/play/a0fm/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0fv BETHEL TV
+http://181.224.255.210:8001/play/a0fv/index.m3u8?hls
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ge FX
+http://181.224.255.210:8001/play/a0ge/index.m3u8?hls
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lp UNIVERSAL TV
+http://181.224.255.210:8001/play/a0lp/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ls TNT SERIES
+http://181.224.255.210:8001/play/a0ls/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lt Discovery THEATER
+http://181.224.255.210:8001/play/a0lt/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lv TNT NOVELAS
+http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lz Discovery ANIMAL PLANET
+http://181.224.255.210:8001/play/a0lz/index.m3u8?hls
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ma SPACE
+http://181.224.255.210:8001/play/a0ma/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mm NICK JR.
+http://181.224.255.210:8001/play/a0mm/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mn TLC
+http://181.224.255.210:8001/play/a0mn/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mo Discovery SCIENCE
+http://181.224.255.210:8001/play/a0mo/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mp HGTV
+http://181.224.255.210:8001/play/a0mp/index.m3u8?hls
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oa TNT
+http://181.224.255.210:8001/play/a0oa/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ob CINECANAL
+http://181.224.255.210:8001/play/a0ob/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oc SONY CHANNEL
+http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0od WB TV
+http://181.224.255.210:8001/play/a0od/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oe DISNEY CHANNEL
+http://181.224.255.210:8001/play/a0oe/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0og ESPN 4
+http://181.224.255.210:8001/play/a0og/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oh STAR CHANNEL
+http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oj ESPN 2
+http://181.224.255.210:8001/play/a0oj/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ol NICKELODEON
+http://181.224.255.210:8001/play/a0ol/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0om FOOD NETWORK
+http://181.224.255.210:8001/play/a0om/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0on HBO POP
+http://181.224.255.210:8001/play/a0on/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oo HBO XTREME
+http://181.224.255.210:8001/play/a0oo/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ot TELEMUNDO INTERNACIONAL
+http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ou TOONCAST
+http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ow EWTN
+http://181.224.255.210:8001/play/a0ow/index.m3u8?hls
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pj AMERICA TELEVISION
+http://181.224.255.210:8001/play/a0pj/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pk LATINA TV
+http://181.224.255.210:8001/play/a0pk/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pr ESPN 5
+http://181.224.255.210:8001/play/a0pr/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ps ESPN 3
+http://181.224.255.210:8001/play/a0ps/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pt ESPN PREMIUM
+http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pu STINGRAY CONCERTS
+http://181.224.255.210:8001/play/a0pu/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pv Discovery KIDS 
+http://181.224.255.210:8001/play/a0pv/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0px CNN
+http://181.224.255.210:8001/play/a0px/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0py CARTOON NETWORK
+http://181.224.255.210:8001/play/a0py/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pz BABY TV
+http://181.224.255.210:8001/play/a0pz/index.m3u8?hls
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qg GOLDEN
+http://181.224.255.210:8001/play/a0qg/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qh HISTORY 2
+http://181.224.255.210:8001/play/a0qh/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qi RCN
+http://181.224.255.210:8001/play/a0qi/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qj DAYSTAR* ESPANOL
+http://181.224.255.210:8001/play/a0qj/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qk CGTN ESPANOL
+http://181.224.255.210:8001/play/a0qk/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ql Film & Arts
+http://181.224.255.210:8001/play/a0ql/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qm TLNOVELAS tln
+http://181.224.255.210:8001/play/a0qm/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qn AMC SERIES
+http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qo H TV
+http://181.224.255.210:8001/play/a0qo/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qp NTN 24
+http://181.224.255.210:8001/play/a0qp/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qs X ESPORTS
+http://181.224.255.210:8001/play/a0qs/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qt USA
+http://181.224.255.210:8001/play/a0qt/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qu GOLDEN EDGE
+http://181.224.255.210:8001/play/a0qu/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qv GOLDEN
+http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qw TCM
+http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qx eE EUROPAeuropa
+http://181.224.255.210:8001/play/a0qx/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qy D PELICULA
+http://181.224.255.210:8001/play/a0qy/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0qz HBO+
+http://181.224.255.210:8001/play/a0qz/index.m3u8?hls
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ra BBC NEWS
+http://181.224.255.210:8001/play/a0ra/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rc ANTENA 3 ATRESPLAYER
+http://181.224.255.210:8001/play/a0rc/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0re HBO SIGNATURE
+http://181.224.255.210:8001/play/a0re/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rf HBO MUNDI
+http://181.224.255.210:8001/play/a0rf/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rh FRANCE 24
+http://181.224.255.210:8001/play/a0rh/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rj DW TV
+http://181.224.255.210:8001/play/a0rj/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rm A3S A3Series Int.
+http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rp TELELIMA
+http://181.224.255.210:8001/play/a0rp/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rq WEST TV Western
+http://181.224.255.210:8001/play/a0rq/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rs SUMAC TV PE
+http://181.224.255.210:8001/play/a0rs/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0rt CR Comunicaciones Radio y TV
+http://181.224.255.210:8001/play/a0rt/index.m3u8?hls
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sa ESPN Disney+
+http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sc ESTUDIO UNIVERSAL
+http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sd ESPN vivo
+http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0se LAS ESTRELLAS
+http://181.224.255.210:8001/play/a0se/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sf L1 Max
+http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sg HEi Now
+http://181.224.255.210:8001/play/a0sg/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sh PO PU TV
+http://181.224.255.210:8001/play/a0sh/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sm EXITOSA
+http://181.224.255.210:8001/play/a0sm/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sn ATV Sur
+http://181.224.255.210:8001/play/a0sn/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0so EXITOSA
+http://181.224.255.210:8001/play/a0so/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sp WILLAX
+http://181.224.255.210:8001/play/a0sp/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sq KANAL D DRAMA
+http://181.224.255.210:8001/play/a0sq/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sr LOVE NATURE
+http://181.224.255.210:8001/play/a0sr/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ss TV PERU
+http://181.224.255.210:8001/play/a0ss/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0st Discovery H&H
+http://181.224.255.210:8001/play/a0st/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0su CARTOONITO
+http://181.224.255.210:8001/play/a0su/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sv HBO 2
+http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sx Karibena
+http://181.224.255.210:8001/play/a0sx/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sy ATV+
+http://181.224.255.210:8001/play/a0sy/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0sz Golden
+http://181.224.255.210:8001/play/a0sz/index.m3u8?hls
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0yq ESPN 6
+http://181.224.255.210:8001/play/a0yq/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0yw COMEDY CENTRAL
+http://181.224.255.210:8001/play/a0yw/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0yx GOURMET
+http://181.224.255.210:8001/play/a0yx/index.m3u8?hls
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0zc Discovery THEATER
+http://181.224.255.210:8001/play/a0zc/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0zm NICKELODEON
+http://181.224.255.210:8001/play/a0zm/index.m3u8?hls
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0zv BETHEL TV
+http://181.224.255.210:8001/play/a0zv/index.m3u8?hls
+
 
 
 
@@ -8184,11 +8183,11 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7470.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DREAMWORKS (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7470
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIES (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CINEMAX | HBO (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7472.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIES (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CINEMAX | HBO (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7472.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIES (opt3)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CINEMAX | HBO     (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7472
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DISNEY CHANNEL (opt1)
@@ -8275,11 +8274,11 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7485.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN 4 (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7485
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TV (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TV 7492 (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7492.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TV (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TV 7492 (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7492.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TV (opt3)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TV 7492 (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7492
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVP TV PUBLICA AR (opt1)
@@ -8340,11 +8339,11 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7516.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA SEXTA 6  A3MEDIA ES (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7516
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PPV ES (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PPV ES 7518 (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7518.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PPV ES (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PPV ES 7518 (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7518.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PPV ES (opt3)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PPV ES 7518 (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7518
 
 
@@ -8645,11 +8644,11 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7588.ts
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7588
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVMOVIE 24/7 ES (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVMOVIE ES 7590 (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7590.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVMOVIE 24/7 ES (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVMOVIE ES 7590 (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7591.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVMOVIE 24/7 ES (opt3)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVMOVIE ES 7590 (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7592
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO INTERNACIONAL ES (opt1)
@@ -9068,11 +9067,11 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7789.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN 4 EXTRA US (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7789
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE ES (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE ES 7793 (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7793.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE ES (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE ES 7793 (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7793.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE ES (opt3)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE ES 7793 (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7793
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN US (opt1)
@@ -9298,9 +9297,9 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9312.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ STARZ EDGE ES (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9312.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ STARZ EDGE ES (opt3)
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/9312.m3u
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ STARZ EDGE ES (opt4)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9312
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ STARZ EDGE ES (opt4)
+http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/9312.m3u
 
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EL CANAL DEL FUTBOL EC (opt1)
@@ -9416,32 +9415,32 @@ http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9342.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ID (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9342
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9343 (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME EXTREME (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9343.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9343 (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME EXTREME (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9343.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9343 (opt3)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME EXTREME (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9343
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9344 (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME SHOWCASE (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9344.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9344 (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME SHOWCASE (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9344.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9344 (opt3)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME SHOWCASE (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9344
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9345 (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME 2 (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9345.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9345 (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME 2 (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9345.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9345 (opt3)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME 2 (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9345
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9346 (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME Network (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9346.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9346 (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME Network (opt2)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9346.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9346 (opt3)
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME Network (opt3)
 http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9346
 
 
@@ -14512,92 +14511,159 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29636
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸 SHOWTIME 🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 SHOWTIME 🇪🇸  ⭐🌎 🇺🇸 SHOWTIME 🇪🇸 🌎⭐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸 SHOWTIME 🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 Paramount+ With 🇪🇸  ⭐🌎 🇺🇸 SHOWTIME 🇪🇸 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸 SHOWTIME 🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
 
-#EXTINF:-1 tvg-id=“Showtime.us" tvg-logo="" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ SHOWTIME_USA
+#EXTINF:-1 tvg-id=“Showtime.us" tvg-logo="" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ SHOWTIME USA
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id=“Showtime.us" tvg-logo="" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ SHOWTIME_FAMILY_USA
+#EXTINF:-1 tvg-id=“Showtime.us" tvg-logo="" group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☑ SHOWTIME_FAMILY ZONE USA
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
 
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸★ Paramount+ With SHOWTIME EXTREME (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9343.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸★ Paramount+ With SHOWTIME EXTREME (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9343.ts
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸★ Paramount+ With SHOWTIME EXTREME (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9343
 
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME LATINO (opt1)
-http://mains.services:2086/640939802963/IDC01478!/92537
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME LATINO (opt2)
-http://mains.services:2086/507Vej3h3S/4632273/92537
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME LATINO (opt3)
-http://mains.best:2086/3003556325/2772007/92537
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸★ Paramount+ With SHOWTIME SHOWCASE (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9344.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸★ Paramount+ With SHOWTIME SHOWCASE (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9344.ts
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸★ Paramount+ With SHOWTIME SHOWCASE (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9344
 
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt1)
-http://mains.services:2086/640939802963/IDC01478!/92535
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt2)
-http://mains.services:2086/507Vej3h3S/4632273/92535
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ SHOWTIME EAST LATINO (opt3)
-http://mains.best:2086/3003556325/2772007/92535
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸★ Paramount+ With SHOWTIME 2 (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9345.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸★ Paramount+ With SHOWTIME 2 (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9345.ts
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸★ Paramount+ With SHOWTIME 2 (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9345
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸★ Paramount+ With SHOWTIME Network (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/9346.m3u8
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸★ Paramount+ With SHOWTIME Network (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/9346.ts
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸★ Paramount+ With SHOWTIME Network (opt3)
+http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9346
+
 
 
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHO X BET (opt1)
 http://mains.services:2086/640939802963/IDC01478!/1603
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHO X BET (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/1603
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHO X BET (opt3)
+http://mains.services:2086/3003556325/2772007/1603
+
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME  NEXT (opt1)
 http://mains.services:2086/640939802963/IDC01478!/56137
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME  NEXT (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/56137
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 (opt1)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME  NEXT (opt3)
+http://mains.services:2086/3003556325/2772007/56137
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ Paramount+ With SHOWTIME LATINO (opt1)
+http://mains.services:2086/640939802963/IDC01478!/92537
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ Paramount+ With SHOWTIME LATINO (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/92537
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ Paramount+ With SHOWTIME LATINO (opt3)
+http://mains.best:2086/3003556325/2772007/92537
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ Paramount+ With SHOWTIME LATINO HD (opt1)
+http://mains.services:2086/640939802963/IDC01478!/92535
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ Paramount+ With SHOWTIME LATINO HD (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/92535
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇪🇸☆ Paramount+ With SHOWTIME LATINO HD (opt3)
+http://mains.best:2086/3003556325/2772007/92535
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME 2 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/331
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 (opt2)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME 2 (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/331
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 FHD (opt1)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME 2 (opt2)
+http://mains.services:2086/3003556325/2772007/331
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME 2 FHD (opt1)
 http://mains.services:2086/640939802963/IDC01478!/64040
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME 2 FHD (opt2)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME 2 FHD (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/64040
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST (opt1)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME 2 FHD (opt3)
+http://mains.services:2086/3003556325/2772007/64040
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EAST (opt1)
 http://mains.services:2086/640939802963/IDC01478!/332
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST (opt2)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EAST (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/332
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST FHD (opt1)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EAST (opt3)
+http://mains.services:2086/3003556325/2772007/332
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EAST FHD (opt1)
 http://mains.services:2086/640939802963/IDC01478!/64043
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EAST FHD (opt2)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EAST FHD (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/64043
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EXTREME (opt1)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EAST FHD (opt3)
+http://mains.services:2086/3003556325/2772007/64043
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EXTREME (opt1)
 http://mains.services:2086/640939802963/IDC01478!/8843
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME EXTREME (opt2)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EXTREME (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/8843
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME EXTREME (opt3)
+http://mains.services:2086/3003556325/2772007/8843
+
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt1)
 http://mains.services:2086/640939802963/IDC01478!/56136
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/56136
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FHD (opt1)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FAMILY ZONE (opt3)
+http://mains.services:2086/3003556325/2772007/56136
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME FHD (opt1)
 http://mains.services:2086/640939802963/IDC01478!/64041
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME FHD (opt2)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME FHD (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/64041
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE (opt1)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME FHD (opt3)
+http://mains.services:2086/3003556325/2772007/64041
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE (opt1)
 http://mains.services:2086/640939802963/IDC01478!/1604
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE (opt2)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/1604
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE FHD (opt1)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE (opt3)
+http://mains.services:2086/3003556325/2772007/1604
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE FHD (opt1)
 http://mains.services:2086/640939802963/IDC01478!/64171
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME SHOWCASE FHD (opt2)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE FHD (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/64171
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST (opt1)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME SHOWCASE FHD (opt3)
+http://mains.services:2086/3003556325/2772007/64171
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME WEST (opt1)
 http://mains.services:2086/640939802963/IDC01478!/8842
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST (opt2)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME WEST (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/8842
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST FHD (opt1)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME WEST (opt3)
+http://mains.services:2086/3003556325/2772007/8842
+
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME WEST FHD (opt1)
 http://mains.services:2086/640939802963/IDC01478!/64042
-#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WEST FHD (opt2)
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME WEST FHD (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/64042
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ Paramount+ With SHOWTIME WEST FHD (opt3)
+http://mains.services:2086/3003556325/2772007/64042
+
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt1)
 http://mains.services:2086/640939802963/IDC01478!/55613
 #EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/55613
-
-
+#EXTINF:-1 group-title="🇺🇸 SHOWTIME 🇪🇸",🇺🇸☆ SHOWTIME WOMEN (opt3)
+http://mains.services:2086/3003556325/2772007/55613
 
 
 
