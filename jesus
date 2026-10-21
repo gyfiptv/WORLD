@@ -3104,13 +3104,6 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",✝️BibleMoviesᵀᵛ tvnow📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ CANALE 5 IT (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canale5.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ CANALE 5 IT (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canale5.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ CANALE 5 IT (opt3)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/canale5.it.m3u8
-
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ DAZN 2 IT | DISCOVERY IT (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.it.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ DAZN 2 IT | DISCOVERY IT (opt2)
@@ -3118,11 +3111,34 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.i
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ DAZN 2 IT | DISCOVERY IT (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.it.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ CATV CENTROAMERICA TV CAR | FOCUS IT (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RAI MOVIE IT (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/rai.movie.it.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RAI MOVIE IT (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/rai.movie.it.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RAI MOVIE IT (opt3)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/rai.movie.it.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ TOP CRIME IT (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/topcrime.it.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ TOP CRIME IT (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/topcrime.it.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ TOP CRIME IT (opt3)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/topcrime.it.m3u8
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ CANALE 5 IT (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canale5.it.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ CANALE 5 IT (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canale5.it.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ CANALE 5 IT (opt3)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/canale5.it.m3u8
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ FOCUS IT (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/focus.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ CATV CENTROAMERICA TV CAR | FOCUS IT (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ FOCUS IT (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/focus.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ CATV CENTROAMERICA TV CAR | FOCUS IT (opt3)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ FOCUS IT (opt3)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/focus.it.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ ITALIA 1 IT (opt1)
@@ -3195,12 +3211,6 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/rai.5.it.m3
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RAI 5 IT (opt3)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/rai.5.it.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RAI MOVIE IT (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/rai.movie.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RAI MOVIE IT (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/rai.movie.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RAI MOVIE IT (opt3)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/rai.movie.it.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RAI STORIA IT (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/rai.storia.it.m3u8
@@ -3223,27 +3233,12 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/rete.4.it.m
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RETE 4 IT (opt3)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/rete.4.it.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ LA FORMULA MX | RAI PREMIUM IT (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RAI PREMIUM IT (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/rai.premium.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ LA FORMULA MX | RAI PREMIUM IT (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RAI PREMIUM IT (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/rai.premium.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ LA FORMULA MX | RAI PREMIUM IT (opt3)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ RAI PREMIUM IT (opt3)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/rai.premium.it.m3u8
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ TOP CRIME IT (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/topcrime.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ TOP CRIME IT (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/topcrime.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ TOP CRIME IT (opt3)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/topcrime.it.m3u8
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ CATV CENTROAMERICA TV CAR | FOCUS IT (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/focus.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ CATV CENTROAMERICA TV CAR | FOCUS IT (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/focus.it.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ CATV CENTROAMERICA TV CAR | FOCUS IT (opt3)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/focus.it.m3u8
-
 
 
 
@@ -10538,6 +10533,11 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 
 
 
+
+
+
+
+
 #EXTINF:-1,tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 A 🇪🇸  ⭐🌎 ɪᴘᴛv📺DOCUMENTARY🇺🇸 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
@@ -10554,13 +10554,6 @@ https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 
 
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7161 [ADULT SWIM] (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7161.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7161 [ADULT SWIM] (opt2)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7161.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7161 [ADULT SWIM] (opt3)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7161
 
 
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ AMERICAN HEROES (opt1) x
@@ -10589,6 +10582,36 @@ http://mains.services:2086/live/507Vej3h3S/4632273/64154.m3u8
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ ANIMAL PLANET (opt1)
 http://mains.services:2086/507Vej3h3S/4632273/95487
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET UK (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET UK (opt2) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.uk.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET UK (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.uk.m3u8
+
+
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET RS (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.rs.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET RS (opt2) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.rs.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET RS (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.rs.m3u8
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET RU (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.ru.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET RU (opt2) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.ru.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET RU (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.ru.m3u8
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET DE (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.de.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET DE (opt2) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.de.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET DE (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.de.m3u8
+
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* ANIMAL PLANET *LQ 
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29616.ts
@@ -10607,6 +10630,13 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100208.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100209.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* ANIMAL PLANET MX *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100210.ts
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7161 [ADULT SWIM] (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7161.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7161 [ADULT SWIM] (opt2)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7161.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7161 [ADULT SWIM] (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7161
 
 
 
@@ -10629,7 +10659,12 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
 
 
-
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ² BRAVO (opt1)
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ² BRAVO (opt1)
+http://41.205.93.154/BRAVO/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ² BRAVO (opt1)
+http://41.205.93.154/BRAVO/playlist.m3u8
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7568 BRAVO (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7568.ts
@@ -10647,15 +10682,6 @@ http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7529
 
 
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ² BRAVO (opt1)
-http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ² BRAVO (opt1)
-http://41.205.93.154/BRAVO/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸Ⓜ² BRAVO (opt1)
-http://41.205.93.154/BRAVO/playlist.m3u8
-
-
-
 #EXTINF:-1,tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 C 🇪🇸  ⭐🌎 ɪᴘᴛv📺DOCUMENTARY🇺🇸 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
@@ -10668,35 +10694,6 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① COMEDY-CENTRAL (02)
 http://190.93.224.42/COMEDY-CENTRAL/index.mpd
-
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7307 CRIME (opt1)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7307.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7307 CRIME (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7307.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7307 CRIME (opt3)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7307
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7533 CRIME+INVESTIGATION (opt1)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7533.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7533 CRIME+INVESTIGATION (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7533.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7533 CRIME+INVESTIGATION (opt3)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7533
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7566 COMEDY CENTRAL (opt1)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7566.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7566 COMEDY CENTRAL (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7566.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7566 COMEDY CENTRAL (opt3)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7566
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7277 ViX DC DISTRITO COMEDIA (opt1)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7277.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7277 ViX DC DISTRITO COMEDIA (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7277.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7277 ViX DC DISTRITO COMEDIA (opt3)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7277
 
 
 
@@ -10771,6 +10768,34 @@ http://9to5.sytes.net:8080/play/1yT5Wt0AKmAMxN7kczzzYCg5iz8kGxyPLwT3gzgcWJ4/m3u8
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 CURIOSITY STREAM m3
 http://9to5.sytes.net:8080/play/1yT5Wt0AKmAMxN7kczzzYCg5iz8kGxyPLwT3gzgcWJ4/ts
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7307 CRIME (opt1)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7307.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7307 CRIME (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7307.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7307 CRIME (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7307
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7533 CRIME+INVESTIGATION (opt1)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7533.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7533 CRIME+INVESTIGATION (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7533.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7533 CRIME+INVESTIGATION (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7533
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7566 COMEDY CENTRAL (opt1)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7566.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7566 COMEDY CENTRAL (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7566.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7566 COMEDY CENTRAL (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7566
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7277 ViX DC DISTRITO COMEDIA (opt1)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7277.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7277 ViX DC DISTRITO COMEDIA (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7277.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7277 ViX DC DISTRITO COMEDIA (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7277
+
 
 
 
@@ -10786,21 +10811,6 @@ http://104.143.4.5:2080/funroads.m3u8
 
 
 
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7172 FOOD NETWORK (opt1)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7172.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7172 FOOD NETWORK (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7172.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7172 FOOD NETWORK (opt3)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7172
-
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7544 CANAL COCINA | DOC (opt1)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7544.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7544 CANAL COCINA | DOC (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7544.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7544 CANAL COCINA | DOC (opt3)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7544
 
 
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ FOOD NETWORK FHD (opt1)
@@ -10835,6 +10845,22 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/969.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1015.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* FOOD NETWORK *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/994.ts
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7172 FOOD NETWORK (opt1)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7172.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7172 FOOD NETWORK (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7172.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7172 FOOD NETWORK (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7172
+
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7544 CANAL COCINA | DOC (opt1)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7544.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7544 CANAL COCINA | DOC (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7544.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7544 CANAL COCINA | DOC (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7544
+
 
 
 
@@ -10921,24 +10947,6 @@ http://mains.services:2086/640939802963/IDC01478!/64162
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ DISCOVERY CHANNEL FHD (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/64162
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7367 DISCOVERY CHANNEL (opt1)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7367.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7367 DISCOVERY CHANNEL (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7367.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7367 DISCOVERY CHANNEL (opt3)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7367
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7547 DISCOVERY CHANNEL (opt1)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7547.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7547 DISCOVERY CHANNEL (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7547.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7547 DISCOVERY CHANNEL (opt3)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7547
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7613 DISCOVERY CHANNEL EN ESPANOL (opt1)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7613.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7613 DISCOVERY CHANNEL EN ESPANOL (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7613.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7613 DISCOVERY CHANNEL EN ESPANOL (opt3)
-http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7613
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt1) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.es.m3u8
@@ -11000,6 +11008,24 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100212.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY CHANNEL MX *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100213.ts
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7367 DISCOVERY CHANNEL (opt1)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7367.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7367 DISCOVERY CHANNEL (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7367.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7367 DISCOVERY CHANNEL (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7367
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7547 DISCOVERY CHANNEL (opt1)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7547.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7547 DISCOVERY CHANNEL (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7547.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸★7547 DISCOVERY CHANNEL (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7547
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7613 DISCOVERY CHANNEL EN ESPANOL (opt1)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7613.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7613 DISCOVERY CHANNEL EN ESPANOL (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7613.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7613 DISCOVERY CHANNEL EN ESPANOL (opt3)
+http://alfa.7057460.xyz:2095/Frulz2022/Junio2022/7613
 
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸★7469 DISCOVERY WORLD (opt1)
@@ -11054,6 +11080,7 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.f
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.familia.us.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY FAMILIA US (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.familia.us.m3u8
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ Discovery Family Channel US (opt01)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.family.channel.us.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ Discovery Family Channel US (opt02)
@@ -11189,6 +11216,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.s
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.science.uk.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY SCIENCE UK (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.science.uk.m3u8
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY SCIENCE CO (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.science.co.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY SCIENCE CO (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.science.co.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY SCIENCE CO (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.science.co.m3u8
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY SCIENCE *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29623.ts
