@@ -1353,16 +1353,6 @@ http://190.93.224.42/AXN/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① AXN | 1080ᴾ (04)
 http://190.93.224.42/AXN/mono.ts
 
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmérica TeVé USA | 1080ᴾ (opt1)
-https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe USA 1 | 720ᴾ (opt1)
-https://tgn2.bozztv.com/americateve/americateve1/americateve--1/mono.m3u8
-
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe USA 2 | 720ᴾ (opt1)
-https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe USA 2 | 720ᴾ (opt2)
-https://tgn2.bozztv.com/americateve/americateve1/americateve--1/index.mpd
-
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① AMERICA-TV 4 PE | 1080ᴾ (01)
 http://190.93.224.42/AMERICA-TV/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① AMERICA-TV 4 PE | 1080ᴾ (02)
@@ -1408,6 +1398,20 @@ http://190.93.224.42/AUTENTICA-TV/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① AUTENTICA-TV PE | 1080ᴾ (04)
 http://190.93.224.42/AUTENTICA-TV/mono.ts
 
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAuténtica Televisión PE (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmérica TeVé USA | 1080ᴾ (opt1)
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe USA 1 | 720ᴾ (opt1)
+https://tgn2.bozztv.com/americateve/americateve1/americateve--1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe USA 2 | 720ᴾ (opt1)
+https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe USA 2 | 720ᴾ (opt2)
+https://tgn2.bozztv.com/americateve/americateve1/americateve--1/index.mpd
+
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① BETHEL PE | 1080ᴾ (01)
 http://190.93.224.42/BETHEL/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① BETHEL PE | 1080ᴾ (02)
@@ -1434,6 +1438,16 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-name="Bloomberg Television (Europe)" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="BloombergTVEurope.uk" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸBloomberg Television (Europe)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (01)
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (02)
+http://190.93.224.42/COMEDY-CENTRAL/index.mpd
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (03)
+http://190.93.224.42/COMEDY-CENTRAL/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (04)
+http://190.93.224.42/COMEDY-CENTRAL/mono.ts
+
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸCNN International | 720ᴾ (01)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸCNN International | 720ᴾ (02)
@@ -1454,26 +1468,6 @@ https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlis
 #EXTINF:-1 tvg-name="CNBC Europe" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" tvg-id="CNBCEurope.uk" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸCNBC Europe Business | 1080ᴾ (02) 
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (01)
-http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (02)
-http://190.93.224.42/COMEDY-CENTRAL/index.mpd
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (03)
-http://190.93.224.42/COMEDY-CENTRAL/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① COMEDY-CENTRAL | 1080ᴾ (04)
-http://190.93.224.42/COMEDY-CENTRAL/mono.ts
-
-#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸDW Español | 1080ᴾ     
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸDW Español | 1080ᴾ     
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspanol.de" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸDW Español | News Ⓢ | 720ᴾ
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸDW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸDW Arabic (1080p)
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① DISCOVERY-TURBO | 480ᴾ (01)
 http://190.93.224.42/DISCOVERY-TURBO/index.m3u8
@@ -1502,6 +1496,19 @@ http://190.93.224.42/DISNEY-JR/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① DISNEY-JR | 480ᴾ (04)
 http://190.93.224.42/DISNEY-JR/mono.ts
 
+#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸDW Español | 1080ᴾ     
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸDW Español | 1080ᴾ     
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspanol.de" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸDW Español | News Ⓢ | 720ᴾ
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸDW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸDW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① ENTERTAINMENT | 480ᴾ (01)
 http://190.93.224.42/ENTERTAINMENT/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① ENTERTAINMENT | 480ᴾ (02)
@@ -1510,25 +1517,6 @@ http://190.93.224.42/ENTERTAINMENT/index.mpd
 http://190.93.224.42/ENTERTAINMENT/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① ENTERTAINMENT | 480ᴾ (04)
 http://190.93.224.42/ENTERTAINMENT/mono.ts
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① EXITOSA 11 TV | 1080ᴾ (001)
-http://190.93.224.42/EXITOSA/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① EXITOSA 11 TV | 1080ᴾ (02)
-http://190.93.224.42/EXITOSA/index.mpd
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① EXITOSA 11 TV | 1080ᴾ (03)
-http://190.93.224.42/EXITOSA/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① EXITOSA 11 TV | 1080ᴾ (04)
-http://190.93.224.42/EXITOSA/mono.ts
-
-#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸEstrella News | 1080ᴾ
-https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸEstrella News | 1080ᴾ
-https://estrella-news-oando.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸEstrella TV E! | 1080ᴾ
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸEstrella TV E! | 1080ᴾ
-https://estrellatv-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① ESPN-PREMIUM | 720ᴾ (01)
 http://190.93.224.42/ESPN-PREMIUM/index.m3u8
@@ -1602,11 +1590,24 @@ http://190.93.224.42/ESPN-7/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① ESPN 7 | 720ᴾ (04)
 http://190.93.224.42/ESPN-7/mono.ts
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① EXITOSA 11 TV | 1080ᴾ (001)
+http://190.93.224.42/EXITOSA/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① EXITOSA 11 TV | 1080ᴾ (02)
+http://190.93.224.42/EXITOSA/index.mpd
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① EXITOSA 11 TV | 1080ᴾ (03)
+http://190.93.224.42/EXITOSA/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① EXITOSA 11 TV | 1080ᴾ (04)
+http://190.93.224.42/EXITOSA/mono.ts
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸFubo Sports Network (1080p) 
-https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸFubo Sports Network (1080p)
-https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸEstrella News | 1080ᴾ
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸEstrella News | 1080ᴾ
+https://estrella-news-oando.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸEstrella TV E! | 1080ᴾ
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸEstrella TV E! | 1080ᴾ
+https://estrellatv-oando.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① FRANCE-24 | 480ᴾ (01)
@@ -1617,16 +1618,6 @@ http://190.93.224.42/FRANCE-24/index.mpd
 http://190.93.224.42/FRANCE-24/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① FRANCE-24 | 480ᴾ (04)
 http://190.93.224.42/FRANCE-24/mono.ts
-
-#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸFilmex MX | Movies (Xumo) | 1080ᴾ
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸFilmex MX | Movies (Xumo) | 1080ᴾ
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸFilmex Clásico MX | | Movies | 1080ᴾ
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸFilmex Clásico MX | | Movies | 1080ᴾ
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① FILM-AND-ARTS | 480ᴾ (01)
 http://190.93.224.42/FILM-AND-ARTS/index.m3u8
@@ -1645,6 +1636,21 @@ http://190.93.224.42/FX/index.mpd
 http://190.93.224.42/FX/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① FX | 1080ᴾ (04)
 http://190.93.224.42/FX/mono.ts
+
+#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸFilmex MX | Movies (Xumo) | 1080ᴾ
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸFilmex MX | Movies (Xumo) | 1080ᴾ
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸFilmex Clásico MX | | Movies | 1080ᴾ
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸFilmex Clásico MX | | Movies | 1080ᴾ
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸFubo Sports Network (1080p) 
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸFubo Sports Network (1080p)
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① GOLDEN | 1080ᴾ (01)
 http://190.93.224.42/GOLDEN/index.m3u8
@@ -1759,19 +1765,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-cane
 #EXTINF:-1 tvg-id="1425" tvg-name="Kanal D Drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸKanal D Drama | 1080ᴾ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.mpd?PlaylistM3UCL
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸLove Nature en Espanol | 1080ᴾ
-https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸLove Nature en Espanol | 1080ᴾ
-https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① LOVE-NATURE | 480ᴾ (01)
-http://190.93.224.42/LOVE-NATURE/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① LOVE-NATURE | 480ᴾ (02)
-http://190.93.224.42/LOVE-NATURE/index.mpd
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① LOVE-NATURE | 480ᴾ (03)
-http://190.93.224.42/LOVE-NATURE/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① LOVE-NATURE | 480ᴾ (04)
-http://190.93.224.42/LOVE-NATURE/mono.ts
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① LIGA-1-MAX PE | 1080ᴾ (01)
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
@@ -1799,6 +1792,22 @@ http://190.93.224.42/LA-TELE/index.mpd
 http://190.93.224.42/LA-TELE/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① LA-TELE ATV | 1080ᴾ (04)
 http://190.93.224.42/LA-TELE/mono.ts
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① LOVE-NATURE | 480ᴾ (01)
+http://190.93.224.42/LOVE-NATURE/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① LOVE-NATURE | 480ᴾ (02)
+http://190.93.224.42/LOVE-NATURE/index.mpd
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① LOVE-NATURE | 480ᴾ (03)
+http://190.93.224.42/LOVE-NATURE/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① LOVE-NATURE | 480ᴾ (04)
+http://190.93.224.42/LOVE-NATURE/mono.ts
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸLove Nature en Espanol | 1080ᴾ
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸLove Nature en Espanol | 1080ᴾ
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸMyTime Movie Network Mexico | 720ᴾ
@@ -1948,30 +1957,6 @@ https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-id="RuntimeEspanol.us" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸRuntime Espanol | Movies | 720ᴾ
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 
-#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸSeñal Perú TV (404p) [Not 24/7]
-https://livestream.perucast.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸSeñal Perú TV (404p) [Not 24/7]
-https://livestream.perucast.com/hls/stream.m3u8
-
-
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸSONY Cine ES | 720ᴾ
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸSONY Cine ES | 720ᴾ
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸSony Movies (Sony Movie Channel) | 720ᴾ
-https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸSony Movies (Sony Movie Channel) | 720ᴾ
-https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① SONY-CHANNEL | 1080ᴾ (01)
-http://190.93.224.42/SONY-CHANNEL/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① SONY-CHANNEL | 1080ᴾ (02)
-http://190.93.224.42/SONY-CHANNEL/index.mpd
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① SONY-CHANNEL | 1080ᴾ (03)
-http://190.93.224.42/SONY-CHANNEL/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① SONY-CHANNEL | 1080ᴾ (04)
-http://190.93.224.42/SONY-CHANNEL/mono.ts
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① SPACE | 1080ᴾ (01)
 http://190.93.224.42/SPACE/index.m3u8
@@ -1990,6 +1975,39 @@ http://190.93.224.42/STUDIO-UNIVERSAL/index.mpd
 http://190.93.224.42/STUDIO-UNIVERSAL/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① STUDIO-UNIVERSAL | 1080ᴾ (04)
 http://190.93.224.42/STUDIO-UNIVERSAL/mono.ts
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① SONY-CHANNEL | 1080ᴾ (01)
+http://190.93.224.42/SONY-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① SONY-CHANNEL | 1080ᴾ (02)
+http://190.93.224.42/SONY-CHANNEL/index.mpd
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① SONY-CHANNEL | 1080ᴾ (03)
+http://190.93.224.42/SONY-CHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① SONY-CHANNEL | 1080ᴾ (04)
+http://190.93.224.42/SONY-CHANNEL/mono.ts
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸSONY Cine ES | 720ᴾ
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸSONY Cine ES | 720ᴾ
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸSony Movies (Sony Movie Channel) | 720ᴾ
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸSony Movies (Sony Movie Channel) | 720ᴾ
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸSeñal Perú TV (404p) [Not 24/7]
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸSeñal Perú TV (404p) [Not 24/7]
+https://livestream.perucast.com/hls/stream.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TV-PERU 7 | 1080ᴾ (01)
+http://190.93.224.42/TV-PERU/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TV-PERU 7 | 1080ᴾ (02)
+http://190.93.224.42/TV-PERU/index.mpd
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TV-PERU 7 | 1080ᴾ (03)
+http://190.93.224.42/TV-PERU/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TV-PERU 7 | 1080ᴾ (04)
+http://190.93.224.42/TV-PERU/mono.ts
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TNT | 1080ᴾ (01)
 http://190.93.224.42/TNT/index.m3u8
@@ -2036,6 +2054,16 @@ http://190.93.224.42/TNT-SPORTS/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TNT-SPORTS | 1080ᴾ (04)
 http://190.93.224.42/TNT-SPORTS/mono.ts
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (01)
+http://190.93.224.42/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (02)
+http://190.93.224.42/TELEMUNDO/index.mpd
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (03)
+http://190.93.224.42/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (04)
+http://190.93.224.42/TELEMUNDO/mono.ts
+
+
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTNT East (720p) [01]
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTNT East (720p) [02]
@@ -2077,14 +2105,33 @@ https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TV-PERU 7 | 1080ᴾ (01)
-http://190.93.224.42/TV-PERU/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TV-PERU 7 | 1080ᴾ (02)
-http://190.93.224.42/TV-PERU/index.mpd
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TV-PERU 7 | 1080ᴾ (03)
-http://190.93.224.42/TV-PERU/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TV-PERU 7 | 1080ᴾ (04)
-http://190.93.224.42/TV-PERU/mono.ts
+#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-shift="10800" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTelemundo West (720p)
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTelemundo Corpus Christi
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ TELEMUNDO PR | WKAQ-DT1 (1080ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ TELEMUNDO PR | WKAQ-DT1 (1080ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ Telemundo PUNTO 2 PR | WKAQ-DT2 (720ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ Telemundo PUNTO 2 PR | WKAQ-DT2 (720ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.mpd
+
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="TVUNO.pe" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTVUNO PE | Music (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -2158,39 +2205,16 @@ http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTELEVISA Tlnovelas MX
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-shift="10800" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTelemundo West (720p)
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
-#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTelemundo Corpus Christi
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ TELEMUNDO PR | WKAQ-DT1 (1080ᴾ)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ TELEMUNDO PR | WKAQ-DT1 (1080ᴾ)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ Telemundo PUNTO 2 PR | WKAQ-DT2 (720ᴾ)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ Telemundo PUNTO 2 PR | WKAQ-DT2 (720ᴾ)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (01)
-http://190.93.224.42/TELEMUNDO/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (02)
-http://190.93.224.42/TELEMUNDO/index.mpd
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (03)
-http://190.93.224.42/TELEMUNDO/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (04)
-http://190.93.224.42/TELEMUNDO/mono.ts
-
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.mpd
-
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.mpd
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (01)
+http://190.93.224.42/UNIVISION/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (02)
+http://190.93.224.42/UNIVISION/index.mpd
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (03)
+http://190.93.224.42/UNIVISION/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (04)
+http://190.93.224.42/UNIVISION/mono.ts
 
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ UNIMAS 46 LA West ᵛᶦˣ KFTR-DT1 (1080ᴾ) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
@@ -2202,14 +2226,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ UNIMAS 68 NJ East ᵛᶦˣ KFUT-DT1 (1080ᴾ) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.mpd
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (01)
-http://190.93.224.42/UNIVISION/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (02)
-http://190.93.224.42/UNIVISION/index.mpd
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (03)
-http://190.93.224.42/UNIVISION/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (04)
-http://190.93.224.42/UNIVISION/mono.ts
 
 #EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ N+ ᴜɴɪvɪsɪᴏɴ 24/7 ɴᴏw ᵛᶦˣ N247-DT1 (1080ᴾ) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
@@ -2261,10 +2277,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
 #EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ Canal VIX ɴᴏw vɪx-DT1 (1080ᴾ) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.mpd
 
-#EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸVenevisión Internacional | 1080ᴾ
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸVenevisión Internacional | 1080ᴾ
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① VIVA-TV 11 PE | 1080ᴾ (01)
 http://190.93.224.42/VIVA-TV/index.m3u8
@@ -2274,6 +2286,12 @@ http://190.93.224.42/VIVA-TV/index.mpd
 http://190.93.224.42/VIVA-TV/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① VIVA-TV 11 PE | 1080ᴾ (04)
 http://190.93.224.42/VIVA-TV/mono.ts
+
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸVenevisión Internacional | 1080ᴾ
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸVenevisión Internacional | 1080ᴾ
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① WILLAX TELEVISION 12 PE | 1080ᴾ (01)
 http://190.93.224.42/WILLAX/index.m3u8
@@ -6137,7 +6155,8 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNHL | 1080ᴾ
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNautical Channel | Sports
+https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index.m3u8
 
 
 
@@ -6479,13 +6498,6 @@ https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 
 
 
-
-
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-name="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸", ##########  ♥ GROUP 01 📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ♥  ##########
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -6503,1761 +6515,8 @@ http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7031.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AXN MX (opt3)
 http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7031
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AYM SPORTS MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7033.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AYM SPORTS MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7033.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AYM SPORTS MX (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7033
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA CINEMA MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7034.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA CINEMA MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7034.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA CINEMA MX (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7034
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA CLIC MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7035.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA CLIC MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7035.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA CLIC MX (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7035
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA 7 MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7038.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA 7 MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7038.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA 7 MX (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7038
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA UNO MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7039.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA UNO MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7039.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AZTECA UNO MX (opt3)
-http://alfa.7057460.xyz:2095/omarceja/MOC3om8611c7j/7039
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BANDAMAX MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7040.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BANDAMAX MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7040.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BANDAMAX MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7040
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 5* MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7042.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 5* MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7042.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 5* MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7042
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENTERTAINMENT! ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7043.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENTERTAINMENT! ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7043.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENTERTAINMENT! ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7043
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEHIT MUSICA ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7149.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEHIT MUSICA ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7149.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEHIT MUSICA ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7149
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TBS USA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7153.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TBS USA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7153.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TBS USA (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7153
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TCM Turner Classic Movies USA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7154.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TCM Turner Classic Movies USA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7154.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TCM Turner Classic Movies USA (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7154
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FORMULA MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7155.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FORMULA MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7155.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FORMULA MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7155
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEHIT MUSICA ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7156.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEHIT MUSICA ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7156.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEHIT MUSICA ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7156
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TNT SERIES ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7159.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TNT SERIES ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7159.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TNT SERIES ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7159
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TOONCAST ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7160.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TOONCAST ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7160.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TOONCAST ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7160
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ [ADULT SWIM] ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7161.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ [ADULT SWIM] ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7161.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ [ADULT SWIM] ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7161
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL TV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7164.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL TV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7164.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL TV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7164
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WB TV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7167.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WB TV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7167.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WB TV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7167
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WOBI TV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7168.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WOBI TV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7168.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WOBI TV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7168
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ MEGANOTICIAS MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7169.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ MEGANOTICIAS MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7169.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ MEGANOTICIAS MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7169
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVC Deportes MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7170.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVC Deportes MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7170.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVC Deportes MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7170
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FS PREMIUM ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7171.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FS PREMIUM ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7171.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FS PREMIUM ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7171
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOOD NETWORK ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7172.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOOD NETWORK ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7172.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOOD NETWORK ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7172
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 6 MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7173.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 6 MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7173.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 6 MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7173
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ GOLDEN ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7174.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ GOLDEN ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7174.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ GOLDEN ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7174
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LAS ESTRELLAS Televisa MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7175.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LAS ESTRELLAS Televisa MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7175.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LAS ESTRELLAS Televisa MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7175
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS 3 MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7176.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS 3 MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7176.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS 3 MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7176
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ GOLF CHANNEL Latinoamerica ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7177.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ GOLF CHANNEL Latinoamerica ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7177.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ GOLF CHANNEL Latinoamerica ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7177
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CNN US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7178.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CNN US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7178.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CNN US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7178
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX BUSINESS PRIME US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7179.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX BUSINESS PRIME US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7179.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX BUSINESS PRIME US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7179
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BABYFIRST ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7181.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BABYFIRST ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7181.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BABYFIRST ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7181
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ Canal 8 N+ TELEVISA MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7182.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ Canal 8 N+ TELEVISA MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7182.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ Canal 8 N+ TELEVISA MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7182
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ Capital 21 TV+ TV MAS MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7183.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ Capital 21 TV+ TV MAS MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7183.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ Capital 21 TV+ TV MAS MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7183
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ IMAGEN MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7186.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ IMAGEN MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7186.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ IMAGEN MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7186
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AMC ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7187.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AMC ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7187.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AMC ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7187
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EXTREMA TV CR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7188.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EXTREMA TV CR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7188.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EXTREMA TV CR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7188
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BABY TV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7189.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BABY TV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7189.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BABY TV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7189
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ europa&EUROPA AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7190.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ europa&EUROPA AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7190.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ europa&EUROPA AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7190
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY H&H ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7251.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY H&H ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7251.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY H&H ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7251
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NATIONAL GEOGRAPHIC ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7253.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NATIONAL GEOGRAPHIC ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7253.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NATIONAL GEOGRAPHIC ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7253
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NICKELODEON ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7255.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NICKELODEON ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7255.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NICKELODEON ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7255
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7275.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7275.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7275
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TUDN ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7276.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TUDN ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7276.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TUDN ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7276
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TUDN ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7276.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TUDN ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7276.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TUDN ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7276
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO MUNDI ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7304.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO MUNDI ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7304.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO MUNDI ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7304
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO POP ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7305.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO POP ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7305.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO POP ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7305
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ D SPORTS+ | DIRECTV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7310.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ D SPORTS+ | DIRECTV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7310.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ D SPORTS+ | DIRECTV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7310
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ COSMO ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7314.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ COSMO ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7314.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ COSMO ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7314
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 48 TX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7317.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 48 TX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7317.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 48 TX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7317
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CLARO SPORTS (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7378.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CLARO SPORTS (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7378.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CLARO SPORTS (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7378
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AMERICA TELEVISION PE (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7441.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AMERICA TELEVISION PE (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7441.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AMERICA TELEVISION PE (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7441
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LAS ESTRELLAS TELEVISA MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7442.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LAS ESTRELLAS TELEVISA MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7442.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LAS ESTRELLAS TELEVISA MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7442
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HGTV (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7443.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HGTV (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7443.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HGTV (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7443
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CNN (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7444.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CNN (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7444.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CNN (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7444
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HOLLYWOOD (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7448.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HOLLYWOOD (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7448.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HOLLYWOOD (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7448
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 52 US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7451.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 52 US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7451.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 52 US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7451
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TLN TLNOVELAS US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7452.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TLN TLNOVELAS US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7452.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TLN TLNOVELAS US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7452
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BOOMERANG (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7453.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BOOMERANG (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7453.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BOOMERANG (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7453
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LAS ESTRELLAS N+ TELEVISA MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7454.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LAS ESTRELLAS N+ TELEVISA MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7454.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LAS ESTRELLAS N+ TELEVISA MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7454
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ MILENIO MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7455.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ MILENIO MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7455.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ MILENIO MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7455
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ N+ TELEVISA Monterey MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7457.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ N+ TELEVISA Monterey MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7457.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ N+ TELEVISA Monterey MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7457
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ Canal 4 N+ TELEVISA GDL MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7458.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ Canal 4 N+ TELEVISA GDL MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7458.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ Canal 4 N+ TELEVISA GDL MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7458
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CINEMA DINAMITA MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7460.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CINEMA DINAMITA MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7460.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CINEMA DINAMITA MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7460
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL REALITY (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7463.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL REALITY (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7463.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL REALITY (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7463
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL CRIME (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7464.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL CRIME (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7464.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL CRIME (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7464
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL CINEMA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7465.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL CINEMA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7465.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL CINEMA (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7465
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL PREMIERE (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7466.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL PREMIERE (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7466.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL PREMIERE (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7466
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL COMEDY (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7467.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL COMEDY (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7467.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSAL COMEDY (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7467
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY THEATER (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7468.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY THEATER (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7468.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY THEATER (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7468
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY WORLD (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7469.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY WORLD (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7469.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY WORLD (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7469
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DREAMWORKS (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7470.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DREAMWORKS (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7470.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DREAMWORKS (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7470
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CINEMAX | HBO (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7472.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CINEMAX | HBO (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7472.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CINEMAX | HBO     (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7472
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DISNEY CHANNEL (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7473.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DISNEY CHANNEL (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7473.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DISNEY CHANNEL (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7473
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SONY CHANNEL (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7474.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SONY CHANNEL (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7474.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SONY CHANNEL (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7474
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DISCOVERY CHANNEL (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7475.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DISCOVERY CHANNEL (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7475.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DISCOVERY CHANNEL (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7475
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ HISTORY 2 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7476.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ HISTORY 2 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7476.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ HISTORY 2 (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7476
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DHE (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7477.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DHE (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7477.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DHE (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7477
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ PANICO (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7478.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ PANICO (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7478.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ PANICO (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7478
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PASIONES ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7479.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PASIONES ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7479.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PASIONES ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7479
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX Deportes (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7480.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX Deportes (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7480.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX Deportes (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7480
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7481.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7481.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7481
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7482.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7482.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7482
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7483.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7483.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CANAL 6 MULTIMEDIOS MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7483
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN 4 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7485.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN 4 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7485.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN 4 (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7485
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TV 7492 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7492.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TV 7492 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7492.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TV 7492 (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7492
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVP TV PUBLICA AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7493.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVP TV PUBLICA AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7493.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVP TV PUBLICA AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7493
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENLACE TV (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7494.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENLACE TV (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7494.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENLACE TV (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7494
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-                                                                    
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA 1 RTVE ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7511.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA 1 RTVE ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7511.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA 1 RTVE ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7511
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA 2 RTVE ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7512.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA 2 RTVE ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7512.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA 2 RTVE ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7512
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ANTENA 3 A3MEDIA ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7513.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ANTENA 3 A3MEDIA ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7513.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ANTENA 3 A3MEDIA ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7513
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CUATRO MEDIASET ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7514.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CUATRO MEDIASET ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7514.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CUATRO MEDIASET ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7514
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELECINCO 5 MEDIASET ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7515.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELECINCO 5 MEDIASET ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7515.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELECINCO 5 MEDIASET ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7515
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA SEXTA 6  A3MEDIA ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7516.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA SEXTA 6  A3MEDIA ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7516.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA SEXTA 6  A3MEDIA ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7516
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PPV ES 7518 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7518.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PPV ES 7518 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7518.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PPV ES 7518 (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7518
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CINEMAX | MOVIE MAX ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7519.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CINEMAX | MOVIE MAX ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7519.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CINEMAX | MOVIE MAX ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7519
-
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ACCION | por M+ ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7521.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ACCION | por M+ ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7521.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ACCION | por M+ ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7521
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL+ | EXTRA 1 ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7522.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL+ | EXTRA 1 ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7522.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL+ | EXTRA 1 ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7522
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WB TV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7523.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WB TV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7523.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WB TV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7523
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NAT GEO WILD ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7525.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NAT GEO WILD ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7525.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NAT GEO WILD ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7525
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NE OX ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7526.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NE OX ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7526.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NE OX ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7526
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NOVA ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7527.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NOVA ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7527.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ NOVA ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7527
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ MEGA ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7528.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ MEGA ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7528.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ MEGA ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7528
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BE MAD. ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7529.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BE MAD. ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7529.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BE MAD. ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7529
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A3S ANTENA 3 SERIES ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7530.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A3S ANTENA 3 SERIES ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7530.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A3S ANTENA 3 SERIES ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7530
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A3CINE ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7531.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A3CINE ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7531.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A3CINE ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7531
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CRIME+INVESTIGATION ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7533.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CRIME+INVESTIGATION ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7533.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CRIME+INVESTIGATION ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7533
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ OD!SEA ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7535.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ OD!SEA ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7535.m3u8
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENERGY. (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7536.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENERGY. (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7536.m3u
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENERGY. (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7536
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENERGY. (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7536.mpd
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DMAX ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7537.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DMAX ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7537.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DMAX ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7537
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ d. DIVINITY ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7539.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ d. DIVINITY ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7539.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ d. DIVINITY ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7539
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ F. FDF ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7540.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ F. FDF ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7540.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ F. FDF ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7540
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AXN MOVIES ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7543.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AXN MOVIES ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7543.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AXN MOVIES ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7543
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL COCINA ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7544.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL COCINA ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7544.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL COCINA ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7544
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HISTORIA ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7545.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HISTORIA ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7545.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HISTORIA ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7545
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ANIMAL PLANET EN DISCOVERY US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7546.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ANIMAL PLANET EN DISCOVERY US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7546.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ANIMAL PLANET EN DISCOVERY US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7546
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DISCOVERY CHANNEL US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7547.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DISCOVERY CHANNEL US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7547.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ DISCOVERY CHANNEL US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7547
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SMITHSONIAN CHANNEL US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7548.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SMITHSONIAN CHANNEL US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7548.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SMITHSONIAN CHANNEL US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7548
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HERALDO TELEVISION 8 ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7549.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HERALDO TELEVISION 8 ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7549.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HERALDO TELEVISION 8 ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7549
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CNBC US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7550.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CNBC US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7550.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ CNBC US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7550
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MS NOW US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7551.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MS NOW US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7551.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MS NOW US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7551
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ AMC US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7552.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ AMC US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7552.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ AMC US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7552
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COWBOY CHANNEL US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7556.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COWBOY CHANNEL US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7556.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COWBOY CHANNEL US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7556
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ADULT SWIM US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7557.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ADULT SWIM US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7557.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ADULT SWIM US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7557
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ABC 7 US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7558.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ AABC 7 US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7558.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ AABC 7 US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7558
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ A&E US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7564.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ A&E US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7564.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ A&E US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7564
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ NBC 4 US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7565.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ NBC 4 US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7565.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ NBC 4 US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7565
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COMEDY CENTRAL US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7566.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COMEDY CENTRAL US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7566.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COMEDY CENTRAL US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7566
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ION US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7567.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ION US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7567.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ION US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7567
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ BRAVO US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7568.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ BRAVO US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7568.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ BRAVO US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7568
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TNT US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7569.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TNT US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7569.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TNT US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7569
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FREEFORM US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7579.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FREEFORM US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7579.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FREEFORM US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7579
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ USA NETWORK US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7580.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ USA NETWORK US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7580.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ USA NETWORK US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7580
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ OXYGEN TRUE CRIME US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7581.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ OXYGEN TRUE CRIME US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7581.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ OXYGEN TRUE CRIME US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7581
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ LIFETIME US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7583.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ LIFETIME US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7583.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ LIFETIME US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7583
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ PARAMOUNT NETWORK US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7586.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ PARAMOUNT NETWORK US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7586.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ PARAMOUNT NETWORK US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7586
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ E! ENTERTAINMENT! US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7588.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ E! ENTERTAINMENT! US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7588.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ E! ENTERTAINMENT! US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7588
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVMOVIE ES 7590 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7590.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVMOVIE ES 7590 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7591.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVMOVIE ES 7590 (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7592
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO INTERNACIONAL ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7593.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO INTERNACIONAL ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7593.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO INTERNACIONAL ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7593
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 47 NEW YORK US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7595.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 47 NEW YORK US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7595.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 47 NEW YORK US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7595
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 48 AREA DE LA BAHIA US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7596.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★TELEMUNDO 48 AREA DE LA BAHIA US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7596.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO 48 AREA DE LA BAHIA US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7596
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO CHICAGO US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7597.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO CHICAGO US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7597.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO CHICAGO US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7597
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO COLORADO US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7603.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO COLORADO US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7603.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO COLORADO US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7603
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO COLORADO US (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7603.m3u8
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7604.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7604.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7604
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ GALAVISION US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7605.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ GALAVISION US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7605.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ GALAVISION US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7605
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSO TV US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7606.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSO TV US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7606.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVERSO TV US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7606
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESTRELLA TV MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7607.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESTRELLA TV MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7607.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESTRELLA TV MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7607
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIMAS US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7608.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIMAS US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7608.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIMAS US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7608
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7609.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7609.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7609
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7610.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7610.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7610
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION 45 US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7611.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION 45 US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7611.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION 45 US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7611
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION 23 US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7612.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION 23 US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7612.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION 23 US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7612
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY EN ESPANOL ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7613.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY EN ESPANOL ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7613.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY EN ESPANOL ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7613
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY FAMILIA ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7614.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY FAMILIA ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7614.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DISCOVERY FAMILIA ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7614
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DW EN ESPANOL ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7615.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DW EN ESPANOL ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7615.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DW EN ESPANOL ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7615
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ RT EN ESPANOL ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7616.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ RT EN ESPANOL ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7616.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ RT EN ESPANOL ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7616
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A MAS+ TV AZTECA MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7617.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A MAS+ TV AZTECA MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7617.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A MAS+ TV AZTECA MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7617
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ VTV UY (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7618.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ VTV UY (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7618.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ VTV UY (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7618
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ VTV PLUS UY (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7619.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ VTV PLUS UY (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7619.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ VTV PLUS UY (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7619
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A24 AMERICA 24 AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7620.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A24 AMERICA 24 AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7620.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ A24 AMERICA 24 AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7620
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AMERICA TV AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7621.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AMERICA TV AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7621.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ AMERICA TV AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7621
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EL TRECE AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7622.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EL TRECE AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7622.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EL TRECE AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7622
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ VTV TELEVISION CL (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7623.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ VTV TELEVISION CL (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7623.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ VTV TELEVISION CL (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7623
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENCUENTRO AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7624.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENCUENTRO AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7624.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ENCUENTRO AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7624
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CIUDAD MAGAZINE AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7625.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CIUDAD MAGAZINE AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7625.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CIUDAD MAGAZINE AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7625
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EL NUEVE AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7627.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EL NUEVE AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7627.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EL NUEVE AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7627
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA RED CL (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7628.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA RED CL (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7628.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LA RED CL (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7628
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEFE AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7630.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEFE AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7630.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEFE AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7630
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 4 UY (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7631.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 4 UY (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7631.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 4 UY (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7631
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PANAMERICANA PE (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7632.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PANAMERICANA PE (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7632.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ PANAMERICANA PE (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7632
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WILLAX PE (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7633.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WILLAX PE (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7633.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WILLAX PE (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7633
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ATV+ PE (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7634.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ATV+ PE (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7634.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ATV+ PE (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7634
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 4 UY (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7635.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 4 UY (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7635.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 4 UY (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7635
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 10 UY (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7636.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 10 UY (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7636.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CANAL 10 UY (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7636
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVPERU PE (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7637.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVPERU PE (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7637.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TVPERU PE (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7637
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CHILEVISION CL (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7638.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CHILEVISION CL (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7638.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CHILEVISION CL (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7638
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CITY TV CO (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7641.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CITY TV CO (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7641.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CITY TV CO (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7641
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CINE AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7642.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CINE AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7642.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CINE AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7642
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CARACOL CO (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7643.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CARACOL CO (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7643.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ CARACOL CO (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7643
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEANTIOQUIA CO (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7645.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEANTIOQUIA CO (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7645.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEANTIOQUIA CO (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7645
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ RCN CO (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7647.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ RCN CO (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7647.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ RCN CO (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7647
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ARAGON TV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7745.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ARAGON TV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7745.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ARAGON TV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7745
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO PUERTO RICO PR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7750.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO PUERTO RICO PR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7750.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO PUERTO RICO PR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7750
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ZONA TUDN  ViX US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7763.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ZONA TUDN  ViX US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7763.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ZONA TUDN  ViX US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7763
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TUDN  ViX US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7765.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TUDN  ViX US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7765.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TUDN  ViX US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7765
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BeIN SPORTS N US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7769.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BeIN SPORTS N US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7769.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BeIN SPORTS N US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7769
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BeIN SPORTS US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7770.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BeIN SPORTS US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7770.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BeIN SPORTS US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7770
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BeIN SPORTS XTRA US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7777.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BeIN SPORTS XTRA US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7777.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ BeIN SPORTS XTRA US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7777
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION HOUSTON VIX US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7779.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION HOUSTON VIX US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7779.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIVISION HOUSTON VIX US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7779
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7780.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7780.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7780
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS 2 ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7781.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS 2 ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7781.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS 2 ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7781
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS 3 ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7782.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS 3 ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7782.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX SPORTS 3 ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7782
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ FS 1 US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7785.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ FS 1 US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7785.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ FS 1 US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7785
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ FS 2 US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7786.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ FS 2 US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7786.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ FS 2 US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7786
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX DEPORTES US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7787.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX DEPORTES US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7787.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ FOX DEPORTES US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7787
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ FOX SOCCER PLUS US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7788.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ FOX SOCCER PLUS US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7788.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ FOX SOCCER PLUS US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7788
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN 4 EXTRA US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7789.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN 4 EXTRA US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7789.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN 4 EXTRA US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7789
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE ES 7793 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7793.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE ES 7793 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7793.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE ES 7793 (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7793
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7794.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7794.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7794
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN 2 US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7795.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN 2 US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7795.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ESPN 2 US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7795
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN DEPORTES US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7796.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN DEPORTES US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7796.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN DEPORTES US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7796
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN 1 ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7797.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN 1 ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7797.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN 1 ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7797
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN 2 ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7798.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN 2 ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7798.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN 2 ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7798
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN F1 ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7801.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN F1 ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7801.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN F1 ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7801
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LALIGA "TV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7804.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LALIGA "TV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7804.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ LALIGA "TV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7804
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN | LALIGA "TV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7806.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN | LALIGA "TV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7806.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DAZN | LALIGA "TV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7806
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ D SPORTS 2 | DIRECTV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7811.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ D SPORTS 2 | DIRECTV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7811.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ D SPORTS 2 | DIRECTV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7811
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ D SPORTS | DIRECTV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ D SPORTS | DIRECTV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ D SPORTS | DIRECTV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7815
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ NBA TV US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7817.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ NBA TV US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7817.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ NBA TV US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7817
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MLB NETWORK US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7818.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MLB NETWORK US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7818.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MLB NETWORK US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7818
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ NFL NETWORK US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7819.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ NFL NETWORK US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7819.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ NFL NETWORK US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7819
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TENNIS US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7820.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TENNIS US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7820.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TENNIS US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7820
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TyC SPORTS AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7821.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TyC SPORTS AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7821.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TyC SPORTS AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7821
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ OUTDOOR TV US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7823.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ OUTDOOR TV US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7823.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ OUTDOOR TV US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7823
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ONE TORO TV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7824.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ONE TORO TV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7824.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ONE TORO TV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7824
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ UFC TV ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7825.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ UFC TV ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7825.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ UFC TV ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7825
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WIN+ FUTBOL CO (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7826.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WIN+ FUTBOL CO (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7826.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WIN+ FUTBOL CO (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7826
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WIN+ SPORTS FUTBOL CO (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7827.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WIN+ SPORTS FUTBOL CO (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7827.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ WIN+ SPORTS FUTBOL CO (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7827
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EUROSPORT 1 ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7828.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EUROSPORT 1 ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7828.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EUROSPORT 1 ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7828
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EUROSPORT 2 ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7829.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EUROSPORT 2 ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7829.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EUROSPORT 2 ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7829
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SPECTRUM SPORTSNET LA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7830.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SPECTRUM SPORTSNET LA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7830.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SPECTRUM SPORTSNET LA (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7830
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TNT SPORTS PREMIUM AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7832.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TNT SPORTS PREMIUM AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7832.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TNT SPORTS PREMIUM AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7832
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TNT SPORTS PREMIUM CL (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7833.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TNT SPORTS PREMIUM CL (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7833.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TNT SPORTS PREMIUM CL (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7833
-
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO LATINO MAX ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9264.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO LATINO MAX ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9264.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO LATINO MAX ES (opt3)
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/9264.m3u
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO LATINO MAX ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9293.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO LATINO MAX ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9293.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ HBO LATINO MAX ES (opt3)
-http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/9293.m3u
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9308.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9308.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ TELEMUNDO US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9308
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIMAS US (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9309.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIMAS US (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9309.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ UNIMAS US (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9309
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DEPORTV AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9311.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DEPORTV AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9311.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ DEPORTV AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9311
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ STARZ EDGE ES (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9312.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ STARZ EDGE ES (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9312.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ STARZ EDGE ES (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9312
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EL CANAL DEL FUTBOL EC (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9319.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EL CANAL DEL FUTBOL EC (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9319.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ EL CANAL DEL FUTBOL EC (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9319
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN PREMIUM AR (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9320.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN PREMIUM AR (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9320.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN PREMIUM AR (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9320
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9326 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9326.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9326 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9326.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ MOVIE 9326 (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9326
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 1 CA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9327.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 1 CA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9327.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 1 CA (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9327
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 2 CA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9328.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 2 CA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9328.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 2 CA (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9328
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 3 CA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9329.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 3 CA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9329.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 3 CA (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9329
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 4 CA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9330.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 4 CA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9330.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 4 CA (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9330
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 5 CA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9331.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 5 CA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9331.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ TSN 5 CA (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9331
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SN SPORTSNET CA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9332.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SN SPORTSNET CA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9332.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SN SPORTSNET CA (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9332
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SN SPORTSNET CA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9333.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SN SPORTSNET CA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9333.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ SN SPORTSNET CA (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9333
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9334.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9334.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9334
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN 2 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9335.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN 2 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9335.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ESPN 2 (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9335
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ACCN ESPN (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9336.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ACCN ESPN (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9336.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ ACCN ESPN (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9336
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COMET (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9338.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COMET (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9338.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ COMET (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9338
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ONCE+ MX (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9339.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ONCE+ MX (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9339.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ONCE+ MX (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9339
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ID (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9342.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ID (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9342.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸★ ID (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9342
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME EXTREME (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9343.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME EXTREME (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9343.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME EXTREME (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9343
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME SHOWCASE (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9344.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME SHOWCASE (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9344.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME SHOWCASE (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9344
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME 2 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9345.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME 2 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9345.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME 2 (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9345
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME Network (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/9346.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME Network (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/9346.ts
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸★ Paramount+ With SHOWTIME Network (opt3)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/9346
 
 
 
@@ -8961,8 +7220,8 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸActiva TV ES (Music)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
-#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/antaresTvRadioOficial/picture?width=320&height=320" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAntares Televisión (720p)
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAuténtica Televisión PE (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸ✝Avivamiento TV (1080p) [Not 24/7]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
@@ -9622,7 +7881,7 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-name="Bloomberg Television (US)" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="BloombergTV.us" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸBloomberg Television (US)
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-name="Bloomberg Television (Europe)" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="BloombergTVEurope.uk" group-title="B📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸBloomberg Television (Europe)
+#EXTINF:-1 tvg-name="Bloomberg Television (Europe)" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="BloombergTVEurope.uk" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸBloomberg Television (Europe)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
 
@@ -9746,6 +8005,8 @@ https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6oC2A3.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸHSN2 | Shopping
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6oC2A3.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸHSN | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn3us/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://historyhit.com/app/uploads/2020/09/Logo_Dark.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸHistory Hit Channel | Documentary
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
@@ -9799,18 +8060,28 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNBCLX HOME | E!
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNHL
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNHL NETWORK
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNHL
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNHL NETWORK
 https://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNautical Channel | Sports
+https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNautical Channel | Sports
+https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 O ˢᵈ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸 ⭐🌎🌐
@@ -9836,6 +8107,9 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  ᴛv⁽ˢᵈ⁾ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/736QREy.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸPac 12 Insider | Football
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Vzwqts.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸPursuit Up | Sports
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/NJ_PBS_logo.png/512px-NJ_PBS_logo.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸPBS National East | Education
@@ -9848,6 +8122,49 @@ https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m
 https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 Q ˢᵈ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  ᴛv⁽ˢᵈ⁾ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/11/QVC-Symbol.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC West | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC 1 | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvDRZgq.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC 2 | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvDRZgq.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC 3 | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC 4 | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvDRZgq.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC 5 | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvDRZgq.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC 6 | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvDRZgq.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC 7 | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc7us/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvDRZgq.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC 8 | Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC UK | Shopping
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC UK Beauty | Shopping
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC UK Extra | Shopping
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸQVC UK Style | Shopping
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 R ˢᵈ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  ᴛv⁽ˢᵈ⁾ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
@@ -9855,8 +8172,10 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RT.ru" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸRT | Russia Today | News Ⓖ
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸRed Bull TV | Sports
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rev%27n_logo.jpg/512px-Rev%27n_logo.jpg" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸRev'n | Sports
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 
 
 
@@ -9877,6 +8196,20 @@ https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸSony Movies (Sony Movie Channel)
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸStrongman Champions League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸSuperyacht TV
+https://sy.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/shop-lc-logo-0E9EF31B18-seeklogo.com.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸShop LC | Shopping
+https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Shopping_Channel_logo.svg/2560px-The_Shopping_Channel_logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸThe Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFlNhjV.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTJC | Shopping UK
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 T ˢᵈ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸 ⭐🌎🌐
@@ -9884,11 +8217,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  ᴛv⁽ˢᵈ⁾ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTBS East (720p) [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTBS West (720p) [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTNT East (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -9899,6 +8227,11 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TruTVWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/e3KabTt.jpg" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTruTV West (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTBS East (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTBS West (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TCMEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTCM East (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
@@ -9920,6 +8253,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/mono.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (04)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/master.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fetchtv.com.au/marketing/img/features-and-packages/included-channels/the-wicked-tuna-channel.png" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸThe Wicked Tuna Channel | Sports
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺ᴛv⁽ˢᵈ⁾🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
@@ -10217,16 +8553,32 @@ http://mains.services/live/640939802963/IDC01478!/68c3755d-fc9b-496c-b3c9-997a2b
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 ℳ𝓊𝓼𝒾𝓬🎧 🇺🇸  🌐🌎⭐ 🇺🇸Mᴜsɪᴄᵀᵛ♪♬♫🌐ℳ𝓊𝓼𝒾𝓬𓂃🎧🇪🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  alfa🎧★ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  live 🎧★ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",🇺🇸🎧★ TELEHIT MUSICA ES (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7149.ts
-#EXTINF:-1 group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",🇺🇸🎧★ TELEHIT MUSICA ES (opt2)
-http://alfa.7057460.xyz:2095/WIFIELITE/Elite2024/7149
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",🇺🇸🎧 30A TV Music
+https://30a-tv.com/music.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",🇺🇸🎧 Afrobeats | Music
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s1kLdBG.png" group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",🇺🇸🎧 Bblack! Africa | Music
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDCDy0b.png" group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",🇺🇸🎧 Bblack! Classik | Music
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GyZQCjq.png" group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",🇺🇸🎧 Bblack! Caribbean | Music
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+
+#EXTINF:-1 tvg-id="KMBYLD5.us" tvg-logo="https://i.imgur.com/GlpYAKt.png" group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",🇺🇸🎧 Blues Television Network | Music
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",🇺🇸🎧 Classic Arts Showcase | Music
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="🇺🇸Mᴜsɪᴄᵀᵛ🌐♪♬♫🎧🇪🇸",🇺🇸🎧 CMC | Music
+https://cmc-ono.amagi.tv/playlist.m3u8
 
 
 
