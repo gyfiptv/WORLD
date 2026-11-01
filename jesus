@@ -156,6 +156,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnn.uk.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸⚽ CNN WORLD UK | 1080ᴾ (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnn.uk.m3u8
 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ CNN EN ESPANOL (opt1) 
+http://mains.services:2086/3003556325/2772007/66553
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ CNN EN ESPANOL (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66553
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ CNN EN ESPANOL (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66553 
+
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸⚽ FOX NEWS Channel US | 720ᴾ (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.news.us.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸⚽ FOX NEWS Channel US | 720ᴾ (opt2)
@@ -5908,7 +5915,43 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  mains. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ CNN EN ESPANOL (opt1) 
+http://mains.services:2086/3003556325/2772007/66553
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ CNN EN ESPANOL (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66553
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ CNN EN ESPANOL (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66553 
 
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TUDN (opt1) 
+http://mains.services:2086/3003556325/2772007/66593
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TUDN (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66593
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TUDN (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66593 
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY FAMILIA (opt1) 
+http://mains.services:2086/3003556325/2772007/66566
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY FAMILIA (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66566
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY FAMILIA (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66566 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY FAMILIA (opt1) 
+http://mains.services:2086/3003556325/2772007/66567
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY FAMILIA (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66567
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY FAMILIA (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66567 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ESPN DEPORTES (opt1) 
+http://mains.services:2086/3003556325/2772007/66568
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ESPN DEPORTES (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66568
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ESPN DEPORTES (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66568 
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TYC SPORTS (opt1) 
 http://mains.services:2086/3003556325/2772007/66601
@@ -5916,6 +5959,38 @@ http://mains.services:2086/3003556325/2772007/66601
 http://mains.services:2086/507Vej3h3S/4632273/66601
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TYC SPORTS (opt3) 
 http://mains.services:2086/640939802963/IDC01478!/66601 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TV (opt1) 
+http://mains.services:2086/3003556325/2772007/66602
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TV (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66602
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TV (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66602 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIVISION (opt1) 
+http://mains.services:2086/3003556325/2772007/66604
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIVISION (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66604
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIVISION (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66604 
+
+
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ WAPA AMERICA PR (opt1) 
+http://mains.services:2086/3003556325/2772007/66610
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ WAPA AMERICA PR (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66610
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ WAPA AMERICA PR (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66610 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ WE TV (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/66611.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ WE TV (opt2)
+http://mains.services/live/3003556325/2772007/66611.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ WE TV (opt3)
+http://mains.services:2086/640939802963/IDC01478!/66611
+
 
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIVERSO NBC USA FIFA 02
@@ -6277,6 +6352,9 @@ http://mains.services:2086/507Vej3h3S/4632273/96734
 
 
 
+
+
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TELEMUNDO (WNJU) 47 NEW YORK (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/100157.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TELEMUNDO (WNJU) 47 NEW YORK (opt2)
@@ -6286,12 +6364,88 @@ http://mains.services:2086/507Vej3h3S/4632273/100157
 
 
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ UFC PPV (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/101182.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ UFC PPV (opt2)
+http://mains.services:2086/live/3003556325/2772007/101182.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ UFC PPV (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/101182
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ UFC PPV (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/101190.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ UFC PPV (opt2)
+http://mains.services:2086/live/3003556325/2772007/101190.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ UFC PPV (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/101190
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ ABC NEWS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/101203.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ ABC NEWS (opt2)
+http://mains.services:2086/live/3003556325/2772007/101203.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ ABC NEWS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/101203
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ CBS NEWS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/101204.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ CBS NEWS (opt2)
+http://mains.services:2086/live/3003556325/2772007/101204.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ CBS NEWS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/101204
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ CBS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/101205.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ CBS (opt2)
+http://mains.services:2086/live/3003556325/2772007/101205.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ CBS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/101205
+
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ⛹️TELEMUNDO 47 (KTMD) HOUSTON TEXAS (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/101211.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ⛹️TELEMUNDO 47 (KTMD) HOUSTON TEXAS (opt2)
 http://mains.best:2086/live/3003556325/2772007/101211.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ⛹️TELEMUNDO 47 (KTMD) HOUSTON TEXAS (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/101211
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ⛹️UNIVISION (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/101212.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ⛹️UNIVISION (opt2)
+http://mains.best:2086/live/3003556325/2772007/101212.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ⛹️UNIVISION (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/101212
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ BEIN SPORTS 1 AU (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/101215.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ BEIN SPORTS 1 AU (opt2)
+http://mains.services/live/3003556325/2772007/101215.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ BEIN SPORTS 1 AU (opt3)
+http://mains.services:2086/640939802963/IDC01478!/101215
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ BEIN SPORTS 2 AU (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/101216.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ BEIN SPORTS 2 AU (opt2)
+http://mains.services/live/3003556325/2772007/101216.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ BEIN SPORTS 2 AU (opt3)
+http://mains.services:2086/640939802963/IDC01478!/101216
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ BEIN SPORTS 3 AU (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/101217.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ BEIN SPORTS 3 AU (opt2)
+http://mains.services/live/3003556325/2772007/101217.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ BEIN SPORTS 3 AU (opt3)
+http://mains.services:2086/640939802963/IDC01478!/101217
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ RUSH SPORTS (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/101249.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ RUSH SPORTS (opt2)
+http://mains.services/live/3003556325/2772007/101249.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ RUSH SPORTS (opt3)
+http://mains.services:2086/640939802963/IDC01478!/101249
+
+
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ SK 1 | Bundesliga (opt1)
 http://mains.services:2086/live/507Vej3h3S/4632273/102324.m3u8
