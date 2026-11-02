@@ -156,6 +156,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnn.uk.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸⚽ CNN WORLD UK | 1080ᴾ (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnn.uk.m3u8
 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ CNN INTERNACIONAL (opt1) 
+http://mains.best:2086/3003556325/2772007/92611
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ CNN INTERNACIONAL (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/92611
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ CNN INTERNACIONAL (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/92611
+
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ CNN EN ESPANOL (opt1) 
 http://mains.services:2086/3003556325/2772007/66553
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ CNN EN ESPANOL (opt2) 
@@ -5953,6 +5960,62 @@ http://mains.services:2086/507Vej3h3S/4632273/66568
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ESPN DEPORTES (opt3) 
 http://mains.services:2086/640939802963/IDC01478!/66568 
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ N+FORO | NMAS MX (opt1) 
+http://mains.services:2086/3003556325/2772007/66574
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ N+FORO | NMAS MX (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66574
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ N+FORO | NMAS MX (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66574 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ GALA VISION USA (opt1) 
+http://mains.services:2086/3003556325/2772007/66578
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ GALA VISION USA (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66578
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ GALA VISION USA (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66578 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HBO LATINO (opt1) 
+http://mains.services:2086/3003556325/2772007/66579
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HBO LATINO (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66579
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HBO LATINO (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66579 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HISTORY EN ESPANOL (opt1) 
+http://mains.services:2086/3003556325/2772007/66582
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HISTORY EN ESPANOL (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66582
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HISTORY EN ESPANOL (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66582 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HOLA! TV (opt1) 
+http://mains.services:2086/3003556325/2772007/66583
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HOLA! TV (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66583
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HOLA! TV (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66583 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ PASIONES (opt1) 
+http://mains.services:2086/3003556325/2772007/66590
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ PASIONES (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66590
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ PASIONES (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66590 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TUDN | UNIMAS (opt1) 
+http://mains.services:2086/3003556325/2772007/66593
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TUDN | UNIMAS (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66593
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TUDN | UNIMAS (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66593 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TVE 1 | RTVE ES (opt1) 
+http://mains.services:2086/3003556325/2772007/66596
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TVE 1 | RTVE ES (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66596
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TVE 1 | RTVE ES (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66596 
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TYC SPORTS (opt1) 
 http://mains.services:2086/3003556325/2772007/66601
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TYC SPORTS (opt2) 
@@ -5960,11 +6023,11 @@ http://mains.services:2086/507Vej3h3S/4632273/66601
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TYC SPORTS (opt3) 
 http://mains.services:2086/640939802963/IDC01478!/66601 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TV (opt1) 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIMAS (opt1) 
 http://mains.services:2086/3003556325/2772007/66602
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TV (opt2) 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIMAS (opt2) 
 http://mains.services:2086/507Vej3h3S/4632273/66602
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TV (opt3) 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIMAS (opt3) 
 http://mains.services:2086/640939802963/IDC01478!/66602 
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIVISION (opt1) 
@@ -5973,9 +6036,6 @@ http://mains.services:2086/3003556325/2772007/66604
 http://mains.services:2086/507Vej3h3S/4632273/66604
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIVISION (opt3) 
 http://mains.services:2086/640939802963/IDC01478!/66604 
-
-
-
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ WAPA AMERICA PR (opt1) 
 http://mains.services:2086/3003556325/2772007/66610
@@ -5990,6 +6050,36 @@ http://mains.services:2086/live/507Vej3h3S/4632273/66611.m3u8
 http://mains.services/live/3003556325/2772007/66611.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☆ WE TV (opt3)
 http://mains.services:2086/640939802963/IDC01478!/66611
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TVMOVIE 24/7 (opt1) 
+http://mains.services:2086/3003556325/2772007/66619
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TVMOVIE 24/7 (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66619
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ TVMOVIE 24/7 (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66619 
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ GOLDEN EDGE (opt1) 
+http://mains.services:2086/3003556325/2772007/66670
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ GOLDEN EDGE (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66670
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ GOLDEN EDGE (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66670 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt1) 
+http://mains.services:2086/3003556325/2772007/66678
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66678
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ HBO SIGNATURE LATINO (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66678 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIVERSO NBC (opt1) 
+http://mains.services:2086/3003556325/2772007/66685
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIVERSO NBC (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66685
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ UNIVERSO NBC (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66685 
+
 
 
 
@@ -6006,6 +6096,9 @@ http://mains.services/live/640939802963/IDC01478!/360b5429-b424-4887-ab8c-03e629
 http://mains.services/live/3003556325/2772007/360b5429-b424-4887-ab8c-03e629d55cd3.ts
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ⛹️TELEMUNDO USA FIFA 01
 http://mains.services/live/507Vej3h3S/4632273/360b5429-b424-4887-ab8c-03e629d55cd3.m3u
+
+
+
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ ⛹️TELEMUNDO Arizona WEST (opt1) 
 http://mains.services:2086/live/640939802963/IDC01478!/92492.m3u8
@@ -6057,8 +6150,147 @@ http://mains.best:2086/640939802963/IDC01478!/92533
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ SONY CHANNEL FHD (opt3)
 http://mains.services:2086/3003556325/2772007/92533
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ SHOWTIME EAST with Paramount+ FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92535
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ SHOWTIME EAST with Paramount+ FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92535
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ SHOWTIME EAST with Paramount+ FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92535
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ SHOWTIME with Paramount+ FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92537
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ SHOWTIME with Paramount+ FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92537
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ SHOWTIME with Paramount+ FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92537
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NICKELODEON FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92546
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NICKELODEON FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92546
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NICKELODEON FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92546
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NICK TOONS FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92547
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NICK TOONS FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92547
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NICK TOONS FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92547
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NICK JR. FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92548
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NICK JR. FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92548
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NICK JR. FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92548
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NATIONAL GEOGRAPHIC FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92553
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NATIONAL GEOGRAPHIC FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92553
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ NATIONAL GEOGRAPHIC FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92553
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ MAX UP FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92559
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ MAX UP FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92559
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ MAX UP FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92559
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ MAX PRIME FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92560
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ MAX PRIME FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92560
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ MAX PRIME FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92560
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ LIFETIME FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92563
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ LIFETIME FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92563
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ LIFETIME FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92563
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ HBO LATINO FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92572
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ HBO LATINO FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92572
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ HBO LATINO FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92572
 
 
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ GOLDEN EDGE FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92575
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ GOLDEN EDGE FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92575
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ GOLDEN EDGE FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92575
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ GARAGE TV FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92579
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ GARAGE TV FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92579
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ GARAGE TV FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92579
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ FOX SPORTS 3 FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92582
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ FOX SPORTS 3 FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92582
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ FOX SPORTS 3 FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92582
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ FOX SPORTS 2 FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92583
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ FOX SPORTS 2 FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92583
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ FOX SPORTS 2 FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92583
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ ACTION MOVIES FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92591
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ ACTION MOVIES FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92591
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ ACTION MOVIES FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92591
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ GOURMET FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92594
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ GOURMET FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92594
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ GOURMET FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92594
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ DISTRITO COMEDIA DC FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92595
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ DISTRITO COMEDIA DC FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92595
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ DISTRITO COMEDIA DC FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92595
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ DISNEY JR. FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92596
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ DISNEY JR. FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92596
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ DISNEY JR. FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92596
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ DISNEY CHANNEL FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92597
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ DISNEY CHANNEL FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92597
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ DISNEY CHANNEL FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92597
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ WB TV FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92599
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ WB TV FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92599
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸”,🇪🇸☆ WB TV FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92599
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY THEATER HD (opt1) 
 http://mains.best:2086/3003556325/2772007/92600
@@ -6066,6 +6298,13 @@ http://mains.best:2086/3003556325/2772007/92600
 http://mains.services:2086/507Vej3h3S/4632273/92600
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY THEATER HD (opt3) 
 http://mains.services:2086/640939802963/IDC01478!/92600
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY SCIENCE HD (opt1) 
+http://mains.best:2086/3003556325/2772007/92601
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY SCIENCE HD (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/92601
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY SCIENCE HD (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/92601
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY KIDS HD (opt1) 
 http://mains.best:2086/3003556325/2772007/92602
@@ -6094,8 +6333,6 @@ http://mains.best:2086/3003556325/2772007/92611
 http://mains.services:2086/507Vej3h3S/4632273/92611
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ CNN INTERNACIONAL FHD (opt3) 
 http://mains.services:2086/640939802963/IDC01478!/92611
-
-
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ CINEMAX FHD (opt1) 
 http://mains.best:2086/3003556325/2772007/92613
@@ -6351,7 +6588,33 @@ http://mains.services:2086/live/3003556325/2772007/96734.ts
 http://mains.services:2086/507Vej3h3S/4632273/96734
 
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ FX (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/98786.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ FX (opt2)
+http://mains.services:2086/live/3003556325/2772007/98786.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ FX (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/98786
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ FXM (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/98787.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ FXM (opt2)
+http://mains.services:2086/live/3003556325/2772007/98787.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ FXM (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/98787
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ NAT GEO WILD (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/98788.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ NAT GEO WILD (opt2)
+http://mains.services:2086/live/3003556325/2772007/98788.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ NAT GEO WILD (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/98788
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ WIN SPORTS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/98797.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ WIN SPORTS (opt2)
+http://mains.services:2086/live/3003556325/2772007/98797.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ WIN SPORTS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/98797
 
 
 
