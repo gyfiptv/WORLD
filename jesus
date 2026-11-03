@@ -2929,6 +2929,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecinco.e
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ TELECINCO MEDIASET.ES ᴱˢᴾᴬᴺᴬ (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telecinco.es.m3u8
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸ᵀᵛ¹ TELECINCO.5 MEDIASET.ES ᴴᴰ (01)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1758.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸ᵀᵛ¹ TELECINCO.5 MEDIASET.ES ᴴᴰ (02)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1758.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸ᵀᵛ² TELECINCO.5 MEDIASET.ES ᴴᴰ (03)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1758
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES ᴱˢᴾᴬᴺᴬ (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/lasexta.es.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ LA SEXTA 6 A3MEDIA.ES ᴱˢᴾᴬᴺᴬ (opt2)
@@ -2973,6 +2980,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.w
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/dmax.es.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ DMAX ES ᴱˢᴾᴬᴺᴬ (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/dmax.es.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸ᵀᵛ¹ ENERGY TV | MEDIASET.ES ᴴᴰ (01)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1765.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸ᵀᵛ² ENERGY TV | MEDIASET.ES ᴴᴰ (02)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1765.ts
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸ᵀᵛ² ENERGY TV | MEDIASET.ES ᴴᴰ (03)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1765
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ HISTORIA ES ᴱˢᴾᴬᴺᴬ (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/historia.es.m3u8
