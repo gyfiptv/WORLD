@@ -1016,6 +1016,12 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸLove Nature en Espanol | 1080ᴾ
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸLove Nature 4K | 1080ᴾ
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸLove Nature 4K | 1080ᴾ
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+
+
 #EXTINF:-1 tvg-name="Latina TV" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" tvg-id="LatinaTV.ve" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸLatina TV VE | 720ᴾ
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 
@@ -6323,11 +6329,11 @@ http://mains.services:2086/507Vej3h3S/4632273/92602
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY KIDS FHD (opt3) 
 http://mains.services:2086/640939802963/IDC01478!/92602
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ H&H DISCOVERY | 360ᴾ (opt1) 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY H&H | 360ᴾ (opt1) 
 http://mains.best:2086/3003556325/2772007/92603
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ H&H DISCOVERY | 360ᴾ (opt2) 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY H&H | 360ᴾ (opt2) 
 http://mains.services:2086/507Vej3h3S/4632273/92603
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ H&H DISCOVERY | 360ᴾ (opt3) 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY H&H | 360ᴾ (opt3) 
 http://mains.services:2086/640939802963/IDC01478!/92603
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴵᴹᴱ🇺🇸wᴏʀʟd🇪🇸",🇪🇸☆ DISCOVERY CHANNEL EN ESPANOL | 720ᴾ (opt1) 
@@ -9232,10 +9238,18 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 
 
 
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="🇺🇸🐘DOCUMENTARY🦒🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸", ##########  ♥ GROUP 01 🇺🇸🐘DOCUMENTARY🦒🇪🇸 ♥  ##########
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
 #EXTINF:-1,tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴛʙɴᵀᵛ  🇺🇸 A 🇪🇸  ⭐🌎 ɪᴘᴛv📺DOCUMENTARY🇺🇸 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",✝️ᴅᴀʏsᴛᴀʀᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c5735adb72681fbf9aa7add829afacd7e168ced0e8f7336b29e712e7dbfab8dcb0e15443d3b0a13f1e95c16524c37882c4e45e/436
+
 
 #EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸAFV ALWAYS FUNNY | Comedy (720p)
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
@@ -9247,11 +9261,12 @@ https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸAKC TV|Puppies 24/7 |American Kennel Club
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 
-
-
-
-#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ AMERICAN HEROES (opt1) x
-http://mains.services:2086/507Vej3h3S/4632273/14945
+#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ ANIMAL PLANET FHD (01)
+http://mains.services:2086/507Vej3h3S/4632273/64154
+#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ ANIMAL PLANET FHD (02)
+http://mains.services:2086/live/507Vej3h3S/4632273/64154.ts
+#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ ANIMAL PLANET FHD (03)
+http://mains.services:2086/live/507Vej3h3S/4632273/64154.m3u8
 
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ AMERICAN HEROES FHD (opt1)
 http://mains.services:2086/507Vej3h3S/4632273/64155
@@ -9260,20 +9275,14 @@ http://mains.services:2086/live/507Vej3h3S/4632273/64155.ts
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ AMERICAN HEROES FHD (opt1)
 http://mains.services:2086/live/507Vej3h3S/4632273/64155.m3u8
 
+
+#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ AMERICAN HEROES (opt1) x
+http://mains.services:2086/507Vej3h3S/4632273/14945
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ AMERICAN HEROES (opt1) x
 http://mains.services:2086/live/507Vej3h3S/4632273/95487.m3u8
-
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ ANIMAL PLANET (opt1) x
 http://mains.services:2086/507Vej3h3S/4632273/262
-
-#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ ANIMAL PLANET FHD (01)
-http://mains.services:2086/507Vej3h3S/4632273/64154
-#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ ANIMAL PLANET FHD (02)
-http://mains.services:2086/live/507Vej3h3S/4632273/64154.ts
-#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ ANIMAL PLANET FHD (03)
-http://mains.services:2086/live/507Vej3h3S/4632273/64154.m3u8
-
-#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ ANIMAL PLANET (opt1)
+#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ ANIMAL PLANET (opt1) x
 http://mains.services:2086/507Vej3h3S/4632273/95487
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET UK (opt1) 
@@ -9282,8 +9291,6 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.plan
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.uk.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET UK (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.uk.m3u8
-
-
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET RS (opt1) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.rs.m3u8
@@ -9305,6 +9312,15 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.plan
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.de.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ ANIMAL PLANET DE (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/animal.planet.de.m3u8
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lz Discovery ANIMAL PLANET | ˢᵈ480ᴾ (01)
+http://181.224.255.210:8001/play/a0lz/index.m3u8?hls
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lz Discovery ANIMAL PLANET | ˢᵈ480ᴾ (02)
+http://181.224.255.210:8001/play/a0lz/index.m3u
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lz Discovery ANIMAL PLANET | ˢᵈ480ᴾ (03)
+http://181.224.255.210:8001/play/a0lz/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lz Discovery ANIMAL PLANET | ˢᵈ480ᴾ (04)
+http://181.224.255.210:8001/play/a0lz/index.m4s
 
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* ANIMAL PLANET *LQ 
@@ -9444,6 +9460,15 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://funroads.tv/wp-content/uploads/fun-roads-header-horizontal-1.png" group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸFun Roads TV | Lifestyle
 http://104.143.4.5:2080/funroads.m3u8
 
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTastemade en Espanol | Cooking | 1080ᴾ [Geo-blocked]
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTastemade en Espanol | Cooking | 1080ᴾ [Geo-blocked]
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTastemade Travel | Cooking [Geo-blocked]
+https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTastemade Travel | Cooking [Geo-blocked]
+https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
 
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ FOOD NETWORK FHD (opt1)
 http://mains.services:2086/640939802963/IDC01478!/64114
@@ -9464,6 +9489,30 @@ http://mains.services:2086/live/507Vej3h3S/4632273/64134.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ Cooking Channel USA (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/64134
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸”,🇪🇸☆ GOURMET FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/92594
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸”,🇪🇸☆ GOURMET FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/92594
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸”,🇪🇸☆ GOURMET FHD (opt3)
+http://mains.services:2086/3003556325/2772007/92594
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0om FOOD NETWORK | ˢᵈ480ᴾ (01)
+http://181.224.255.210:8001/play/a0om/index.m3u8?hls
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0om FOOD NETWORK | ˢᵈ480ᴾ (02)
+http://181.224.255.210:8001/play/a0om/index.m3u
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0om FOOD NETWORK | ˢᵈ480ᴾ (03)
+http://181.224.255.210:8001/play/a0om/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0om FOOD NETWORK | ˢᵈ480ᴾ (04)
+http://181.224.255.210:8001/play/a0om/index.m4s
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0ex GOURMET | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0ex/index.m3u8?hls
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0ex GOURMET | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0ex/index.m3u
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0ex GOURMET | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0ex/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0ex GOURMET | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0ex/index.m4s
 
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* FOOD NETWORK *LQ
@@ -9529,6 +9578,17 @@ http://tvusa.ddns.net:25461/goulart.gus@gmail.com/8dba4cc30af060ed6c432cfb87c573
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lz Discovery ANIMAL PLANET | ˢᵈ480ᴾ (01)
+http://181.224.255.210:8001/play/a0lz/index.m3u8?hls
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lz Discovery ANIMAL PLANET | ˢᵈ480ᴾ (02)
+http://181.224.255.210:8001/play/a0lz/index.m3u
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lz Discovery ANIMAL PLANET | ˢᵈ480ᴾ (03)
+http://181.224.255.210:8001/play/a0lz/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lz Discovery ANIMAL PLANET | ˢᵈ480ᴾ (04)
+http://181.224.255.210:8001/play/a0lz/index.m4s
+
+
+
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ DISCOVERY CHANNEL FHD (opt1)
 http://mains.best:2086/3003556325/2772007/64162
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ DISCOVERY CHANNEL FHD (opt2)
@@ -9536,6 +9596,19 @@ http://mains.services:2086/640939802963/IDC01478!/64162
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ DISCOVERY CHANNEL FHD (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/64162
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY CHANNEL EN ESPANOL (opt1) 
+http://mains.services:2086/3003556325/2772007/66567
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY CHANNEL EN ESPANOL (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66567
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY CHANNEL EN ESPANOL (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66567 
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY CHANNEL EN ESPANOL | 720ᴾ (opt1) 
+http://mains.best:2086/3003556325/2772007/92605
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY CHANNEL EN ESPANOL | 720ᴾ (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/92605
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY CHANNEL EN ESPANOL | 720ᴾ (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/92605
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt1) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.es.m3u8
@@ -9543,42 +9616,58 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.e
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.es.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY Channel ES (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.es.m3u8
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY CHANNEL LAT MX (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.mx.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY CHANNEL LAT MX (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.mx.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY CHANNEL LAT MX (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.mx.m3u8
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY CHANNEL CO (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.co.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY CHANNEL CO (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.co.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY CHANNEL CO (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.co.m3u8
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL UK (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.uk.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL UK (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.uk.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL UK (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.uk.m3u8
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL RS (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.rs.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL RS (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.rs.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL RS (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.rs.m3u8
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL RU (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.ru.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL RU (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.ru.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL RU (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.ru.m3u8
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL DE (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.de.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL DE (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.de.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY CHANNEL DE (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.channel.de.m3u8
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0m0 DISCOVERY CHANNEL | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0m0/index.m3u8?hls
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0m0 DISCOVERY CHANNEL | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0m0/index.m3u
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0m0 DISCOVERY CHANNEL | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0m0/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0m0 DISCOVERY CHANNEL | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0m0/index.m4s
+
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY CHANNEL *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29527.ts
@@ -9611,6 +9700,15 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.w
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY WORLD BR (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.world.br.m3u8
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lt Discovery WORLD | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0lt/index.m3u8?hls
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lt Discovery WORLD | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0lt/index.m3u
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lt Discovery WORLD | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0lt/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0lt Discovery WORLD | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0lt/index.m4s
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY WORLD *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29550.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY WORLD *FHD
@@ -9630,6 +9728,12 @@ http://mains.services:2086/640939802963/IDC01478!/64132
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ DISCOVERY FAMILY FHD (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/64132
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY FAMILIA (opt1) 
+http://mains.services:2086/3003556325/2772007/66566
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY FAMILIA (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/66566
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY FAMILIA (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/66566 
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY FAMILIA US (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.familia.us.m3u8
@@ -9655,22 +9759,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67378.ts
 
 
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① DISCOVERY-KIDS (01)
-http://190.93.224.42/DISCOVERY-KIDS/index.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① DISCOVERY-KIDS (02)
-http://190.93.224.42/DISCOVERY-KIDS/index.mpd
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY KIDS MX (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.kids.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY KIDS MX (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.kids.mx.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY KIDS MX (opt3)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.kids.mx.m3u8
-
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY KIDS *HD | DUAL-AUDIO
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29549.ts
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY KIDS *LQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29622.ts
 
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY HISTORY UK (opt1)
@@ -9680,15 +9768,21 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.h
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY HISTORY UK (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.history.uk.m3u8
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY H&H | 360ᴾ (opt1) 
+http://mains.best:2086/3003556325/2772007/92603
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY H&H | 360ᴾ (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/92603
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY H&H | 360ᴾ (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/92603
 
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ Discovery Life Channel US (opt01)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.life.channel.us.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ Discovery Life Channel US (opt02)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.life.channel.us.m3u8
-#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ Discovery Life Channel US (opt03)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.life.channel.us.m3u8
-
-
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0st Discovery H&H | ˢᵈ480ᴾ (01)
+http://181.224.255.210:8001/play/a0st/index.m3u8?hls
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0st Discovery H&H | ˢᵈ480ᴾ (02)
+http://181.224.255.210:8001/play/a0st/index.m3u
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0st Discovery H&H | ˢᵈ480ᴾ (03)
+http://181.224.255.210:8001/play/a0st/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0st Discovery H&H | ˢᵈ480ᴾ (04)
+http://181.224.255.210:8001/play/a0st/index.m4s
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY H&H *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29528.ts
@@ -9726,6 +9820,49 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100218.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY ID MX *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100219.ts
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (01)
+http://190.93.224.42/DISCOVERY-KIDS/index.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (02)
+http://190.93.224.42/DISCOVERY-KIDS/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (03)
+http://190.93.224.42/DISCOVERY-KIDS/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸① DISCOVERY-KIDS | 1080ᴾ (04)
+http://190.93.224.42/DISCOVERY-KIDS/mono.ts
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY KIDS FHD (opt1) 
+http://mains.best:2086/3003556325/2772007/92602
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY KIDS FHD (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/92602
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY KIDS FHD (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/92602
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY KIDS MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.kids.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY KIDS MX (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.kids.mx.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY KIDS MX (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.kids.mx.m3u8
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0pv Discovery KIDS | ˢᵈ480ᴾ (01)
+http://181.224.255.210:8001/play/a0pv/index.m3u8?hls
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0pv Discovery KIDS | ˢᵈ480ᴾ (02)
+http://181.224.255.210:8001/play/a0pv/index.m3u
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0pv Discovery KIDS | ˢᵈ480ᴾ (03)
+http://181.224.255.210:8001/play/a0pv/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0pv Discovery KIDS | ˢᵈ480ᴾ (04)
+http://181.224.255.210:8001/play/a0pv/index.m4s
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY KIDS *HD | DUAL-AUDIO
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29549.ts
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY KIDS *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29622.ts
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ Discovery Life Channel US (opt01)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.life.channel.us.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ Discovery Life Channel US (opt02)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.life.channel.us.m3u8
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ Discovery Life Channel US (opt03)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.life.channel.us.m3u8
 
 
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ DISCOVERY SCIENCE FHD (opt1)
@@ -9734,6 +9871,13 @@ http://mains.best:2086/3003556325/2772007/64044
 http://mains.services:2086/640939802963/IDC01478!/64044
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ DISCOVERY SCIENCE FHD (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/64044
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY SCIENCE | 720ᴾ (opt1) 
+http://mains.best:2086/3003556325/2772007/92601
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY SCIENCE | 720ᴾ (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/92601
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY SCIENCE | 720ᴾ (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/92601
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY SCIENCE UK (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.science.uk.m3u8
@@ -9749,6 +9893,15 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.s
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ DISCOVERY SCIENCE CO (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.science.co.m3u8
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0mo Discovery SCIENCE | ˢᵈ480ᴾ (01)
+http://181.224.255.210:8001/play/a0mo/index.m3u8?hls
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0mo Discovery SCIENCE | ˢᵈ480ᴾ (02)
+http://181.224.255.210:8001/play/a0mo/index.m3u
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0mo Discovery SCIENCE | ˢᵈ480ᴾ (03)
+http://181.224.255.210:8001/play/a0mo/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0mo Discovery SCIENCE | ˢᵈ480ᴾ (04)
+http://181.224.255.210:8001/play/a0mo/index.m4s
+
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY SCIENCE *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29623.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY SCIENCE *FHD
@@ -9758,6 +9911,22 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1013.ts
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY SCIENCE *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1000.ts
 
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY THEATER | 720ᴾ (opt1) 
+http://mains.best:2086/3003556325/2772007/92600
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY THEATER | 720ᴾ (opt2) 
+http://mains.services:2086/507Vej3h3S/4632273/92600
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸☆ DISCOVERY THEATER | 720ᴾ (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/92600
+
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0fc Discovery THEATER | 1080ᴾ (01)
+http://181.224.255.210:8001/play/a0fc/index.m3u8?hls
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0fc Discovery THEATER | 1080ᴾ (02)
+http://181.224.255.210:8001/play/a0fc/index.m3u
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0fc Discovery THEATER | 1080ᴾ (03)
+http://181.224.255.210:8001/play/a0fc/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0fc Discovery THEATER | 1080ᴾ (04)
+http://181.224.255.210:8001/play/a0fc/index.m4s
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY THEATER *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29645.ts
@@ -9785,6 +9954,15 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.t
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg//discovery.turbo.co.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸⚽ DISCOVERY TURBO CO (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.turbo.co.m3u8
+
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0q2 DISCOVERY TURBO | ˢᵈ480ᴾ (01)
+http://181.224.255.210:8001/play/a0q2/index.m3u8?hls
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0q2 DISCOVERY TURBO | ˢᵈ480ᴾ (02)
+http://181.224.255.210:8001/play/a0q2/index.m3u
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0q2 DISCOVERY TURBO | ˢᵈ480ᴾ (03)
+http://181.224.255.210:8001/play/a0q2/index.mpd
+#EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸a0q2 DISCOVERY TURBO | ˢᵈ480ᴾ (04)
+http://181.224.255.210:8001/play/a0q2/index.m4s
 
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇪🇸* DISCOVERY TURBO *HD | DUAL-AUDIO
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29545.ts
@@ -9815,9 +9993,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/destination
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/destination.america.us.m3u8
 #EXTINF:-1 group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸⚽ Destination America US (opt03)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/destination.america.us.m3u8
-#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ DESTINATION AMERICA FHD (opt1)
-http://mains.best:2086/3003556325/2772007/64164
 
+#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ DESTINATION AMERICA FHD (opt1)
+http://mains.best:2086/3003556325/2772007/64164
+#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ DESTINATION AMERICA FHD (opt2)
+http://mains.best:2086/640939802963/IDC01478!/64164
+#EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸☆ DESTINATION AMERICA FHD (opt3)
+http://mains.best:2086/507Vej3h3S/4632273/64164
 
 #EXTINF:-1,group-title="🇺🇸🐘DOCUMENTARY🦒🇪🇸",🇺🇸 ☆ DOG TV (opt1)
 http://mains.best:2086/3003556325/2772007/480
