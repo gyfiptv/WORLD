@@ -2746,9 +2746,9 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cine.sony.u
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ SONY CINE US (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cine.sony.us.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ SONY MOVIES US (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ SONY MOVIES | CHANNEL US (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sony.movies.us.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ SONY MOVIES US (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇺🇸⚽ SONY MOVIES | CHANNEL US (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sony.movies.us.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ SPACE AR (opt1)
@@ -3783,6 +3783,70 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/euronews.uk
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ EURONEWS UK (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/euronews.uk.m3u8
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.us.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN 2 US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn2.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn2.us.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN NEWS US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.news.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN NEWS US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.news.us.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN U US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.u.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN U US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.u.us.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ SEC NETWORK ESPN US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sec.network.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ SEC NETWORK ESPN US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sec.network.us.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN DEPORTES US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.deportes.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN DEPORTES US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.deportes.us.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ACC NETWORK US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/acc.network.us.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN DEPORTES US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/acc.network.us.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.mx.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN MX (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.mx.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN 2 MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.2.mx.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN 2 MX (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.2.mx.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN 3 MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.3.mx.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN 3 MX (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.3.mx.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN Plus MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.plus.mx.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN Plus MX (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.plus.mx.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN CO (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.co.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ ESPN CO (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/espn.co.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸFrance 24 English | 1080ᴾ
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸☑ ᶜᴬᴺᴬᴸFrance 24 English | 1080ᴾ
@@ -4488,9 +4552,9 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.uk.m3u
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ SYFY UK (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.uk.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ SONY MOVIES US (opt1)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ SONY MOVIES | CHANNEL US (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sony.movies.us.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ SONY MOVIES US (opt2)
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ SONY MOVIES | CHANNEL US (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sony.movies.us.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇪🇸⚽ SONY CINE US (opt1)
