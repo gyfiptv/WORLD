@@ -7501,54 +7501,54 @@ http://41.205.93.154/BOOMERANG/playlist.mpd
 
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² ESPN
-http://41.205.93.154/ESPN/index.m3u8 x
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² ESPNU
 http://41.205.93.154/ESPNU/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² ESPNNEWS 
-http://41.205.93.154/ESPNNEWS/index.m3u8 x
+http://41.205.93.154/ESPNNEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² TBS |E!
-http://41.205.93.154/TBS/index.m3u8 x
+http://41.205.93.154/TBS/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² A&E | AandE
-http://41.205.93.154/AandE/index.m3u8 x
+http://41.205.93.154/AandE/index.m3u8 
 #EXTINF:-1 tvg-id="WOLODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² ABC 7 KABC LA
-http://41.205.93.154/ABC/index.m3u8 x
+http://41.205.93.154/ABC/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² ANIMALPLANET
-http://41.205.93.154/ANIMALPLANET/index.m3u8 x
+http://41.205.93.154/ANIMALPLANET/index.m3u8 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² BRAVO
-http://41.205.93.154/BRAVO/index.m3u8 x
+http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1,group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL SD
-http://41.205.93.154/DISCOVERY/index.m3u8 x
+http://41.205.93.154/DISCOVERY/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² FOX Business PRIME
-http://41.205.93.154/FOXBUSINESS/index.m3u8 x
+http://41.205.93.154/FOXBUSINESS/index.m3u8 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² LMN | LIFETIME MOVIE NETWORK
-http://41.205.93.154/LMN/index.m3u8 x
+http://41.205.93.154/LMN/index.m3u8 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² SYFY | USA
-http://41.205.93.154/SYFY/index.m3u8 x
+http://41.205.93.154/SYFY/index.m3u8
 
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² AXN x
-http://41.205.93.154/AXN/index.m3u8 x
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² AXN 
+http://41.205.93.154/AXN/index.m3u8 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² AMC
-http://41.205.93.154/AMC/index.m3u8 x
+http://41.205.93.154/AMC/index.m3u8 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² BET FR
-http://41.205.93.154/BET/index.m3u8 x
+http://41.205.93.154/BET/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² BOOMERANG
 http://41.205.93.154/BOOMERANG/index.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² CNBC WORLD
-http://41.205.93.154/CNBC/index.m3u8 x
+http://41.205.93.154/CNBC/index.m3u8 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² CINEMAX
-http://41.205.93.154/CINEMAX/index.m3u8 x
+http://41.205.93.154/CINEMAX/index.m3u8 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² COOKING Channel
-http://41.205.93.154/COOKING/index.m3u8 x
+http://41.205.93.154/COOKING/index.m3u8 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² FOOD Network
-http://41.205.93.154/FOOD/index.m3u8 x
+http://41.205.93.154/FOOD/index.m3u8 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² FUSE TV
-http://41.205.93.154/FUSE/index.m3u8 x
+http://41.205.93.154/FUSE/index.m3u8 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² GET TV Sony
-http://41.205.93.154/GET/index.m3u8 x
+http://41.205.93.154/GET/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² GSN | Game Show Network
 http://41.205.93.154/GSN/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² HBO
