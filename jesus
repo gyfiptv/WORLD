@@ -7469,7 +7469,7 @@ https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸREV’N TV7 480p
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸRRETRO TV8 480p
+#EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸRETRO TV8 480p
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᵒ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTV9 480p
@@ -7622,9 +7622,9 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  15.204. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery World | Latin America Brazil 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery World | LAT Brazil 1080ᴾ
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery Kids | Latin America Brazil 720ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery Kids | LAT Brazil 720ᴾ
 http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 
 
@@ -7633,7 +7633,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  15.204. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² DISCOVERY_CHANNEL | Latin America Brazil 720ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² DISCOVERY_CHANNEL | LAT Brazil 720ᴾ
 http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
 
 
@@ -7645,42 +7645,42 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸5 A&E | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸5 A&E | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸6 A&E | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸6 A&E | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸7 ABC PY | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸7 ABC PY | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸8 [ADULT SWIM] | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸8 [ADULT SWIM] | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/8.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸9 EURO NEWS. | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸9 EURO NEWS. | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/9.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸10 AXN | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸10 AXN | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸11 BABY TV | Latin America South 540ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸11 BABY TV | LAT South 540ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/11.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸12 CANAL 26 PY | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸12 CANAL 26 PY | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸13 TV CAMARA PY | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸13 TV CAMARA PY | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸14 CINE FAMILIAR | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸14 CINE FAMILIAR | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/14.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸15 CINE HISPANO | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸15 CINE HISPANO | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/15.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸16 CINE PREMIUM | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸16 CINE PREMIUM | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/16.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸17 CINE CANAL | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸17 CINE CANAL | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸18 CNN EN | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸18 CNN EN | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/18.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸19 DHE | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸19 DHE | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/19.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸20 DISCOVERY CHANNEL | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸20 DISCOVERY CHANNEL | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸21 DISCOVERY THEATER | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸21 DISCOVERY THEATER | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸39 DISCOVERY HOME & HEALTH | Latin America South 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸39 DISCOVERY HOME & HEALTH | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 
 
@@ -7691,75 +7691,75 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 BABY TV | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 BABY TV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a003/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 ZOO MOO | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 ZOO MOO | LAT 480ᴾ
 http://45.171.64.30:6060/play/a004/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 AMC SERIES | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 AMC SERIES | LAT 480ᴾ
 http://45.171.64.30:6060/play/a005/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 HGTV | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 HGTV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a006/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 DISCOVERY SCIENCE | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 DISCOVERY SCIENCE | LAT 480ᴾ
 http://45.171.64.30:6060/play/a007/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 HOLA! TV | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 HOLA! TV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a008/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 CLARO MUSICA | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 CLARO MUSICA | LAT 480ᴾ
 http://45.171.64.30:6060/play/a010/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 H TV | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 H TV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a012/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a013 GOLDEN | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a013 GOLDEN | LAT 480ᴾ
 http://45.171.64.30:6060/play/a013/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a014 TCM | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a014 TCM | LAT 480ᴾ
 http://45.171.64.30:6060/play/a014/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a021 CNN ESPANOL | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a021 CNN ESPANOL | LAT 480ᴾ
 http://45.171.64.30:6060/play/a021/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a022 BBC NEWS | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a022 BBC NEWS | LAT 480ᴾ
 http://45.171.64.30:6060/play/a022/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a023 FRANCE 24 | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a023 FRANCE 24 | LAT 480ᴾ
 http://45.171.64.30:6060/play/a023/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a024 ENLACE | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a024 ENLACE | LAT 480ᴾ
 http://45.171.64.30:6060/play/a024/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a025 EWTN | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a025 EWTN | LAT 480ᴾ
 http://45.171.64.30:6060/play/a025/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a026 HISTORY CHANNEL | LATIN AMERICA 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a026 HISTORY CHANNEL | LAT 1080ᴾ
 http://45.171.64.30:6060/play/a026/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a032 DISCOVERY CHANNEL | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a032 DISCOVERY CHANNEL | LAT 480ᴾ
 http://45.171.64.30:6060/play/a032/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a033 DISCOVERY ANIMAL PLANET | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a033 DISCOVERY ANIMAL PLANET | LAT 480ᴾ
 http://45.171.64.30:6060/play/a033/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a034 HISTORY CHANNEL | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a034 HISTORY CHANNEL | LAT 480ᴾ
 http://45.171.64.30:6060/play/a034/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a035 TLC | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a035 TLC | LAT 480ᴾ
 http://45.171.64.30:6060/play/a035/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a036 ESPN | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a036 ESPN | LAT 480ᴾ
 http://45.171.64.30:6060/play/a036/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a037 ESPN 2 | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a037 ESPN 2 | LAT 480ᴾ
 http://45.171.64.30:6060/play/a037/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a038 EXA TV | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a038 EXA TV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a038/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a039 CLARO CINEMA | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a039 CLARO CINEMA | LAT 480ᴾ
 http://45.171.64.30:6060/play/a039/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a040 DISCOVERY H&H | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a040 DISCOVERY H&H | LAT 480ᴾ
 http://45.171.64.30:6060/play/a040/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a041 DISCOVERY ID | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a041 DISCOVERY ID | LAT 480ᴾ
 http://45.171.64.30:6060/play/a041/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a042 LVM | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a042 LVM | LAT 480ᴾ
 http://45.171.64.30:6060/play/a042/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a045 CONCERT CHANNEL | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a045 CONCERT CHANNEL | LAT 480ᴾ
 http://45.171.64.30:6060/play/a045/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a046 UNIVERSAL TV | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a046 UNIVERSAL TV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a046/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a048 MULTIPREMIER MP | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a048 MULTIPREMIER MP | LAT 480ᴾ
 http://45.171.64.30:6060/play/a048/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a049 CINE LATINO | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a049 CINE LATINO | LAT 480ᴾ
 http://45.171.64.30:6060/play/a049/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a051 AMC | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a051 AMC | LAT 480ᴾ
 http://45.171.64.30:6060/play/a051/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a054 CNN EN | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a054 CNN EN | LAT 480ᴾ
 http://45.171.64.30:6060/play/a054/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a060 CANAL 7 TELEVISIETE GT | LATIN AMERICA 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a060 CANAL 7 TELEVISIETE GT | LAT 480ᴾ
 http://45.171.64.30:6060/play/a060/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 RADIO RENACER | LATIN AMERICA 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 RADIO RENACER | LAT 1080ᴾ
 http://45.171.64.30:6060/play/a066/index.m3u8
 
 
@@ -7769,33 +7769,33 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY KIDS | LATIN AMERICA Mexico 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY KIDS | LAT Mexico 480ᴾ
 http://38.65.175.84:8000/play/a0an/index.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cc UNO TV | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cc UNO TV | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cc/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cf WB TV | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cf WB TV | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cf/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cg SPACE | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cg SPACE | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cg/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY ID | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY ID | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0ch/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ci LIFETIME | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ci LIFETIME | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0ci/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cm CLARO SPORTS | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cm CLARO SPORTS | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0co MC MULTICINEMA | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0co MC MULTICINEMA | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0co/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cp MP MULTIPREMIER | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cp MP MULTIPREMIER | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cp/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cq CINECANAL | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cq CINECANAL | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ct HBO 2 | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ct HBO 2 | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0ct/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cu HBO | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cu HBO | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cu/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cv HBO+ | LATIN AMERICA South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cv HBO+ | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cv/index.m3u8
 
 
@@ -7809,37 +7809,33 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a001 USA NETWORK | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a001 USA NETWORK | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a002 CARTOONITO | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a002 CARTOONITO | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 DISCOVERY KIDS | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 DISCOVERY KIDS | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 NICKELODEON | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 NICKELODEON | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 STUDIO UNIVERSAL | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 STUDIO UNIVERSAL | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 UNIVERSAL TV | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 UNIVERSAL TV | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 SPACE | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 SPACE | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 STAR CHANNEL | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 STAR CHANNEL | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 TNT | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 TNT | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 CARACOL | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 CARACOL | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a011 SENAL COLOMBIA | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a011 SENAL COLOMBIA | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 TELEANTIOQUIA TA | Latin America Colombia 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 TELEANTIOQUIA TA | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a012/index.m3u8
 
 
-
-
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01y DISCOVERY TURBO | Latin America 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01y DISCOVERY TURBO | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01y/index.m3u8
 
 
@@ -7851,7 +7847,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.224. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j Discovery Kids | Latin America Chile 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j Discovery Kids | LAT Chile 1080ᴾ
 http://38.224.231.176:8000/play/a01j/index.m3u8
 
 
@@ -7862,7 +7858,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.224. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j Discovery Kids | Latin America Mexico 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j Discovery Kids | LAT Mexico 1080ᴾ
 http://38.65.175.84:8000/play/a0an/index.m3u8
 
 
@@ -7873,11 +7869,11 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bj DISCOVERY THEATER | Latin America 1080p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bj DISCOVERY THEATER | LAT 1080p
 http://181.224.200.5:2277/play/a0bj/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00o DISCOVERY KIDS | Latin America 1080p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00o DISCOVERY KIDS | LAT 1080p
 http://181.224.200.5:2277/play/a00o/index.m3u8
 
 
@@ -7962,6 +7958,15 @@ http://stream.mcquack.net/244/index.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO (Italy) | 720ᴾ
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
