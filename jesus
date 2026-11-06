@@ -7680,6 +7680,8 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸21 DISCOVERY THEATER | Latin America South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
 
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸39 DISCOVERY HOME & HEALTH | Latin America South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
@@ -7766,8 +7768,11 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.65. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY ID | LATIN AMERICA South 480ᴾ
-http://38.65.175.84:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY KIDS | LATIN AMERICA Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0an/index.m3u8
+
+
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cc UNO TV | LATIN AMERICA South 480ᴾ
 http://38.65.175.84:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cf WB TV | LATIN AMERICA South 480ᴾ
@@ -7801,6 +7806,38 @@ http://38.65.175.84:8000/play/a0cv/index.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.134. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a001 USA NETWORK | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a002 CARTOONITO | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 DISCOVERY KIDS | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 NICKELODEON | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 STUDIO UNIVERSAL | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 UNIVERSAL TV | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 SPACE | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 STAR CHANNEL | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 TNT | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 CARACOL | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a011 SENAL COLOMBIA | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 TELEANTIOQUIA TA | Latin America Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a012/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01y DISCOVERY TURBO | Latin America 1080ᴾ
 http://38.134.250.110:8000/play/a01y/index.m3u8
@@ -7881,16 +7918,6 @@ http://88.212.7.14/live/discovery_hungary/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Italy) | 720ᴾ
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO (Italy) | 720ᴾ
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO (Italy) | 480ᴾ
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (India) | 720ᴾ
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (India) | 480ᴾ
@@ -7901,36 +7928,40 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY KIDS | 480ᴾ
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
-
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY ID (India) | 720ᴾ
 https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² KTK TV KZ (Russia) | 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸26 KTK TV KZ (Russia) | 1080ᴾ
 http://stream.mcquack.net/26/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² TV7 KZ Kazajistan (Russia) | 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸27 TV7 KZ Kazajistan (Russia) | 1080ᴾ
 http://stream.mcquack.net/27/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² ASTANA TV KZ (Russia) | 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸28 ASTANA TV KZ (Russia) | 1080ᴾ
 http://stream.mcquack.net/28/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² LTV 1 LATVIJAS TV (Russia) | 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸34 LTV 1 LATVIJAS TV (Russia) | 1080ᴾ
 http://stream.mcquack.net/34/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² Hop! History of Hop! Channel | Israeli Children's | 720ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸44 Hop! History of Hop! Channel | Israeli Children's | 720ᴾ
 http://stream.mcquack.net/44/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² OREOL TV COMEDY (Russia) | 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸74 OREOL TV COMEDY (Russia) | 1080ᴾ
 http://stream.mcquack.net/74/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY (Russia) | 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸177 Discovery Channel (Russia) | 1080ᴾ
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸205 INVESTIGATION DISCOVERY (Russia) | 1080ᴾ
 http://stream.mcquack.net/205/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² TRAVEL + ADVENTURE (Russia) | 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸206 TRAVEL + ADVENTURE (Russia) | 1080ᴾ
 http://stream.mcquack.net/206/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² HCT (Russia) | 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸207 HCT (Russia) | 1080ᴾ
 http://stream.mcquack.net/207/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² Russian Bestseller (Russia) | 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸208 Russian Bestseller (Russia) | 1080ᴾ
 http://stream.mcquack.net/208/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² ATR TV Tartaros de Crimea (Russia) | 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸244 ATR TV Tartaros de Crimea (Russia) | 1080ᴾ
 http://stream.mcquack.net/244/index.m3u8
 
-
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Italy) | 720ᴾ
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO (Italy) | 720ᴾ
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
 
 
