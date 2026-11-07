@@ -7622,10 +7622,10 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  15.204. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery World | LAT Brazil 1080ᴾ
-http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery Kids | LAT Brazil 720ᴾ
-http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² DISCOVERY_CHANNEL | LAT Brazil 720ᴾ
+http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
@@ -7633,8 +7633,11 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  15.204. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² DISCOVERY_CHANNEL | LAT Brazil 720ᴾ
-http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery World | LAT 1080ᴾ
+http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery Kids | LAT 1080ᴾ
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+
 
 
 
@@ -7684,6 +7687,82 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.134. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a001 USA NETWORK | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a002 CARTOONITO | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 DISCOVERY KIDS | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 NICKELODEON | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 STUDIO UNIVERSAL | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 UNIVERSAL TV | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 SPACE | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 STAR CHANNEL | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 TNT | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 CARACOL | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a011 SENAL COLOMBIA | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 TELEANTIOQUIA TA | LAT Colombia 1080ᴾ
+http://38.134.250.110:8000/play/a012/index.m3u8
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01y DISCOVERY TURBO | LAT 1080ᴾ
+http://38.134.250.110:8000/play/a01y/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.224. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j Discovery Kids | LAT Chile 1080ᴾ
+http://38.224.231.176:8000/play/a01j/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  45.171. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0e9 CARACOL INTERNACIONAL | LAT 480ᴾ
+http://45.5.117.57:8200/play/a0e9/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  45.171. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
@@ -7717,9 +7796,9 @@ http://45.171.64.30:6060/play/a021/index.m3u8
 http://45.171.64.30:6060/play/a022/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a023 FRANCE 24 | LAT 480ᴾ
 http://45.171.64.30:6060/play/a023/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a024 ENLACE | LAT 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a024 ✝ENLACE | LAT 480ᴾ
 http://45.171.64.30:6060/play/a024/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a025 EWTN | LAT 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a025 ✝EWTN | LAT 480ᴾ
 http://45.171.64.30:6060/play/a025/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a026 HISTORY CHANNEL | LAT 1080ᴾ
 http://45.171.64.30:6060/play/a026/index.m3u8
@@ -7743,7 +7822,7 @@ http://45.171.64.30:6060/play/a039/index.m3u8
 http://45.171.64.30:6060/play/a040/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a041 DISCOVERY ID | LAT 480ᴾ
 http://45.171.64.30:6060/play/a041/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a042 LVM | LAT 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a042 ✝LVM | LAT 480ᴾ
 http://45.171.64.30:6060/play/a042/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a045 CONCERT CHANNEL | LAT 480ᴾ
 http://45.171.64.30:6060/play/a045/index.m3u8
@@ -7759,13 +7838,204 @@ http://45.171.64.30:6060/play/a051/index.m3u8
 http://45.171.64.30:6060/play/a054/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a060 CANAL 7 TELEVISIETE GT | LAT 480ᴾ
 http://45.171.64.30:6060/play/a060/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 RADIO RENACER | LAT 1080ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 ✝RADIO RENACER | LAT 1080ᴾ
 http://45.171.64.30:6060/play/a066/index.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.65. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  181.78. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00c LA KALLE | LAT 480p
+http://181.78.14.26:4000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fww94I9.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00d CARACOL HD2 CO | LAT 480p
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00j ENTERTAINMENT! E! | LAT 480p
+http://181.78.14.26:4000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00w DISCOVERY KIDS | LAT 480p
+http://181.78.14.26:4000/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01c TNT SERIES | LAT 480p
+http://181.78.14.26:4000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01d SPACE | LAT 480p
+http://181.78.14.26:4000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01f CARTOONITO | LAT 480p
+http://181.78.14.26:4000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01g VE PLUS VE | LAT 480p
+http://181.78.14.26:4000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j ✝BETHEL PE | LAT 480p
+http://181.78.14.26:4000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01k TNT | LAT 480p
+http://181.78.14.26:4000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01l ✝ABN | LAT 480p
+http://181.78.14.26:4000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01n ✝CRISTOVISION | LAT 480p
+http://181.78.14.26:4000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01o ✝ETV ENLACE TV | LAT 480p
+http://181.78.14.26:4000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01p ✝EJTV ENLACE JUVENIL | LAT 480p
+http://181.78.14.26:4000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01q CITY TV CO | LAT 480p
+http://181.78.14.26:4000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01v CANAL CONGRESO COL | LAT 480p
+http://181.78.14.26:4000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02l DISCOVERY ANIMAL PLANET | LAT 720p
+http://181.78.14.26:4000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02q ESPN | LAT 720p
+http://181.78.14.26:4000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02r CARACOL CO | LAT 1080p
+http://181.78.14.26:4000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02t RCN CO | LAT 1080p
+http://181.78.14.26:4000/play/a02t/index.m3u8u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02u DISCOVERY H&H | LAT 720p
+http://181.78.14.26:4000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02v FOOD NETWORK | LAT 720p
+http://181.78.14.26:4000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02w DISCOVERY SCIENCE | LAT 720p
+http://181.78.14.26:4000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02x TELEMUNDO INTERNACIONAL | LAT 1080p
+http://181.78.14.26:4000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02y TLC | LAT 720p
+http://181.78.14.26:4000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02z DISCOVERY TURBO | LAT 720p
+http://181.78.14.26:4000/play/a02z/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  181.224. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bj DISCOVERY THEATER | LAT 1080p
+http://181.224.200.5:2277/play/a0bj/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00o DISCOVERY KIDS | LAT 1080p
+http://181.224.200.5:2277/play/a00o/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  Worldᵀᵛ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY HUN | 1080ᴾ xx
+http://88.212.7.14/live/id_hun/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Hungary) | 720ᴾ xx
+http://88.212.7.14/live/discovery_hungary/index.m3u8
+
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY ID (Czech Republic) | 1080ᴾ
+http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Czech Republic) | 1080ᴾ
+http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foLICwL.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY ASIA TAIWAN | 1080ᴾ
+http://125.227.210.55:1004/VideoInput/play.ts
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (India) | 720ᴾ
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (India) | 480ᴾ
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY SCIENCE | 720ᴾ
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO (India) | 480ᴾ
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY KIDS | 480ᴾ
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY ID (India) | 720ᴾ
+https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
+
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸26 KTK TV KZ (Russia) | 576ᴾ
+http://stream.mcquack.net/26/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸27 TV7 KZ Kazajistan (Russia) | 576ᴾ
+http://stream.mcquack.net/27/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸28 ASTANA TV KZ (Russia) | 576ᴾ
+http://stream.mcquack.net/28/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸34 LTV 1 LATVIJAS TV (Russia) | 1080ᴾ
+http://stream.mcquack.net/34/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸44 Hop! History of Hop! Channel | Israeli Children's | 576ᴾ
+http://stream.mcquack.net/44/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸74 OREOL TV COMEDY (Russia) | 1080ᴾ
+http://stream.mcquack.net/74/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸177 Discovery Channel (Russia) | 1080ᴾ
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸205 INVESTIGATION DISCOVERY (Russia) | 1080ᴾ
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸206 TRAVEL + ADVENTURE (Russia) | 1080ᴾ
+http://stream.mcquack.net/206/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸207 HCT (Russia) | 576ᴾ
+http://stream.mcquack.net/207/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸208 Russian Bestseller (Russia) | 576ᴾ
+http://stream.mcquack.net/208/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸244 ATR TV Tartaros de Crimea (Russia) | 1080ᴾ
+http://stream.mcquack.net/244/index.m3u8
+
+
+
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Italy) | 720ᴾ xx
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO (Italy) | 720ᴾ xx
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  168.196.x 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00o DISCOVERY WORLD | 1080p
+http://168.196.127.137:6001/play/a097/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.65.x 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
@@ -7773,7 +8043,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://38.65.175.84:8000/play/a0an/index.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cc UNO TV | LAT South 480ᴾ
+#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cc AZTECA UNO TV | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cf WB TV | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cf/index.m3u8
@@ -7797,168 +8067,6 @@ http://38.65.175.84:8000/play/a0ct/index.m3u8
 http://38.65.175.84:8000/play/a0cu/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cv HBO+ | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cv/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.134. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a001 USA NETWORK | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a002 CARTOONITO | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 DISCOVERY KIDS | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 NICKELODEON | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 STUDIO UNIVERSAL | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 UNIVERSAL TV | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 SPACE | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 STAR CHANNEL | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 TNT | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 CARACOL | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a011 SENAL COLOMBIA | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 TELEANTIOQUIA TA | LAT Colombia 1080ᴾ
-http://38.134.250.110:8000/play/a012/index.m3u8
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01y DISCOVERY TURBO | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a01y/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.224. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j Discovery Kids | LAT Chile 1080ᴾ
-http://38.224.231.176:8000/play/a01j/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.224. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j Discovery Kids | LAT Mexico 1080ᴾ
-http://38.65.175.84:8000/play/a0an/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  181.224. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bj DISCOVERY THEATER | LAT 1080p
-http://181.224.200.5:2277/play/a0bj/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00o DISCOVERY KIDS | LAT 1080p
-http://181.224.200.5:2277/play/a00o/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  168.196. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00o DISCOVERY WORLD | 1080p
-http://168.196.127.137:6001/play/a097/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  Worldᵀᵛ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY HUN | 1080ᴾ
-http://88.212.7.14/live/id_hun/index.m3u8
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY ID (Czech Republic) | 1080ᴾ
-http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Czech Republic) | 1080ᴾ
-http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/foLICwL.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY ASIA TAIWAN | 1080ᴾ
-http://125.227.210.55:1004/VideoInput/play.ts
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Hungary) | 720ᴾ
-http://88.212.7.14/live/discovery_hungary/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (India) | 720ᴾ
-https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (India) | 480ᴾ
-https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY SCIENCE | 720ᴾ
-https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO (India) | 480ᴾ
-https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY KIDS | 480ᴾ
-https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY ID (India) | 720ᴾ
-https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
-
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸26 KTK TV KZ (Russia) | 1080ᴾ
-http://stream.mcquack.net/26/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸27 TV7 KZ Kazajistan (Russia) | 1080ᴾ
-http://stream.mcquack.net/27/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸28 ASTANA TV KZ (Russia) | 1080ᴾ
-http://stream.mcquack.net/28/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸34 LTV 1 LATVIJAS TV (Russia) | 1080ᴾ
-http://stream.mcquack.net/34/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸44 Hop! History of Hop! Channel | Israeli Children's | 720ᴾ
-http://stream.mcquack.net/44/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸74 OREOL TV COMEDY (Russia) | 1080ᴾ
-http://stream.mcquack.net/74/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸177 Discovery Channel (Russia) | 1080ᴾ
-http://stream.mcquack.net/177/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸205 INVESTIGATION DISCOVERY (Russia) | 1080ᴾ
-http://stream.mcquack.net/205/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸206 TRAVEL + ADVENTURE (Russia) | 1080ᴾ
-http://stream.mcquack.net/206/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸207 HCT (Russia) | 1080ᴾ
-http://stream.mcquack.net/207/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸208 Russian Bestseller (Russia) | 1080ᴾ
-http://stream.mcquack.net/208/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸244 ATR TV Tartaros de Crimea (Russia) | 1080ᴾ
-http://stream.mcquack.net/244/index.m3u8
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Italy) | 720ᴾ
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO (Italy) | 720ᴾ
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
-
 
 
 
