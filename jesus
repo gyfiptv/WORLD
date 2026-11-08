@@ -7526,7 +7526,9 @@ http://23.237.104.106:8080/USA_COOKING/index.m3u8
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id=“Food_Network.us" tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ FOOD_NETWORK_USA | 1080ᴾ
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Fuse.us@East" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ FUSE_USA | E! | 1080ᴾ
+#EXTINF:-1 tvg-id=“Food_Network.us" tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ FOX_DEPORTES_USA | 720ᴾ
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960pxFOX_Deportes_logo.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ FUSE_USA | E! | 1080ᴾ
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-id="Hbo_Family.us" tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸☑ HBO_FAMILY_USA | 1080ᴾ
 http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
@@ -7584,7 +7586,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO US | 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO US | 720ᴾ
 http://41.205.93.154/ESPNNEWS/index.m3u8
 
 
@@ -7596,21 +7598,21 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² CARTOON NETWORK US | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² CARTOON NETWORK US | 1080ᴾ
 http://212.5.144.156:8080/cartoon/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² ESPN US | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² ESPN US | 1080ᴾ
 http://212.5.144.156:8080/espn/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_lo-go.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL US | 1080ᴾ
 http://212.5.144.156:8080/discovery/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² HISTORY US | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² HISTORY US | 1080ᴾ
 http://212.5.144.156:8080/history/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY US | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY US | 1080ᴾ
 http://212.5.144.156:8080/id/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² NAT GEO US | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² NAT GEO US | 1080ᴾ
 http://212.5.144.156:8080/natgeo/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² NICK JR US | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² NICK JR US | 1080ᴾ
 http://212.5.144.156:8080/nickjr/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² TNT US | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² TNT US | 1080ᴾ
 http://212.5.144.156:8080/tnt/index.m3u8
 
 
@@ -7618,62 +7620,89 @@ http://212.5.144.156:8080/tnt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  barinas 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN | LAT 1080ᴾ
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 2 | LAT 1080ᴾ
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 3 | LAT 1080ᴾ
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 4 | LAT 1080ᴾ
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 5 | LAT 1080ᴾ
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 6 | LAT 1080ᴾ
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 7 | LAT 1080ᴾ
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  ESPN 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN | LAT 1080ᴾ
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 2 | LAT 1080ᴾ
-https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 3 | LAT 1080ᴾ
-https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 4 | LAT 1080ᴾ
-https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 5 | LAT 1080ᴾ
-https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 6 | LAT 1080ᴾ
-https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 7 | LAT 1080ᴾ
-https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 FOX SPORTS NEWS | LAT 1080ᴾ
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN8: THE OCHO | LAT 432ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 ESPN8: THE OCHO | LAT 432ᴾ
 http://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN US | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 ESPN US | LAT 720ᴾ
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 2 US | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 ESPN 2 US | LAT 720ᴾ
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN U US | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 ESPN U US | LAT 720ᴾ
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 FOX SPORTS 1 US | LAT 720ᴾ
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 FOX SPORTS 2 US | LAT 720ᴾ
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN US | LAT 432ᴾ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg.png/960pxESPN_4_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 BeIN SPORTS US | LAT 432ᴾ
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 BeIN SPORTS XTRA US | LAT 240ᴾ
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 BeIN SPORTS XTRA en Espanol | LAT 1080ᴾ
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 ESPN US | LAT 432ᴾ
 http://tvsen7.aynascope.net/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 FOX SPORTS 2 US | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 FOX SPORTS 1 US | LAT 720ᴾ
+http://tvsen7.aynascope.net/foxsports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 FOX SPORTS 2 US | LAT 720ᴾ
 http://tvsen7.aynascope.net/foxsports2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 HBO US | LAT 432ᴾ
+http://tvsen7.aynascope.net/hbo/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 HBO 2 US | LAT 432ᴾ
+http://tvsen7.aynascope.net/hbo2/index.m3u8
 
 
-
-
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 ESPN 3 BR | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸 ESPN 3 BR | LAT 720ᴾ
 http://190.83.2.182:8090/ESPN3/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07n ESPN 4 BR | LAT 1080ᴾ
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07z ESPN BR | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07z ESPN BR | LAT 1080ᴾ
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ao ESPN PREMIUM | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ao ESPN PREMIUM | LAT 1080ᴾ
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 ESPN | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 ESPN | LAT 720ᴾ
 http://190.61.47.54:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 ESPN 2 CO | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 ESPN 2 CO | LAT 720ᴾ
 http://190.61.47.54:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 TV | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 TELECARIBE CO | LAT 720ᴾ
 http://190.61.47.54:8000/play/a010/index.m3u8
 
 
@@ -7684,6 +7713,11 @@ http://168.228.44.241:9998/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes-c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a06p ESPN MX | LAT 1080ᴾ
 http://168.228.44.241:9997/play/a06p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 CANAL RCN NOVELAS | LAT 1080ᴾ
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMX4QCM.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸 CANAL RCN NOTICIAS | LAT 1080ᴾ
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 
 
 
@@ -7700,15 +7734,10 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² CARTOONITO | LAT Brazil 720ᴾ
 http://45.162.64.114/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² CARTOON_NETWORK | LAT Brazil 720ᴾ
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² DISCOVERY_CHANNEL | LAT Brazil 720ᴾ
 http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
@@ -7737,43 +7766,43 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery Animal Planet | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery Animal Planet | LAT 1080ᴾ
 http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Cartoon Network | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Cartoon Network | LAT 1080ᴾ
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² CineCanal | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² CineCanal | LAT 1080ᴾ
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Comedy Central | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Comedy Central | LAT 1080ᴾ
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Disney Channel | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Disney Channel | LAT 1080ᴾ
 http://15.204.246.24:8080/DisneyHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery Kids | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery Kids | LAT 1080ᴾ
 http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery Theater | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery Theater | LAT 1080ᴾ
 http://15.204.246.24:8080/DiscoveryTheaterHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery World | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Discovery World | LAT 1080ᴾ
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² El Gourmet | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² El Gourmet | LAT 1080ᴾ
 http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² History | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² History | LAT 1080ᴾ
 http://15.204.246.24:8080/HistoryHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² National Geographic | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² National Geographic | LAT 1080ᴾ
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Pasiones | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Pasiones | LAT 1080ᴾ
 http://15.204.246.24:8080/PasionesHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Sony Channel | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Sony Channel | LAT 1080ᴾ
 http://15.204.246.24:8080/SonyHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Sony Movies | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Sony Movies | LAT 1080ᴾ
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Studio Universal | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Studio Universal | LAT 1080ᴾ
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Telefe AR | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Telefe AR | LAT 1080ᴾ
 http://15.204.246.24:8080/TelefeHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Univision | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Univision | LAT 1080ᴾ
 http://15.204.246.24:8080/UnivisionHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Universal TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Universal TV | LAT 1080ᴾ
 http://15.204.246.24:8080/UniversalHD/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Warner Channel | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸Ⓜ² Warner Channel | LAT 1080ᴾ
 http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
 
 
@@ -7783,46 +7812,46 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸5 A&E | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸5 A&E | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸6 A&E | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸6 A&E | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸7 ABC PY | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸7 ABC PY | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸8 [ADULT SWIM] | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸8 [ADULT SWIM] | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/8.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸9 EURO NEWS. | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸9 EURO NEWS. | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/9.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸10 AXN | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸10 AXN | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸11 BABY TV | LAT South 540ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸11 BABY TV | LAT South 540ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/11.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸12 CANAL 26 PY | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸12 CANAL 26 PY | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸13 TV CAMARA PY | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸13 TV CAMARA PY | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸14 CINE FAMILIAR | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" groupp-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸14 CINE FAMILIAR | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/14.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸15 CINE HISPANO | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸15 CINE HISPANO | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/15.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸16 CINE PREMIUM | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸16 CINE PREMIUM | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/16.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸17 CINE CANAL | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸17 CINE CANAL | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸18 CNN EN | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸18 CNN EN | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/18.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸19 DHE | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸19 DHE | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/19.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸20 DISCOVERY CHANNEL | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸20 DISCOVERY CHANNEL | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸21 DISCOVERY THEATER | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸21 DISCOVERY THEATER | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸39 DISCOVERY HOME & HEALTH | LAT South 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸39 DISCOVERY HOME & HEALTH | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960pxFOX_Sports_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸1552 FOX SPORTS | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 
 
 
@@ -7835,29 +7864,29 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a001 USA NETWORK | LAT Colombia 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a001 USA NETWORK | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a002 CARTOONITO | LAT Colombia 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a002 CARTOONITO | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 DISCOVERY KIDS | LAT Colombia 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 DISCOVERY KIDS | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 NICKELODEON | LAT Colombia 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 NICKELODEON | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 STUDIO UNIVERSAL | LAT Colombia 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 STUDIO UNIVERSAL | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 UNIVERSAL TV | LAT Colombia 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 UNIVERSAL TV | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 SPACE | LAT Colombia 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 SPACE | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 STAR CHANNEL | LAT Colombia 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 STAR CHANNEL | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 TNT | LAT Colombia 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 TNT | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 CARACOL | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a011 SENAL COLOMBIA | LAT Colombia 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a011 SENAL COLOMBIA | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 TELEANTIOQUIA TA | LAT Colombia 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 TELEANTIOQUIA TA | LAT Colombia 1080ᴾ
 http://38.134.250.110:8000/play/a012/index.m3u8
 
 
@@ -7865,14 +7894,11 @@ http://38.134.250.110:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00i CANAL RCN | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00i CANAL RCN NOVELAS | LAT 1080ᴾ
-https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FMX4QCM.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00i CANAL RCN NOTICIAS | LAT 1080ᴾ
-https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01y DISCOVERY TURBO | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01y DISCOVERY TURBO | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01y/index.m3u8
+
+
+
 
 
 
@@ -7883,7 +7909,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.224. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j Discovery Kids | LAT Chile 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j Discovery Kids | LAT Chile 1080ᴾ
 http://38.224.231.176:8000/play/a01j/index.m3u8
 
 
@@ -7896,7 +7922,7 @@ http://38.224.231.176:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  45.171. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  45.171.x 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0e9 CARACOL INTERNACIONAL | LAT 480ᴾ
@@ -7914,85 +7940,84 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 BABY TV | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 BABY TV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a003/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 ZOO MOO | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 ZOO MOO | LAT 480ᴾ
 http://45.171.64.30:6060/play/a004/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 AMC SERIES | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 AMC SERIES | LAT 480ᴾ
 http://45.171.64.30:6060/play/a005/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 HGTV | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 HGTV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a006/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 DISCOVERY SCIENCE | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 DISCOVERY SCIENCE | LAT 480ᴾ
 http://45.171.64.30:6060/play/a007/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 HOLA! TV | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 HOLA! TV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a008/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 CLARO MUSICA | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 CLARO MUSICA | LAT 480ᴾ
 http://45.171.64.30:6060/play/a010/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 H TV | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 H TV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a012/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a013 GOLDEN | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a013 GOLDEN | LAT 480ᴾ
 http://45.171.64.30:6060/play/a013/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a014 TCM | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a014 TCM | LAT 480ᴾ
 http://45.171.64.30:6060/play/a014/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a021 CNN ESPANOL | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a021 CNN ESPANOL | LAT 480ᴾ
 http://45.171.64.30:6060/play/a021/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a022 BBC NEWS | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a022 BBC NEWS | LAT 480ᴾ
 http://45.171.64.30:6060/play/a022/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a023 FRANCE 24 | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a023 FRANCE 24 | LAT 480ᴾ
 http://45.171.64.30:6060/play/a023/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a024 ✝ENLACE | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a024 ✝ENLACE | LAT 480ᴾ
 http://45.171.64.30:6060/play/a024/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a025 ✝EWTN | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a025 ✝EWTN | LAT 480ᴾ
 http://45.171.64.30:6060/play/a025/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a026 HISTORY CHANNEL | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a026 HISTORY CHANNEL | LAT 1080ᴾ
 http://45.171.64.30:6060/play/a026/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a032 DISCOVERY CHANNEL | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a032 DISCOVERY CHANNEL | LAT 480ᴾ
 http://45.171.64.30:6060/play/a032/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a033 DISCOVERY ANIMAL PLANET | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a033 DISCOVERY ANIMAL PLANET | LAT 480ᴾ
 http://45.171.64.30:6060/play/a033/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a034 HISTORY CHANNEL | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a034 HISTORY CHANNEL | LAT 480ᴾ
 http://45.171.64.30:6060/play/a034/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a035 TLC | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a035 TLC | LAT 480ᴾ
 http://45.171.64.30:6060/play/a035/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a036 ESPN | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a036 ESPN | LAT 480ᴾ
 http://45.171.64.30:6060/play/a036/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a037 ESPN 2 | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a037 ESPN 2 | LAT 480ᴾ
 http://45.171.64.30:6060/play/a037/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a038 EXA TV | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a038 EXA TV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a038/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a039 CLARO CINEMA | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a039 CLARO CINEMA | LAT 480ᴾ
 http://45.171.64.30:6060/play/a039/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a040 DISCOVERY H&H | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a040 DISCOVERY H&H | LAT 480ᴾ
 http://45.171.64.30:6060/play/a040/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a041 DISCOVERY ID | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a041 DISCOVERY ID | LAT 480ᴾ
 http://45.171.64.30:6060/play/a041/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a042 ✝LVM | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a042 ✝LVM | LAT 480ᴾ
 http://45.171.64.30:6060/play/a042/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a045 CONCERT CHANNEL | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a045 CONCERT CHANNEL | LAT 480ᴾ
 http://45.171.64.30:6060/play/a045/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a046 UNIVERSAL TV | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a046 UNIVERSAL TV | LAT 480ᴾ
 http://45.171.64.30:6060/play/a046/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a048 MULTIPREMIER MP | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a048 MULTIPREMIER MP | LAT 480ᴾ
 http://45.171.64.30:6060/play/a048/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a049 CINE LATINO | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a049 CINE LATINO | LAT 480ᴾ
 http://45.171.64.30:6060/play/a049/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a051 AMC | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a051 AMC | LAT 480ᴾ
 http://45.171.64.30:6060/play/a051/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a054 CNN EN | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a054 CNN EN | LAT 480ᴾ
 http://45.171.64.30:6060/play/a054/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a060 CANAL 7 TELEVISIETE GT | LAT 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a060 CANAL 7 TELEVISIETE GT | LAT 480ᴾ
 http://45.171.64.30:6060/play/a060/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 ✝RADIO RENACER | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 ✝RADIO RENACER | LAT 1080ᴾ
 http://45.171.64.30:6060/play/a066/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  138.59. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  138.59.x 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 ✝RADIO RENACER | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 FOX SPORTS | LAT 1080ᴾ
 http://138.59.227.20:8000/play/a085/index.m3u8
 
 
@@ -8108,16 +8133,16 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY HUN | 1080ᴾ xx
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY HUN | 1080ᴾ xx
 http://88.212.7.14/live/id_hun/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Hungary) | 720ᴾ xx
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Hungary) | 720ᴾ xx
 http://88.212.7.14/live/discovery_hungary/index.m3u8
 
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY ID (Czech Republic) | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² INVESTIGATION DISCOVERY ID (Czech Republic) | 1080ᴾ
 http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Czech Republic) | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Czech Republic) | 1080ᴾ
 http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
 
 
@@ -8144,36 +8169,36 @@ https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸26 KTK TV KZ (Russia) | 576ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸26 KTK TV KZ (Russia) | 576ᴾ
 http://stream.mcquack.net/26/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸27 TV7 KZ Kazajistan (Russia) | 576ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸27 TV7 KZ Kazajistan (Russia) | 576ᴾ
 http://stream.mcquack.net/27/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸28 ASTANA TV KZ (Russia) | 576ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸28 ASTANA TV KZ (Russia) | 576ᴾ
 http://stream.mcquack.net/28/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸34 LTV 1 LATVIJAS TV (Russia) | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸34 LTV 1 LATVIJAS TV (Russia) | 1080ᴾ
 http://stream.mcquack.net/34/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸44 Hop! History of Hop! Channel | Israeli Children's | 576ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸44 Hop! History of Hop! Channel | Israeli Children's | 576ᴾ
 http://stream.mcquack.net/44/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸74 OREOL TV COMEDY (Russia) | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸74 OREOL TV COMEDY (Russia) | 1080ᴾ
 http://stream.mcquack.net/74/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸177 Discovery Channel (Russia) | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸177 Discovery Channel (Russia) | 1080ᴾ
 http://stream.mcquack.net/177/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸205 INVESTIGATION DISCOVERY (Russia) | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸205 INVESTIGATION DISCOVERY (Russia) | 1080ᴾ
 http://stream.mcquack.net/205/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸206 TRAVEL + ADVENTURE (Russia) | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸206 TRAVEL + ADVENTURE (Russia) | 1080ᴾ
 http://stream.mcquack.net/206/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸207 HCT (Russia) | 576ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸207 HCT (Russia) | 576ᴾ
 http://stream.mcquack.net/207/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸208 Russian Bestseller (Russia) | 576ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸208 Russian Bestseller (Russia) | 576ᴾ
 http://stream.mcquack.net/208/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸244 ATR TV Tartaros de Crimea (Russia) | 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸244 ATR TV Tartaros de Crimea (Russia) | 1080ᴾ
 http://stream.mcquack.net/244/index.m3u8
 
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Italy) | 720ᴾ xx
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY CHANNEL (Italy) | 720ᴾ xx
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO (Italy) | 720ᴾ xx
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸Ⓜ² DISCOVERY TURBO (Italy) | 720ᴾ xx
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZD-J2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
 
@@ -8206,33 +8231,33 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY KIDS | LAT Mexico 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY KIDS | LAT Mexico 480ᴾ
 http://38.65.175.84:8000/play/a0an/index.m3u8
 
 
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cc AZTECA UNO TV | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cc AZTECA UNO TV | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cc/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cf WB TV | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cf WB TV | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cf/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cg SPACE | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cg SPACE | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cg/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY ID | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY ID | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0ch/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ci LIFETIME | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ci LIFETIME | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0ci/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cm CLARO SPORTS | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cm CLARO SPORTS | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0co MC MULTICINEMA | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0co MC MULTICINEMA | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0co/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cp MP MULTIPREMIER | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cp MP MULTIPREMIER | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cp/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cq CINECANAL | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cq CINECANAL | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ct HBO 2 | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ct HBO 2 | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0ct/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cu HBO | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cu HBO | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cu/index.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cv HBO+ | LAT South 480ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cv HBO+ | LAT South 480ᴾ
 http://38.65.175.84:8000/play/a0cv/index.m3u8
 
 
