@@ -7508,14 +7508,13 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸5 A&E | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸6 A&E | LAT South 1080ᴾ
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸7 ABC PY | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸8 [ADULT SWIM] | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸9 EURO NEWS. | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/9.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸10 AXN | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸11 BABY TV | LAT South 540ᴾ
@@ -7536,6 +7535,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/18.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸19 DHE | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/19.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸20 DISCOVERY CHANNEL | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸21 DISCOVERY THEATER | LAT South 1080ᴾ
@@ -7556,6 +7556,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/27.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/28.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸29 FILM & ARTS | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/29.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸30 HBO 2 | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸31 HBO FAMILY | LAT South 1080ᴾ
@@ -7572,12 +7573,137 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸37 HISTORY | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸39 DISCOVERY HOME & HEALTH | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸40 H TV | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/40.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸41 DISCOVERY ID | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸42 AMC SERIES | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/42.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸43 TV N PADELTIME | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/43.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸44 A3S ANTENA 3 SERIES INT | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/44.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸45 NATIONAL GEOGRAPHIC | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/45.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸46 ✝HOPE CHANNEL | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/46.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸47 PASIONES | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/47.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸48 RCC PY RED CHAQUENA DE COMUNICACIONES | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸49 SONY CHANNEL | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸50 SPACE | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/50.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸51 STAR CHANNEL TV | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸52 STAR CHANNEL | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/52.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸53 STUDIO UNIVERSAL | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸54 TELEMUNDO INTERNACIONAL | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸55 TV | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/55.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸57 TNT NOVELAS | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/57.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸59 TV5 MONDE | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/59.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸60 TV | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/60.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸61 UNIVERSAL CINEMA | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸62 UNIVERSAL COMEDY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸63 UNIVERSAL CRIME | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸64 UNIVERSAL PREMIERE | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸65 UNIVERSAL REALITY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸66 VENUS MEDIA PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸67 TV | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸68 WB TV | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸69 TOONCAST | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸70 CARTOONITO | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/70.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸71 N PY NOTICIAS PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/71.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸72 UNICANAL PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸74 TELEFUTURO PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸75 TLN TLNOVELAS | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/75.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸76 LA RT RADIO TRANSCONTINENTAL PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/76.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸77 BAND TV BR | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸78 SBT TV BR | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/78.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸79 RECORD TV BR | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸80 TV GLOBO BR | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸82 TRECE PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸83 AMERICA TV AR | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸85 EURO NEWS | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/85.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸86 TNT SPORTS PREMIUM AR | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸88 ESPN 2 | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸89 ESPN | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸91 ESPN 4 | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸92 ESPN 5 | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸100 TASTEMADE ES | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸102 DW ES | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸104 FRANCE 24 ES | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸111 RECORD NEWS BR | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸112 JP NEWS JOVEMPAN NEWS | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸113 SNT. 9 PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸114 DISNEY JR. | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸116 ESPN PREMIUM | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸117 LA TELE PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸118 PARAGUAY TV | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸119 TV CAMARA DIPUTADOS PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸120 PARAVISION PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸121 LAS ESTRELLAS MX | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/121.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸1441 TELEFUTURO PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1441.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸1443 C9N CANAL 9 NOTICIAS PY | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960pxFOX_Sports_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸1552 FOX SPORTS | LAT South 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
