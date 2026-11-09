@@ -8173,433 +8173,199 @@ http://38.134.250.110:8000/play/a004/index.m3u8
 http://38.134.250.110:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 UNIVERSAL TV | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 SPACE | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 SPACE | LAT 720ᴾ
 http://38.134.250.110:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 STAR CHANNEL | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 TNT | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 TNT | LAT 720ᴾ
 http://38.134.250.110:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 CARACOL CO | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a011 SENAL COLOMBIA | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a011 SENAL COLOMBIA | LAT 480ᴾ
 http://38.134.250.110:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 TELEANTIOQUIA TA CO | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 TELEANTIOQUIA TA CO | LAT 480ᴾ
 http://38.134.250.110:8000/play/a012/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a013 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a013 TELECARIBE CO | LAT 480ᴾ
 http://38.134.250.110:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a014 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a014 CANAL 1 CO | LAT 480ᴾ
 http://38.134.250.110:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a015 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a015 ESPN D+ | LAT 720ᴾ
 http://38.134.250.110:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a016 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a016 CARTOON NETWORK | LAT 720ᴾ
 http://38.134.250.110:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a017 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a017 ESPN 6 D+ | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a018 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a018 ESPN 7 D+ | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a019 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a019 ENLACE | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a020 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a021 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a022 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a022 UNIVISION | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a023 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a023 SONY MOVIES | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a024 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a024 RCN INTERNACIONAL | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a025 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a025 RCN NOVELAS | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a026 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a026 A&E | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a027 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a027 AXN | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a028 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a028 SONY CHANNEL | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a029 TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a029 WB TV | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a029/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a030 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a031 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a032 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a033 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a034 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a035 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a036 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a037 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a037/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a038 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a039 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a039/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a040 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a041 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a041/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a042 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a043 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a044 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a045 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a045/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a046 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a046/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a047 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a047/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a048 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a048/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a049 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a049/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a050 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a050/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a051 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a052 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a053 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a054 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a055 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a055/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a056 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a057 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a057/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a058 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a059 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a059/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a060 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a060/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a061 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a061/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a062 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a063 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a064 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a065 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a066/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a067 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a068 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a068/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a069 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a069/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a070 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a070/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a071 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a071/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a072 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a072/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a073 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a073/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a074 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a075 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a075/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a076 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a077 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a077/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a078 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a079 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a079/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a080 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a081 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a081/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a082 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a082/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a083 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a083/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a084 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a084/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a085 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a085/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a086 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a086/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a087 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a087/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a088 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a088/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a089 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a089/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a090 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a090/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a091 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a091/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a092 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a092/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a093 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a093/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a094 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a094/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a095 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a095/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a096 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a096/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a097 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a097/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a098 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a098/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a099 TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a099/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00i CANAL RCN | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00a TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00a CINECANAL | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00b TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00c TV | LAT 1080ᴾ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00c DHE | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00d TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00d HISTORY | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00e TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00e TNT NOVELAS | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00f TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00f TNT SERIES | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00g TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00g GOLDEN | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00h TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00h DISCOVERY ID | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00i TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00i RCN | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00j TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00j DISCOVERY ANIMAL PLANET | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00k TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00k DISCOVERY CHANNEL | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00l TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00l DISCOVERY H&H | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00m TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00m NATIONAL GEOGRAPHIC | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00n TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00n TLC | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00o TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00o CNN EN ESPANOL | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00p TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00p HISTORY 2 | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00q TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00q ESPN D+ | LAT 720ᴾ
 http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00r TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00r ESPN 2 D+ | LAT 720ᴾ
 http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00s TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00s ESPN 4 D+ | LAT 720ᴾ
 http://38.134.250.110:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00t TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00t LAS ESTRELLAS | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00u TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00u TELEMUNDO INTERNACIONAL | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00v TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00v TLN TLNOVELAS | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00w TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00w H TV | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00x TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00x ENTERTAINMENT! | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00y TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00y MTV | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00z TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00z CITY TV CO | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a00z/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01y DISCOVERY TURBO | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01a TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01a ESPN 5 D+ | LAT 720ᴾ
 http://38.134.250.110:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01b TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01b DISNEY CHANNEL | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01c TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01c FX | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01d TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01d TCM | LAT 480ᴾ
 http://38.134.250.110:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01e TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01e D PELICULA | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01f TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01f CABLE NOTICIAS | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01g TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01g CINE MEXICANO | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01h TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01i TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01k TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01l TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01l OYE MUSIC | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01m TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01m TELEMETRO | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01n TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01o TV | LAT 1080ᴾ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01o RPC PA | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01p TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01p RUMBA TV | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01q TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01q TLN TELE NOSTALGIA | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01r TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01s TV | LAT 1080ᴾ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01s DISTRITO COMEDIA | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01t TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01t TOONCAST | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01u TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01u DISNEY JR. | LAT 480ᴾ
 http://38.134.250.110:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01v TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01v NICK JR. | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01w TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01w BABY TV | LAT 720ᴾ
 http://38.134.250.110:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01x TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01y TV | LAT 1080ᴾ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01y DISCOVERY TURBO | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01z TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01z [ADULT SWIM] | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a01z/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02a TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02a GOLDEN EDGE | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02b TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02c TV | LAT 1080ᴾ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02c PANICO | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02d TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02d CINE FAMILIAR | LAT 720ᴾ
 http://38.134.250.110:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02e TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02f TV | LAT 1080ᴾ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02f CINE HISPANO | LAT 720ᴾ
 http://38.134.250.110:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02g TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02g CANAL INFANTIL | LAT 720ᴾ
 http://38.134.250.110:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02h TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02h CINE PREMIUM | LAT 720ᴾ
 http://38.134.250.110:8000/play/a02h/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02i TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02i TELEVEN | LAT 480ᴾ
 http://38.134.250.110:8000/play/a02i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02j TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02j MIMUSICA REGGAETON | LAT 720ᴾ
 http://38.134.250.110:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02k TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02k MIMUSICA HITS | LAT 720ᴾ
 http://38.134.250.110:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02l TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02l MIMUSICA POPULAR | LAT 720ᴾ
 http://38.134.250.110:8000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02m TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02m MIMUSICA SALSA | LAT 720ᴾ
 http://38.134.250.110:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02n TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02n NTN 24 | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02o TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02o EWTN PE | LAT 720ᴾ
 http://38.134.250.110:8000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02p TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02p LIFETIME | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a02p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02q TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02q TELEFILMS | LAT 720ᴾ
 http://38.134.250.110:8000/play/a02q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02r TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02s TV | LAT 1080ᴾ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02s RPC PA | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02t TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02u TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02v TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02w TV | LAT 1080ᴾ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02w HISPANIA STREAM | LAT 480ᴾ
 http://38.134.250.110:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02x TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02y TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02z TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a02z/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03a TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03b TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03c TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03d TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03e TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03f TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03g TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03h TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03h/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03i TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03j TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03k TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03l TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03m TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03n TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03o TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03p TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03q TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03r TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03s TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03t TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03u TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03v TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03w TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03x TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03y TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03z TV | LAT 1080ᴾ
-http://38.134.250.110:8000/play/a03z/index.m3u8
 
 
 
@@ -8617,6 +8383,242 @@ http://38.134.250.110:8000/play/a03z/index.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.224. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j STAR CHANNEL | LAT 480ᴾ
+http://38.224.231.176:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a001 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a002 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a003 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a001 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a011 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a012 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a013 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a014 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a015 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a016 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a017 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a018 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a019 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a020 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a021 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a022 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a023 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a024 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a025 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a026 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a027 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a028 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a029 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a030 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a031 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a032 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a033 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a034 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a035 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a036 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a037 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a038 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a039 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a039/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a040 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a041 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a042 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a043 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a044 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a045 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a046 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a047 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a047/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a048 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a049 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a050 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a051 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a051/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a052 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a053 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a054 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a055 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a056 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a057 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a057/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a058 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a059 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a060 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a061 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a062 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a063 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a064 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a065 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a066/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a067 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a068 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a069 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a070 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a070/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a071 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a072 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a072/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a073 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a073/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a074 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a075 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a075/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a076 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a077 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a078 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a079 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a079/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a080 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a080/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a081 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a082 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a082/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a083 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a083/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a084 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a085 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a086 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a086/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a087 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a087/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a088 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a088/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a089 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a089/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a090 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a090/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a091 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a092 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a092/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a093 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a093/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a094 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a094/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a095 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a095/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a096 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a096/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a097 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a097/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a098 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a098/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a099 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a099/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a100 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a100/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a101 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a101/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a102 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a102/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a103 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a103/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a104 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a104/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a105 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a105/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a106 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a106/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a107 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a107/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a108 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a108/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a109 TV | LAT 480ᴾ
+http://38.224.231.176:8000/play/a109/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a01j Discovery Kids | LAT Chile 1080ᴾ
 http://38.224.231.176:8000/play/a01j/index.m3u8
