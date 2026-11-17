@@ -93,6 +93,42 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 #EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸♡ᵛᶦˣ N+ ᴜɴɪvɪsɪᴏɴ 34 ɴᴏw Los Angeles W KMEX-DT | 1080ᴾ (02)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (01)
+http://190.93.224.42/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (02)
+http://190.93.224.42/UNIVISION/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (03)
+http://190.93.224.42/UNIVISION/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² UNIVISION | LAT 720ᴾ (01)
+https://streaming.onnethn.com/UNIVISION/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² UNIVISION | LAT 720ᴾ (02)
+https://streaming.onnethn.com/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² UNIVISION | LAT 720ᴾ (03)
+https://streaming.onnethn.com/UNIVISION/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² UNIMAS | LAT 720ᴾ (01)
+https://streaming.onnethn.com/UNIMAS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² UNIMAS | LAT 720ᴾ (02)
+https://streaming.onnethn.com/UNIMAS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² UNIMAS | LAT 720ᴾ (03)
+https://streaming.onnethn.com/UNIMAS/playlist.mpd
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (01)
+http://190.93.224.42/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (02)
+http://190.93.224.42/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (03)
+http://190.93.224.42/TELEMUNDO/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (01)
+https://streaming.onnethn.com/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (02)
+https://streaming.onnethn.com/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (02)
+https://streaming.onnethn.com/TELEMUNDO/playlist.mpd
+
+
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (01)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (02)
@@ -103,25 +139,25 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PUNTO 2 PR | WKAQ-DT2 | 720ᴾ (02)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (01)
-http://190.93.224.42/TELEMUNDO/index.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL | 480ᴾ (02)
-http://190.93.224.42/TELEMUNDO/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (01)
-http://190.93.224.42/UNIVISION/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸① UNIVISION | 1080ᴾ (02)
-http://190.93.224.42/UNIVISION/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LAT 720ᴾ
-https://streaming.onnethn.com/TELEMUNDO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² UNIVISION | LAT 720ᴾ
-https://streaming.onnethn.com/UNIVISION/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² UNIMAS | LAT 720ᴾ
-https://streaming.onnethn.com/UNIMAS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² PASIONES | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² PASIONES | LAT 720ᴾ (01)
 https://streaming.onnethn.com/PASIONES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² PASIONES | LAT 720ᴾ (02)
+https://streaming.onnethn.com/PASIONES/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² PASIONES | LAT 720ᴾ (03)
+https://streaming.onnethn.com/PASIONES/playlist.mpd
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸", ##########  ♥ GROUP 01 📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸 ♥  ##########
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 🇺ᵛᶦˣᴜɴɪvɪsɪᴏɴᴺᵒᵛᵛ 🇺🇸  🌐🌎⭐ 📺ᴛvᴾᴿᴱᴹᴵᵁᴹ🇺🇸ᴱˢᴾᴬᴺᵒᴸ🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  streaming 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸Ⓜ² Pasiones | LAT 1080ᴾ
 http://15.204.246.24:8080/PasionesHD/index.m3u8
@@ -245,6 +281,12 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ CNN Original | LATAM 1080ᴾ
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ CNN en Espanol | LATAM 1080ᴾ
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸◉² CNN USA | 720ᴾ
 https://tvsen6.aynaott.com/cnn/index.m3u8
 
@@ -253,12 +295,6 @@ https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ CNN International | 1080ᴾ
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ CNN Original | LATAM 1080ᴾ
-https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ CNN en Espanol | LATAM 1080ᴾ
-https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ CNN Brasil | LAT 1080ᴾ
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
@@ -305,18 +341,18 @@ http://mains.services/live/3003556325/2772007/92500.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt3) 
 http://mains.services:2086/live/507Vej3h3S/4632273/92500.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO ARIZONA | 1080ᴾ (opt1) 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NVA INGLATERRA | 1080ᴾ (opt1) 
 http://mains.services/live/640939802963/IDC01478!/96709.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO ARIZONA | 1080ᴾ (opt2) 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NVA INGLATERRA | 1080ᴾ (opt2) 
 http://mains.services/live/3003556325/2772007/96709.ts
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO ARIZONA | 1080ᴾ (optt3) 
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NVA INGLATERRA | 1080ᴾ (optt3) 
 http://mains.services:2086/live/507Vej3h3S/4632273/96709.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt1)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO HOUSTON | 720ᴾ (opt1)
 http://mains.services/live/640939802963/IDC01478!/101211.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt2)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO HOUSTON | 720ᴾ (opt2)
 http://mains.services/live/3003556325/2772007/101211.ts
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt3)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO HOUSTON | 720ᴾ (opt3)
 http://mains.services:2086/live/507Vej3h3S/4632273/101211.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 51 (WSCV) Miami FORT LAUDERDALE FLORIDA | 720ᴾ (opt1) 
@@ -326,25 +362,25 @@ http://mains.services:2086/live/3003556325/2772007/96707.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 51 (WSCV) Miami FORT LAUDERDALE FLORIDA | 720ᴾ (opt3)  
 http://mains.services:2086/507Vej3h3S/4632273/96707
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thzyCD2/R5nlu-MTrnpb-YDK-D-S64-WF7fnkfizk29-ry-t0-Ow-Ycs7z2-Eo-A5-Xzx-AQ8-Zx-Vlmwzut-U-w512-h512-rw.webp" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (WRMD) TAMPA FLORIDA | 720ᴾ (opt1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thzyCD2/R5nlu-MTrnpb-YDK-D-S64-WF7fnkfizk29-ry-t0-Ow-Ycs7z2-Eo-A5-Xzx-AQ8-Zx-Vlmwzut-U-w512-h512-rw.webp" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 49 (WRMD) TAMPA FLORIDA | 720ᴾ (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/96708.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thzyCD2/R5nlu-MTrnpb-YDK-D-S64-WF7fnkfizk29-ry-t0-Ow-Ycs7z2-Eo-A5-Xzx-AQ8-Zx-Vlmwzut-U-w512-h512-rw.webp" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (WRMD) TAMPA FLORIDA | 720ᴾ (opt2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thzyCD2/R5nlu-MTrnpb-YDK-D-S64-WF7fnkfizk29-ry-t0-Ow-Ycs7z2-Eo-A5-Xzx-AQ8-Zx-Vlmwzut-U-w512-h512-rw.webp" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 49 (WRMD) TAMPA FLORIDA | 720ᴾ (opt2)
 http://mains.services:2086/live/3003556325/2772007/96708.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thzyCD2/R5nlu-MTrnpb-YDK-D-S64-WF7fnkfizk29-ry-t0-Ow-Ycs7z2-Eo-A5-Xzx-AQ8-Zx-Vlmwzut-U-w512-h512-rw.webp" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (WRMD) TAMPA FLORIDA | 720ᴾ (opt3)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thzyCD2/R5nlu-MTrnpb-YDK-D-S64-WF7fnkfizk29-ry-t0-Ow-Ycs7z2-Eo-A5-Xzx-AQ8-Zx-Vlmwzut-U-w512-h512-rw.webp" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 49 (WRMD) TAMPA FLORIDA | 720ᴾ (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/96708
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FyfzPZ/M6-Nf-U-eh-D-D0-HGwp-Qinma5-XNvl-L1t-Uppjfh8-Q0d-Ys9ypqp-E9cj-I6-Tk-LJEHDX9g-G-r-Qs.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (WTMO) ORLANDO FLORIDA | 720ᴾ (opt1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FyfzPZ/M6-Nf-U-eh-D-D0-HGwp-Qinma5-XNvl-L1t-Uppjfh8-Q0d-Ys9ypqp-E9cj-I6-Tk-LJEHDX9g-G-r-Qs.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 31 (WTMO) ORLANDO FLORIDA | 720ᴾ (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/96705.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FyfzPZ/M6-Nf-U-eh-D-D0-HGwp-Qinma5-XNvl-L1t-Uppjfh8-Q0d-Ys9ypqp-E9cj-I6-Tk-LJEHDX9g-G-r-Qs.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (WTMO) ORLANDO FLORIDA | 720ᴾ (opt2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FyfzPZ/M6-Nf-U-eh-D-D0-HGwp-Qinma5-XNvl-L1t-Uppjfh8-Q0d-Ys9ypqp-E9cj-I6-Tk-LJEHDX9g-G-r-Qs.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 31 (WTMO) ORLANDO FLORIDA | 720ᴾ (opt2)
 http://mains.services:2086/live/3003556325/2772007/96705.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FyfzPZ/M6-Nf-U-eh-D-D0-HGwp-Qinma5-XNvl-L1t-Uppjfh8-Q0d-Ys9ypqp-E9cj-I6-Tk-LJEHDX9g-G-r-Qs.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (WTMO) ORLANDO FLORIDA | 720ᴾ (opt3)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FyfzPZ/M6-Nf-U-eh-D-D0-HGwp-Qinma5-XNvl-L1t-Uppjfh8-Q0d-Ys9ypqp-E9cj-I6-Tk-LJEHDX9g-G-r-Qs.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 31 (WTMO) ORLANDO FLORIDA | 720ᴾ (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/96705
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (WWDT) NAPLES FLORIDA | 720ᴾ (opt1)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 51 (WWDT) NAPLES FLORIDA | 720ᴾ (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/96704.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (WWDT) NAPLES FLORIDA | 720ᴾ (opt2)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 51 (WWDT) NAPLES FLORIDA | 720ᴾ (opt2)
 http://mains.services:2086/live/3003556325/2772007/96704.ts
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (WWDT) NAPLES FLORIDA | 720ᴾ (opt3)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 51 (WWDT) NAPLES FLORIDA | 720ᴾ (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/96704
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (KASA) SANTA FE NEW MEXICO | 720ᴾ (opt1)
@@ -424,11 +460,11 @@ http://mains.services:2086/live/3003556325/2772007/96724.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (KTAZ) PHOENIX ARIZONA | 720ᴾ (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/96724
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS | 720ᴾ (opt1)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 40 (KTLM) RIO GRANDE CITY TEXAS | 720ᴾ (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/96722.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS | 720ᴾ (opt2)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 40 (KTLM) RIO GRANDE CITY TEXAS | 720ᴾ (opt2)
 http://mains.services:2086/live/3003556325/2772007/96722.ts
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS | 720ᴾ (opt3)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 40 (KTLM) RIO GRANDE CITY TEXAS | 720ᴾ (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/96722
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (KTMD) GALVESTON TEXAS | 720ᴾ (opt1) x
@@ -459,11 +495,11 @@ http://mains.services:2086/live/3003556325/2772007/96717.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (KUTU) TULSA OKLAHOMA | 720ᴾ (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/96717
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (KVDA) SAN ANTONIO TEXAS | 720ᴾ (opt1)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 60 (KVDA) SAN ANTONIO TEXAS | 720ᴾ (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/96715.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (KVDA) SAN ANTONIO TEXAS | 720ᴾ (opt2)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 60 (KVDA) SAN ANTONIO TEXAS | 720ᴾ (opt2)
 http://mains.services:2086/live/3003556325/2772007/96715.ts
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (KVDA) SAN ANTONIO TEXAS | 720ᴾ (opt3)
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 60 (KVDA) SAN ANTONIO TEXAS | 720ᴾ (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/96715
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 52 (KVEA) CORONA CALIFORNIA | 720ᴾ (opt1)
