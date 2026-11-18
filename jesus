@@ -128,6 +128,33 @@ http://190.60.46.156:8089/TELEMUNDO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉ TELEMUNDO INTERNACIONAL CENTAM | 480ᴾ (03)
 http://190.60.46.156:8089/TELEMUNDO/index.mpd
 
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ NBC 7 San Diego | Telemundo KNSD-DT | 1080ᴾ (01)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ NBC 7 San Diego | Telemundo KNSD-DT | 1080ᴾ (02)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (01)
+https://streamer1.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (02)
+https://streamer1.nexgen.bz/NBC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (03)
+https://streamer1.nexgen.bz/NBC/index.mpd
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (01)
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (02)
+https://streamer1.nexgen.bz/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (03)
+https://streamer1.nexgen.bz/TELEMUNDO/index.mpd
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO WEST | 720ᴾ (01)
+http://45.5.117.57:8900/play/a058/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO WEST | 720ᴾ (02)
+http://45.5.117.57:8900/play/a058/index.m4s
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO WEST | 720ᴾ (03)
+http://45.5.117.57:8900/play/a058/index.mpd
+
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (01)
 https://streaming.onnethn.com/TELEMUNDO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (02)
@@ -135,33 +162,9 @@ https://streaming.onnethn.com/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (03)
 https://streaming.onnethn.com/TELEMUNDO/playlist.mpd
 
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO WEST | 720ᴾ (01)
-http://45.5.117.57:8900/play/a058/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (02)
-http://45.5.117.57:8900/play/a058/index.m4s
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (03)
-http://45.5.117.57:8900/play/a058/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST | NBC 6 | 1080ᴾ (01)
-https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST | NBC 6 | 1080ᴾ (02)
-https://streamer1.nexgen.bz/TELEMUNDO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST | NBC 6 | 1080ᴾ (03)
-https://streamer1.nexgen.bz/TELEMUNDO/index.mpd
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 | 1080ᴾ (01)
-https://streamer1.nexgen.bz/NBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 | 1080ᴾ (02)
-https://streamer1.nexgen.bz/NBC/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 | 1080ᴾ (03)
-https://streamer1.nexgen.bz/NBC/index.mpd
-
-
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (01)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (02)
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (02)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PUNTO 2 PR | WKAQ-DT2 | 720ᴾ (01)
@@ -190,10 +193,27 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸Ⓜ² Pasiones | LAT 1080ᴾ
-http://15.204.246.24:8080/PasionesHD/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmérica TeVé USA | 1080ᴾ (01)
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmérica TeVé USA | 1080ᴾ (02)
+https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe 2 USA | 720ᴾ (01)
+https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe 2 USA | 720ᴾ (02)
+https://tgn2.bozztv.com/americateve/americateve1/americateve--1/index.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe 3 USA | 720ᴾ (01)
+https://tgn3.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe 3 USA | 720ᴾ (02)
+https://tgn3.bozztv.com/americateve/americateve1/americateve--1/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸Ⓜ² Univision | LAT 1080ᴾ
 http://15.204.246.24:8080/UnivisionHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸Ⓜ² Pasiones | LAT 1080ᴾ
+http://15.204.246.24:8080/PasionesHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸a022 UNIVISION | LAT 1080ᴾ
 http://38.134.250.110:8000/play/a022/index.m3u8
@@ -269,24 +289,6 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 
 
 
-
-
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmérica TeVé USA | 1080ᴾ (01)
-https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmérica TeVé USA | 1080ᴾ (02)
-https://live.gideo.video/americateve2/master.m3u8
-
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe 2 USA | 720ᴾ (01)
-https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe 2 USA | 720ᴾ (02)
-https://tgn2.bozztv.com/americateve/americateve1/americateve--1/index.m3u8
-
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe 3 USA | 720ᴾ (01)
-https://tgn3.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸAmerica TeVe 3 USA | 720ᴾ (02)
-https://tgn3.bozztv.com/americateve/americateve1/americateve--1/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ CNN EN ESPANOL (opt1) 
 http://mains.services:2086/3003556325/2772007/66553
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ CNN EN ESPANOL (opt2) 
@@ -312,6 +314,17 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PUNTO 2 PR | WKAQ-DT2 | 720ᴾ (02)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ NBC 7 San Diego | Telemundo KNSD-DT | 1080ᴾ (01)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ NBC 7 San Diego | Telemundo KNSD-DT | 1080ᴾ (02)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (01)
+https://streamer1.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (02)
+https://streamer1.nexgen.bz/NBC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (03)
+https://streamer1.nexgen.bz/NBC/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ CNN Original | LATAM 1080ᴾ
 https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
@@ -359,33 +372,27 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  mains 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO ARIZONA | 1080ᴾ (opt1)
-http://mains.services/live/640939802963/IDC01478!/360b5429-b424-4887-ab8c-03e629d55cd3.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO ARIZONA | 1080ᴾ (opt2)
-http://mains.services/live/3003556325/2772007/360b5429-b424-4887-ab8c-03e629d55cd3.ts
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO ARIZONA | 1080ᴾ (opt3)
-http://mains.services/live/507Vej3h3S/4632273/360b5429-b424-4887-ab8c-03e629d55cd3.mpd
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (01)
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (02)
+https://streamer1.nexgen.bz/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (03)
+https://streamer1.nexgen.bz/TELEMUNDO/index.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt1) 
-http://mains.services/live/640939802963/IDC01478!/92500.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt2) 
-http://mains.services/live/3003556325/2772007/92500.ts
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt3) 
-http://mains.services:2086/live/507Vej3h3S/4632273/92500.mpd
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO WEST | 720ᴾ (01)
+http://45.5.117.57:8900/play/a058/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO WEST | 720ᴾ (02)
+http://45.5.117.57:8900/play/a058/index.m4s
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO WEST | 720ᴾ (03)
+http://45.5.117.57:8900/play/a058/index.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NVA INGLATERRA | 1080ᴾ (opt1) 
-http://mains.services/live/640939802963/IDC01478!/96709.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NVA INGLATERRA | 1080ᴾ (opt2) 
-http://mains.services/live/3003556325/2772007/96709.ts
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NVA INGLATERRA | 1080ᴾ (optt3) 
-http://mains.services:2086/live/507Vej3h3S/4632273/96709.mpd
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (01)
+https://streaming.onnethn.com/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (02)
+https://streaming.onnethn.com/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (03)
+https://streaming.onnethn.com/TELEMUNDO/playlist.mpd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO HOUSTON | 720ᴾ (opt1)
-http://mains.services/live/640939802963/IDC01478!/101211.m3u8
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO HOUSTON | 720ᴾ (opt2)
-http://mains.services/live/3003556325/2772007/101211.ts
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO HOUSTON | 720ᴾ (opt3)
-http://mains.services:2086/live/507Vej3h3S/4632273/101211.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1rKH1b/Telemundo.jpg" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 51 (WSCV) Miami FORT LAUDERDALE FLORIDA | 720ᴾ (opt1) 
 http://mains.services:2086/live/640939802963/IDC01478!/96707.m3u8
@@ -414,6 +421,36 @@ http://mains.services:2086/live/640939802963/IDC01478!/96704.m3u8
 http://mains.services:2086/live/3003556325/2772007/96704.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO 51 (WWDT) NAPLES FLORIDA | 720ᴾ (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/96704
+
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO ARIZONA | 1080ᴾ (opt1)
+http://mains.services/live/640939802963/IDC01478!/360b5429-b424-4887-ab8c-03e629d55cd3.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO ARIZONA | 1080ᴾ (opt2)
+http://mains.services/live/3003556325/2772007/360b5429-b424-4887-ab8c-03e629d55cd3.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO ARIZONA | 1080ᴾ (opt3)
+http://mains.services/live/507Vej3h3S/4632273/360b5429-b424-4887-ab8c-03e629d55cd3.mpd
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt1) 
+http://mains.services/live/640939802963/IDC01478!/92500.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt2) 
+http://mains.services/live/3003556325/2772007/92500.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO | 720ᴾ (opt3) 
+http://mains.services:2086/live/507Vej3h3S/4632273/92500.mpd
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NVA INGLATERRA | 1080ᴾ (opt1) 
+http://mains.services/live/640939802963/IDC01478!/96709.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NVA INGLATERRA | 1080ᴾ (opt2) 
+http://mains.services/live/3003556325/2772007/96709.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO NVA INGLATERRA | 1080ᴾ (optt3) 
+http://mains.services:2086/live/507Vej3h3S/4632273/96709.mpd
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO HOUSTON | 720ᴾ (opt1)
+http://mains.services/live/640939802963/IDC01478!/101211.m3u8
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO HOUSTON | 720ᴾ (opt2)
+http://mains.services/live/3003556325/2772007/101211.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ ⛹️TELEMUNDO HOUSTON | 720ᴾ (opt3)
+http://mains.services:2086/live/507Vej3h3S/4632273/101211.mpd
+
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ TELEMUNDO (KASA) SANTA FE NEW MEXICO | 720ᴾ (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/96734.m3u8
@@ -671,7 +708,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (01)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (02)
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (02)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PUNTO 2 PR | WKAQ-DT2 | 720ᴾ (01)
@@ -684,6 +721,12 @@ https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ NBC 7 San Diego | Telemundo KNSD-DT | 1080ᴾ (02)
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (01)
+https://streamer1.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (02)
+https://streamer1.nexgen.bz/NBC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (03)
+https://streamer1.nexgen.bz/NBC/index.mpd
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸♡ ᶜᴬᴺᴬᴸTNT East | 720ᴾ [01]
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -3711,12 +3754,6 @@ https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ AMC CO (opt01)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.co.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ AMC CO (opt02)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.co.m3u8
-
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ AMC MX (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.mx.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ AMC MX (opt2)
@@ -3731,11 +3768,6 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/amc.eastern
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.white.es.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ AXN MOVIES ES (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.white.es.m3u8
-
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ AXN CO (opt01)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.co.m3u8
-#EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ AXN CO (opt02)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.co.m3u8
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ˢᴾᴬᴺᴵˢᴴ🇪🇸",🇪🇸⚽ AXN MX (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/axn.mx.m3u8
