@@ -128,6 +128,17 @@ http://190.60.46.156:8089/TELEMUNDO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉ TELEMUNDO INTERNACIONAL CENTAM | 480ᴾ (03)
 http://190.60.46.156:8089/TELEMUNDO/index.mpd
 
+
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (01)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (02)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PUNTO 2 PR | WKAQ-DT2 | 720ᴾ (01)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PUNTO 2 PR | WKAQ-DT2 | 720ᴾ (02)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ NBC 7 San Diego | Telemundo KNSD-DT | 1080ᴾ (01)
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ NBC 7 San Diego | Telemundo KNSD-DT | 1080ᴾ (02)
@@ -162,15 +173,6 @@ https://streaming.onnethn.com/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (03)
 https://streaming.onnethn.com/TELEMUNDO/playlist.mpd
 
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (01)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (02)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PUNTO 2 PR | WKAQ-DT2 | 720ᴾ (01)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PUNTO 2 PR | WKAQ-DT2 | 720ᴾ (02)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VGnbWjO.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² PASIONES | LAT 720ᴾ (01)
@@ -5684,10 +5686,20 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemundo.w
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ NEWS PPV USA (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8
 
-#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",☑ ᶜᴬᴺᴬᴸNBC 6 (opt1)
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (01)
 https://streamer1.nexgen.bz/NBC/index.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",☑ ᶜᴬᴺᴬᴸNBC 6 (opt2)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (02)
 https://streamer1.nexgen.bz/NBC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (03)
+https://streamer1.nexgen.bz/NBC/index.mpd
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇵🇷♡ NBC 7 San Diego | Telemundo KNSD-DT | 1080ᴾ (01)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇵🇷♡ NBC 7 San Diego | Telemundo KNSD-DT | 1080ᴾ (02)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+
+
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ⚽ᴱᴺᴳᴸᴵˢᴴ🇺🇸",🇺🇸⚽ NBC Sports Chicago Plus (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/nbc.sports.chicago.plus.us.m3u8
@@ -6378,27 +6390,54 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  streaming. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² AMC | LAT 1080ᴾ
+https://streaming.onnethn.com/AMC/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² BABY_TV | LAT 720ᴾ
+https://streaming.onnethn.com/BABY_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² CARTOONITO | LAT 720ᴾ
 https://streaming.onnethn.com/CARTOONITO/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² CINE_LATINO | LAT 720ᴾ
+https://streaming.onnethn.com/CINE_LATINO/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² CINE_MEXICANO | LAT 720ᴾ
+https://streaming.onnethn.com/CINE_MEXICANO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.comcZWoJWD.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸◉² CINEMAX | LAT 720ᴾ
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² D_PELICULA | LAT 720ᴾ
+https://streaming.onnethn.com/D_PELICULA/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² DISCOVERY_TURBO | LAT 720ᴾ
 https://streaming.onnethn.com/DISCOVERY_TURBO/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² EUROPA_europa | LAT 720ᴾ
+https://streaming.onnethn.com/EUROPA/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² ESPN_4 D+ | LAT 720ᴾ
 https://streaming.onnethn.com/ESPN_4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² HISTORY_2 | LAT 720ᴾ
-https://streaming.onnethn.com/HISTORY_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² FOX | Tigo Sports | LAT 720ᴾ
+https://streaming.onnethn.com/FOX/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² FRANCE_24 | LAT 720ᴾ
+https://streaming.onnethn.com/FRANCE_24/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² HBO | LAT 720ᴾ
 https://streaming.onnethn.com/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² HBO 2 | LAT 720ᴾ
 https://streaming.onnethn.com/HBO2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² HBO XTREME | LAT 720ᴾ
 https://streaming.onnethn.com/HBO_XTREME/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² HTV | LAT 720ᴾ
+https://streaming.onnethn.com/HTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² HGTV | LAT 720ᴾ
+https://streaming.onnethn.com/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² HISTORY_2 | LAT 720ᴾ
+https://streaming.onnethn.com/HISTORY_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² ID INVESTIGATION DISCOVERY | LAT 720ᴾ
+https://streaming.onnethn.com/ID/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² LIFETIME | LAT 720ᴾ
 https://streaming.onnethn.com/LIFETIME/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² MTV | LAT 720ᴾ
+https://streaming.onnethn.com/MTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² NICK_JR | LAT 720ᴾ
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² PASIONES | LAT 720ᴾ
 https://streaming.onnethn.com/PASIONES/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² STAR_CHANNEL | LAT 720ᴾ
+https://streaming.onnethn.com/STAR_CHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² TNT_SERIES | LAT 720ᴾ
 https://streaming.onnethn.com/TNT_SERIES/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸◉² TNT_SPORTS PREMIUM | LAT 1080ᴾ
