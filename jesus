@@ -9,6 +9,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸♡ᵛᶦˣ Canal VIX ɴᴏw vɪx-DT1 | 1080ᴾ (01)
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
 #EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸♡ᵛᶦˣ Canal VIX ɴᴏw vɪx-DT1 | 1080ᴾ (02)
@@ -12359,7 +12360,7 @@ http://190.93.224.42/AXN/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① AXN (03)
 http://190.93.224.42/AXN/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① AXN (04)
-http://190.93.224.42/AXN/mono.ts
+http://190.93.224.42/AXN/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0m8 AXN | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
@@ -12638,7 +12639,7 @@ http://190.93.224.42/COMEDY-CENTRAL/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① COMEDY-CENTRAL (03)
 http://190.93.224.42/COMEDY-CENTRAL/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① COMEDY-CENTRAL (04)
-http://190.93.224.42/COMEDY-CENTRAL/mono.ts
+http://190.93.224.42/COMEDY-CENTRAL/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0ew COMEDY CENTRAL | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0ew/index.m3u8?hls
@@ -12814,7 +12815,7 @@ http://190.93.224.42/DISNEY-JR/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISNEY-JR (03)
 http://190.93.224.42/DISNEY-JR/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISNEY-JR (04)
-http://190.93.224.42/DISNEY-JR/mono.ts
+http://190.93.224.42/DISNEY-JR/playlist.mpd
 
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISCOVERY-TURBO (01)
@@ -12824,7 +12825,7 @@ http://190.93.224.42/DISCOVERY-TURBO/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISCOVERY-TURBO (03)
 http://190.93.224.42/DISCOVERY-TURBO/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISCOVERY-TURBO (04)
-http://190.93.224.42/DISCOVERY-TURBO/mono.ts
+http://190.93.224.42/DISCOVERY-TURBO/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISCOVERY-KIDS (01)
 http://190.93.224.42/DISCOVERY-KIDS/index.m3u8
@@ -12833,7 +12834,7 @@ http://190.93.224.42/DISCOVERY-KIDS/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISCOVERY-KIDS (03)
 http://190.93.224.42/DISCOVERY-KIDS/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① DISCOVERY-KIDS (04)
-http://190.93.224.42/DISCOVERY-KIDS/mono.ts
+http://190.93.224.42/DISCOVERY-KIDS/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0m0 DISCOVERY CHANNEL | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0m0/index.m3u8?hls
@@ -13002,7 +13003,7 @@ http://190.93.224.42/ENTERTAINMENT/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① ENTERTAINMENT (03)
 http://190.93.224.42/ENTERTAINMENT/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① ENTERTAINMENT (04)
-http://190.93.224.42/ENTERTAINMENT/mono.ts
+http://190.93.224.42/ENTERTAINMENT/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0q3 E! ENTERTAINMENT | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0q3/index.m3u8?hls
@@ -13114,7 +13115,7 @@ http://190.93.224.42/FRANCE-24/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FRANCE-24 (03)
 http://190.93.224.42/FRANCE-24/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FRANCE-24 (04)
-http://190.93.224.42/FRANCE-24/mono.ts
+http://190.93.224.42/FRANCE-24/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FILM-AND-ARTS (01)
 http://190.93.224.42/FILM-AND-ARTS/index.m3u8
@@ -13123,7 +13124,7 @@ http://190.93.224.42/FILM-AND-ARTS/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FILM-AND-ARTS (03)
 http://190.93.224.42/FILM-AND-ARTS/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FILM-AND-ARTS (04)
-http://190.93.224.42/FILM-AND-ARTS/mono.ts
+http://190.93.224.42/FILM-AND-ARTS/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FX (01)
 http://190.93.224.42/FX/index.m3u8
@@ -13132,7 +13133,7 @@ http://190.93.224.42/FX/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FX (03)
 http://190.93.224.42/FX/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① FX (04)
-http://190.93.224.42/FX/mono.ts
+http://190.93.224.42/FX/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0rh FRANCE 24 | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0rh/index.m3u8?hls
@@ -13327,13 +13328,13 @@ http://181.224.255.210:8001/play/a0qv/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0qv GOLDEN | 480ᴾ (04)
 http://181.224.255.210:8001/play/a0qv/index.m4s
 
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sz Golden | 1080ᴾ (01)
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sz GLOBAL ATV PE | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0sz/index.m3u8?hls
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sz Golden | 1080ᴾ (02)
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sz GLOBAL ATV PE | 1080ᴾ (02)
 http://181.224.255.210:8001/play/a0sz/index.m3u
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sz Golden | 1080ᴾ (03)
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sz GLOBAL ATV PE | 1080ᴾ (03)
 http://181.224.255.210:8001/play/a0sz/index.mpd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sz Golden | 1080ᴾ (04)
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sz GLOBAL ATV PE | 1080ᴾ (04)
 http://181.224.255.210:8001/play/a0sz/index.m4s
 
 
@@ -13402,7 +13403,7 @@ http://190.93.224.42/HISTORY/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HISTORY (03)
 http://190.93.224.42/HISTORY/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HISTORY (04)
-http://190.93.224.42/HISTORY/mono.ts
+http://190.93.224.42/HISTORY/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HISTORY-2 (01)
 http://190.93.224.42/HISTORY-2/index.m3u8
@@ -13411,7 +13412,7 @@ http://190.93.224.42/HISTORY-2/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HISTORY-2 (03)
 http://190.93.224.42/HISTORY-2/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HISTORY-2 (04)
-http://190.93.224.42/HISTORY-2/mono.ts
+http://190.93.224.42/HISTORY-2/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-XTREME (01)
 http://190.93.224.42/HBO-XTREME/index.m3u8
@@ -13420,7 +13421,7 @@ http://190.93.224.42/HBO-XTREME/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-XTREME (03)
 http://190.93.224.42/HBO-XTREME/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-XTREME (04)
-http://190.93.224.42/HBO-XTREME/mono.ts
+http://190.93.224.42/HBO-XTREME/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-2 (01)
 http://190.93.224.42/HBO-2/index.m3u8
@@ -13429,7 +13430,7 @@ http://190.93.224.42/HBO-2/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-2 (03)
 http://190.93.224.42/HBO-2/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-2 (04)
-http://190.93.224.42/HBO-2/mono.ts
+http://190.93.224.42/HBO-2/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-PLUS+ (01)
 http://190.93.224.42/HBO-PLUS/index.m3u8
@@ -13438,7 +13439,7 @@ http://190.93.224.42/HBO-PLUS/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-PLUS+ (03)
 http://190.93.224.42/HBO-PLUS/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-PLUS+ (04)
-http://190.93.224.42/HBO-PLUS/mono.ts
+http://190.93.224.42/HBO-PLUS/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-FAMILY (01)
 http://190.93.224.42/HBO-FAMILY/index.m3u8
@@ -13447,7 +13448,7 @@ http://190.93.224.42/HBO-FAMILY/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-FAMILY (03)
 http://190.93.224.42/HBO-FAMILY/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-FAMILY (04)
-http://190.93.224.42/HBO-FAMILY/mono.ts
+http://190.93.224.42/HBO-FAMILY/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-SIGNATURE (01)
 http://190.93.224.42/HBO-SIGNATURE/index.m3u8
@@ -13456,7 +13457,7 @@ http://190.93.224.42/HBO-SIGNATURE/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-SIGNATURE (03)
 http://190.93.224.42/HBO-SIGNATURE/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① HBO-SIGNATURE (04)
-http://190.93.224.42/HBO-SIGNATURE/mono.ts
+http://190.93.224.42/HBO-SIGNATURE/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0m1 HISTORY | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0m1/index.m3u8?hls
@@ -13650,7 +13651,7 @@ http://190.93.224.42/KANAL-D-DRAMA/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① KANAL-D-DRAMA (03)
 http://190.93.224.42/KANAL-D-DRAMA/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① KANAL-D-DRAMA (04)
-http://190.93.224.42/KANAL-D-DRAMA/mono.ts
+http://190.93.224.42/KANAL-D-DRAMA/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sq KANAL D DRAMA | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0sq/index.m3u8?hls
@@ -13674,7 +13675,7 @@ http://190.93.224.42/LOVE-NATURE/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① LOVE-NATURE (03)
 http://190.93.224.42/LOVE-NATURE/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① LOVE-NATURE (04)
-http://190.93.224.42/LOVE-NATURE/mono.ts
+http://190.93.224.42/LOVE-NATURE/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0q6 LIFETIME | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0q6/index.m3u8?hls
@@ -13766,7 +13767,7 @@ http://190.93.224.42/NAT-GEO/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① NATIONAL GEOGRAPHIC (03)
 http://190.93.224.42/NAT-GEO/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① NATIONAL GEOGRAPHIC (04)
-http://190.93.224.42/NAT-GEO/mono.ts
+http://190.93.224.42/NAT-GEO/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① NICKELODEON (01)
 http://190.93.224.42/NICK/index.m3u8
@@ -13775,7 +13776,7 @@ http://190.93.224.42/NICK/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① NICKELODEON (03)
 http://190.93.224.42/NICK/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① NICKELODEON (04)
-http://190.93.224.42/NICK/mono.ts
+http://190.93.224.42/NICK/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0m2 NATIONAL GEOGRAPHIC | 480ᴾ (01)
 http://181.224.255.210:8001/play/a0m2/index.m3u8?hls
@@ -13852,7 +13853,7 @@ http://190.93.224.42/PASIONES/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① PASIONES (03)
 http://190.93.224.42/PASIONES/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① PASIONES (04)
-http://190.93.224.42/PASIONES/mono.ts
+http://190.93.224.42/PASIONES/playlist.mpd
 
 
 
@@ -13948,21 +13949,6 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",✝️BibleMoviesᵀᵛ²🇺🇸  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ Cine Sony ES | Cinema (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SONY-CHANNEL (01)
-http://190.93.224.42/SONY-CHANNEL/index.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SONY-CHANNEL (02)
-http://190.93.224.42/SONY-CHANNEL/index.mpd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SONY-CHANNEL (03)
-http://190.93.224.42/SONY-CHANNEL/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SONY-CHANNEL (04)
-http://190.93.224.42/SONY-CHANNEL/mono.ts
-
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SPACE (01)
 http://190.93.224.42/SPACE/index.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SPACE (02)
@@ -13970,7 +13956,7 @@ http://190.93.224.42/SPACE/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SPACE (03)
 http://190.93.224.42/SPACE/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SPACE (04)
-http://190.93.224.42/SPACE/mono.ts
+http://190.93.224.42/SPACE/playlist.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① STUDIO-UNIVERSAL (01)
 http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
@@ -13979,61 +13965,125 @@ http://190.93.224.42/STUDIO-UNIVERSAL/index.mpd
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① STUDIO-UNIVERSAL (03)
 http://190.93.224.42/STUDIO-UNIVERSAL/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① STUDIO-UNIVERSAL (04)
-http://190.93.224.42/STUDIO-UNIVERSAL/mono.ts
+http://190.93.224.42/STUDIO-UNIVERSAL/playlist.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SONY-CHANNEL (01)
+http://190.93.224.42/SONY-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SONY-CHANNEL (02)
+http://190.93.224.42/SONY-CHANNEL/index.mpd
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SONY-CHANNEL (03)
+http://190.93.224.42/SONY-CHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸① SONY-CHANNEL (04)
+http://190.93.224.42/SONY-CHANNEL/playlist.mpd
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ SONY CINE US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cine.sony.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ SONY CINE US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cine.sony.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SONY MOVIES | CHANNEL US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sony.movies.us.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸⚽ SONY MOVIES | CHANNEL US (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/sony.movies.us.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ STUDIO UNIVERSAL CO (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/studio.universal.co.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸⚽ STUDIO UNIVERSAL CO (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/studio.universal.co.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ SPACE BR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/space.br.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ SPACE BR (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/space.br.m3u8
+
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ SYFY | USA PT (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.pt.m3u8
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇧🇷⚽ SYFY | USA PT (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/syfy.pt.m3u8
+
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ SONY CINE ES  | 720ᴾ (01)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸☑ SONY CINE ES  | 720ᴾ (02)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸Ⓜ² Sony Channel | LAT 1080ᴾ (01)
+http://15.204.246.24:8080/SonyHD/index.m3u8
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸Ⓜ² Sony Channel | LAT 1080ᴾ (02)
+http://15.204.246.24:8080/SonyHD/playlist.m3u8
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸Ⓜ² Sony Channel | LAT 1080ᴾ (03)
+http://15.204.246.24:8080/SonyHD/playlist.mpd
+
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸Ⓜ² Sony Movies | LAT 1080ᴾ (01)
+http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸Ⓜ² Sony Movies | LAT 1080ᴾ (02)
+http://15.204.246.24:8080/SonyMoviesHD/playlist.m3u8
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸Ⓜ² Sony Movies | LAT 1080ᴾ (02)
+http://15.204.246.24:8080/SonyMoviesHD/playlist.mpd
+
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a023 SONY MOVIES | LAT 1080ᴾ (01)
+http://38.134.250.110:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a023 SONY MOVIES | LAT 1080ᴾ (02)
+http://38.134.250.110:8000/play/a023/index.mpd
+
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a028 SONY CHANNEL | LAT 1080ᴾ (01)
+http://38.134.250.110:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a028 SONY CHANNEL | LAT 1080ᴾ (02)
+http://38.134.250.110:8000/play/a028/index.mpd
+
+
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a03c SONY CHANNEL | LATAM 1080ᴾ (01)
+http://45.171.64.30:6060/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a03c SONY CHANNEL | LATAM 1080ᴾ (02)
+http://45.171.64.30:6060/play/a03c/index.mpd
+
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸49 SONY CHANNEL | LAT South 1080ᴾ (01)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸49 SONY CHANNEL | LAT South 1080ᴾ (02)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.mpd
+
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a07q SONY CHANNEL | LAT 1080ᴾ (01)
+http://181.78.197.59:8000/play/a07q/index.m3u8
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png” group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a07q SONY CHANNEL | LAT 1080ᴾ (01)
+http://181.78.197.59:8000/play/a07q/index.mpd
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0oc SONY CHANNEL | 1080ᴾ (01)
-http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
+http://181.224.255.210:8001/play/a0oc/index.m3u8
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0oc SONY CHANNEL | 1080ᴾ (02)
-http://181.224.255.210:8001/play/a0oc/index.m3u
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0oc SONY CHANNEL | 1080ᴾ (03)
 http://181.224.255.210:8001/play/a0oc/index.mpd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0oc SONY CHANNEL | 1080ᴾ (04)
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0oc SONY CHANNEL | 1080ᴾ (03)
 http://181.224.255.210:8001/play/a0oc/index.m4s
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0ma SPACE | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0ma/index.m3u8?hls
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0ma SPACE | 1080ᴾ (02)
-http://181.224.255.210:8001/play/a0ma/index.m3u
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0ma SPACE | 1080ᴾ (03)
 http://181.224.255.210:8001/play/a0ma/index.mpd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0ma SPACE | 1080ᴾ (04)
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0ma SPACE | 1080ᴾ (03)
 http://181.224.255.210:8001/play/a0ma/index.m4s
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0oh STAR CHANNEL | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0oh/index.m3u8?hls
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0oh STAR CHANNEL | 1080ᴾ (02)
-http://181.224.255.210:8001/play/a0oh/index.m3u
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0oh STAR CHANNEL | 1080ᴾ (03)
 http://181.224.255.210:8001/play/a0oh/index.mpd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0oh STAR CHANNEL | 1080ᴾ (04)
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0oh STAR CHANNEL | 1080ᴾ (03)
 http://181.224.255.210:8001/play/a0oh/index.m4s
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sc STUDIO UNIVERSAL | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0sc/index.m3u8?hls
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sc STUDIO UNIVERSAL | 1080ᴾ (02)
-http://181.224.255.210:8001/play/a0sc/index.m3u
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sc STUDIO UNIVERSAL | 1080ᴾ (03)
 http://181.224.255.210:8001/play/a0sc/index.mpd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sc STUDIO UNIVERSAL | 1080ᴾ (04)
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0sc STUDIO UNIVERSAL | 1080ᴾ (03)
 http://181.224.255.210:8001/play/a0sc/index.m4s
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0nx SUN | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0nx/index.m3u8?hls
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0nx SUN | 1080ᴾ (02)
-http://181.224.255.210:8001/play/a0nx/index.m3u
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0nx SUN | 1080ᴾ (03)
 http://181.224.255.210:8001/play/a0nx/index.mpd
-#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0nx SUN | 1080ᴾ (04)
+#EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇪🇸a0nx SUN | 1080ᴾ (03)
 http://181.224.255.210:8001/play/a0nx/index.m4s
 
 
 
-#EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt1) x
-http://41.205.93.154/SYFY/index.m3u8
-#EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt2)
-http://41.205.93.154/SYFY/mono.m3u8
-#EXTINF:-1,group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸Ⓜ² SYFY | USA (opt3)
-http://41.205.93.154/SYFY/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🇺🇸CHANNELS📺Premium🇪🇸",🇺🇸☆ SYFY
