@@ -8534,19 +8534,20 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0q2 TV | LATAM 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0q2 SPACE | LATAM 1080ᴾ
 http://181.78.79.131:8000/play/a0q2
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0q8 TV | LATAM 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0q8 TUVES CL | LATAM 720ᴾ
 http://181.78.79.131:8000/play/a0q8
 
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0q9 TNT Sports Premium Argentina HD | LATAM 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0q9 TNT Sports Premium Argentina HD | LATAM 1080ᴾ
 http://181.78.79.131:8000/play/a0q9
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021.logo.svg/960px-TTNT_Sports_2021.logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mo TNT Sports Argentina HD | LATAM 576ᴾ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021.logo.svg/960px-TTNT_Sports_2021.logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mo TNT Sports | CL LATAM 480ᴾ
 http://181.78.79.131:8000/play/a0mo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0na TNT Novelas Colombia HD | LATAM 1080ᴾ
 http://181.78.79.131:8000/play/a0na
+
 
 
 
@@ -8567,15 +8568,15 @@ http://181.78.106.127:5000/play/a002/index.m3u8
 http://181.78.106.127:5000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 HTV | LAT 480ᴾ
 http://181.78.106.127:5000/play/a004/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 TV| LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 UNIVISION | LAT 1080ᴾ
 http://181.78.106.127:5000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 LAS ESTRELLAS | LAT 1080ᴾ
 http://181.78.106.127:5000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 FOX TigoSports | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 FOX TigoSports | CENTAM 720ᴾ
 http://181.78.106.127:5000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 TV| LAT 1080ᴾ x
 http://181.78.106.127:5000/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 FOX TigoSports CR | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 FOX TigoSports  | CENTAM 1080ᴾ
 http://181.78.106.127:5000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a010 TV| LAT 1080ᴾ x
 http://181.78.106.127:5000/play/a010/index.m3u8
@@ -8612,7 +8613,7 @@ http://181.78.197.59:8000/play/a07k/index.m3u8
 http://181.78.197.59:8000/play/a07l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07m HISTORY | LAT 1080ᴾ
 http://181.78.197.59:8000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07n ESPN 4 BR | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07n ESPN 4 MX | CENTAM 1080ᴾ
 http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07p STAR CHANNEL | LAT 1080ᴾ
 http://181.78.197.59:8000/play/a07p/index.m3u8
@@ -8628,9 +8629,9 @@ http://181.78.197.59:8000/play/a07u/index.m3u8
 http://181.78.197.59:8000/play/a07v/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07w DISCOVERY H&H | LAT 1080ᴾ
 http://181.78.197.59:8000/play/a07w/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07x TV | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07x KANAL D DRAMA | LAT 1080ᴾ
 http://181.78.197.59:8000/play/a07x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07z ESPN BR | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a07z ESPN MX | LAT 1080ᴾ
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
 
@@ -8656,9 +8657,9 @@ http://181.78.197.59:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a079 GOLDEN PREMIER | LAT 1080ᴾ
 http://181.78.197.59:8000/play/a079/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a080 ESPN 2 D+ | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a080 ESPN 2 D+ | MX CENTAM 1080ᴾ
 http://181.78.197.59:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a081 ESPN 3 D+ | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a081 ESPN 3 D+ | MX CENTAM 1080ᴾ
 http://181.78.197.59:8000/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a083 NATIONAL GEOGRAPHIC | LAT 1080ᴾ
@@ -8678,6 +8679,8 @@ http://181.78.197.59:8000/play/a089/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a098 13C CL | LAT 480ᴾ
 http://181.78.197.59:8000/play/a098/index.m3u8
+
+
 
 
 
@@ -8775,19 +8778,116 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸a01b ESPN 3 BR | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸a01b CINEMAX | LAT 720ᴾ
 http://193.33.39.108:9023/play/a01b
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  108:9023 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  209.45.101 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸a03s TNT Sports Chile | LATAM 480ᴾ
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a030 CGTN ESPANOL | LATAM 480ᴾ
+http://209.45.101.130:8040/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a031 FILM & ARTS | LATAM 480ᴾ
+http://209.45.101.130:8040/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a034 HTV | LATAM 480ᴾ
+http://209.45.101.130:8040/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a039 GOLDEN EDGE | LATAM 480ᴾ
+http://209.45.101.130:8040/play/a039/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a041 A&E | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a042 COMEDY CENTRAL | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a043 GOURMET | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a044 UNIVERSAL TV | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a045 ESPN 5 | LATAM 720ᴾ
+http://209.45.101.130:8040/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a047 AMC | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a047/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a048 TNT SERIES | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a051 DHE | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a051/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a052 ESPN PREMIUM | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a052/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a053 HBO FAMILY | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a054 HBO XTREME | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a054/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a056 BETHEL TV | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a056/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a061 ESPN 4 | LATAM 720ᴾ
+http://209.45.101.130:8040/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a062 FX | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a063 STAR CHANNEL | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a063/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a080 SPACE | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a080/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a090 EWTN | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a090/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a091 LIFETIME | LATAM 480ᴾ
+http://209.45.101.130:8040/play/a091/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02w GOLDEN | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a02w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02x HISTORY 2 | LATAM 480ᴾ
+http://209.45.101.130:8040/play/a02x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a02z DAYSTAR ESPANOL| LATAM 480ᴾ
+http://209.45.101.130:8040/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03b TCM | LATAM 480ᴾ
+http://209.45.101.130:8040/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03d D PELICULA | MX LATAM 480ᴾ
+http://209.45.101.130:8040/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03e HBO+ | LATAM 480ᴾ
+http://209.45.101.130:8040/play/a03e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03h DISTRITO COMEDIA | MX LATAM 480ᴾ
+http://209.45.101.130:8040/play/a03h/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03k CANAL ONCE | MX LATAM 480ᴾ
+http://209.45.101.130:8040/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a03s TNT Sports Chile | LATAM 480ᴾ
 http://209.45.101.130:8040/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04a DISCOVERY WORLD | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04c TNT NOVELAS | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a04c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04d ESPN 3 | LATAM 720ᴾ
+http://209.45.101.130:8040/play/a04d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04e MTV | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a04e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04k DISCOVERY THEATER | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a04k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04l TVN | CL LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a04l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04m CHILE VISION | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a04m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04n PASIONES | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a04n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04p ESPN 2 | LATAM 720ᴾ
+http://209.45.101.130:8040/play/a04p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04r NICKELODEON | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a04r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04s MEGA | CL LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a04s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04x Canal 24 HORAS | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04y ESPN | LATAM 1080ᴾ
+http://209.45.101.130:8040/play/a04y/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a04z FOOD NETWORK | LATAM 480ᴾ
+http://209.45.101.130:8040/play/a04z/index.m3u8
+
+
 
 
 
