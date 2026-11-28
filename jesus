@@ -713,13 +713,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  turnerlive 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (01)
-https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (02)
-https://streamer1.nexgen.bz/TELEMUNDO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (03)
-https://streamer1.nexgen.bz/TELEMUNDO/index.mpd
-
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (01)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PR | WKAQ-DT1 | 1080ᴾ (02)
@@ -730,17 +723,39 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ TELEMUNDO PUNTO 2 PR | WKAQ-DT2 | 720ᴾ (02)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (01)
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (01)
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (02)
+https://streamer1.nexgen.bz/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST Miami | NBC 6 | 1080ᴾ (03)
+https://streamer1.nexgen.bz/TELEMUNDO/index.mpd
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (01)
 https://streamer1.nexgen.bz/NBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (02)
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (02)
 https://streamer1.nexgen.bz/NBC/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (03)
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸◉² NBC 6 Miami | Telemundo 1080ᴾ (03)
 https://streamer1.nexgen.bz/NBC/index.mpd
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸◉² ᶜᴬᴺᴬᴸNBC 6 South Florida News (04)
+https://streamer2.nexgen.bz/NBC/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸◉² ᶜᴬᴺᴬᴸNBC 6 South Florida News (05)
+https://streamer2.nexgen.bz/NBC/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ NBC 7 San Diego | Telemundo KNSD-DT | 1080ᴾ (01)
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇵🇷♡ NBC 7 San Diego | Telemundo KNSD-DT | 1080ᴾ (02)
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸCBS News 24/7 | 720ᴾ (01)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸCBS News 24/7 | 720ᴾ (02)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸♡ ᶜᴬᴺᴬᴸTNT East | 720ᴾ [01]
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -798,16 +813,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
-
-#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸCBS News 24/7 | 720ᴾ (01)
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸCBS News 24/7 | 720ᴾ (02)
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-
-#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNBC 6 South Florida News
-https://streamer1.nexgen.bz/NBC/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸNBC 6 South Florida News
-https://streamer1.nexgen.bz/NBC/index.m3u8
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸLove Nature (1080ᴾ)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
@@ -7034,213 +7039,6 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-name="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸", ##########  ♥ GROUP 01 📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ♥  ##########
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.65.x 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a093 CINEMAX | LAT South 480ᴾ x
-http://38.65.175.84:8000/play/a093/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a096 TV | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a096/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0an DISCOVERY KIDS | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0an/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0aj SONY CHANNEL | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0aj/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ak MTV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ak/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0am NICKELODEON | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0am/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0an DISCOVERY KIDS | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0an/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ao DISCOVERY ANIMAL PLANET | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ap HISTORY | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ap/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0aq TNT | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0aq/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ax CANAL 14 | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ay SCIENCE GOSSIP | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0az STVE TELEBASICA HN | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0az/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bc ARTS TV MUSIC | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bd CNN EN | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0be FORMULA TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0be/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bf MEGANOTICIAS | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bf/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bg PLURAL TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bg/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bh STUDIO UNIVERSAL | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bh/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bp CANAL 6 | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bp/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bq CANAL ONCE | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bq/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bt UNIVERSAL TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bt/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bu ANTENA 3 INT | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bu/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bv A&E | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bw DISCOVERY H&H | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bw/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bx TLC | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0bx/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0by ENTERTAINMENT! | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0by/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cc AZTECA UNO TV | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cf WB TV | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0cf/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cg SPACE | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0cg/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY ID | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0ch/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ci LIFETIME | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0ci/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cm CLARO SPORTS | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0cm/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0co MC MULTICINEMA | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0co/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cp MP MULTIPREMIER | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0cp/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cq CINECANAL | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0cq/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ct HBO 2 | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0ct/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cu HBO FAMILY | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0cu/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cv HBO+ | LAT South 480ᴾ
-http://38.65.175.84:8000/play/a0cv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0da TNT SERIES | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0da/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0db HOLA! TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0db/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dj HISTORY 2 | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0dj/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dl CNN EN ESPANOL | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0dl/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dm MILENIO TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0dm/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0em TELE RITMO | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0em/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ji HBO SIGNATURE | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ji/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0jj HBO MUNDI | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0jj/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kb BABY FIRST | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kb/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kc CARTOONITO | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kf ESPN 4 | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kf/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kj NBA TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kj/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kk NHL NETWORK | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kk/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kl TVC DEPORTES | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kl/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0km AYM SPORTS | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0km/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kr FIGHT BOX | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kr/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ks FAST & FUN BOX | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ks/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kt OUTDOOR CHANNEL | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kt/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ku PX SPORTS | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ku/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kv GAME TOON | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kw TyC SPORTS | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kw/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kx GINX TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kx/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ky TRACE SPORTS & STARS | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ky/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kz GOLF CHHANNEL | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0kz/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0la AZTECA 7 | LAT Mexico 1080ᴾ
-http://38.65.175.84:8000/play/a0la/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0le LAS ESTRELLAS | LAT Mexico 1080ᴾ
-http://38.65.175.84:8000/play/a0le/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lo MC MULTICINEMA | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0lo/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lp MP MULTIPREMIER | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0lp/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lq CINE LATINO | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0lq/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lr EXA TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0lr/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ls LO MEJOR TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ls/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mf AZTECA INTERNACIONAL | LAT Mexico 1080ᴾ
-http://38.65.175.84:8000/play/a0mf/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mg TELEMUNDO INTERNACIONAL | LAT Mexico 1080ᴾ
-http://38.65.175.84:8000/play/a0mg/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mh AZTECA CLIC | LAT Mexico 1080ᴾ
-http://38.65.175.84:8000/play/a0mh/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mi FAST & FUN BOX | LAT Mexico 1080ᴾ
-http://38.65.175.84:8000/play/a0mi/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mj TVC DEPORTES | LAT Mexico 1080ᴾ
-http://38.65.175.84:8000/play/a0mj/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mk AYM SPORTS | LAT Mexico 720ᴾ
-http://38.65.175.84:8000/play/a0mk/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ny N+ FORO | LAT Mexico 1080ᴾ
-http://38.65.175.84:8000/play/a0ny/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0nz TV? | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0nz/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oa CINECANAL | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0oa/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oi CLARO CINEMA | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0oi/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oj EXA TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0oj/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ok LO MEJOR TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ok/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0om SONY MOVIES | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0om/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oq ROMANCE | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0oq/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0or CINE LATINO | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0or/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ox ON ONCE NINAS Y NINOS | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0ox/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oy MX NUESTRO CINE | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0oy/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oz APRENDE+ TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0oz/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pa TV | LAT Mexico 480ᴾ
-http://38.65.175.84:8000/play/a0pa/index.m3u8
-
-
-
 
 
 
@@ -7848,11 +7646,11 @@ http://45.5.117.57:8900/play/a0e9/index.m4s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0e9 CARACOL INTERNACIONAL | LAT 480ᴾ (03)
 http://45.5.117.57:8900/play/a0e9/index.mpd
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a058 TELEMUNDO WEST | 720ᴾ (01)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a058 TELEMUNDO WEST | 1080ᴾ (01)
 http://45.5.117.57:8900/play/a058/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a058 TELEMUNDO WEST | 720ᴾ (02)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a058 TELEMUNDO WEST | 1080ᴾ (02)
 http://45.5.117.57:8900/play/a058/index.m4s
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a058 TELEMUNDO WEST | 720ᴾ (03)
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a058 TELEMUNDO WEST | 1080ᴾ (03)
 http://45.5.117.57:8900/play/a058/index.mpd
 
 
@@ -8065,17 +7863,17 @@ http://45.171.64.30:6060/play/a05f/index.m3u8
 http://45.171.64.30:6060/play/a05i/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05j PIT | LATAM 480ᴾ
 http://45.171.64.30:6060/play/a05j/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05k ESPN | MX LATAM 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05k ESPN | MX CENTAM 1080ᴾ
 http://45.171.64.30:6060/play/a05k/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05l ESPN 2 | MX LATAM 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05l ESPN 2 | MX CENTAM 1080ᴾ
 http://45.171.64.30:6060/play/a05l/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05m ESPN 3 | MX LATAM 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05m ESPN 3 | MX CENTAM 1080ᴾ
 http://45.171.64.30:6060/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05n ESPN 6 | LATAM 1080ᴾ
 http://45.171.64.30:6060/play/a05n/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05o ESPN 6 | LATAM 480ᴾ
 http://45.171.64.30:6060/play/a05o/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05p ESPN 4 | MX LATAM 1080ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05p ESPN 4 | MX CENTAM 1080ᴾ
 http://45.171.64.30:6060/play/a05p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a05q MC | LATAM 1080ᴾ
 http://45.171.64.30:6060/play/a05q/index.m3u8
@@ -8132,41 +7930,41 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0da Radio FORMULA  |  LAT 1080ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0da Radio FORMULA | LAT 1080ᴾ
 http://45.226.205.96:48000/play/a0da/index.m3u8
-#EXTINF:-1 tvg-logo=“https://i.imgur.com/QX5DVUB.png” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dc TVes  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“https://i.imgur.com/QX5DVUB.png” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dc VTV Venezolana de Television | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dc/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0de GLOBOVISION  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0de GLOBOVISION | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0de/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0df VTV Venezolana de Television  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0df VTV Venezolana de Television | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0df/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dg ANTV VENEZUELA  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dg ANTV VENEZUELA | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dg/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dh VTV Venezolana de Television  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dh VTV Venezolana de Television | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dh/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0di Canal i  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0di Canal i | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0di/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dj TV  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dj VENEVISION | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dj/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dk MERIDIANO TELEVISION Canal Deportivo  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dk MERIDIANO TELEVISION Canal Deportivo | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dk/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dl TELEVEN  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dl TELEVEN | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dl/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dm TV  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dm TLT TELETUYA | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dm/index.m3u8
-#EXTINF:-1 tvg-logo=“https://i.imgur.com/QX5DVUB.png” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dn TVes  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“https://i.imgur.com/QX5DVUB.png” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dn TVes | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dn/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0do VIVE VISION VENEZUELA  |  VE LAT 1080ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0do VIVE VISION VENEZUELA | VE LAT 1080ᴾ
 http://45.226.205.96:48000/play/a0do/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dp TELESUR  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dp TELESUR | VE LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dp/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ds TV  |  VE LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ds SENAL COLOMBIA | CO LAT 480ᴾ
 http://45.226.205.96:48000/play/a0ds/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dw ECOTEL TV  Loja |  EC LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dw ECOTEL TV  Loja | EC LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dw/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dx TELEMAX Sonora  |  MX LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dx TELEMAX Sonora | MX LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dx/index.m3u8
-#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dz RADIO AMERICA TV  |  EC LAT 480ᴾ
+#EXTINF:-1 tvg-logo=“” group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dz AMERICA RADIO & TV | EC LAT 480ᴾ
 http://45.226.205.96:48000/play/a0dz/index.m3u8
 
 
@@ -8182,7 +7980,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  92.114. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DaAyLE7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 AXN WHITE | Poland 576ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DaAyLE7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a004 AXN WHITE | Poland 576ᴾ 
 http://92.114.85.87:8014/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nqvx6nz.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a00h AXN BLACK | Poland 576ᴾ
@@ -8192,110 +7990,6 @@ http://92.114.85.87:8014/play/a00h/index.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  138.59.x 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a061 EQUIPO DESAFIO TV | LAT 480ᴾ x
-http://138.59.227.20:8000/play/a061/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a062 DISCOVERY TURBO | LAT 480ᴾ
-http://138.59.227.20:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a064 AMC | LAT 480ᴾ
-http://138.59.227.20:8000/play/a064/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a065 TCM | LAT 480ᴾ
-http://138.59.227.20:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 VOLVER AR | LAT 480ᴾ
-http://138.59.227.20:8000/play/a066/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a067 STUDIO UNIVERSAL | LAT 480ᴾ
-http://138.59.227.20:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a068 USA NETWORK | LAT 480ᴾ
-http://138.59.227.20:8000/play/a068/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a069 CINE AR | LAT 480ᴾ
-http://138.59.227.20:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a070 FX | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a070/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a071 SPACE | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a071/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a072 COMEDY CENTRAL | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a072/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a073 AMC SERIES | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a073/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a074 DISCOVERY THEATER | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a075 FILM & ARTS | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a075/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a076 DISCOVERY WORLD | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a076/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a080 TVE ES | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a083 CARTOON NETWORK | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a083/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a084 ESPN 4 | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a084/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a085/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a086 ESPN PREMIUM | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a086/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a087 STAR CHANNEL | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a087/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a088 TV | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a088/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a089 CINECANAL | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a089/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a090 HISTORY | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a090/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a093 CNN EN ESPANOL | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a093/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a094 TV | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a094/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a097 TN AR | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a097/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a098 ESPN 2 | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a098/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a099 ESPN | LAT 1080ᴾ
-http://138.59.227.20:8000/play/a099/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  158.172. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 FX | LAT 1080ᴾ x
-http://158.172.155.130:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 AMC SERIES | LAT 1080ᴾ
-http://158.172.155.130:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 HBO POP | LAT 480ᴾ
-http://158.172.155.130:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 HISTORY 2 | LAT 480ᴾ
-http://158.172.155.130:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 MTV | LAT 480ᴾ
-http://158.172.155.130:8000/play/a009/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ao ESPN PREMIUM | LATAM 1080ᴾ x
-http://158.172.155.130:8000/play/a0ao/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0at TNT Novelas | LATAM 1080ᴾ
-http://158.172.155.130:8000/play/a0at/index.m3u8
 
 
 
@@ -8960,7 +8654,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  181.78.211. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a09g TNT COL | LATAM 1080ᴾ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a09g TNT COL | LATAM 480ᴾ
 http://181.78.211.244:8005/play/a09g/index.m3u8
 
 
@@ -9060,7 +8754,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a024 CINEMAX 2 Central Europe | 1080p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a024 CINEMAX 2 Central Europe | 576ᴾ
 http://193.33.39.108:9009/play/a024
 
 
@@ -9075,7 +8769,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸a01b CINEMAX | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇺🇸a01b CINEMAX | LAT 576ᴾ
 http://193.33.39.108:9023/play/a01b
 
 
@@ -9769,6 +9463,315 @@ https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸", ##########  ♥ GROUP 01 📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ♥  ##########
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  38.65.x 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a093 CINEMAX | LAT South 480ᴾ x
+http://38.65.175.84:8000/play/a093/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a096 TV | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a096/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0an DISCOVERY KIDS | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0an/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0aj SONY CHANNEL | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ak MTV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0am NICKELODEON | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0am/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0an DISCOVERY KIDS | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0an/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ao DISCOVERY ANIMAL PLANET | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ap HISTORY | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ap/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0aq TNT | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ax CANAL 14 | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ay SCIENCE GOSSIP | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ay/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0az STVE TELEBASICA HN | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0az/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bc ARTS TV MUSIC | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bd CNN EN | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0be FORMULA TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0be/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bf MEGANOTICIAS | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bf/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bg PLURAL TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bh STUDIO UNIVERSAL | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bp CANAL 6 | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bq CANAL ONCE | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bt UNIVERSAL TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bu ANTENA 3 INT | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bu/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bv A&E | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bw DISCOVERY H&H | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0bx TLC | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0bx/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0by ENTERTAINMENT! | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0by/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cc AZTECA UNO TV | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cf WB TV | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0cf/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cg SPACE | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0cg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ch DISCOVERY ID | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ci LIFETIME | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0ci/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cm CLARO SPORTS | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0co MC MULTICINEMA | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0co/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cp MP MULTIPREMIER | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0cp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cq CINECANAL | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0cq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ct HBO 2 | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cu HBO FAMILY | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0cv HBO+ | LAT South 480ᴾ
+http://38.65.175.84:8000/play/a0cv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0da TNT SERIES | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0da/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0db HOLA! TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0db/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dj HISTORY 2 | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dl CNN EN ESPANOL | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0dm MILENIO TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0dm/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0em TELE RITMO | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0em/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ji HBO SIGNATURE | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ji/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0jj HBO MUNDI | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0jj/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kb BABY FIRST | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kc CARTOONITO | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kf ESPN 4 | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kf/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kj NBA TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kj/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kk NHL NETWORK | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kk/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kl TVC DEPORTES | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0km AYM SPORTS | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0km/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kr FIGHT BOX | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ks FAST & FUN BOX | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ks/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kt OUTDOOR CHANNEL | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kt/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ku PX SPORTS | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ku/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kv GAME TOON | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kw TyC SPORTS | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kw/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kx GINX TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kx/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ky TRACE SPORTS & STARS | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ky/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0kz GOLF CHHANNEL | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0kz/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0la AZTECA 7 | LAT Mexico 1080ᴾ
+http://38.65.175.84:8000/play/a0la/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0le LAS ESTRELLAS | LAT Mexico 1080ᴾ
+http://38.65.175.84:8000/play/a0le/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lo MC MULTICINEMA | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0lo/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lp MP MULTIPREMIER | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0lp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lq CINE LATINO | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0lq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0lr EXA TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0lr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ls LO MEJOR TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ls/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mf AZTECA INTERNACIONAL | LAT Mexico 1080ᴾ
+http://38.65.175.84:8000/play/a0mf/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mg TELEMUNDO INTERNACIONAL | LAT Mexico 1080ᴾ
+http://38.65.175.84:8000/play/a0mg/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mh AZTECA CLIC | LAT Mexico 1080ᴾ
+http://38.65.175.84:8000/play/a0mh/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mi FAST & FUN BOX | LAT Mexico 1080ᴾ
+http://38.65.175.84:8000/play/a0mi/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mj TVC DEPORTES | LAT Mexico 1080ᴾ
+http://38.65.175.84:8000/play/a0mj/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0mk AYM SPORTS | LAT Mexico 720ᴾ
+http://38.65.175.84:8000/play/a0mk/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ny N+ FORO | LAT Mexico 1080ᴾ
+http://38.65.175.84:8000/play/a0ny/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0nz TV? | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0nz/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oa CINECANAL | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0oa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oi CLARO CINEMA | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0oi/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oj EXA TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0oj/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ok LO MEJOR TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ok/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0om SONY MOVIES | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0om/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oq ROMANCE | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0oq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0or CINE LATINO | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0or/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ox ON ONCE NINAS Y NINOS | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0ox/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oy MX NUESTRO CINE | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0oy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0oz APRENDE+ TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0oz/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0pa TV | LAT Mexico 480ᴾ
+http://38.65.175.84:8000/play/a0pa/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  138.59.x 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a061 EQUIPO DESAFIO TV | LAT 480ᴾ x
+http://138.59.227.20:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a062 DISCOVERY TURBO | LAT 480ᴾ
+http://138.59.227.20:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a064 AMC | LAT 480ᴾ
+http://138.59.227.20:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a065 TCM | LAT 480ᴾ
+http://138.59.227.20:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a066 VOLVER AR | LAT 480ᴾ
+http://138.59.227.20:8000/play/a066/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a067 STUDIO UNIVERSAL | LAT 480ᴾ
+http://138.59.227.20:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a068 USA NETWORK | LAT 480ᴾ
+http://138.59.227.20:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a069 CINE AR | LAT 480ᴾ
+http://138.59.227.20:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a070 FX | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a070/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a071 SPACE | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a072 COMEDY CENTRAL | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a072/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a073 AMC SERIES | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a073/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a074 DISCOVERY THEATER | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a075 FILM & ARTS | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a075/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a076 DISCOVERY WORLD | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a080 TVE ES | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a080/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a083 CARTOON NETWORK | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a083/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a084 ESPN 4 | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a086 ESPN PREMIUM | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a086/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a087 STAR CHANNEL | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a087/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a088 TV | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a088/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a089 CINECANAL | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a089/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a090 HISTORY | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a090/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a093 CNN EN ESPANOL | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a093/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a094 TV | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a094/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a097 TN AR | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a097/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a098 ESPN 2 | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a098/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a099 ESPN | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a099/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv🇪🇸 ᴛvᴾᴸᵁˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv🇪🇸  158.172. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a005 FX | LAT 1080ᴾ x
+http://158.172.155.130:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a006 AMC SERIES | LAT 1080ᴾ
+http://158.172.155.130:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a007 HBO POP | LAT 480ᴾ
+http://158.172.155.130:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a008 HISTORY 2 | LAT 480ᴾ
+http://158.172.155.130:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a009 MTV | LAT 480ᴾ
+http://158.172.155.130:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0ao ESPN PREMIUM | LATAM 1080ᴾ x
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="📺ᴛvᴾᴸᵁˢ🇺🇸wᴏʀʟd🇪🇸",🇪🇸a0at TNT Novelas | LATAM 1080ᴾ
+http://158.172.155.130:8000/play/a0at/index.m3u8
 
 
 
